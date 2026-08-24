@@ -143,12 +143,13 @@ def main() -> None:
         )
     nostr_books = json.dumps(nostr_reading_list(edition), ensure_ascii=False).replace("</", "<\\/")
     nostr_script = """  <script>
-    const readingList=__NOSTR_BOOKS__,nostrAction=document.querySelector('#nostr-action'),nostrSave=document.querySelector('#nostr-save'),nostrStatus=document.querySelector('#nostr-status'),relay='wss://relay.nomadwiki.org';
+    const readingList=__NOSTR_BOOKS__,nostrAction=document.querySelector('#nostr-action'),nostrSave=document.querySelector('#nostr-save'),nostrStatus=document.querySelector('#nostr-status'),nostrVisibility=document.querySelector('#nostr-visibility'),nostrCopy=document.querySelector('#nostr-copy'),relay='wss://relay.nomadwiki.org';
     function publish(event){return new Promise((resolve,reject)=>{let socket,done=false;const finish=error=>{if(done)return;done=true;clearTimeout(timer);try{socket?.close()}catch{}error?reject(error):resolve()};const timer=setTimeout(()=>finish(new Error('Relay timed out.')),8000);try{socket=new WebSocket(relay);socket.addEventListener('open',()=>socket.send(JSON.stringify(['EVENT',event])));socket.addEventListener('message',message=>{try{const packet=JSON.parse(message.data);if(packet[0]==='OK'&&packet[1]===event.id)packet[2]?finish():finish(new Error(packet[3]||'Relay rejected the list.'))}catch{}});socket.addEventListener('error',()=>finish(new Error('Could not connect to the Nostr relay.')))}catch(error){finish(error)}})}
-    async function saveToNostr(){if(!window.nostr?.getPublicKey||!window.nostr?.signEvent)throw new Error('No NIP-07 signer found.');await window.nostr.getPublicKey();const now=Math.floor(Date.now()/1000),tags=[['d','hitchwiki-books'],['title','Hitchwiki Books'],['description','All EPUB editions from books.hitchwiki.org.'],['r','https://books.hitchwiki.org/'],...readingList.flatMap(book=>[['r',book.url],['book','bookstr',book.id,String(now),book.url],['bookstr-book',book.id,book.title,book.author,'epub','0','',book.url,book.language,'books.hitchwiki.org']])];const event=await window.nostr.signEvent({kind:30003,created_at:now,tags,content:''});await publish(event)}
-    async function handleSave(){nostrSave.disabled=true;nostrStatus.textContent='Waiting for your signer…';try{await saveToNostr();nostrStatus.textContent=`Saved ${readingList.length} EPUBs to Nostr.`}catch(error){nostrStatus.textContent=error?.message||String(error)}finally{nostrSave.disabled=false}}
+    async function saveToNostr(){if(!window.nostr?.getPublicKey||!window.nostr?.signEvent)throw new Error('No NIP-07 signer found.');const pubkey=await window.nostr.getPublicKey(),now=Math.floor(Date.now()/1000),privateList=nostrVisibility.value==='private',listTags=[['title','Hitchwiki Books'],['description','All EPUB editions from books.hitchwiki.org.'],['r','https://books.hitchwiki.org/'],...readingList.flatMap(book=>[['r',book.url],['book','bookstr',book.id,String(now),book.url],['bookstr-book',book.id,book.title,book.author,'epub','0','',book.url,book.language,'books.hitchwiki.org']])];let tags=[['d','hitchwiki-books']],content='';if(privateList){if(typeof window.nostr?.nip44?.encrypt!=='function')throw new Error('Private lists require NIP-44 support from your signer.');content=await window.nostr.nip44.encrypt(pubkey,JSON.stringify(listTags))}else{tags.push(...listTags)}const event=await window.nostr.signEvent({kind:30003,created_at:now,tags,content});await publish(event);return privateList}
+    async function handleSave(){nostrSave.disabled=true;nostrStatus.textContent='Waiting for your signer…';try{const privateList=await saveToNostr();nostrStatus.textContent=`Saved ${readingList.length} EPUBs as a ${privateList?'private':'public'} Nostr list.`}catch(error){nostrStatus.textContent=error?.message||String(error)}finally{nostrSave.disabled=false}}
+    function updateVisibilityCopy(){nostrCopy.textContent=nostrVisibility.value==='private'?'Save the EPUB entries encrypted for your own Nostr key. The list identifier remains visible on relays.':"Publish all Hitchwiki Books EPUBs as a public NIP-51 list using your browser's NIP-07 signer."}
     function revealNostr(){if(window.nostr?.getPublicKey&&window.nostr?.signEvent)nostrAction.hidden=false}
-    nostrSave.addEventListener('click',handleSave);revealNostr();setTimeout(revealNostr,500);setTimeout(revealNostr,1500);
+    nostrSave.addEventListener('click',handleSave);nostrVisibility.addEventListener('change',updateVisibilityCopy);updateVisibilityCopy();revealNostr();setTimeout(revealNostr,500);setTimeout(revealNostr,1500);
   </script>""".replace("__NOSTR_BOOKS__", nostr_books)
     html = f"""<!DOCTYPE html>
 <html lang="en">
@@ -166,8 +167,13 @@ def main() -> None:
 {chr(10).join(sections)}
   <section id="nostr-action" class="nostr-action" hidden>
     <h2>Keep this EPUB collection</h2>
-    <p>Publish all Hitchwiki Books EPUBs as a public NIP-51 list using your browser's NIP-07 signer.</p>
-    <button id="nostr-save" type="button">Save “Hitchwiki Books” to Nostr</button>
+    <p id="nostr-copy">Publish all Hitchwiki Books EPUBs as a public NIP-51 list using your browser's NIP-07 signer.</p>
+    <div class="nostr-controls">
+      <label for="nostr-visibility">Visibility
+        <select id="nostr-visibility"><option value="public">Public</option><option value="private">Private</option></select>
+      </label>
+      <button id="nostr-save" type="button">Save “Hitchwiki Books” to Nostr</button>
+    </div>
     <p id="nostr-status" class="nostr-status" aria-live="polite"></p>
     <p class="nostr-reader">Suggested reader: <a href="https://books.guaka.org/">Bookstr at books.guaka.org</a>.</p>
   </section>

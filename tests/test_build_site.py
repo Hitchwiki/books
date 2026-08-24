@@ -18,6 +18,15 @@ class NostrReadingListTests(unittest.TestCase):
         self.assertTrue(all(entry["url"].endswith("-0.1.epub") for entry in entries))
         self.assertFalse(any(".pdf" in entry["url"].lower() for entry in entries))
 
+    def test_catalog_offers_public_and_nip44_private_lists(self):
+        source = (Path(__file__).resolve().parents[1] / "scripts" / "build_site.py").read_text()
+
+        self.assertIn('<select id="nostr-visibility">', source)
+        self.assertIn('<option value="public">Public</option>', source)
+        self.assertIn('<option value="private">Private</option>', source)
+        self.assertIn("window.nostr.nip44.encrypt(pubkey,JSON.stringify(listTags))", source)
+        self.assertIn("let tags=[['d','hitchwiki-books']],content=''", source)
+
 
 if __name__ == "__main__":
     unittest.main()
