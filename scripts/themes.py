@@ -1120,19 +1120,44 @@ body.catalog {{
 body.catalog * {{ box-sizing: border-box; }}
 body.catalog h1 {{
   display: flex;
-  align-items: center;
-  gap: 0.4rem;
+  align-items: flex-start;
+  gap: 0.25rem;
   font-family: "Oswald", Impact, "Arial Narrow", sans-serif;
   font-size: clamp(1.6rem, 3vw, 2.2rem);
   font-weight: 700;
   letter-spacing: 0.025em;
   margin: 0 0 1.5rem;
   color: #6e3100;
+  position: relative;
+  height: 6.5rem;
+  z-index: 0;
 }}
-body.catalog h1 img {{
-  width: auto;
-  height: 2.5rem;
+body.catalog .masthead-logo {{
+  display: block;
   flex: none;
+  height: 6.5rem;
+  position: relative;
+  width: 13.25rem;
+}}
+body.catalog .masthead-logo img {{
+  display: block;
+  height: 14rem;
+  max-width: none;
+  position: absolute;
+  inset: 0 auto auto 0;
+  width: auto;
+  -webkit-mask-image: linear-gradient(to bottom, #000 0%, #000 30%, transparent 88%);
+  mask-image: linear-gradient(to bottom, #000 0%, #000 30%, transparent 88%);
+}}
+body.catalog .masthead-title {{
+  line-height: 1;
+  margin-top: 0.85rem;
+  position: relative;
+  z-index: 1;
+}}
+body.catalog .lang {{
+  position: relative;
+  z-index: 1;
 }}
 .nostr-action {{
   max-width: 46rem;
@@ -1164,6 +1189,10 @@ body.catalog .lede {{
   white-space: nowrap;
 }}
 @media (max-width: 40rem) {{
+  body.catalog h1 {{ height: 5.25rem; }}
+  body.catalog .masthead-logo {{ height: 5.25rem; width: 10.25rem; }}
+  body.catalog .masthead-logo img {{ height: 10.85rem; }}
+  body.catalog .masthead-title {{ margin-top: 0.55rem; }}
   body.catalog .lede {{ white-space: normal; }}
 }}
 body.catalog .lang + .lang {{

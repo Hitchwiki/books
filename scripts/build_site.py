@@ -155,13 +155,13 @@ def main() -> None:
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>books.hitchwiki.org</title>
+  <title>Hitchwiki Books</title>
   <link rel="icon" href="./favicon.ico?v={version}" sizes="any">
   <link rel="stylesheet" href="./assets/catalog.css?v={version}">
 </head>
 <body class="catalog">
   <header>
-    <h1><img src="./assets/logos/hitchhikers-guide.png?v={version}" alt="Hitchwiki" width="38" height="40"> BOOKS</h1>
+    <h1><span class="masthead-logo"><img src="./assets/logos/hitchhikers-guide.png?v={version}" alt="Hitchwiki" width="144" height="152"></span><span class="masthead-title">BOOKS</span></h1>
   </header>
 {chr(10).join(sections)}
   <section id="nostr-action" class="nostr-action" hidden>
