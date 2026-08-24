@@ -203,6 +203,7 @@ def cover_html(slug: str, meta: dict) -> str:
   <div class="cover-main">
     <h1 class="cover-title">{title}</h1>
     <p class="cover-sub">{sub}</p>
+    <p class="cover-read"><a href="#TOC">Read the book</a></p>
   </div>
   <p class="cover-foot">books.hitchwiki.org · {license_id}</p>
 </section>
@@ -370,6 +371,7 @@ body.book-{slug} {{
   --cover-bg: {t["cover_bg"]};
   --cover-fg: {t["cover_fg"]};
   --measure: {t["measure"]};
+  --toc: 22rem;
   background: var(--bg);
   color: var(--fg);
   font-family: "{t["body"]}", {t["fallback"]};
@@ -396,10 +398,128 @@ body.book-{slug} a {{ color: var(--accent); }}
 body.book-{slug} hr {{ border: 0; border-top: 1px solid var(--rule); }}
 body.book-{slug} img {{ max-width: 100%; height: auto; }}
 body.book-{slug} #title-block-header {{ display: none; }}
+body.book-{slug} .visually-hidden {{
+  position: absolute;
+  width: 1px; height: 1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+}}
 body.book-{slug} nav#TOC {{
   border: 1px solid var(--rule);
-  padding: 1rem 1.2rem;
-  margin: 2rem 0 3rem;
+  padding: 0.85rem 1rem 1.1rem;
+  margin: 1.5rem 0 2.5rem;
+  max-height: min(38rem, 78vh);
+  overflow: auto;
+  font-size: 0.92rem;
+  line-height: 1.35;
+  font-style: normal;
+}}
+body.book-{slug} nav#TOC .toc-title {{
+  font-size: 1.15rem;
+  margin: 0 0 0.4rem;
+  font-style: normal;
+}}
+body.book-{slug} nav#TOC .toc-filter {{
+  width: 100%;
+  box-sizing: border-box;
+  margin: 0.35rem 0 0.7rem;
+  padding: 0.4rem 0.55rem;
+  border: 1px solid var(--rule);
+  background: var(--bg);
+  color: var(--fg);
+  font: inherit;
+}}
+body.book-{slug} nav#TOC .toc-empty {{
+  color: var(--muted);
+  margin: 0 0 0.6rem;
+}}
+body.book-{slug} nav#TOC ul {{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}}
+body.book-{slug} nav#TOC li {{ margin: 0.12rem 0; }}
+body.book-{slug} nav#TOC li.toc-letter {{ margin-top: 0.7rem; }}
+body.book-{slug} nav#TOC a {{
+  color: inherit;
+  text-decoration: none;
+}}
+body.book-{slug} nav#TOC a:hover {{ color: var(--accent); }}
+body.book-{slug} nav#TOC a.is-current {{
+  color: var(--accent);
+  font-weight: 700;
+}}
+body.book-{slug} nav#TOC details.toc-part {{ margin: 0.35rem 0 0.55rem; }}
+body.book-{slug} nav#TOC summary {{
+  cursor: pointer;
+  font-weight: 600;
+  color: var(--accent2);
+  font-style: normal;
+}}
+body.book-{slug} nav#TOC summary a {{
+  color: inherit;
+  text-decoration: none;
+}}
+body.book-{slug} nav#TOC .toc-solo {{
+  margin: 0.45rem 0;
+  font-weight: 600;
+}}
+body.book-{slug} .book-body h1[id] {{ scroll-margin-top: 0.8rem; }}
+body.book-{slug} nav#TOC .toc-count {{
+  color: var(--muted);
+  font-weight: 400;
+  font-size: 0.82em;
+}}
+body.book-{slug} nav#TOC .toc-az {{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.15rem 0.45rem;
+  margin: 0.45rem 0 0.55rem;
+  font-size: 0.82rem;
+  letter-spacing: 0.04em;
+}}
+body.book-{slug} nav#TOC .toc-az a {{ color: var(--accent); }}
+body.book-{slug} .toc-jump {{
+  position: fixed;
+  right: 1rem;
+  bottom: 1rem;
+  z-index: 6;
+  background: var(--cover-bg);
+  color: var(--cover-fg);
+  border: 1px solid currentColor;
+  padding: 0.35rem 0.7rem;
+  text-decoration: none;
+  font-size: 0.78rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  font-family: {t["fallback"]};
+}}
+@media (min-width: 78rem) {{
+  body.book-{slug} {{
+    max-width: min(100%, calc(var(--toc) + var(--measure) + 3rem));
+    display: grid;
+    grid-template-columns: var(--toc) minmax(0, var(--measure));
+    column-gap: 2.25rem;
+    padding-bottom: 0;
+  }}
+  body.book-{slug} .book-banner,
+  body.book-{slug} .cover-page {{
+    grid-column: 1 / -1;
+  }}
+  body.book-{slug} nav#TOC {{
+    position: sticky;
+    top: 0;
+    align-self: start;
+    height: 100vh;
+    max-height: 100vh;
+    margin: 0;
+    overflow: auto;
+  }}
+  body.book-{slug} .book-body {{
+    min-width: 0;
+    padding-bottom: 5rem;
+  }}
+  body.book-{slug} .toc-jump {{ display: none; }}
 }}
 body.book-{slug} .book-banner {{
   background: {banner_bg};
@@ -416,7 +536,7 @@ body.book-{slug} .book-banner a {{ color: inherit; text-decoration: underline; }
 
 body.book-{slug} .cover-page {{
   margin: 0 -1.25rem 3rem;
-  min-height: 92vh;
+  min-height: 22rem;
   padding: 2.2rem 1.8rem 1.8rem;
   display: flex;
   flex-direction: column;
@@ -425,6 +545,23 @@ body.book-{slug} .cover-page {{
   color: var(--cover-fg);
   position: relative;
   overflow: hidden;
+}}
+body.book-{slug} .cover-read {{
+  margin: 1.4rem 0 0;
+  position: relative;
+  z-index: 2;
+}}
+body.book-{slug} .cover-read a {{
+  color: inherit;
+  border: 1px solid currentColor;
+  padding: 0.35rem 0.75rem;
+  text-decoration: none;
+  display: inline-block;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  font-size: 0.78rem;
+  font-style: normal;
+  font-family: {t["fallback"]};
 }}
 body.book-{slug} .cover-kicker {{
   font-family: "{t["body"]}", {t["fallback"]};
@@ -454,8 +591,19 @@ body.book-{slug} .cover-foot {{
   text-transform: uppercase;
 }}
 @media print {{
-  body.book-{slug} {{ max-width: none; background: white; }}
-  body.book-{slug} .book-banner {{ display: none; }}
+  body.book-{slug} {{ max-width: none; background: white; display: block; }}
+  body.book-{slug} .book-banner,
+  body.book-{slug} .toc-jump,
+  body.book-{slug} nav#TOC .toc-filter-wrap,
+  body.book-{slug} nav#TOC .toc-empty {{ display: none; }}
+  body.book-{slug} nav#TOC {{
+    position: static;
+    max-height: none;
+    height: auto;
+    overflow: visible;
+    break-after: page;
+    margin: 0 0 2rem;
+  }}
   body.book-{slug} .cover-page {{
     min-height: 100vh;
     break-after: page;
@@ -493,36 +641,46 @@ article.card-{slug} .badge {{ border-color: {t["accent"]}; }}"""
 }}
 html, body {{
   margin: 0;
-  background: #11100e;
-  color: #ece7dc;
+  background: white;
+  color: #1c1710;
   font-family: "Source Serif 4", Palatino, Georgia, serif;
 }}
 body.catalog {{
   max-width: 72rem;
   margin: 0 auto;
-  padding: 2rem 1.25rem 4rem;
+  padding: 1.5rem 1.25rem 2rem;
 }}
 body.catalog h1 {{
-  font-size: 2.6rem;
+  font-size: clamp(1.6rem, 3vw, 2.2rem);
   font-weight: 600;
-  margin: 0 0 0.5rem;
+  margin: 0 0 0.4rem;
 }}
 body.catalog .lede {{
   max-width: 36rem;
-  color: #b8b1a4;
+  color: #5c564c;
   line-height: 1.5;
-  margin-bottom: 2.5rem;
+  margin-bottom: 1.5rem;
 }}
-.grid {{ display: grid; gap: 1.5rem; }}
-@media (min-width: 760px) {{ .grid {{ grid-template-columns: 1fr 1fr; }} }}
-@media (min-width: 1100px) {{ .grid {{ grid-template-columns: 1fr 1fr 1fr; }} }}
+.grid {{
+  display: grid;
+  gap: 0.85rem;
+  grid-template-columns: repeat(auto-fit, minmax(8rem, 1fr));
+}}
 .card {{
   border: 2px solid;
   display: flex;
   flex-direction: column;
   min-height: 100%;
   overflow: hidden;
+  position: relative;
 }}
+.card .open {{
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+}}
+.card .formats {{ position: relative; z-index: 2; }}
+.card .formats a {{ position: relative; z-index: 2; }}
 .card img {{
   width: 100%;
   aspect-ratio: 2 / 3;
@@ -530,26 +688,38 @@ body.catalog .lede {{
   display: block;
   background: #222;
 }}
-.card .card-body {{ padding: 1rem 1.1rem 1.2rem; }}
-.card h2 {{ font-size: 1.25rem; margin: 0 0 0.35rem; line-height: 1.2; }}
+.card .card-body {{ padding: 0.65rem 0.7rem 0.75rem; }}
+.card h2 {{ font-size: 0.95rem; margin: 0 0 0.25rem; line-height: 1.2; }}
 .card h2 a {{ text-decoration: none; }}
 .card .kicker {{
-  font-size: 0.72rem;
+  font-size: 0.62rem;
   letter-spacing: 0.12em;
   text-transform: uppercase;
-  margin: 0 0 0.4rem;
+  margin: 0 0 0.25rem;
   opacity: 0.75;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }}
 .badge {{
   display: inline-block;
   border: 1px solid;
-  padding: 0.1rem 0.4rem;
-  font-size: 0.72rem;
+  padding: 0.1rem 0.35rem;
+  font-size: 0.62rem;
   letter-spacing: 0.04em;
 }}
-.card .formats {{ margin: 0.8rem 0 0; font-size: 0.9rem; }}
-.foot {{ margin-top: 3rem; color: #8a8378; font-size: 0.9rem; }}
-.foot a {{ color: #ece7dc; }}
+.card .formats {{ margin: 0.45rem 0 0; font-size: 0.75rem; }}
+.foot {{ margin-top: 1.5rem; color: #8a8680; font-size: 0.75rem; text-align: right; }}
+.foot a {{ color: #6e6a64; }}
+.foot .github {{
+  display: inline-flex;
+  align-items: center;
+  vertical-align: -0.15em;
+  margin: 0 0.15em;
+  color: #6e6a64;
+  text-decoration: none;
+}}
+.foot .github svg {{ width: 1em; height: 1em; display: block; }}
 {"".join(cards)}
 """
 
