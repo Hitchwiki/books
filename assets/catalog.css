@@ -7,7 +7,7 @@
 }
 @font-face {
   font-family: "Source Serif 4";
-  src: url("fonts/SourceSerif4-Semibold.ttf") format("truetype");
+  src: url("fonts/Oswald-Bold.ttf") format("truetype");
   font-weight: 600;
   font-display: swap;
 }
@@ -20,7 +20,7 @@ html, body {
 body.catalog {
   max-width: 72rem;
   margin: 0 auto;
-  padding: 1.5rem 1.25rem 2rem;
+  padding: 1.75rem clamp(1rem, 5vw, 2.5rem) 2.5rem;
 }
 body.catalog h1 {
   font-size: clamp(1.6rem, 3vw, 2.2rem);
@@ -35,14 +35,14 @@ body.catalog .lede {
 }
 .grid {
   display: grid;
-  gap: 0.75rem;
+  gap: 1.25rem;
   grid-template-columns: repeat(2, 1fr);
 }
 @media (min-width: 700px) {
-  .grid { grid-template-columns: repeat(4, 1fr); }
+  .grid { gap: 1.5rem; grid-template-columns: repeat(4, 1fr); }
 }
 @media (min-width: 1100px) {
-  .grid { grid-template-columns: repeat(7, 1fr); }
+  .grid { gap: 1.5rem; grid-template-columns: repeat(7, 1fr); }
 }
 .card {
   border: 2px solid;
@@ -99,45 +99,45 @@ body.catalog .lede {
 }
 .foot .github svg { width: 1em; height: 1em; display: block; }
 article.card-hitchhikers-guide {
-  background: #f3ead7;
-  color: #1c1710;
-  border-color: #c45c26;
+  background: #fbf7e9;
+  color: #5b2b08;
+  border-color: #b96800;
 }
-article.card-hitchhikers-guide a { color: #c45c26; }
-article.card-hitchhikers-guide .badge { border-color: #c45c26; }article.card-dumpster-diving {
-  background: #14160f;
-  color: #ece9d8;
-  border-color: #e2c93a;
+article.card-hitchhikers-guide a { color: #b96800; }
+article.card-hitchhikers-guide .badge { border-color: #b96800; }article.card-dumpster-diving {
+  background: #f9f9f4;
+  color: #1f241c;
+  border-color: #2f5a40;
 }
-article.card-dumpster-diving a { color: #e2c93a; }
-article.card-dumpster-diving .badge { border-color: #e2c93a; }article.card-random-roads {
-  background: #f6efe2;
+article.card-dumpster-diving a { color: #2f5a40; }
+article.card-dumpster-diving .badge { border-color: #2f5a40; }article.card-random-roads {
+  background: #ffffea;
   color: #261c14;
-  border-color: #8b2e1f;
+  border-color: #0ca6bb;
 }
-article.card-random-roads a { color: #8b2e1f; }
-article.card-random-roads .badge { border-color: #8b2e1f; }article.card-dumpsterdam {
+article.card-random-roads a { color: #0ca6bb; }
+article.card-random-roads .badge { border-color: #0ca6bb; }article.card-dumpsterdam {
   background: #fff6ea;
-  color: #1a120c;
-  border-color: #e05915;
+  color: #111111;
+  border-color: #9a2016;
 }
-article.card-dumpsterdam a { color: #e05915; }
-article.card-dumpsterdam .badge { border-color: #e05915; }article.card-hospitality-exchange {
-  background: #fbf6ef;
-  color: #2c241c;
-  border-color: #3d6b66;
+article.card-dumpsterdam a { color: #9a2016; }
+article.card-dumpsterdam .badge { border-color: #9a2016; }article.card-hospitality-exchange {
+  background: #fcfffe;
+  color: #26302e;
+  border-color: #08766b;
 }
-article.card-hospitality-exchange a { color: #3d6b66; }
-article.card-hospitality-exchange .badge { border-color: #3d6b66; }article.card-moneyless {
+article.card-hospitality-exchange a { color: #08766b; }
+article.card-hospitality-exchange .badge { border-color: #08766b; }article.card-moneyless {
   background: #f7f7f5;
-  color: #161616;
-  border-color: #b42318;
+  color: #181818;
+  border-color: #0ca6bb;
 }
-article.card-moneyless a { color: #b42318; }
-article.card-moneyless .badge { border-color: #b42318; }article.card-shoestring-nomad {
-  background: #efe6d4;
-  color: #2a261c;
-  border-color: #3d5a73;
+article.card-moneyless a { color: #0ca6bb; }
+article.card-moneyless .badge { border-color: #0ca6bb; }article.card-shoestring-nomad {
+  background: #fffdf8;
+  color: #25232b;
+  border-color: #654d00;
 }
-article.card-shoestring-nomad a { color: #3d5a73; }
-article.card-shoestring-nomad .badge { border-color: #3d5a73; }
+article.card-shoestring-nomad a { color: #654d00; }
+article.card-shoestring-nomad .badge { border-color: #654d00; }

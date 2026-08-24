@@ -6,6 +6,6 @@ Compiled from [Hitchwiki](https://hitchwiki.org/), a collaborative guide for hit
 
 License: **CC-BY-SA-4.0**. Credit the Hitchwiki community and link to https://hitchwiki.org/.
 
-This edition starts with practice (how to hitch anywhere), then a geographic half (countries, then a Hitchwiki-specific set of cities), and ends by sending you out onto the road and back to the wiki. It does **not** reprint roadside pin lists. Those go stale; use [maps.hitchwiki.org](https://maps.hitchwiki.org/) and the live wiki.
+This edition starts with practice (how to hitch anywhere), then a geographic half (each country, with a few cities under the country they belong to), and ends by sending you out onto the road and back to the wiki. It does **not** reprint roadside pin lists. Those go stale; use [maps.hitchwiki.org](https://maps.hitchwiki.org/) and the live wiki.
 
 Hitchhiking is legally grey in some places. Trust your judgement; this book republishes community guides, it is not legal advice.

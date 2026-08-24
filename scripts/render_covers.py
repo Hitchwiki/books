@@ -12,7 +12,7 @@ from PIL import Image, ImageDraw, ImageFont
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
-from common import get
+from common import ROOT, get
 from themes import (
     FONT_URL_FALLBACKS,
     FONT_URLS,
@@ -21,9 +21,39 @@ from themes import (
     THEMES,
     covers_dir,
     fonts_dir,
+    logos_dir,
     write_css_files,
 )
-from common import ROOT
+
+W, H = 1400, 2100
+
+
+def hex_rgb(value: str) -> tuple[int, int, int]:
+    v = value.lstrip("#")
+    return int(v[0:2], 16), int(v[2:4], 16), int(v[4:6], 16)
+
+
+def paste_logo(img: Image.Image, slug: str, *, x: int, y: int, max_h: int = 280, max_w: int = 900) -> int:
+    """Paste a source-site logo; return y below it."""
+    t = THEMES[slug]
+    name = t.get("logo")
+    if not name:
+        return y
+    path = logos_dir() / name
+    if not path.exists():
+        return y
+    try:
+        logo = Image.open(path).convert("RGBA")
+    except OSError:
+        return y
+    w, h = logo.size
+    scale = min(max_w / max(w, 1), max_h / max(h, 1), 1.0 if w > 400 else 4.0)
+    nw, nh = max(1, int(w * scale)), max(1, int(h * scale))
+    logo = logo.resize((nw, nh), Image.Resampling.LANCZOS)
+    if x < 0:
+        x = (W - nw) // 2
+    img.paste(logo, (x, y), logo)
+    return y + nh + 40
 
 W, H = 1400, 2100
 

@@ -4,6 +4,5 @@
 00-frontmatter.md
 01-practice.md
 02-countries.md
-03-cities.md
 04-outlook.md
 04-outlook/the-road-ahead.md
