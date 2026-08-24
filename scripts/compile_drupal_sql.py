@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Compile Drupal node XML dumps (from private-drupal-host) into book Markdown."""
+"""Compile Drupal node XML dumps into book Markdown."""
 
 from __future__ import annotations
 

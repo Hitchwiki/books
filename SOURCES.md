@@ -29,7 +29,7 @@ How chapters are compiled and how to edit them without losing wiki updates: [EDI
 | opencouchsurfing.org | ask authors | Hospitality Exchange after grant |
 | file.wikileaks.org/file/veit-hospitality-power-strategy-2009.txt | leaked 2005 HC mailing (filename 2009); **cite only**, not compiled | Hospitality Exchange history chapter |
 
-Drupal node bodies for Random Roads, Dumpsterdam, Moneyless, and Casa Robino are compiled from content-only dumps on `private-drupal-host` (no `users` / session / webform tables). Trashwiki can use `private-sql-host:/var/backups/mysql/sqldump/trashwiki.sql.gz` in addition to the public ZIM. Nothing under `dumps/` is committed.
+Drupal node bodies for Random Roads, Dumpsterdam, Moneyless, and Casa Robino are compiled from content-only dumps kept locally (no `users` / session / webform tables). Trashwiki can use a private SQL dump in addition to the public ZIM. SSH hosts live in gitignored `local/hosts.env`. Nothing under `dumps/` is committed.
 
 ## Adjacent (later or cite-only)
 

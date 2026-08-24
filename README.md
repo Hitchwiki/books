@@ -24,14 +24,14 @@ Each book has its own cover, type, and colors (`make covers`, `scripts/themes.py
 
 Wiki XML/ZIM dumps belong in `dumps/` (gitignored). Resized JPEGs in `books/*/images/` are also gitignored; keep `images.json`. Restore with `make images` (disk, then the `images` GitHub Release, then the live site, then wiki). Refresh the archive with `make images-release`.
 
-Server copies (also gitignored):
+Server copies (gitignored under `dumps/`):
 
 - Hitchwiki/Nomadwiki/Trustroots/Trashwiki XML+ZIM from [dumps.hitchwiki.org](https://dumps.hitchwiki.org/)
-- Trashwiki MySQL from `private-sql-host:/var/backups/mysql/sqldump/` (page content only used)
-- Drupal node dumps from `private-drupal-host` (randomroads, dumpsterdam, moneyless, geldloos, sindinero, casarobino). User tables are not copied.
+- Optional private SQL / Drupal node dumps via `scripts/pull_server_dumps.sh` (SSH hosts in gitignored `local/hosts.env`; page content only, no user tables)
 
 ```sh
-scripts/pull_server_dumps.sh   # SSH to private-sql-host and private-drupal-host
+cp local/hosts.env.example local/hosts.env   # then set the SSH hosts
+scripts/pull_server_dumps.sh
 python3 scripts/compile_drupal_sql.py
 ```
 
