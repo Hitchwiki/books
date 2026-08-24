@@ -2,19 +2,23 @@
 
 Catalog currently at **[guaka.github.io/books](https://guaka.github.io/books/)**. Custom domain [books.hitchwiki.org](https://books.hitchwiki.org/) later. Source: [github.com/guaka/books](https://github.com/guaka/books).
 
-Each book has **its own license**. There is no repo-wide content license. Scripts in this repository are MIT (see [LICENSE](LICENSE)).
+Each book has **its own license**. There is no repo-wide content license. Scripts in this repository are MIT (see [LICENSE](LICENSE)). Two content licenses:
+
+| [![CC BY-SA 4.0](assets/cc-by-sa-4.0.png)](https://creativecommons.org/licenses/by-sa/4.0/) | [![CC BY-NC-SA 4.0](assets/cc-by-nc-sa-4.0.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/) |
+| --- | --- |
+| Hitchwiki, Trustroots Wiki, Nomadwiki | Trashwiki, Random Roads, Dumpsterdam, Moneyless |
 
 | Book | License | Sources |
 | --- | --- | --- |
-| [The Hitchhiker's Guide to Hitchhiking](books/hitchhikers-guide/) | [CC-BY-SA-4.0](books/hitchhikers-guide/LICENSE) | Hitchwiki |
-| [Dumpster Diving](books/dumpster-diving/) | [CC-BY-NC-SA-3.0](books/dumpster-diving/LICENSE) | Trashwiki |
-| [Random Roads](books/random-roads/) | [CC-BY-NC-SA-4.0](books/random-roads/LICENSE) | randomroads.org |
-| [Dumpsterdam](books/dumpsterdam/) | [CC-BY-NC-SA-4.0](books/dumpsterdam/LICENSE) | dumpsterdam.nl |
-| [Hospitality Exchange](books/hospitality-exchange/) | [CC-BY-SA-4.0](books/hospitality-exchange/LICENSE) | Trustroots Wiki and related |
-| [Moneyless](books/moneyless/) | [CC-BY-NC-SA-4.0](books/moneyless/LICENSE) | moneyless.org, geldloos.nl, sindinero.net |
-| [Shoestring Nomad](books/shoestring-nomad/) | [CC-BY-SA-4.0](books/shoestring-nomad/LICENSE) | Nomadwiki, Casa Robino |
+| [The Hitchhiker's Guide to Hitchhiking](books/hitchhikers-guide/) | [![CC BY-SA 4.0](assets/cc-by-sa-4.0.png)](books/hitchhikers-guide/LICENSE) | Hitchwiki |
+| [Dumpster Diving](books/dumpster-diving/) | [![CC BY-NC-SA 4.0](assets/cc-by-nc-sa-4.0.png)](books/dumpster-diving/LICENSE) | Trashwiki |
+| [Random Roads](books/random-roads/) | [![CC BY-NC-SA 4.0](assets/cc-by-nc-sa-4.0.png)](books/random-roads/LICENSE) | randomroads.org |
+| [Dumpsterdam](books/dumpsterdam/) | [![CC BY-NC-SA 4.0](assets/cc-by-nc-sa-4.0.png)](books/dumpsterdam/LICENSE) | dumpsterdam.nl |
+| [Hospitality Exchange](books/hospitality-exchange/) | [![CC BY-SA 4.0](assets/cc-by-sa-4.0.png)](books/hospitality-exchange/LICENSE) | Trustroots Wiki and related |
+| [Moneyless](books/moneyless/) | [![CC BY-NC-SA 4.0](assets/cc-by-nc-sa-4.0.png)](books/moneyless/LICENSE) | moneyless.org, geldloos.nl, sindinero.net |
+| [Shoestring Nomad](books/shoestring-nomad/) | [![CC BY-SA 4.0](assets/cc-by-sa-4.0.png)](books/shoestring-nomad/LICENSE) | Nomadwiki, Casa Robino |
 
-See [SOURCES.md](SOURCES.md) for adjacent sites and permission notes.
+See [SOURCES.md](SOURCES.md) for adjacent sites, permission notes, and titles wanted later (philosophy / free software / abundance / AI / wikis). See [EDITORIAL.md](EDITORIAL.md) for how to edit chapters so wiki updates do not wipe them.
 
 Wiki XML/ZIM dumps belong in `dumps/` (gitignored). Resized JPEGs in `books/*/images/` are also gitignored; keep `images.json` and restore with `make images`.
 
@@ -34,8 +38,8 @@ Builds are versioned `0.1-yyyymmdd-hhmm` (UTC).
 ```sh
 python3 -m venv .venv
 .venv/bin/pip install -r requirements.txt
-make fetch   # dumps into dumps/, then compile chapters
-make images  # re-download JPEGs listed in images.json
+make fetch   # dumps into dumps/, then compile chapters (keeps locks / editorial notes)
+make images  # JPEGs already on disk, else live site, else wiki URLs
 make all     # EPUB, PDF (if a PDF engine exists), HTML
 ```
 

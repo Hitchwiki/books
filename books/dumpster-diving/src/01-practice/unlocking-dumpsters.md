@@ -110,4 +110,4 @@ Courtyards: A courtyard might have several building doors that it can be accesse
 ---
 
 Source: [Unlocking dumpsters](https://trashwiki.org/en/Unlocking_dumpsters)  
-License: CC-BY-NC-SA-3.0
+License: CC-BY-NC-SA-4.0

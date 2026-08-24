@@ -26,4 +26,4 @@ Places:
 ---
 
 Source: [Estonia](https://trashwiki.org/en/Estonia)  
-License: CC-BY-NC-SA-3.0
+License: CC-BY-NC-SA-4.0

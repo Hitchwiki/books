@@ -52,4 +52,4 @@ English is useful for a couple of countries but ideally we want some translation
 ---
 
 Source: [Pamphlet](https://trashwiki.org/en/Pamphlet)  
-License: CC-BY-NC-SA-3.0
+License: CC-BY-NC-SA-4.0

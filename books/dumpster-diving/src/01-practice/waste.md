@@ -114,4 +114,4 @@ Education and awareness in the area of waste and waste management is increasingl
 ---
 
 Source: [Waste](https://trashwiki.org/en/Waste)  
-License: CC-BY-NC-SA-3.0
+License: CC-BY-NC-SA-4.0

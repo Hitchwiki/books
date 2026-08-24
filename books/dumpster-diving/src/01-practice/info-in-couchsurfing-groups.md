@@ -33,4 +33,4 @@ There\'s tons of **info on [dumpster diving](dumpster_diving "dumpster diving"){
 ---
 
 Source: [Info in CouchSurfing groups](https://trashwiki.org/en/Info_in_CouchSurfing_groups)  
-License: CC-BY-NC-SA-3.0
+License: CC-BY-NC-SA-4.0

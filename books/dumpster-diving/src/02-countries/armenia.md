@@ -20,4 +20,4 @@ The Capital, [Ierevan](Ierevan "Ierevan"){.wikilink}, has a nice city center whe
 ---
 
 Source: [Armenia](https://trashwiki.org/en/Armenia)  
-License: CC-BY-NC-SA-3.0
+License: CC-BY-NC-SA-4.0

@@ -32,4 +32,4 @@ As of May 2011, things seem to be getting better, as somebody arrested for dumps
 ---
 
 Source: [New Zealand](https://trashwiki.org/en/New_Zealand)  
-License: CC-BY-NC-SA-3.0
+License: CC-BY-NC-SA-4.0

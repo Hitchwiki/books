@@ -26,4 +26,4 @@ When looking at expiration dates, a diver should look for caches which all appea
 ---
 
 Source: [Residential Food Diving](https://trashwiki.org/en/Residential_Food_Diving)  
-License: CC-BY-NC-SA-3.0
+License: CC-BY-NC-SA-4.0

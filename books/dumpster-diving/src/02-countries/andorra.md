@@ -10,4 +10,4 @@
 ---
 
 Source: [Andorra](https://trashwiki.org/en/Andorra)  
-License: CC-BY-NC-SA-3.0
+License: CC-BY-NC-SA-4.0

@@ -49,4 +49,4 @@ Dumpster\'s contents belong either to someone who produced that trash (e.g. a su
 ---
 
 Source: [Russia](https://trashwiki.org/en/Russia)  
-License: CC-BY-NC-SA-3.0
+License: CC-BY-NC-SA-4.0

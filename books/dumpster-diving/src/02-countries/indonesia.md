@@ -17,4 +17,4 @@ While Western countries produce overflow of [stuff](stuff "stuff"){.wikilink}, p
 ---
 
 Source: [Indonesia](https://trashwiki.org/en/Indonesia)  
-License: CC-BY-NC-SA-3.0
+License: CC-BY-NC-SA-4.0

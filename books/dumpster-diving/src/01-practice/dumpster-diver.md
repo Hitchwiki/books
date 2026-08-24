@@ -78,4 +78,4 @@ Image:Guaka Getting Free Food.jpg\|If you ask nicely at [food markets](food_mark
 ---
 
 Source: [Dumpster diver](https://trashwiki.org/en/Dumpster_diver)  
-License: CC-BY-NC-SA-3.0
+License: CC-BY-NC-SA-4.0

@@ -35,4 +35,4 @@ Same as in the rest of Scandinavia you can collect plastic bottles and cans, tak
 ---
 
 Source: [Norway](https://trashwiki.org/en/Norway)  
-License: CC-BY-NC-SA-3.0
+License: CC-BY-NC-SA-4.0

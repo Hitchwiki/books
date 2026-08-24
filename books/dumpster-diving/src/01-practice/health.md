@@ -54,4 +54,4 @@ You can check roughly how long an item of food can last or whether it is freezab
 ---
 
 Source: [Health](https://trashwiki.org/en/Health)  
-License: CC-BY-NC-SA-3.0
+License: CC-BY-NC-SA-4.0

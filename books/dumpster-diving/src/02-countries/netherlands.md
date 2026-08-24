@@ -55,4 +55,4 @@ The Netherlands seems to be quite good for getting things for free; as most bank
 ---
 
 Source: [Netherlands](https://trashwiki.org/en/Netherlands)  
-License: CC-BY-NC-SA-3.0
+License: CC-BY-NC-SA-4.0

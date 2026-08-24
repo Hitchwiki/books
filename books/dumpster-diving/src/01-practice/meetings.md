@@ -15,4 +15,4 @@ In many places around the world people organize **meetings** to go to [dumpster 
 ---
 
 Source: [Meetings](https://trashwiki.org/en/Meetings)  
-License: CC-BY-NC-SA-3.0
+License: CC-BY-NC-SA-4.0

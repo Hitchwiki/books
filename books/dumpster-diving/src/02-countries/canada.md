@@ -26,4 +26,4 @@ In several provinces of Canada, The Trespass to Property Act or the Trespass to 
 ---
 
 Source: [Canada](https://trashwiki.org/en/Canada)  
-License: CC-BY-NC-SA-3.0
+License: CC-BY-NC-SA-4.0

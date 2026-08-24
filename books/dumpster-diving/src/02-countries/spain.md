@@ -25,4 +25,4 @@ Spanish people tend to just leave on the street the [stuff](stuff "stuff"){.wiki
 ---
 
 Source: [Spain](https://trashwiki.org/en/Spain)  
-License: CC-BY-NC-SA-3.0
+License: CC-BY-NC-SA-4.0

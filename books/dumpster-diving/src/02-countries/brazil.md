@@ -24,4 +24,4 @@
 ---
 
 Source: [Brazil](https://trashwiki.org/en/Brazil)  
-License: CC-BY-NC-SA-3.0
+License: CC-BY-NC-SA-4.0

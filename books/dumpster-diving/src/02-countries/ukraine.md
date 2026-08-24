@@ -18,4 +18,4 @@ The **Ukraine** is a big country in Eastern Europe. [Dumpster diving](Dumpster_d
 ---
 
 Source: [Ukraine](https://trashwiki.org/en/Ukraine)  
-License: CC-BY-NC-SA-3.0
+License: CC-BY-NC-SA-4.0

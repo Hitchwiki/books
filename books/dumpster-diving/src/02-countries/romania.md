@@ -31,4 +31,4 @@ Last but not least small street bins (wall hung round style) in touristic places
 ---
 
 Source: [Romania](https://trashwiki.org/en/Romania)  
-License: CC-BY-NC-SA-3.0
+License: CC-BY-NC-SA-4.0
