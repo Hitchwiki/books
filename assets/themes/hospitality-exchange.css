@@ -1,0 +1,131 @@
+@font-face {
+  font-family: "Source Serif 4";
+  src: url("fonts/SourceSerif4-Semibold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Source Serif 4";
+  src: url("fonts/SourceSerif4-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Source Serif 4";
+  src: url("fonts/SourceSerif4-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+body.book-hospitality-exchange {
+  --fg: #2c241c;
+  --muted: #6e6258;
+  --bg: #fbf6ef;
+  --accent: #3d6b66;
+  --accent2: #c4785a;
+  --rule: #e4d8c8;
+  --cover-bg: #3d6b66;
+  --cover-fg: #fbf6ef;
+  --measure: 38rem;
+  background: var(--bg);
+  color: var(--fg);
+  font-family: "Source Serif 4", Georgia, Palatino, serif;
+  max-width: var(--measure);
+  margin: 0 auto;
+  padding: 0 1.25rem 5rem;
+  line-height: 1.58;
+  font-size: 1.06rem;
+  min-height: 100vh;
+}
+body.book-hospitality-exchange h1,
+body.book-hospitality-exchange h2,
+body.book-hospitality-exchange h3,
+body.book-hospitality-exchange .cover-title {
+  font-family: "Source Serif 4", Georgia, Palatino, serif;
+  font-style: italic;
+  font-weight: 600;
+  line-height: 1.15;
+  color: var(--fg);
+}
+body.book-hospitality-exchange h1 { font-size: 2.15rem; margin: 2.4rem 0 0.8rem; }
+body.book-hospitality-exchange h2 { font-size: 1.45rem; margin-top: 2rem; }
+body.book-hospitality-exchange a { color: var(--accent); }
+body.book-hospitality-exchange hr { border: 0; border-top: 1px solid var(--rule); }
+body.book-hospitality-exchange img { max-width: 100%; height: auto; }
+body.book-hospitality-exchange #title-block-header { display: none; }
+body.book-hospitality-exchange nav#TOC {
+  border: 1px solid var(--rule);
+  padding: 1rem 1.2rem;
+  margin: 2rem 0 3rem;
+}
+body.book-hospitality-exchange .book-banner {
+  background: #3d6b66;
+  color: #fbf6ef;
+  margin: 0 -1.25rem 0;
+  padding: 0.85rem 1.25rem;
+  font-size: 0.82rem;
+  letter-spacing: 0.04em;
+}
+body.book-hospitality-exchange .book-banner a { color: inherit; text-decoration: underline; }
+
+
+body.book-hospitality-exchange .cover-page {
+  box-shadow: inset 0 0 0 14px var(--bg), inset 0 0 0 22px var(--accent2);
+}
+body.book-hospitality-exchange .cover-main { text-align: center; }
+body.book-hospitality-exchange .cover-sub { margin-left: auto; margin-right: auto; }
+body.book-hospitality-exchange .cover-kicker, body.book-hospitality-exchange .cover-foot { text-align: center; }
+
+
+
+body.book-hospitality-exchange .cover-page {
+  margin: 0 -1.25rem 3rem;
+  min-height: 92vh;
+  padding: 2.2rem 1.8rem 1.8rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background: var(--cover-bg);
+  color: var(--cover-fg);
+  position: relative;
+  overflow: hidden;
+}
+body.book-hospitality-exchange .cover-kicker {
+  font-family: "Source Serif 4", Georgia, Palatino, serif;
+  font-style: normal;
+  font-size: 0.78rem;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  margin: 0;
+  opacity: 0.86;
+}
+body.book-hospitality-exchange .cover-title {
+  font-size: 3.4rem;
+  margin: 0 0 0.6rem;
+  color: inherit;
+  font-style: italic;
+}
+body.book-hospitality-exchange .cover-sub {
+  margin: 0;
+  font-size: 1.05rem;
+  max-width: 22rem;
+  opacity: 0.9;
+}
+body.book-hospitality-exchange .cover-foot {
+  margin: 0;
+  font-size: 0.78rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+@media print {
+  body.book-hospitality-exchange { max-width: none; background: white; }
+  body.book-hospitality-exchange .book-banner { display: none; }
+  body.book-hospitality-exchange .cover-page {
+    min-height: 100vh;
+    break-after: page;
+    margin: 0;
+  }
+}

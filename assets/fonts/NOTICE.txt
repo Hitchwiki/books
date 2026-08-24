@@ -1,0 +1,6 @@
+Fonts in this folder are SIL Open Font License (OFL) 1.1.
+
+- Source Serif 4, Source Sans 3 — Adobe
+- Oswald — Vernon Adams / Kalapi Gajjar / Cyreal
+- Playfair Display — Claus Eggers Sørensen
+- IBM Plex Sans / Serif — IBM

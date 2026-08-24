@@ -22,8 +22,14 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Install pandoc and WeasyPrint libs
-        run: sudo apt-get update && sudo apt-get install -y pandoc libpango-1.0-0 libpangocairo-1.0-0 libgdk-pixbuf-2.0-0 libffi-dev libharfbuzz0b libpangoft2-1.0-0
+          cache: pip
+          cache-dependency-path: requirements-ci.txt
+      - name: Install pandoc
+        run: |
+          ver=3.10.2
+          curl -fsSL "https://github.com/jgm/pandoc/releases/download/${ver}/pandoc-${ver}-linux-amd64.tar.gz" \
+            | sudo tar -xz --strip-components=1 -C /usr/local
+          pandoc --version | head -1
       - name: Cache book images
         uses: actions/cache@v4
         with:
@@ -34,15 +40,15 @@ jobs:
           restore-keys: |
             book-images-
       - name: Python deps
-        run: pip install -r requirements.txt
+        run: pip install -r requirements-ci.txt
       - name: Restore images
         env:
           PAGES_ORIGIN: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
           IMAGES_RELEASE_URL: https://github.com/${{ github.repository }}/releases/download/images/book-images.tar.gz
           GITHUB_TOKEN: ${{ github.token }}
         run: make images
-      - name: Build
-        run: make all
+      - name: Build HTML and EPUB
+        run: make -j"$(nproc)" pages
       - uses: actions/upload-pages-artifact@v3
         with:
           path: build/site

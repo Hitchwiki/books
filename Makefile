@@ -2,16 +2,22 @@ VERSION ?= 0.1-$(shell date -u +%Y%m%d-%H%M)
 PYTHON  ?= $(firstword $(wildcard $(CURDIR)/.venv/bin/python3) python3)
 PANDOC  ?= pandoc
 BOOKS   := hitchhikers-guide dumpster-diving random-roads dumpsterdam hospitality-exchange moneyless shoestring-nomad
+FORMATS ?= html,epub,pdf
 OUT     := build
 SITE    := $(OUT)/site
 
-.PHONY: all covers books dumps fetch images pack-images images-release site html epub pdf clean editorial-status $(BOOKS)
+.DEFAULT_GOAL := serve
 
-all: covers books site
+.PHONY: all covers books dumps fetch images pack-images images-release site html epub pdf pages serve clean editorial-status $(BOOKS)
+
+all: books site
 
 books: $(BOOKS)
 
 html epub pdf: books
+
+pages: FORMATS := html,epub
+pages: all
 
 dumps:
 	mkdir -p dumps/zim dumps/sql
@@ -40,10 +46,13 @@ editorial-status:
 	$(PYTHON) scripts/editorial.py status
 
 $(BOOKS):
-	$(PYTHON) scripts/build_book.py --book $@ --version $(VERSION) --formats html,epub,pdf --out $(OUT)
+	$(PYTHON) scripts/build_book.py --book $@ --version $(VERSION) --formats $(FORMATS) --out $(OUT)
 
-site:
+site: books
 	$(PYTHON) scripts/build_site.py --version $(VERSION) --out $(SITE)
+
+serve:
+	$(PYTHON) scripts/serve.py
 
 clean:
 	rm -rf $(OUT)

@@ -13,6 +13,10 @@ from pathlib import Path
 import yaml
 
 ROOT = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from common import rewrite_html_images, wiki_image_map
+from editorial import is_omitted_chapter
+from themes import THEMES, cover_html, fonts_dir, write_css_files
 
 
 def version_stamp(raw: str | None) -> str:
@@ -25,7 +29,11 @@ def chapter_files(book: Path) -> list[Path]:
     src = book / "src"
     if not src.exists():
         return []
-    files = [p for p in src.rglob("*.md") if p.is_file()]
+    files = [
+        p
+        for p in src.rglob("*.md")
+        if p.is_file() and not is_omitted_chapter(book, p)
+    ]
     return sorted(files, key=lambda p: str(p.relative_to(src)))
 
 
@@ -42,6 +50,43 @@ def write_defaults(path: Path, spec: dict) -> None:
     path.write_text(yaml.safe_dump(spec, allow_unicode=True), encoding="utf-8")
 
 
+def epub_theme_css(slug: str) -> str:
+    t = THEMES.get(slug) or THEMES["hitchhikers-guide"]
+    return (
+        f"body {{ font-family: {t['fallback']}; line-height: 1.45; color: {t['fg']}; }}\n"
+        f"h1, h2, h3 {{ font-family: {t['fallback']}; page-break-after: avoid; color: {t['accent2']}; }}\n"
+        f"a {{ color: {t['accent']}; }}\n"
+        "img { max-width: 100%; height: auto; }\n"
+        "figcaption { font-size: 0.85em; font-style: italic; }\n"
+    )
+
+
+def copy_theme_assets(slug: str, html_dir: Path) -> Path | None:
+    theme_css = ROOT / "assets" / "themes" / f"{slug}.css"
+    if not theme_css.exists():
+        write_css_files()
+        theme_css = ROOT / "assets" / "themes" / f"{slug}.css"
+    if theme_css.exists():
+        shutil.copy2(theme_css, html_dir / "book.css")
+    font_src = fonts_dir()
+    if font_src.exists():
+        font_dest = html_dir / "fonts"
+        font_dest.mkdir(exist_ok=True)
+        t = THEMES.get(slug) or {}
+        for key in ("display_file", "body_file", "body_bold"):
+            name = t.get(key)
+            if name and (font_src / name).exists():
+                shutil.copy2(font_src / name, font_dest / name)
+    cover = ROOT / "assets" / "covers" / f"{slug}.jpg"
+    if cover.exists():
+        shutil.copy2(cover, html_dir / "cover.jpg")
+        img = html_dir / "images"
+        img.mkdir(exist_ok=True)
+        shutil.copy2(cover, img / "cover.jpg")
+        return cover
+    return None
+
+
 def build(slug: str, version: str, formats: list[str], out: Path) -> None:
     book = ROOT / "books" / slug
     meta_path = book / "metadata.yaml"
@@ -55,8 +100,6 @@ def build(slug: str, version: str, formats: list[str], out: Path) -> None:
     work.mkdir(parents=True, exist_ok=True)
     meta_out = work / "metadata.yaml"
     meta_out.write_text(yaml.safe_dump(meta, allow_unicode=True), encoding="utf-8")
-    css = ROOT / "assets" / "book.css"
-    epub_css = ROOT / "assets" / "epub.css"
     downloads = out / "site" / "downloads"
     html_dir = out / "site" / slug
     downloads.mkdir(parents=True, exist_ok=True)
@@ -67,8 +110,13 @@ def build(slug: str, version: str, formats: list[str], out: Path) -> None:
         if dest_img.exists():
             shutil.rmtree(dest_img)
         shutil.copytree(img, dest_img)
-    if css.exists():
-        shutil.copy2(css, html_dir / "book.css")
+    cover_path = copy_theme_assets(slug, html_dir)
+    if not (html_dir / "book.css").exists():
+        fallback = ROOT / "assets" / "book.css"
+        if fallback.exists():
+            shutil.copy2(fallback, html_dir / "book.css")
+    epub_css = work / "epub.css"
+    epub_css.write_text(epub_theme_css(slug), encoding="utf-8")
     inputs = [str(c) for c in chapters]
     resource = [str(book), str(book / "src"), str(book / "images"), str(html_dir)]
     base = {
@@ -100,8 +148,14 @@ def build(slug: str, version: str, formats: list[str], out: Path) -> None:
                 f'<a href="../">books.hitchwiki.org</a> · {meta.get("title", slug)} · {version}'
                 f"</p></header>\n"
             )
-            html = html.replace("<body>", "<body>\n" + banner, 1)
+            cover = cover_html(slug, meta)
+            html = html.replace(
+                "<body>",
+                f'<body class="book book-{slug}">\n{banner}{cover}',
+                1,
+            )
             html = html.replace("../../images/", "images/").replace("../images/", "images/")
+            html = rewrite_html_images(html, wiki_image_map(book / "images"))
             index.write_text(html, encoding="utf-8")
     stem = f"{slug}-{version}"
     if "epub" in formats:
@@ -109,42 +163,40 @@ def build(slug: str, version: str, formats: list[str], out: Path) -> None:
         spec = {
             **base,
             "to": "epub3",
-            "css": [str(epub_css)] if epub_css.exists() else [],
+            "css": [str(epub_css)],
             "output-file": str(epub),
         }
-        cover = book / "images" / "cover.jpg"
-        if cover.exists():
-            spec["epub-cover-image"] = str(cover)
+        if cover_path and cover_path.exists():
+            spec["epub-cover-image"] = str(cover_path)
         write_defaults(work / "epub.yaml", spec)
         if run_pandoc(work / "epub.yaml") and epub.exists():
             shutil.copy2(epub, downloads / f"{slug}.epub")
     if "pdf" in formats:
         pdf = downloads / f"{stem}.pdf"
         ok = False
-        for engine in ("tectonic", "xelatex", "lualatex", "pdflatex"):
-            if not shutil.which(engine):
-                continue
-            spec = {
-                **base,
-                "output-file": str(pdf),
-                "pdf-engine": engine,
-                "variables": {"geometry": "margin=2cm", "documentclass": "book"},
-            }
-            write_defaults(work / f"pdf-{engine}.yaml", spec)
-            if run_pandoc(work / f"pdf-{engine}.yaml"):
-                ok = True
-                break
-        if not ok and (html_dir / "index.html").exists():
+        html_index = html_dir / "index.html"
+        if html_index.exists():
             weasy = shutil.which("weasyprint") or str(ROOT / ".venv" / "bin" / "weasyprint")
             cmd = [weasy] if Path(weasy).exists() else [sys.executable, "-m", "weasyprint"]
             try:
-                subprocess.run(
-                    [*cmd, str(html_dir / "index.html"), str(pdf)],
-                    check=True,
-                )
+                subprocess.run([*cmd, str(html_index), str(pdf)], check=True)
                 ok = True
             except (FileNotFoundError, subprocess.CalledProcessError) as exc:
                 print(f"weasyprint failed: {exc}", file=sys.stderr)
+        if not ok:
+            for engine in ("tectonic", "xelatex", "lualatex", "pdflatex"):
+                if not shutil.which(engine):
+                    continue
+                spec = {
+                    **base,
+                    "output-file": str(pdf),
+                    "pdf-engine": engine,
+                    "variables": {"geometry": "margin=2cm", "documentclass": "book"},
+                }
+                write_defaults(work / f"pdf-{engine}.yaml", spec)
+                if run_pandoc(work / f"pdf-{engine}.yaml"):
+                    ok = True
+                    break
         if not ok:
             print(f"{slug}: PDF skipped", file=sys.stderr)
         elif pdf.exists():

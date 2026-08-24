@@ -1,0 +1,136 @@
+@font-face {
+  font-family: "Oswald";
+  src: url("fonts/Oswald-Bold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Source Sans 3";
+  src: url("fonts/SourceSans3-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Source Sans 3";
+  src: url("fonts/SourceSans3-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+body.book-dumpsterdam {
+  --fg: #1a120c;
+  --muted: #6a5344;
+  --bg: #fff6ea;
+  --accent: #e05915;
+  --accent2: #1f4d3a;
+  --rule: #ead7c2;
+  --cover-bg: #e05915;
+  --cover-fg: #fff6ea;
+  --measure: 40rem;
+  background: var(--bg);
+  color: var(--fg);
+  font-family: "Source Sans 3", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  max-width: var(--measure);
+  margin: 0 auto;
+  padding: 0 1.25rem 5rem;
+  line-height: 1.58;
+  font-size: 1.06rem;
+  min-height: 100vh;
+}
+body.book-dumpsterdam h1,
+body.book-dumpsterdam h2,
+body.book-dumpsterdam h3,
+body.book-dumpsterdam .cover-title {
+  font-family: "Oswald", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 1.15;
+  color: var(--fg);
+}
+body.book-dumpsterdam h1 { font-size: 2.15rem; margin: 2.4rem 0 0.8rem; }
+body.book-dumpsterdam h2 { font-size: 1.45rem; margin-top: 2rem; }
+body.book-dumpsterdam a { color: var(--accent); }
+body.book-dumpsterdam hr { border: 0; border-top: 1px solid var(--rule); }
+body.book-dumpsterdam img { max-width: 100%; height: auto; }
+body.book-dumpsterdam #title-block-header { display: none; }
+body.book-dumpsterdam nav#TOC {
+  border: 1px solid var(--rule);
+  padding: 1rem 1.2rem;
+  margin: 2rem 0 3rem;
+}
+body.book-dumpsterdam .book-banner {
+  background: #e05915;
+  color: #fff6ea;
+  margin: 0 -1.25rem 0;
+  padding: 0.85rem 1.25rem;
+  font-size: 0.82rem;
+  letter-spacing: 0.04em;
+}
+body.book-dumpsterdam .book-banner a { color: inherit; text-decoration: underline; }
+
+
+body.book-dumpsterdam .cover-title {
+  font-style: normal;
+  text-transform: uppercase;
+  font-size: 4.4rem;
+  line-height: 0.9;
+}
+body.book-dumpsterdam .cover-page {
+  background:
+    linear-gradient(#1f4d3a, #1f4d3a) left / 12px 100% no-repeat,
+    var(--cover-bg);
+}
+
+
+
+body.book-dumpsterdam .cover-page {
+  margin: 0 -1.25rem 3rem;
+  min-height: 92vh;
+  padding: 2.2rem 1.8rem 1.8rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background: var(--cover-bg);
+  color: var(--cover-fg);
+  position: relative;
+  overflow: hidden;
+}
+body.book-dumpsterdam .cover-kicker {
+  font-family: "Source Sans 3", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-style: normal;
+  font-size: 0.78rem;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  margin: 0;
+  opacity: 0.86;
+}
+body.book-dumpsterdam .cover-title {
+  font-size: 3.4rem;
+  margin: 0 0 0.6rem;
+  color: inherit;
+  font-style: normal;
+}
+body.book-dumpsterdam .cover-sub {
+  margin: 0;
+  font-size: 1.05rem;
+  max-width: 22rem;
+  opacity: 0.9;
+}
+body.book-dumpsterdam .cover-foot {
+  margin: 0;
+  font-size: 0.78rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+@media print {
+  body.book-dumpsterdam { max-width: none; background: white; }
+  body.book-dumpsterdam .book-banner { display: none; }
+  body.book-dumpsterdam .cover-page {
+    min-height: 100vh;
+    break-after: page;
+    margin: 0;
+  }
+}
