@@ -7,4 +7,4 @@ and ohhhh, lovely kitten, make sure it does not jump down from the balcony, cats
 
 ---
 
-Source: https://casarobino.org/2009/07/thou-shall-dumpsterdive
+<p class="chapter-source"><a href="https://casarobino.org/node/4275">node/4275</a></p>

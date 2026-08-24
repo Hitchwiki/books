@@ -4,4 +4,4 @@ Ok - so once I dumpstered beer together with Lili, but at night we don't always 
 
 ---
 
-Source: https://casarobino.org/2009/04/where-drink-what
+<p class="chapter-source"><a href="https://casarobino.org/node/2422">node/2422</a></p>

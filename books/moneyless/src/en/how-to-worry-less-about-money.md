@@ -29,4 +29,4 @@ It's good to make a list of essentials, to see how much money you really need. B
 
 ---
 
-Source: https://moneyless.org/how-worry-less-about-money
+<p class="chapter-source"><a href="https://moneyless.org/node/161">node/161</a></p>

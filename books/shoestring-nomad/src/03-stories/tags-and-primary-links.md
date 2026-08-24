@@ -4,4 +4,4 @@ Drupal is so easy to configure, whatever you want is basically possible. So Kasp
 
 ---
 
-Source: https://casarobino.org/content/tags-and-primary-links
+<p class="chapter-source"><a href="https://casarobino.org/node/69">node/69</a></p>

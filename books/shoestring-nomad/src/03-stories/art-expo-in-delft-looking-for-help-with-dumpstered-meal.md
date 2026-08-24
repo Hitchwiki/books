@@ -29,4 +29,4 @@ We also need some help preparing for the expo and volunteers to help us run the 
 
 ---
 
-Source: https://casarobino.org/2009/06/art-expo-delft-looking-help-dumpstered-meal
+<p class="chapter-source"><a href="https://casarobino.org/node/3376">node/3376</a></p>

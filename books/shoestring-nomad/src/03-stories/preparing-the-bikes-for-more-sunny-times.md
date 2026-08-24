@@ -5,4 +5,4 @@ That's why today Ellen, Brian (patching an inner-tube for the first time in his 
 
 ---
 
-Source: https://casarobino.org/2011/03/preparing-bikes-more-sunny-times
+<p class="chapter-source"><a href="https://casarobino.org/node/17823">node/17823</a></p>

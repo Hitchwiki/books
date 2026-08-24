@@ -7,4 +7,4 @@ Also check [Wikipedia](http://en.wikipedia.org/wiki/Peace_Pilgrim) for more info
 
 ---
 
-Source: https://moneyless.org/book-steps-towards-inner-peace
+<p class="chapter-source"><a href="https://moneyless.org/node/12">node/12</a></p>

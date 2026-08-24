@@ -7,4 +7,4 @@ but then it got hot in the tent.
 
 ---
 
-Source: https://casarobino.org/2009/07/sixth-room
+<p class="chapter-source"><a href="https://casarobino.org/node/3912">node/3912</a></p>

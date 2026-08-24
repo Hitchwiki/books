@@ -5,4 +5,4 @@ Voor Amsterdammers is er een nieuwe website waarbij je direct kan zien wat je wa
 
 ---
 
-Source: https://geldloos.nl/gratis-voorzieningen-amsterdam
+<p class="chapter-source"><a href="https://geldloos.nl/node/260">node/260</a></p>

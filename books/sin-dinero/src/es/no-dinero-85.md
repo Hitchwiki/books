@@ -7,4 +7,4 @@ Otra alternativa es el [trueque](/trueque). Hay mucha gente que vive sin dinero,
 
 ---
 
-Source: https://sindinero.net/no-dinero
+<p class="chapter-source"><a href="https://sindinero.net/node/85">node/85</a></p>

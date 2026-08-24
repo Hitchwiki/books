@@ -4,4 +4,4 @@ Al in 18 landen, waaronder Nederland, heeft Unilever haar doel bereikt om geen a
 
 ---
 
-Source: https://dumpsterdam.nl/nieuws/unilever-produceert-de-helft-van-de-fabrieken-zonder-afval
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/35">node/35</a></p>

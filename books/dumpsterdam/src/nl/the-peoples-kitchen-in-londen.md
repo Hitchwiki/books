@@ -4,4 +4,4 @@
 
 ---
 
-Source: https://dumpsterdam.nl/nieuws/people’s-kitchen-londen
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/77">node/77</a></p>

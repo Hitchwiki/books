@@ -38,4 +38,4 @@ Economieën van alle landen ten zuiden van de Sahara zijn hard aan het groeien. 
 
 ---
 
-Source: https://geldloos.nl/blog/geld-verdienen-met-afrika
+<p class="chapter-source"><a href="https://geldloos.nl/node/228">node/228</a></p>

@@ -10,4 +10,4 @@ Tot slot is het ook mogelijk om [gratis kinderboeken](/gratis-boeken) te krijgen
 
 ---
 
-Source: https://geldloos.nl/gratis-speelgoed
+<p class="chapter-source"><a href="https://geldloos.nl/node/106">node/106</a></p>

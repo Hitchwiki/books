@@ -7,4 +7,4 @@ I am easy to find over here. Someone wants to come help me to disassemble and re
 
 ---
 
-Source: https://casarobino.org/2009/08/mobile-bike-repair
+<p class="chapter-source"><a href="https://casarobino.org/node/4544">node/4544</a></p>

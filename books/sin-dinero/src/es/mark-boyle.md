@@ -14,4 +14,4 @@ Y tú ¿Cuánto tiempo has vivido sin utilizar dinero?
 
 ---
 
-Source: https://sindinero.net/mark-boyle
+<p class="chapter-source"><a href="https://sindinero.net/node/152">node/152</a></p>

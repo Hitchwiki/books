@@ -38,4 +38,4 @@ Moneyless.org wants to go beyond this discussion and provide ways for living wit
 
 ---
 
-Source: https://moneyless.org/welcome
+<p class="chapter-source"><a href="https://moneyless.org/node/2">node/2</a></p>

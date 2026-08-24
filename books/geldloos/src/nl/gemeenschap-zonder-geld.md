@@ -48,4 +48,4 @@ margin-left: -3%;
 
 ---
 
-Source: https://geldloos.nl/gemeenschap-zonder-geld
+<p class="chapter-source"><a href="https://geldloos.nl/node/135">node/135</a></p>

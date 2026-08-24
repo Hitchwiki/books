@@ -7,4 +7,4 @@ There is a growing movement of people who want to give **free money to everyone*
 
 ---
 
-Source: https://moneyless.org/free-money
+<p class="chapter-source"><a href="https://moneyless.org/node/134">node/134</a></p>

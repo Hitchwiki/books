@@ -7,4 +7,4 @@ Vamos, no me digas que no, en algún momento de la primaria aprendiste algo, aun
 
 ---
 
-Source: https://sindinero.net/hacer-cosas-y-venderlas-o-intercambiarlas
+<p class="chapter-source"><a href="https://sindinero.net/node/129">node/129</a></p>

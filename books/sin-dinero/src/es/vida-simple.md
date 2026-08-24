@@ -37,4 +37,4 @@ También puedes revisar algunos de los consejos de [cómo vivir con poco dinero]
 
 ---
 
-Source: https://sindinero.net/vida-simple
+<p class="chapter-source"><a href="https://sindinero.net/node/191">node/191</a></p>

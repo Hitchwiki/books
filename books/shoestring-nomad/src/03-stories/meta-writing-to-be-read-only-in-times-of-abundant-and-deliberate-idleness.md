@@ -27,4 +27,4 @@ Thank god for dirty dishes.
 
 ---
 
-Source: https://casarobino.org/content/meta-writing-be-read-only-times-abundant-and-deliberate-idleness
+<p class="chapter-source"><a href="https://casarobino.org/node/2383">node/2383</a></p>

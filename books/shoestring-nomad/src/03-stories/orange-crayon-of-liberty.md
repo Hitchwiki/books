@@ -25,4 +25,4 @@ I didn't even cry.
 
 ---
 
-Source: https://casarobino.org/2009/07/orange-crayon-liberty
+<p class="chapter-source"><a href="https://casarobino.org/node/4092">node/4092</a></p>

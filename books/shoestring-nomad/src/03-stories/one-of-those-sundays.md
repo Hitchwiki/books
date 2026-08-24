@@ -6,4 +6,4 @@ That was one of those.
 
 ---
 
-Source: https://casarobino.org/content/one-those-sundays
+<p class="chapter-source"><a href="https://casarobino.org/node/1573">node/1573</a></p>

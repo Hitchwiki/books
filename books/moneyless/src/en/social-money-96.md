@@ -14,4 +14,4 @@ Another term often used to refer to social money is local money, complementary c
 
 ---
 
-Source: https://moneyless.org/social-money
+<p class="chapter-source"><a href="https://moneyless.org/node/96">node/96</a></p>

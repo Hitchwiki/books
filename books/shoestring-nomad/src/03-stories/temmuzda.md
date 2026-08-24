@@ -8,4 +8,4 @@ basically, thank you for the underlying messages in an otherwise light-hearted, 
 
 ---
 
-Source: https://casarobino.org/2012/01/temmuzda
+<p class="chapter-source"><a href="https://casarobino.org/node/23699">node/23699</a></p>

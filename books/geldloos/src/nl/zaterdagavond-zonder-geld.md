@@ -12,4 +12,4 @@ Uitgaan is duur, althans, dat is de algemene opvatting. Als je naar prijzen van 
 
 ---
 
-Source: https://geldloos.nl/zaterdagavond-zonder-geld
+<p class="chapter-source"><a href="https://geldloos.nl/node/140">node/140</a></p>

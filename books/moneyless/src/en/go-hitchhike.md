@@ -9,4 +9,4 @@ Public transport is also an option, but costs money. In some countries it's comm
 
 ---
 
-Source: https://moneyless.org/go-hitchhike
+<p class="chapter-source"><a href="https://moneyless.org/node/7">node/7</a></p>

@@ -6,4 +6,4 @@ The bathroom doorknob just fell off.
 
 ---
 
-Source: https://casarobino.org/content/xrandom-dumpstered-xmass-dinner
+<p class="chapter-source"><a href="https://casarobino.org/node/651">node/651</a></p>

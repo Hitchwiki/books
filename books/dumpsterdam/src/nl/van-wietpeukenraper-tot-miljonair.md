@@ -4,4 +4,4 @@ Onlangs kopte Het Parool: Peukenplukkers op zoek naar wietresten teisteren Walle
 
 ---
 
-Source: https://dumpsterdam.nl/nieuws/van-wietpeukenraper-tot-miljonair
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/34">node/34</a></p>

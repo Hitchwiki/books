@@ -34,4 +34,4 @@ Vooral wanneer je een gedeelde interesse hebt, kan een open dag leuk zijn als da
 
 ---
 
-Source: https://geldloos.nl/geldloos-daten-zonder-budget
+<p class="chapter-source"><a href="https://geldloos.nl/node/481">node/481</a></p>

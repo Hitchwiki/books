@@ -10,4 +10,4 @@ Oh well... I have to start a new notebook now.
 
 ---
 
-Source: https://casarobino.org/content/shit-luck
+<p class="chapter-source"><a href="https://casarobino.org/node/566">node/566</a></p>

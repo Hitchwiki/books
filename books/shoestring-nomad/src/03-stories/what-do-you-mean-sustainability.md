@@ -5,4 +5,4 @@ http://etherpad.com/Z0mGZceLmH
 
 ---
 
-Source: https://casarobino.org/2009/09/what-do-you-mean-sustainability
+<p class="chapter-source"><a href="https://casarobino.org/node/5420">node/5420</a></p>

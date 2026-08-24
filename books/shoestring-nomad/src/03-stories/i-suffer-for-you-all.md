@@ -4,4 +4,4 @@ Laying on a mat in a Bedouin camp by the red sea, I can't help but be envious of
 
 ---
 
-Source: https://casarobino.org/content/i-suffer-you-all
+<p class="chapter-source"><a href="https://casarobino.org/node/83">node/83</a></p>

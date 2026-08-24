@@ -20,4 +20,4 @@ Zie ook: [Zomerpretpakket voor kinderen die niet op vakantie kunnen](http://nos.
 
 ---
 
-Source: https://geldloos.nl/gratis-op-vakantie-gaan
+<p class="chapter-source"><a href="https://geldloos.nl/node/252">node/252</a></p>

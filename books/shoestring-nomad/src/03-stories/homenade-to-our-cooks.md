@@ -8,4 +8,4 @@ Dinner is a basic thing here in the house, it helps building community, it creat
 
 ---
 
-Source: https://casarobino.org/content/homenade-our-cooks
+<p class="chapter-source"><a href="https://casarobino.org/node/432">node/432</a></p>

@@ -4,4 +4,4 @@
 
 ---
 
-Source: https://dumpsterdam.nl/taste-waste-mini-market
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/104">node/104</a></p>

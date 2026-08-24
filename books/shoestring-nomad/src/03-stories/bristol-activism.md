@@ -4,4 +4,4 @@ We made it. I have never been more active. Squatted an old church with 3 others,
 
 ---
 
-Source: https://casarobino.org/2009/03/bristol-activism
+<p class="chapter-source"><a href="https://casarobino.org/node/2402">node/2402</a></p>

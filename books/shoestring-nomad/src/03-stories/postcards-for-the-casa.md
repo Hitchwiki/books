@@ -5,4 +5,4 @@ Anyone of you which come with an idea, post your creation right here in the webs
 
 ---
 
-Source: https://casarobino.org/2009/05/postcards-casa
+<p class="chapter-source"><a href="https://casarobino.org/node/2935">node/2935</a></p>

@@ -27,4 +27,4 @@ Compartir cosas parece una forma de [trueque](/trueque). Sin embargo, para tomar
 
 ---
 
-Source: https://sindinero.net/compartir-cosas
+<p class="chapter-source"><a href="https://sindinero.net/node/18">node/18</a></p>

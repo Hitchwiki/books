@@ -20,4 +20,4 @@ Cualquiera que sea la forma en que las cosas en la sociedad han sido condicionad
 
 ---
 
-Source: https://sindinero.net/acerca
+<p class="chapter-source"><a href="https://sindinero.net/node/81">node/81</a></p>

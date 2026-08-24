@@ -9,4 +9,4 @@ Uno de los puntos en contra de las redes de intercambio de hospitalidad es que a
 
 ---
 
-Source: https://sindinero.net/redes-de-intercambio-de-hospitalidad
+<p class="chapter-source"><a href="https://sindinero.net/node/117">node/117</a></p>

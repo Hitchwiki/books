@@ -7,4 +7,4 @@ Long live Titnore woods!
 
 ---
 
-Source: https://casarobino.org/2009/05/living-treehouse
+<p class="chapter-source"><a href="https://casarobino.org/node/2934">node/2934</a></p>

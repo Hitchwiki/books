@@ -5,4 +5,4 @@ Cheers and hope to see some of you there! woot! x lil
 
 ---
 
-Source: https://casarobino.org/content/film-screening-tomorrow
+<p class="chapter-source"><a href="https://casarobino.org/node/2364">node/2364</a></p>

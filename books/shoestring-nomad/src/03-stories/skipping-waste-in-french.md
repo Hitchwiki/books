@@ -9,4 +9,4 @@ and lots of love to you all of course! xx lily
 
 ---
 
-Source: https://casarobino.org/2009/10/skipping-waste-french
+<p class="chapter-source"><a href="https://casarobino.org/node/7031">node/7031</a></p>

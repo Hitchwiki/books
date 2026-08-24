@@ -9,4 +9,4 @@
 
 ---
 
-Source: https://casarobino.org/content/quote-machine-assistants
+<p class="chapter-source"><a href="https://casarobino.org/node/45">node/45</a></p>

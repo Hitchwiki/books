@@ -14,4 +14,4 @@ Con estos trabajos tú [decides cuando y como hacerlos](/tags/libre-de-trabajo),
 
 ---
 
-Source: https://sindinero.net/trabajar-un-autobus-o-un-parque
+<p class="chapter-source"><a href="https://sindinero.net/node/126">node/126</a></p>

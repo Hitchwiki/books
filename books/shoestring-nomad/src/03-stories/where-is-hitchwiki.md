@@ -4,4 +4,4 @@ Hey, I'm trying to access hitchwiki.org since two days and constantly fail. You 
 
 ---
 
-Source: https://casarobino.org/2009/07/where-hitchwiki
+<p class="chapter-source"><a href="https://casarobino.org/node/4183">node/4183</a></p>

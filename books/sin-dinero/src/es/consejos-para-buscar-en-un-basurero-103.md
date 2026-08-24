@@ -25,4 +25,4 @@ Si usted no tiene dinero para comprar comida hurgar un basurero puede ser una so
 
 ---
 
-Source: https://sindinero.net/consejos-para-buscar-en-un-basurero
+<p class="chapter-source"><a href="https://sindinero.net/node/103">node/103</a></p>

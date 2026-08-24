@@ -12,4 +12,4 @@ Kids don't care.
 
 ---
 
-Source: https://casarobino.org/2009/11/common-shower-mental-painting
+<p class="chapter-source"><a href="https://casarobino.org/node/8062">node/8062</a></p>

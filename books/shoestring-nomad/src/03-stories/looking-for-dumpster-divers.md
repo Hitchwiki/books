@@ -13,4 +13,4 @@ karin@thurnfilm.de
 
 ---
 
-Source: https://casarobino.org/2010/06/looking-dumpster-divers
+<p class="chapter-source"><a href="https://casarobino.org/node/12146">node/12146</a></p>

@@ -11,4 +11,4 @@ gjemmott@gmail.com
 
 ---
 
-Source: https://casarobino.org/2010/01/hooray-lightfoot
+<p class="chapter-source"><a href="https://casarobino.org/node/8992">node/8992</a></p>

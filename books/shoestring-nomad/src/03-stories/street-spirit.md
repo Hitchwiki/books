@@ -4,4 +4,4 @@ Almost exactly 4 days on the road, 16 lifts, the last bringing me 2 metro stati
 
 ---
 
-Source: https://casarobino.org/2009/08/street-spirit
+<p class="chapter-source"><a href="https://casarobino.org/node/4678">node/4678</a></p>

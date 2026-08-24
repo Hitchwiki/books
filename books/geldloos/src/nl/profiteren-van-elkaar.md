@@ -12,4 +12,4 @@ Tot slot is het natuurlijk ook weer zo dat iedereen van elkaar profiteert. Of je
 
 ---
 
-Source: https://geldloos.nl/blog/profiteren-van-elkaar
+<p class="chapter-source"><a href="https://geldloos.nl/node/110">node/110</a></p>

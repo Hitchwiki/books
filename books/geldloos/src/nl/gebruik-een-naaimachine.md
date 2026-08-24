@@ -6,4 +6,4 @@ Op [wikihow.com](http://wikihow.com) vind je een [beschrijving](http://www.wikih
 
 ---
 
-Source: https://geldloos.nl/gebruik-een-naaimachine
+<p class="chapter-source"><a href="https://geldloos.nl/node/10">node/10</a></p>

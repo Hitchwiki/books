@@ -16,10 +16,10 @@ There are also video's available on youtube, see for example this one:
 
 The amount of time you leave it in the oven and the temperature doesn't really matter. Every oven (and climate, think humidity and temperature) does something else to your bread. The least you want is half an hour, and the best thing is max temparature when you put the bread inside, as long as you bring it down afterwards! The minimum is 180c for at least 40 minutes. But if you keep it higher, the bread can also do with less minutes. Just experiment and you will notice how different it tastes.
 
-A nice tip: instead of water, you can also use fresh tomatoes. Add some herbs such as fresh basil to give it an 'Italian' taste. Add pepper and (fresh) ginger to spice it up. Put these things in the mix of water, or tomatoes. And never put too much salt;) Some other ingredients that go really well: seeds, muesli, raisins, olives.
+A nice tip: instead of water, you can also use fresh tomatoes. Add some herbs such as fresh basil to give it an 'Italian' taste. Add pepper and (fresh) ginger to spice it up. Put these things in the mix of water, or tomatoes. And never put too much salt ;) Some other ingredients that go really well: seeds, muesli, raisins, olives.
 
 Happy bread-making!
 
 ---
 
-Source: https://casarobino.org/2009/09/keeping-pastamadre-alive
+<p class="chapter-source"><a href="https://casarobino.org/node/5422">node/5422</a></p>

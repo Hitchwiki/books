@@ -18,4 +18,4 @@ También hacer autostop en barcos es una buena manera de viajar de continente a 
 
 ---
 
-Source: https://sindinero.net/como-viajar-sin-dinero
+<p class="chapter-source"><a href="https://sindinero.net/node/143">node/143</a></p>

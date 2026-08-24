@@ -7,4 +7,4 @@ Love,
 
 ---
 
-Source: https://casarobino.org/2010/10/discrimination-poster
+<p class="chapter-source"><a href="https://casarobino.org/node/14396">node/14396</a></p>

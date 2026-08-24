@@ -5,11 +5,14 @@ from __future__ import annotations
 
 import argparse
 import datetime as dt
-import html
+import gzip
+from html import escape, unescape
+import json
 import re
 import shutil
 import subprocess
 import sys
+import xml.etree.ElementTree as ET
 from pathlib import Path
 
 import yaml
@@ -21,8 +24,69 @@ from editorial import is_omitted_chapter, is_redirect_chapter
 from themes import THEMES, cover_html, fonts_dir, logos_dir, photo_credit_markdown, photos_dir, write_css_files
 from titles import geo_src_key
 from toc import enhance_html
-from wiki_links import strip_interwiki_html
 from ui_strings import ui_strings
+from wiki_links import strip_interwiki_html
+
+
+DRUPAL_SOURCE_DUMPS = {
+    "random-roads": ("randomroads-nodes.xml.gz", "https://randomroads.org/"),
+    "dumpsterdam": ("dumpsterdam-nodes.xml.gz", "https://dumpsterdam.nl/"),
+    "moneyless": ("moneylessorg-nodes.xml.gz", "https://moneyless.org/"),
+    "geldloos": ("geldloosnl-nodes.xml.gz", "https://geldloos.nl/"),
+    "sin-dinero": ("sindineronet-nodes.xml.gz", "https://sindinero.net/"),
+    "shoestring-nomad": ("casarobino-nodes.xml.gz", "https://casarobino.org/"),
+}
+
+SOURCE_PARAGRAPH_RE = re.compile(
+    r'<p>Source:\s*(?:<a\s+href="(?P<href>[^"]+)"[^>]*>.*?</a>|'
+    r'(?P<text>https?://[^<\s]+))\s*</p>',
+    re.I | re.S,
+)
+
+
+def compact_drupal_source_links(html_doc: str, slug: str) -> str:
+    """Render Drupal source attributions as quiet canonical node links."""
+    spec = DRUPAL_SOURCE_DUMPS.get(slug)
+    if not spec:
+        return html_doc
+    dump_name, base = spec
+    dump_path = ROOT / "dumps" / "sql" / dump_name
+    if not dump_path.exists():
+        return html_doc
+    aliases: dict[str, tuple[str, str]] = {}
+    root = ET.parse(gzip.open(dump_path)).getroot()
+    for row in root.findall("row"):
+        fields = {f.get("name") or "": f.text or "" for f in row.findall("field")}
+        nid = fields.get("nid", "").strip()
+        if not nid.isdigit():
+            continue
+        node_path = f"node/{nid}"
+        canonical = base + node_path
+        aliases[canonical.rstrip("/")] = (canonical, node_path)
+        alias = fields.get("alias", "").strip("/")
+        if alias:
+            aliases[(base + alias).rstrip("/")] = (canonical, node_path)
+
+    def replace(match: re.Match[str]) -> str:
+        source_url = unescape(match.group("href") or match.group("text") or "").rstrip("/")
+        target = aliases.get(source_url)
+        if not target:
+            return match.group(0)
+        canonical, node_path = target
+        return (
+            f'<p class="chapter-source"><a href="{escape(canonical, quote=True)}">'
+            f'{node_path}</a></p>'
+        )
+
+    return SOURCE_PARAGRAPH_RE.sub(replace, html_doc)
+
+
+def drupal_source_manifest(book: Path) -> dict[str, dict[str, str]]:
+    path = book / "editorial" / "drupal-nodes.json"
+    if not path.exists():
+        return {}
+    data = json.loads(path.read_text(encoding="utf-8"))
+    return data if isinstance(data, dict) else {}
 
 
 def version_stamp(raw: str | None) -> str:
@@ -31,7 +95,7 @@ def version_stamp(raw: str | None) -> str:
     return "0.1-" + dt.datetime.now(dt.timezone.utc).strftime("%Y%m%d-%H%M")
 
 
-def chapter_files(book: Path) -> list[Path]:
+def chapter_files(book: Path, lang: str = "en") -> list[Path]:
     src = book / "src"
     if not src.exists():
         return []
@@ -42,7 +106,13 @@ def chapter_files(book: Path) -> list[Path]:
         and not is_omitted_chapter(book, p)
         and not is_redirect_chapter(book, p)
     ]
-    fallback = sorted(files, key=lambda p: geo_src_key(p.relative_to(src)))
+    def sort_key(path: Path) -> tuple:
+        rel = path.relative_to(src)
+        # Keep front matter first, then the book's primary language, then translations.
+        language_rank = 0 if len(rel.parts) == 1 else (1 if rel.parts[0] == lang else 2)
+        return (language_rank, geo_src_key(rel))
+
+    fallback = sorted(files, key=sort_key)
     order_path = book / "editorial" / "order.txt"
     if not order_path.exists():
         return fallback
@@ -56,7 +126,7 @@ def chapter_files(book: Path) -> list[Path]:
         key=lambda p: (
             0 if p.relative_to(src).as_posix() in rank else 1,
             rank.get(p.relative_to(src).as_posix(), 0),
-            geo_src_key(p.relative_to(src)),
+            sort_key(p),
         ),
     )
 
@@ -129,8 +199,9 @@ def build(slug: str, version: str, formats: list[str], out: Path) -> None:
     meta_path = book / "metadata.yaml"
     meta = yaml.safe_load(meta_path.read_text(encoding="utf-8")) if meta_path.exists() else {}
     meta["version"] = version
-    labels = ui_strings(str(meta.get("lang", "en")))
-    chapters = chapter_files(book)
+    lang = str(meta.get("lang", "en"))
+    labels = ui_strings(lang)
+    chapters = chapter_files(book, lang)
     if not chapters:
         print(f"{slug}: no chapters, skip")
         return
@@ -187,7 +258,7 @@ def build(slug: str, version: str, formats: list[str], out: Path) -> None:
         index = html_dir / "index.html"
         if index.exists():
             html = index.read_text(encoding="utf-8")
-            title = html.escape(str(meta.get("title", slug)))
+            title = escape(str(meta.get("title", slug)))
             banner = (
                 '<header class="book-banner">'
                 '<div class="book-banner-inner">'
@@ -214,7 +285,14 @@ def build(slug: str, version: str, formats: list[str], out: Path) -> None:
             html = re.sub(r"(?:\.\./)+images/", "images/", html)
             html = rewrite_html_images(html, wiki_image_map(book / "images"))
             html = strip_interwiki_html(html)
-            html = enhance_html(html, chapters, book / "src")
+            html = compact_drupal_source_links(html, slug)
+            html = enhance_html(
+                html,
+                chapters,
+                book / "src",
+                lang,
+                drupal_source_manifest(book),
+            )
             index.write_text(html, encoding="utf-8")
     stem = f"{slug}-{version}"
     if "epub" in formats:

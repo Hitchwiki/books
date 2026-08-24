@@ -6,4 +6,4 @@ After all, i am the only place where all the people i love will ever all be toge
 
 ---
 
-Source: https://casarobino.org/2010/06/coming-home
+<p class="chapter-source"><a href="https://casarobino.org/node/12086">node/12086</a></p>

@@ -7,4 +7,4 @@ Right, now thats all said i await the onslaught of comments daming me for my unh
 
 ---
 
-Source: https://casarobino.org/2009/09/mutiny
+<p class="chapter-source"><a href="https://casarobino.org/node/5018">node/5018</a></p>

@@ -10,4 +10,4 @@ Choo-choo-choose your way of travel and stay chic, no matter what train you deci
 
 ---
 
-Source: https://moneyless.org/cheap-train-travel
+<p class="chapter-source"><a href="https://moneyless.org/node/193">node/193</a></p>

@@ -15,4 +15,4 @@ In 2014 is Raphaels boek *Glücklich ohne Geld* uitgekomen.
 
 ---
 
-Source: https://geldloos.nl/raphael-fellmer
+<p class="chapter-source"><a href="https://geldloos.nl/node/153">node/153</a></p>

@@ -4,4 +4,4 @@ Managed to fix a bug and now the website is back running almost normally, but we
 
 ---
 
-Source: https://casarobino.org/content/website-should-be-more-fixed-now
+<p class="chapter-source"><a href="https://casarobino.org/node/2333">node/2333</a></p>

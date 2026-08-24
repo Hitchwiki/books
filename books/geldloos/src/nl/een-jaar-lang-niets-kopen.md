@@ -12,4 +12,4 @@ Er is ook het initiatief om [een maand lang niets nieuws te kopen](/niets-kopen-
 
 ---
 
-Source: https://geldloos.nl/een-jaar-lang-niets-kopen
+<p class="chapter-source"><a href="https://geldloos.nl/node/66">node/66</a></p>

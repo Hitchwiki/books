@@ -5,8 +5,8 @@ to read more:
 http://www.17-s.info/en/i-have-robbed-492000-euros-whom-most-rob-us-order-denounce-them-and-build-some-alternatives-society
 or to listen to:
 http://blip.tv/file/1280692/
-Enjoy and reassure yourself about mankind:)
+Enjoy and reassure yourself about mankind :)
 
 ---
 
-Source: https://casarobino.org/2009/04/robin-hood-robbing-banks
+<p class="chapter-source"><a href="https://casarobino.org/node/2522">node/2522</a></p>

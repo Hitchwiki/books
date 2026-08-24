@@ -12,4 +12,4 @@ With flour and water you can make *leaven*. It works like this: you mix the flou
 
 ---
 
-Source: https://moneyless.org/bake-your-own-bread
+<p class="chapter-source"><a href="https://moneyless.org/node/35">node/35</a></p>

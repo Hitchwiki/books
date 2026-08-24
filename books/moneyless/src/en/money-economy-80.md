@@ -26,4 +26,4 @@ We think it's good, because it ensures a certain distribution. But it's a system
 
 ---
 
-Source: https://moneyless.org/money-economy
+<p class="chapter-source"><a href="https://moneyless.org/node/80">node/80</a></p>

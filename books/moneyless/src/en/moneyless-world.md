@@ -27,4 +27,4 @@ At [openbible.info](http://www.openbible.info/topics/money) you can find more bi
 
 ---
 
-Source: https://moneyless.org/moneyless-world
+<p class="chapter-source"><a href="https://moneyless.org/node/140">node/140</a></p>

@@ -4,4 +4,4 @@ My mission for the week is to find free access to decent quality scanner(s) and 
 
 ---
 
-Source: https://casarobino.org/content/search-free-art-enabling-electronic-goods
+<p class="chapter-source"><a href="https://casarobino.org/node/273">node/273</a></p>

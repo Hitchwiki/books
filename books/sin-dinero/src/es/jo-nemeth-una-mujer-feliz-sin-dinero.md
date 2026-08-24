@@ -19,4 +19,4 @@ Cuando Jo dejó de usar monedas y billetes como forma de obtener recursos, solo 
 
 ---
 
-Source: https://sindinero.net/jo-nemeth-una-mujer-feliz-sin-dinero
+<p class="chapter-source"><a href="https://sindinero.net/node/141">node/141</a></p>

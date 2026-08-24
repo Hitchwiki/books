@@ -44,4 +44,4 @@ https://www.theguardian.com/society/2017/jan/25/weed-tubers-smoke-weed-youtube-f
 
 ---
 
-Source: https://moneyless.org/free-weed
+<p class="chapter-source"><a href="https://moneyless.org/node/127">node/127</a></p>

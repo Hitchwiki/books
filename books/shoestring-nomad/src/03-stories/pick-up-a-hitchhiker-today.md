@@ -5,4 +5,4 @@ Can we manipulate this image to show 'pick up a hiitchhiker today' instead?
 
 ---
 
-Source: https://casarobino.org/2010/03/pick-hitchhiker-today
+<p class="chapter-source"><a href="https://casarobino.org/node/10524">node/10524</a></p>

@@ -5,4 +5,4 @@ Perogies, hummus, tabouli, guacamole, kiwi jam, roasted vegetables, pasta madre 
 
 ---
 
-Source: https://casarobino.org/2010/01/new-dumpsters-new-food-masterpieces-and-beans-kitten
+<p class="chapter-source"><a href="https://casarobino.org/node/9250">node/9250</a></p>

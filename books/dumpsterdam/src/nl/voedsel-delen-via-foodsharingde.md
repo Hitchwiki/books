@@ -6,4 +6,4 @@ In Nederland is er iets soortgelijks maar vooralsnog kleiner in opzet: http://ww
 
 ---
 
-Source: https://dumpsterdam.nl/nieuws/voedsel-delen-foodsharingde
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/51">node/51</a></p>

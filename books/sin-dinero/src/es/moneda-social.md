@@ -20,4 +20,4 @@ Si te interesa saber m√°s sobre moneda social te recomendamos revisar [este art√
 
 ---
 
-Source: https://sindinero.net/moneda-social
+<p class="chapter-source"><a href="https://sindinero.net/node/146">node/146</a></p>

@@ -7,4 +7,4 @@ Een groeiende groep mensen vindt het steeds moeilijker om schulden af te lossen.
 
 ---
 
-Source: https://geldloos.nl/nieuws/helft-schulden-niet-te-innen
+<p class="chapter-source"><a href="https://geldloos.nl/node/93">node/93</a></p>

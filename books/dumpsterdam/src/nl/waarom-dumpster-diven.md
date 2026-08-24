@@ -8,4 +8,4 @@ De buitenstaander refereer overigens naar het artikel "[Wennen aan kromme komkom
 
 ---
 
-Source: https://dumpsterdam.nl/artikel/waarom-dumpster-diven
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/42">node/42</a></p>

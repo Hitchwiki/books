@@ -27,4 +27,4 @@ Creemos que es bueno, porque asegura una cierta distribución. Pero es un sistem
 
 ---
 
-Source: https://sindinero.net/economia-monetaria
+<p class="chapter-source"><a href="https://sindinero.net/node/80">node/80</a></p>

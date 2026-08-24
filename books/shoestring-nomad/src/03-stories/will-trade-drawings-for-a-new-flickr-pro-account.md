@@ -11,4 +11,4 @@ P.S. I know this posting will probably cause controversy over the usage of propr
 
 ---
 
-Source: https://casarobino.org/2010/01/will-trade-drawings-new-flickr-pro-account
+<p class="chapter-source"><a href="https://casarobino.org/node/9049">node/9049</a></p>

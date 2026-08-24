@@ -15,4 +15,4 @@ Did anyone ever have similar thoughts? Did any of you ever give up a ride that w
 
 ---
 
-Source: https://casarobino.org/2010/02/hitchhiking-and-hypocrisy
+<p class="chapter-source"><a href="https://casarobino.org/node/9723">node/9723</a></p>

@@ -1,4 +1,4 @@
-# Peru! (and Chile?)
+# Peru!  (and Chile?)
 
 Casa casa!
 I'm headed to Peru! And maybe Chile. Do you know anyone in Peru or Chile who would be wonderful to meet?
@@ -12,4 +12,4 @@ Miss you all!
 
 ---
 
-Source: https://casarobino.org/2013/07/peru-and-chile
+<p class="chapter-source"><a href="https://casarobino.org/node/27782">node/27782</a></p>

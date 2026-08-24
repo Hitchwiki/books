@@ -6,4 +6,4 @@ Op je eigen computer kan je ook Linux installeren. Dat komt met alle programma's
 
 ---
 
-Source: https://geldloos.nl/gebruik-vrije-software
+<p class="chapter-source"><a href="https://geldloos.nl/node/3">node/3</a></p>

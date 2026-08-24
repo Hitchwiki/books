@@ -1,7 +1,7 @@
 # Verjaardagsfeestje Robin
 
-The flyer says it all. Drawing by Gabi. Jeeeeeeeeee:)
+The flyer says it all. Drawing by Gabi. Jeeeeeeeeee :)
 
 ---
 
-Source: https://casarobino.org/2012/04/verjaardagsfeestje-robin
+<p class="chapter-source"><a href="https://casarobino.org/node/25469">node/25469</a></p>

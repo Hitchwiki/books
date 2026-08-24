@@ -17,4 +17,4 @@ Here are four guidelines to stick to for smooth operations:
 
 ---
 
-Source: https://moneyless.org/find-edible-plants
+<p class="chapter-source"><a href="https://moneyless.org/node/19">node/19</a></p>

@@ -6,4 +6,4 @@ Gevonden via [Buy Nothing New](http://www.buynothingnew.nl/de-goedzak/), een cam
 
 ---
 
-Source: https://dumpsterdam.nl/artikel/de-goedzak-om-spullen-weg-te-geven
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/44">node/44</a></p>

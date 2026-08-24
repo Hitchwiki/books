@@ -36,4 +36,4 @@ Door te consuminderen heb je vaak minder geld nodig. Hierdoor kan je ook minder 
 
 ---
 
-Source: https://geldloos.nl/consuminderen
+<p class="chapter-source"><a href="https://geldloos.nl/node/168">node/168</a></p>

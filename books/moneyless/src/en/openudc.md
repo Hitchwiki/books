@@ -6,4 +6,4 @@ http://www.openudc.org/index.php?pages/Frequently-Asked-Questions
 
 ---
 
-Source: https://moneyless.org/openudc
+<p class="chapter-source"><a href="https://moneyless.org/node/107">node/107</a></p>

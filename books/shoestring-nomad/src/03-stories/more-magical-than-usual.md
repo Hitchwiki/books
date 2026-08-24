@@ -17,4 +17,4 @@ hugs.
 
 ---
 
-Source: https://casarobino.org/content/more-magical-usual
+<p class="chapter-source"><a href="https://casarobino.org/node/2356">node/2356</a></p>

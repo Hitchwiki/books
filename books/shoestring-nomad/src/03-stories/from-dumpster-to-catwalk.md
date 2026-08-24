@@ -5,4 +5,4 @@ http://tinyurl.com/louisvuittontrashbags
 
 ---
 
-Source: https://casarobino.org/2010/02/dumpster-catwalk
+<p class="chapter-source"><a href="https://casarobino.org/node/9490">node/9490</a></p>

@@ -12,4 +12,4 @@ Tonight we are looking at having a dozen people overnight, including my co-dad S
 
 ---
 
-Source: https://casarobino.org/content/model-un-dinner
+<p class="chapter-source"><a href="https://casarobino.org/node/98">node/98</a></p>

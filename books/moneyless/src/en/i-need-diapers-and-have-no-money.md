@@ -40,4 +40,4 @@ Freelancing is a proven way to augment income. Not only is there a steady demand
 
 ---
 
-Source: https://moneyless.org/i-need-diapers-i-have-no-money
+<p class="chapter-source"><a href="https://moneyless.org/node/187">node/187</a></p>

@@ -15,4 +15,4 @@ Tenemos algunos consejos más sobre la [comida gratuita aquí en este sitio web]
 
 ---
 
-Source: https://sindinero.net/buscando-plantas-comestibles
+<p class="chapter-source"><a href="https://sindinero.net/node/19">node/19</a></p>

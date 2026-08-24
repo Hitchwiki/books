@@ -11,4 +11,4 @@ Si te interesa conocer más acerca de esta extraordinaria persona que logró viv
 
 ---
 
-Source: https://sindinero.net/heidemarie-schwermer
+<p class="chapter-source"><a href="https://sindinero.net/node/144">node/144</a></p>

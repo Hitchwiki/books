@@ -9,4 +9,4 @@ Volgend hierop is het plan om een supergroot evenement te organiseren, om vijfdu
 
 ---
 
-Source: https://dumpsterdam.nl/artikel/damn-food-waste
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/54">node/54</a></p>

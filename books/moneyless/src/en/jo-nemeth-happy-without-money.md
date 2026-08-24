@@ -34,4 +34,4 @@ I think there is a man in South Australia who lives without money. He calls hims
 
 ---
 
-Source: https://moneyless.org/jo-nemeth-happy-without-money
+<p class="chapter-source"><a href="https://moneyless.org/node/266">node/266</a></p>

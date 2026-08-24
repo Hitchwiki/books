@@ -8,4 +8,4 @@ In conditions of extreme cold, residents are publicly encouraged to report any r
 
 ---
 
-Source: https://moneyless.org/where-do-homeless-go-cold-lithuanian-winters
+<p class="chapter-source"><a href="https://moneyless.org/node/133">node/133</a></p>

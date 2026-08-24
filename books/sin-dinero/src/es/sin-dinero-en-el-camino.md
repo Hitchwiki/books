@@ -7,4 +7,4 @@ La gente a menudo se quedaba muy sorprendida de verme y escuchar acerca de las r
 
 ---
 
-Source: https://sindinero.net/sin-dinero-en-el-camino
+<p class="chapter-source"><a href="https://sindinero.net/node/22">node/22</a></p>

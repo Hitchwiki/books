@@ -7,4 +7,4 @@ I've realized something lately: at some point or another, we've all been talked 
 
 ---
 
-Source: https://casarobino.org/2009/09/halfway-uphill
+<p class="chapter-source"><a href="https://casarobino.org/node/4988">node/4988</a></p>

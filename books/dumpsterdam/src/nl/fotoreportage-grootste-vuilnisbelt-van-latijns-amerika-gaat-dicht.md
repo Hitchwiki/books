@@ -4,4 +4,4 @@ Met een omvang van 1,3 miljoen vierkante meter, en een top van 60 meter, is Jard
 
 ---
 
-Source: https://dumpsterdam.nl/nieuws/fotoreportage-grootste-vuilnisbelt-van-latijns-amerika-gaat-dicht
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/30">node/30</a></p>

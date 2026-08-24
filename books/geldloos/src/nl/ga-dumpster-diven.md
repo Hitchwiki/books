@@ -8,4 +8,4 @@ Heb je [geen geld om te eten](https://geldloos.nl/geen-geld-voor-eten), dat kan 
 
 ---
 
-Source: https://geldloos.nl/ga-dumpster-diven
+<p class="chapter-source"><a href="https://geldloos.nl/node/11">node/11</a></p>

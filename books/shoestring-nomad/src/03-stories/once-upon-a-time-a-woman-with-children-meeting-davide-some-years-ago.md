@@ -19,4 +19,4 @@ It was not the moment to tell her that sometimes are little things that shape yo
 
 ---
 
-Source: https://casarobino.org/2009/04/once-upon-time-woman-children-meeting-davide-some-years-ago
+<p class="chapter-source"><a href="https://casarobino.org/node/2639">node/2639</a></p>

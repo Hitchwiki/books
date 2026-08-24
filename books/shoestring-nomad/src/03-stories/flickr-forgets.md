@@ -4,4 +4,4 @@ i am losing my [flickr pro](http://flickr.com/photos/amylin) account today or to
 
 ---
 
-Source: https://casarobino.org/content/flickr-forgets
+<p class="chapter-source"><a href="https://casarobino.org/node/665">node/665</a></p>

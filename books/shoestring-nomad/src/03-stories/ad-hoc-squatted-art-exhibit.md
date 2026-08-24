@@ -8,4 +8,4 @@ www.schijnheilig.org
 
 ---
 
-Source: https://casarobino.org/2010/01/ad-hoc-squatted-art-exhibit
+<p class="chapter-source"><a href="https://casarobino.org/node/8944">node/8944</a></p>

@@ -14,4 +14,4 @@ Nearly all of it was made possible by a very small catch from a grocery store ne
 
 ---
 
-Source: https://casarobino.org/2009/05/thursday-night-dinner-istanbul
+<p class="chapter-source"><a href="https://casarobino.org/node/2798">node/2798</a></p>

@@ -4,4 +4,4 @@ Artwork created for 6.8.10, Acrylic on cardboard
 
 ---
 
-Source: https://casarobino.org/2010/03/6810-artwork-0
+<p class="chapter-source"><a href="https://casarobino.org/node/10540">node/10540</a></p>

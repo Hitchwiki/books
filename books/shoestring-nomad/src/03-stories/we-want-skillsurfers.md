@@ -6,4 +6,4 @@ Things that immediately popped up in our heads was a very simple but effective o
 
 ---
 
-Source: https://casarobino.org/content/we-want-skillsurfers
+<p class="chapter-source"><a href="https://casarobino.org/node/96">node/96</a></p>

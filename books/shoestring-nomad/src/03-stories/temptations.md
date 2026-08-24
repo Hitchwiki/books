@@ -4,4 +4,4 @@ Jjust some keywords before taking off to the airport. 26 hours, toolbox for Sust
 
 ---
 
-Source: https://casarobino.org/content/temptations
+<p class="chapter-source"><a href="https://casarobino.org/node/88">node/88</a></p>

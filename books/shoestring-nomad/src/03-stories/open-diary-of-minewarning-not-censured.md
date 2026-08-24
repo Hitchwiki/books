@@ -1,4 +1,4 @@
-# open diary of mine,warning: not censured
+# open diary of mine,warning:  not censured
 
 its gonna be hard winter and Aris is going to the south to deal with french keyboards which she hates so much.
 WAS THAT ME?
@@ -7,7 +7,7 @@ Got to the A2 at 17.30 and then go straight on to Maastricht changing three cars
 21.14 belgium. What really pissed me off was the gold smoking papers. i just bought them few hours ago and since i hadn't bought myself papers for long weeks now i was really looking forward to use my own papers after a while. ----They were stoped by police in the middle of high way (first time in my life) and dropped by a side where the control was going on. I was sending love vibration to police officers like allways, trying to be cool... The guys were searched before me while I was sitting in theirs car. Then the belgium PPPPoliceman came and he took me to same van to talk...? (what?) After I told him that i was on a meeting of programers and i m going to the south of france to be part of the european projects he would look at me like a fool that has to say his sentence:
 Do you think I'm gonna believe you that?
 You can belive whatever you want.
-sO, they've took me, now by a woman to the secret van place, one square meter too much white colour and searched me there.. first that.... did was that she took my gold smoking papers of which I've used ONLY ONE! Then she was all into my 'bress' (how do you spell that in en?) but she didn't found a joint that i had for emergency. but she did discovered a thing in my penties.... Those sorts of things would have to stay private for allways...
+sO, they've took me, now by a woman to the secret van place, one square meter too much white colour and searched me there.. first that .... did was that she took my gold smoking papers of which I've used ONLY ONE! Then she was all into my 'bress' (how do you spell that in en?) but she didn't found a joint that i had for emergency. but she did discovered a thing in my penties.... Those sorts of things would have to stay private for allways...
 We got out of the white room where was another girl, probably on hard drugs waiting already to debute into the white room. MY b.-police-woman throw the papers and a pack with 0.4 weed on the table infront of another officer and I started to protestate that they should return my papers cos I'm not extra rich to just buy papers as i want. After the guy which was holding my bagg and looking into it, wearing black, looked at me, just once and I just ran out, swallowing all the papers of my life.
 We came out of this control thing after I had fight with few policemans... Open fight, I was alone against everyone from European Co. I really didn't mind them beeing policemans, I just mind they were getting stupid from the cold...
 There was snow going on for another 300,400 km from Maastricht, don't know really, somehow i managed to close my eyes for a while,thou, I was well aware that guy sitting next to me layed his eyes on my camera-baby. Acctually I started to think to just give him the camera and get serious - eventualy - in my life. Yea, whatever.
@@ -30,4 +30,4 @@ and so on....
 
 ---
 
-Source: https://casarobino.org/content/open-diary-minewarning-not-censured
+<p class="chapter-source"><a href="https://casarobino.org/node/234">node/234</a></p>

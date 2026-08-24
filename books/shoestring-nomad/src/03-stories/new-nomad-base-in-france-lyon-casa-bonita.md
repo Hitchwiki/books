@@ -9,4 +9,4 @@ PS: We're celebrating the launch with Tau and Sandra tonight. And Claude and Ral
 
 ---
 
-Source: https://casarobino.org/casa-bonita-launch
+<p class="chapter-source"><a href="https://casarobino.org/node/14121">node/14121</a></p>

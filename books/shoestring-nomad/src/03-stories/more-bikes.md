@@ -4,4 +4,4 @@ We got gypsy and Mirtilla working last night.
 
 ---
 
-Source: https://casarobino.org/2009/08/more-bikes
+<p class="chapter-source"><a href="https://casarobino.org/node/4773">node/4773</a></p>

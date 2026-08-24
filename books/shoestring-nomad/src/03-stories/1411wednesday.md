@@ -12,4 +12,4 @@ bon apetit.
 
 ---
 
-Source: https://casarobino.org/content/1411wednesday
+<p class="chapter-source"><a href="https://casarobino.org/node/138">node/138</a></p>

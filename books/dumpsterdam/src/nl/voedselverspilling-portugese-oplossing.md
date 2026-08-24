@@ -4,4 +4,4 @@ Een nieuw initiatief in Portugal, Zero Desperdicio (Zero Waste) lost het problee
 
 ---
 
-Source: https://dumpsterdam.nl/voedselverspilling-portugese-oplossing
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/94">node/94</a></p>

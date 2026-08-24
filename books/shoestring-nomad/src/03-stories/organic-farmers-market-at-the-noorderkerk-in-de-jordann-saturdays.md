@@ -8,4 +8,4 @@ On Mondays there's also a textile goods + flea market in the same area.
 
 ---
 
-Source: https://casarobino.org/2009/09/organic-farmers-market-noorderkerk-de-jordann-saturdays
+<p class="chapter-source"><a href="https://casarobino.org/node/5596">node/5596</a></p>

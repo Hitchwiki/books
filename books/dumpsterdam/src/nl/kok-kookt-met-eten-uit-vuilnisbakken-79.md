@@ -4,4 +4,4 @@
 
 ---
 
-Source: https://dumpsterdam.nl/nieuws/kok-kookt-met-eten-uit-vuilnisbakken
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/79">node/79</a></p>

@@ -11,4 +11,4 @@ FAQ: <http://sites.google.com/site/livingwithoutmoney/Home/all-faq-s-together-in
 
 ---
 
-Source: https://casarobino.org/2009/07/living-zero-money-abundantly
+<p class="chapter-source"><a href="https://casarobino.org/node/4419">node/4419</a></p>

@@ -16,4 +16,4 @@ http://thjodfundur2009.is/
 
 ---
 
-Source: https://casarobino.org/2009/11/recreating-governance-open-source-way
+<p class="chapter-source"><a href="https://casarobino.org/node/8013">node/8013</a></p>

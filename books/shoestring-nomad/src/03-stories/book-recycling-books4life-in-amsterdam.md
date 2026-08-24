@@ -6,4 +6,4 @@ The place is great to have a quick scan if there is anything interesting. But wh
 
 ---
 
-Source: https://casarobino.org/2010/02/book-recycling-books4life-amsterdam
+<p class="chapter-source"><a href="https://casarobino.org/node/9608">node/9608</a></p>

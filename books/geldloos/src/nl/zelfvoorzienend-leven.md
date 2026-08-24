@@ -8,4 +8,4 @@ Plannen om die kant op te gaan heb ik vooralsnog niet. Maar wel zou ik graag wat
 
 ---
 
-Source: https://geldloos.nl/blog/zelfvoorzienend-leven
+<p class="chapter-source"><a href="https://geldloos.nl/node/71">node/71</a></p>

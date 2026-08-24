@@ -6,4 +6,4 @@ Ook is er een nieuwe tip verschenen, over [weggeefwinkels](https://geldloos.nl/w
 
 ---
 
-Source: https://geldloos.nl/blog/verder-met-geldloos
+<p class="chapter-source"><a href="https://geldloos.nl/node/32">node/32</a></p>

@@ -7,4 +7,4 @@ http://www.youtube.com/watch?v=uh6Qla-OQ-M
 
 ---
 
-Source: https://casarobino.org/2009/10/birds
+<p class="chapter-source"><a href="https://casarobino.org/node/6909">node/6909</a></p>

@@ -5,4 +5,4 @@ http://au.news.yahoo.com/today-tonight/lifestyle/article/-/12458245/a-nomads-lif
 
 ---
 
-Source: https://casarobino.org/2011/12/walking-30-years
+<p class="chapter-source"><a href="https://casarobino.org/node/23172">node/23172</a></p>

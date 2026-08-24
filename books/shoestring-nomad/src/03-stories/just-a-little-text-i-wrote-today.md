@@ -25,4 +25,4 @@ And then I laugh again.
 
 ---
 
-Source: https://casarobino.org/2009/08/just-little-text-i-wrote-today
+<p class="chapter-source"><a href="https://casarobino.org/node/4820">node/4820</a></p>

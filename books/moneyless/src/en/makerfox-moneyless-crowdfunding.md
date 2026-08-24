@@ -36,4 +36,4 @@ Anyway, we invented the moneyless crowdfunding feature to get past the problem. 
 
 ---
 
-Source: https://moneyless.org/makerfox-moneyless-crowdfunding
+<p class="chapter-source"><a href="https://moneyless.org/node/163">node/163</a></p>

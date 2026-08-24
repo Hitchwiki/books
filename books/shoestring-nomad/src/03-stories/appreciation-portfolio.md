@@ -6,4 +6,4 @@ So you would list things you like, make suggestions for specific kinds of apprec
 
 ---
 
-Source: https://casarobino.org/content/appreciation-portfolio
+<p class="chapter-source"><a href="https://casarobino.org/node/282">node/282</a></p>

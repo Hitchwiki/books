@@ -1,11 +1,14 @@
 # Curated reading order: identity, road stories, journeys, then the zine workshop.
 00-frontmatter.md
+[Intro]
+en/background.md
 en/about-random-roads.md
 en/basic-idea.md
 en/hitchhiking-magazine.md
 en/free-fall-travel-nomadic-culture.md
 en/community-driven.md
 en/a-printed-magazine.md
+[Stories]
 en/thumbin-it-the-evolution-of-hitchhiking.md
 en/not-the-average-ride.md
 en/am-i-brave-enough.md
@@ -42,7 +45,7 @@ en/thick-as-thieves.md
 en/hitchhiking-in-reverse-navigating-the-uncharted-roads-of-adventure.md
 en/hitchhiking-blazing-the-path-of-life.md
 en/viva-con-agua-hitchhike-race-2008.md
-en/background.md
+[The Zine]
 en/your-role.md
 en/join-random-roads.md
 en/submit-your-work.md

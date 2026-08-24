@@ -39,4 +39,4 @@ The more often you go through that process of creative thinking, the more resour
 
 ---
 
-Source: https://moneyless.org/life-without-money-field-guide
+<p class="chapter-source"><a href="https://moneyless.org/node/224">node/224</a></p>

@@ -4,4 +4,4 @@ The Gleaners’ Kitchen is an underground restaurant and grocery store based in 
 
 ---
 
-Source: https://dumpsterdam.nl/nieuws/gleaners’-kitchen
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/65">node/65</a></p>

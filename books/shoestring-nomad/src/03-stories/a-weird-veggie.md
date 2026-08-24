@@ -4,4 +4,4 @@ I just fished this weird veggie while dumpster diving in Oslo (along with a lot 
 
 ---
 
-Source: https://casarobino.org/2009/12/weird-veggie
+<p class="chapter-source"><a href="https://casarobino.org/node/8286">node/8286</a></p>

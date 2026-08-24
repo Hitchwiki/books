@@ -4,4 +4,4 @@
 
 ---
 
-Source: https://casarobino.org/content/guaka-happy-birthday-new-wiki-you
+<p class="chapter-source"><a href="https://casarobino.org/node/308">node/308</a></p>

@@ -5,4 +5,4 @@ Nice dinner, good people, random phone-calls and great inspiration for future pr
 
 ---
 
-Source: https://casarobino.org/content/smoking-apples
+<p class="chapter-source"><a href="https://casarobino.org/node/37">node/37</a></p>

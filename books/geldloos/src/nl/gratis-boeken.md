@@ -40,4 +40,4 @@ Bij [Amazon](https://www.amazon.de/) kun je ook gratis boeken downloaden. Dit is
 
 ---
 
-Source: https://geldloos.nl/gratis-boeken
+<p class="chapter-source"><a href="https://geldloos.nl/node/119">node/119</a></p>

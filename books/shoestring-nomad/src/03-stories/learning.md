@@ -26,4 +26,4 @@ Ania
 
 ---
 
-Source: https://casarobino.org/2010/01/learning
+<p class="chapter-source"><a href="https://casarobino.org/node/9077">node/9077</a></p>

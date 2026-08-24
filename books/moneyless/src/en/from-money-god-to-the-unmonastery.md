@@ -6,4 +6,4 @@ Bitcoin could be an alternative, and there are [some](http://bitcoinsberlin.com/
 
 ---
 
-Source: https://moneyless.org/money-god-unmonastery
+<p class="chapter-source"><a href="https://moneyless.org/node/114">node/114</a></p>

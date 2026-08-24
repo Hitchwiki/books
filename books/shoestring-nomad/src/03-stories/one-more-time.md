@@ -6,4 +6,4 @@ The following morning we awoke around 10, sat in the tent until 11, then started
 
 ---
 
-Source: https://casarobino.org/2009/05/one-more-time
+<p class="chapter-source"><a href="https://casarobino.org/node/2745">node/2745</a></p>

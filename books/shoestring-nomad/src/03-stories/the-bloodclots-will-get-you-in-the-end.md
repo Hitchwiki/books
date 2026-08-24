@@ -15,4 +15,4 @@ Surely not by hiding in casa and waiting for the world to magically change..righ
 
 ---
 
-Source: https://casarobino.org/2010/09/bloodclots-will-get-you-end
+<p class="chapter-source"><a href="https://casarobino.org/node/14038">node/14038</a></p>

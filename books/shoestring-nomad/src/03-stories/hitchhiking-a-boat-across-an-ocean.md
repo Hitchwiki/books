@@ -8,4 +8,4 @@ Hopefully, in a day or so, the winds will turn around and we can finally head ou
 
 ---
 
-Source: https://casarobino.org/2010/12/hitchhiking-boat-across-ocean
+<p class="chapter-source"><a href="https://casarobino.org/node/15937">node/15937</a></p>

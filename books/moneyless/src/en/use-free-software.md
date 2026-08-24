@@ -20,4 +20,4 @@ On your computer, you can also install Linux. It comes with all the programs tha
 
 ---
 
-Source: https://moneyless.org/use-free-software
+<p class="chapter-source"><a href="https://moneyless.org/node/3">node/3</a></p>

@@ -9,4 +9,4 @@ Mensen waren erg verrast om mij tegen te komen, en het waarom van mijn reis te h
 
 ---
 
-Source: https://geldloos.nl/blog/zonder-geld-reizen
+<p class="chapter-source"><a href="https://geldloos.nl/node/22">node/22</a></p>

@@ -26,4 +26,4 @@ For whoever wants free transport right now, legally, it's still possible to walk
 
 ---
 
-Source: https://moneyless.org/free-public-transport
+<p class="chapter-source"><a href="https://moneyless.org/node/136">node/136</a></p>

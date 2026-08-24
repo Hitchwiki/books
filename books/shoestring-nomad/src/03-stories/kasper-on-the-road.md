@@ -4,4 +4,4 @@ Ha, also Kasper managed to get in a truck with a driver that has internet on-boa
 
 ---
 
-Source: https://casarobino.org/content/kasper-road
+<p class="chapter-source"><a href="https://casarobino.org/node/74">node/74</a></p>

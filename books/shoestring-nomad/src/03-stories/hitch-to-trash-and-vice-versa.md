@@ -5,4 +5,4 @@ Check e.g. [the article about first time dumpster diving](http://trashwiki.org/e
 
 ---
 
-Source: https://casarobino.org/content/hitch-trash-and-vice-versa
+<p class="chapter-source"><a href="https://casarobino.org/node/128">node/128</a></p>

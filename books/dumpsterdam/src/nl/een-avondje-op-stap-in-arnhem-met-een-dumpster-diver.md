@@ -4,4 +4,4 @@
 
 ---
 
-Source: https://dumpsterdam.nl/een-avondje-op-stap-arnhem-met-een-dumpster-diver
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/86">node/86</a></p>

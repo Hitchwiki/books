@@ -9,4 +9,4 @@ The Bay area is really pretty nice - you should come visit.
 
 ---
 
-Source: https://casarobino.org/2010/10/largescale-hitchhiking-san-francisco-bay-sort
+<p class="chapter-source"><a href="https://casarobino.org/node/14418">node/14418</a></p>

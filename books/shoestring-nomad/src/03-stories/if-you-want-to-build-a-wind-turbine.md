@@ -6,4 +6,4 @@ If you would like to build a Wind Turbine, this is a fabulous hitch-out spot to 
 
 ---
 
-Source: https://casarobino.org/content/if-you-want-build-wind-turbine
+<p class="chapter-source"><a href="https://casarobino.org/node/466">node/466</a></p>

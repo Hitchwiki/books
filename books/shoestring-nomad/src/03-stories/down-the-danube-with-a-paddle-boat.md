@@ -5,4 +5,4 @@ The [Danube](http://en.wikipedia.org/wiki/Danube) is Europe's second largest riv
 
 ---
 
-Source: https://casarobino.org/2011/07/down-danube-paddle-boat
+<p class="chapter-source"><a href="https://casarobino.org/node/20154">node/20154</a></p>

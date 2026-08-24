@@ -6,4 +6,4 @@ If you think you ought to be part of this experience, there is something for us 
 
 ---
 
-Source: https://casarobino.org/2011/02/casa-reshaping-process
+<p class="chapter-source"><a href="https://casarobino.org/node/16489">node/16489</a></p>

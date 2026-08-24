@@ -5,4 +5,4 @@ We're still on Apache now, but the tests I've been doing seem promising, which *
 
 ---
 
-Source: https://casarobino.org/content/mas-rapido-soon
+<p class="chapter-source"><a href="https://casarobino.org/node/35">node/35</a></p>

@@ -4,4 +4,4 @@ Also a great article on planet green about [50 ways to Never Waste Food Again](h
 
 ---
 
-Source: https://casarobino.org/2009/10/how-food-shapes-our-cities
+<p class="chapter-source"><a href="https://casarobino.org/node/6757">node/6757</a></p>

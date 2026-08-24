@@ -14,4 +14,4 @@ Maar het theaterstuk gaat gelukkig verder en kijkt ook naar de toekomst van bank
 
 ---
 
-Source: https://geldloos.nl/door-de-bank-genomen
+<p class="chapter-source"><a href="https://geldloos.nl/node/215">node/215</a></p>

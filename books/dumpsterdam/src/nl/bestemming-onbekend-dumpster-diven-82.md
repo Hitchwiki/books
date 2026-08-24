@@ -5,4 +5,4 @@ Vanaf dinsdag 18 juni is het reisprogramma Bestemming Onbekend op tv, met jonge 
 
 ---
 
-Source: https://dumpsterdam.nl/nieuws/bestemming-onbekend-dumpster-diven
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/82">node/82</a></p>

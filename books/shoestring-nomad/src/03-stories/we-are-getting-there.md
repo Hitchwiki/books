@@ -6,4 +6,4 @@ A day or two to go before the initial launch.
 
 ---
 
-Source: https://casarobino.org/2009/10/we-are-getting-there
+<p class="chapter-source"><a href="https://casarobino.org/node/5856">node/5856</a></p>

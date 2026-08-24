@@ -9,4 +9,4 @@ Wil je echt minder voedsel weggooien? Let dan op hoe je je boodschappen doet en 
 
 ---
 
-Source: https://dumpsterdam.nl/nieuws/favoriete-restjesrecepten-op-een-rij
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/69">node/69</a></p>

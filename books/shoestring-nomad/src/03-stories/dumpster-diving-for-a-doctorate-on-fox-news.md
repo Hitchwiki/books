@@ -4,4 +4,4 @@ A hilariously conservative-U.S.American broadcast about a PhD candidate studying
 
 ---
 
-Source: https://casarobino.org/2011/12/dumpster-diving-doctorate-fox-news
+<p class="chapter-source"><a href="https://casarobino.org/node/23312">node/23312</a></p>

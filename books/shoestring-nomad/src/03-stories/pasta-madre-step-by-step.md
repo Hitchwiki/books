@@ -6,4 +6,4 @@ Recipe is a new content type on the site, to facilitate sharing food - more on t
 
 ---
 
-Source: https://casarobino.org/2011/04/pasta-madre-step-step-0
+<p class="chapter-source"><a href="https://casarobino.org/node/18277">node/18277</a></p>

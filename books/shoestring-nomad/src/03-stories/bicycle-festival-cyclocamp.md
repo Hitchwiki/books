@@ -6,4 +6,4 @@ http://cyclocamp.blogsport.eu/
 
 ---
 
-Source: https://casarobino.org/2011/03/bicycle-festival-cyclocamp
+<p class="chapter-source"><a href="https://casarobino.org/node/17805">node/17805</a></p>

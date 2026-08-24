@@ -6,4 +6,4 @@ For more articles published about dumpster diving in the Netherlands, check my p
 
 ---
 
-Source: https://casarobino.org/2011/06/surfing-abundance
+<p class="chapter-source"><a href="https://casarobino.org/node/19387">node/19387</a></p>

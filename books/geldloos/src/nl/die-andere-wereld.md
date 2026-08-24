@@ -18,4 +18,4 @@ Zie “[Nick & Simon](http://nl.wikipedia.org/wiki/Nick_%26_Simon), die Suid-Afr
 
 ---
 
-Source: https://geldloos.nl/verhalen/de-andere-wereld
+<p class="chapter-source"><a href="https://geldloos.nl/node/74">node/74</a></p>

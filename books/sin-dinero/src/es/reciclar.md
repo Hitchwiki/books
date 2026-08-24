@@ -11,4 +11,4 @@ Además para que te abunde un poco más la recolecta puedes conseguir algunos re
 
 ---
 
-Source: https://sindinero.net/reciclar
+<p class="chapter-source"><a href="https://sindinero.net/node/127">node/127</a></p>

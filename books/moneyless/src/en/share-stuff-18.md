@@ -29,4 +29,4 @@ Other common forms of sharing are [car sharing](/car-sharing) and sharing [hospi
 
 ---
 
-Source: https://moneyless.org/share-stuff
+<p class="chapter-source"><a href="https://moneyless.org/node/18">node/18</a></p>

@@ -12,4 +12,4 @@ amylin
 
 ---
 
-Source: https://casarobino.org/2009/05/istanbul-twilight-im-love-my-online-postcard-you
+<p class="chapter-source"><a href="https://casarobino.org/node/3017">node/3017</a></p>

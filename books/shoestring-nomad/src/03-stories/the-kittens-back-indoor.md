@@ -7,4 +7,4 @@ I'm happy to announce the kitten is allowed back in the living room.
 
 ---
 
-Source: https://casarobino.org/2009/07/kittens-back-indoor
+<p class="chapter-source"><a href="https://casarobino.org/node/4252">node/4252</a></p>

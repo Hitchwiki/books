@@ -5,4 +5,4 @@ Now we got some more pillows fixed, and some clothes. And we will give the machi
 
 ---
 
-Source: https://casarobino.org/2011/04/sewing-machine-new-world-discovery
+<p class="chapter-source"><a href="https://casarobino.org/node/17867">node/17867</a></p>

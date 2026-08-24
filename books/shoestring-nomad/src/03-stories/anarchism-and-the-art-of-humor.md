@@ -7,4 +7,4 @@ How do we do this? How does this happen? I still think it's the food, even if Ju
 
 ---
 
-Source: https://casarobino.org/content/anarchism-and-art-humor
+<p class="chapter-source"><a href="https://casarobino.org/node/102">node/102</a></p>

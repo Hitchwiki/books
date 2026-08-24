@@ -11,4 +11,4 @@ Offer, Michiel & Angélique
 
 ---
 
-Source: https://casarobino.org/2009/06/thank-you
+<p class="chapter-source"><a href="https://casarobino.org/node/3610">node/3610</a></p>

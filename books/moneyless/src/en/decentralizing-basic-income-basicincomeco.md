@@ -40,4 +40,4 @@ My work is to push this technology and these ideas out there, and to compete in 
 
 ---
 
-Source: https://moneyless.org/decentralizing-basic-income
+<p class="chapter-source"><a href="https://moneyless.org/node/166">node/166</a></p>

@@ -5,4 +5,4 @@ They got here today right before dinner-time, after 888 km of hitchhiking in 29 
 
 ---
 
-Source: https://casarobino.org/content/hitchhikers-all-along
+<p class="chapter-source"><a href="https://casarobino.org/node/97">node/97</a></p>

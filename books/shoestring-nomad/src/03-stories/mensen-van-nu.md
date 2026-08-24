@@ -6,4 +6,4 @@ Good article to put our feet back on the ground (because I like to see things fr
 
 ---
 
-Source: https://casarobino.org/2013/10/mensen-van-nu
+<p class="chapter-source"><a href="https://casarobino.org/node/27891">node/27891</a></p>

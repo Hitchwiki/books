@@ -4,4 +4,4 @@ On the same day that Amylin [arrived](http://hitchwiki.org/en/Postcards#Amylin) 
 
 ---
 
-Source: https://casarobino.org/content/coming-and-goings
+<p class="chapter-source"><a href="https://casarobino.org/node/71">node/71</a></p>

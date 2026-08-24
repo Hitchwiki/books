@@ -4,4 +4,4 @@ The house has been disconnected from the internet for 24 hours now. Some payment
 
 ---
 
-Source: https://casarobino.org/content/offline-mode
+<p class="chapter-source"><a href="https://casarobino.org/node/33">node/33</a></p>

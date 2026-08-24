@@ -58,4 +58,4 @@ Geld besparen is voor veel mensen echt niet zo makkelijk als het lijkt. Met een 
 
 ---
 
-Source: https://geldloos.nl/dagelijkse-bespaartips
+<p class="chapter-source"><a href="https://geldloos.nl/node/72">node/72</a></p>

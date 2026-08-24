@@ -8,4 +8,4 @@ So... letters delivered, but no connections or communities joined this time. I g
 
 ---
 
-Source: https://casarobino.org/2009/03/lightfoot-deliveries
+<p class="chapter-source"><a href="https://casarobino.org/node/2413">node/2413</a></p>

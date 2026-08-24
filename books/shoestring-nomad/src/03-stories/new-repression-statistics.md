@@ -8,4 +8,4 @@ Reporting from Amsterdam, Julien Boyer.
 
 ---
 
-Source: https://casarobino.org/2008/12/new-repression-statistics
+<p class="chapter-source"><a href="https://casarobino.org/node/464">node/464</a></p>

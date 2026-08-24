@@ -7,4 +7,4 @@ Oh, and Kasper made dow for a bread, out of the stinky pasta madre. Surprisingly
 
 ---
 
-Source: https://casarobino.org/2009/08/keep-donderdag-dinners-going
+<p class="chapter-source"><a href="https://casarobino.org/node/4679">node/4679</a></p>

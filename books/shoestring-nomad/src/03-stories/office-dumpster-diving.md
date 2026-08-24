@@ -4,4 +4,4 @@ Today we found out that offices actually are good for one thing: dumpster diving
 
 ---
 
-Source: https://casarobino.org/2009/07/office-dumpster-diving
+<p class="chapter-source"><a href="https://casarobino.org/node/3922">node/3922</a></p>

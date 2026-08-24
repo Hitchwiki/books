@@ -4,4 +4,4 @@ In case you hadn't noticed, casarobino.org has a new theme! Tell us what you thi
 
 ---
 
-Source: https://casarobino.org/content/new-theme-casarobinoorg
+<p class="chapter-source"><a href="https://casarobino.org/node/217">node/217</a></p>

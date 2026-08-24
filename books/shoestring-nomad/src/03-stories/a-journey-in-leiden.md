@@ -12,4 +12,4 @@ And many other people how came from all around to see the movie.
 
 ---
 
-Source: https://casarobino.org/content/journey-leiden
+<p class="chapter-source"><a href="https://casarobino.org/node/2367">node/2367</a></p>

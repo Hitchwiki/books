@@ -5,4 +5,4 @@ Hugs.
 
 ---
 
-Source: https://casarobino.org/2010/08/note-all-casa-people
+<p class="chapter-source"><a href="https://casarobino.org/node/13137">node/13137</a></p>

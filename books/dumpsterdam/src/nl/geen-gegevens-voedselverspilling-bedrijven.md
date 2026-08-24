@@ -4,4 +4,4 @@ Interessant feit in het artikel [Monitor Voedselverspilling](http://zembla.vara.
 
 ---
 
-Source: https://dumpsterdam.nl/nieuws/geen-gegevens-voedselverspilling-bedrijven
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/84">node/84</a></p>

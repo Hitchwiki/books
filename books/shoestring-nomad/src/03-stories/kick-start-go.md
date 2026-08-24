@@ -8,4 +8,4 @@ puszi!
 
 ---
 
-Source: https://casarobino.org/2010/05/kick-start-go
+<p class="chapter-source"><a href="https://casarobino.org/node/11161">node/11161</a></p>

@@ -11,4 +11,4 @@ I wonder about other observations and responses. Should your expected participat
 
 ---
 
-Source: https://casarobino.org/2009/12/casa-style-peer-pressure
+<p class="chapter-source"><a href="https://casarobino.org/node/8598">node/8598</a></p>

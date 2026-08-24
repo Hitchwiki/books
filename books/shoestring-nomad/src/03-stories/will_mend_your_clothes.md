@@ -20,4 +20,4 @@ Will mend your clothes
 
 ---
 
-Source: https://casarobino.org/2009/03/willmendyourclothes
+<p class="chapter-source"><a href="https://casarobino.org/node/2388">node/2388</a></p>

@@ -4,4 +4,4 @@ Below you find different entries throughout the website that outline ideas for p
 
 ---
 
-Source: https://casarobino.org/content/projects-we-work
+<p class="chapter-source"><a href="https://casarobino.org/node/93">node/93</a></p>

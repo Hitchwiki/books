@@ -5,4 +5,4 @@ In 2013 bestaat het magazine twintig jaar! Het jubileum nummer is online gratis 
 
 ---
 
-Source: https://geldloos.nl/tijdschrift-genoeg-over
+<p class="chapter-source"><a href="https://geldloos.nl/node/64">node/64</a></p>

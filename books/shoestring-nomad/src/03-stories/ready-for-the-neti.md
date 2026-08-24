@@ -20,4 +20,4 @@ how much we take the simple act of breathing for granted. let us breath freely a
 
 ---
 
-Source: https://casarobino.org/2011/07/ready-neti
+<p class="chapter-source"><a href="https://casarobino.org/node/20186">node/20186</a></p>

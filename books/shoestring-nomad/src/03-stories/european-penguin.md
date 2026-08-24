@@ -4,4 +4,4 @@ Did you know? there used to be a European penguin. It was distinguished in 1844.
 
 ---
 
-Source: https://casarobino.org/2011/07/european-penguin
+<p class="chapter-source"><a href="https://casarobino.org/node/20105">node/20105</a></p>

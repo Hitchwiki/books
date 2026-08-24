@@ -4,4 +4,4 @@ Dit is een foto van een *diver* in Toulouse, Frankrijk. Je kan op deze foto goed
 
 ---
 
-Source: https://dumpsterdam.nl/article/wat-je-zoal-vinden-kan
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/28">node/28</a></p>

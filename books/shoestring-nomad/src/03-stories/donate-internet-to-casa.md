@@ -5,4 +5,4 @@ But I also want to differentiate between 'products' that we need donated. To sta
 
 ---
 
-Source: https://casarobino.org/2009/12/donate-internet-casa
+<p class="chapter-source"><a href="https://casarobino.org/node/8397">node/8397</a></p>

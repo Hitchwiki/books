@@ -4,4 +4,4 @@ Thought that this story was awesome - http://www.thatslife.com.au/Article/Real-L
 
 ---
 
-Source: https://casarobino.org/2011/11/interesting-storyjourney
+<p class="chapter-source"><a href="https://casarobino.org/node/22181">node/22181</a></p>

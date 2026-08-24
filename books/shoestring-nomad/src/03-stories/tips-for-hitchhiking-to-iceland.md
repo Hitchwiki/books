@@ -15,4 +15,4 @@ Diego
 
 ---
 
-Source: https://casarobino.org/2010/04/tips-hitchhiking-iceland
+<p class="chapter-source"><a href="https://casarobino.org/node/10999">node/10999</a></p>

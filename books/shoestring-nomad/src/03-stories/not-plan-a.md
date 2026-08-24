@@ -7,4 +7,4 @@ And so grows the Digital Nomad movement [[http://butthedevil.blogspot.com/2008/1
 
 ---
 
-Source: https://casarobino.org/2012/01/not-plan
+<p class="chapter-source"><a href="https://casarobino.org/node/24045">node/24045</a></p>

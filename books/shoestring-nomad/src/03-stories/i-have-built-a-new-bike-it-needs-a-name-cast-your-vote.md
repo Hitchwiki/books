@@ -5,4 +5,4 @@ http://casarobino.org/2010/12/newbike-needs-name-what-would-you-call-it-vote
 
 ---
 
-Source: https://casarobino.org/2010/12/i-have-built-new-bike-it-needs-name-cast-your-vote
+<p class="chapter-source"><a href="https://casarobino.org/node/15324">node/15324</a></p>

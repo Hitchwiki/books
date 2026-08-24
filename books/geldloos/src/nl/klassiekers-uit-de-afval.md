@@ -9,4 +9,4 @@ Nog geen tien meter verder, terwijl de Bulgaar nog aan het inladen is, houd ik m
 
 ---
 
-Source: https://geldloos.nl/verhalen/klassiekers-uit-de-afval
+<p class="chapter-source"><a href="https://geldloos.nl/node/48">node/48</a></p>

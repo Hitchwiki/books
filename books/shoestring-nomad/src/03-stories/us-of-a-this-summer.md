@@ -6,4 +6,4 @@ tata peace
 
 ---
 
-Source: https://casarobino.org/2010/06/us-summer
+<p class="chapter-source"><a href="https://casarobino.org/node/11381">node/11381</a></p>

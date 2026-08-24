@@ -37,4 +37,4 @@ MyWheels begon als een **spontaan initiatief** in de jaren negentig.
 
 ---
 
-Source: https://geldloos.nl/autodelen
+<p class="chapter-source"><a href="https://geldloos.nl/node/169">node/169</a></p>

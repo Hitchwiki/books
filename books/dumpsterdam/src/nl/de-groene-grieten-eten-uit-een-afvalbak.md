@@ -5,4 +5,4 @@ Zoals ze het zelf beschrijven: "Wijn, chips en prachtige bloemen; het zijn toch 
 
 ---
 
-Source: https://dumpsterdam.nl/artikel/de-groene-grieten-eten-uit-een-afvalbak
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/43">node/43</a></p>

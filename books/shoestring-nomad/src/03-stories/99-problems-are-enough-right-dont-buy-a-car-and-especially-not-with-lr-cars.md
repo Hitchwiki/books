@@ -12,4 +12,4 @@ Oh, and yes, another open door lesson learned: don't buy a car (especially not f
 
 ---
 
-Source: https://casarobino.org/2013/04/99-problems-are-enough-right-dont-buy-car-and-especially-not-lr-cars
+<p class="chapter-source"><a href="https://casarobino.org/node/27778">node/27778</a></p>

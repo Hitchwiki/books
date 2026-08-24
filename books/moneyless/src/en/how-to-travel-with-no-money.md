@@ -43,4 +43,4 @@ Simon Dabbicco: "Many people believe that travelling is something that only a fe
 
 ---
 
-Source: https://moneyless.org/how-travel-no-money
+<p class="chapter-source"><a href="https://moneyless.org/node/141">node/141</a></p>

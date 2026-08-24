@@ -6,4 +6,4 @@ besides that, i rarely run on schedules, and even in failing to organize my agen
 
 ---
 
-Source: https://casarobino.org/content/strangers-enter
+<p class="chapter-source"><a href="https://casarobino.org/node/1297">node/1297</a></p>

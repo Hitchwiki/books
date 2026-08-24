@@ -7,4 +7,4 @@ Dit is voor mij niet de eerste keer om dit in het theater te mogen doen. In de A
 
 ---
 
-Source: https://dumpsterdam.nl/artikel/koken-met-afval-trashy-treats-het-theater
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/49">node/49</a></p>

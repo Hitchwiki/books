@@ -5,4 +5,4 @@ I can't wait for a password to be mailed to me, as I stand on a random streetcor
 
 ---
 
-Source: https://casarobino.org/content/soon-come
+<p class="chapter-source"><a href="https://casarobino.org/node/31">node/31</a></p>

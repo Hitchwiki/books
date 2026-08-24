@@ -41,4 +41,4 @@ El trueque es una forma alternativa al mercado financiero. En ocasiones, cuando 
 
 ---
 
-Source: https://sindinero.net/trueque
+<p class="chapter-source"><a href="https://sindinero.net/node/23">node/23</a></p>

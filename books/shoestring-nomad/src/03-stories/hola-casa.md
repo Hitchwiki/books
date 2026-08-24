@@ -4,4 +4,4 @@ So the site is working, but internet is dead. We had a nice dinner: Aubergine a 
 
 ---
 
-Source: https://casarobino.org/node/6
+<p class="chapter-source"><a href="https://casarobino.org/node/6">node/6</a></p>

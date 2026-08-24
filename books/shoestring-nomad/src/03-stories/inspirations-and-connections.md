@@ -10,4 +10,4 @@ Thank you!!
 
 ---
 
-Source: https://casarobino.org/2011/03/inspirations-and-connections
+<p class="chapter-source"><a href="https://casarobino.org/node/17815">node/17815</a></p>

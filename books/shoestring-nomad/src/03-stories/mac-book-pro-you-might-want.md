@@ -8,4 +8,4 @@ x lily
 
 ---
 
-Source: https://casarobino.org/2010/01/mac-book-pro-you-might-want
+<p class="chapter-source"><a href="https://casarobino.org/node/8875">node/8875</a></p>

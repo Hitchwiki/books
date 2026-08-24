@@ -4,4 +4,4 @@ How cool is that! [Mark](http://casarobino.org/user/9) decided to extend his tri
 
 ---
 
-Source: https://casarobino.org/2008/09/mark-james-joint-trip
+<p class="chapter-source"><a href="https://casarobino.org/node/28">node/28</a></p>

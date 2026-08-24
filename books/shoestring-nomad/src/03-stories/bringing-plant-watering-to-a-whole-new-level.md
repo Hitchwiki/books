@@ -5,4 +5,4 @@ I got one of those big things to water the plants today. Oh, ok here they tell m
 
 ---
 
-Source: https://casarobino.org/2009/08/bringing-plant-watering-whole-new-level
+<p class="chapter-source"><a href="https://casarobino.org/node/4794">node/4794</a></p>

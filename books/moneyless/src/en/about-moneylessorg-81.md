@@ -47,4 +47,4 @@ You are very welcome to [write for Moneyless](/write).
 
 ---
 
-Source: https://moneyless.org/about
+<p class="chapter-source"><a href="https://moneyless.org/node/81">node/81</a></p>

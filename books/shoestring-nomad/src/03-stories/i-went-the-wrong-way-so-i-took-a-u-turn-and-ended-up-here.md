@@ -6,4 +6,4 @@ Thanks!
 
 ---
 
-Source: https://casarobino.org/2009/11/i-went-wrong-way-so-i-took-u-turn-and-ended-here
+<p class="chapter-source"><a href="https://casarobino.org/node/7987">node/7987</a></p>

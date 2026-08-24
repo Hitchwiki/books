@@ -5,4 +5,4 @@ Hi Casa Robino, just a brief introduction from Angie, Caroline, and Ethan before
 
 ---
 
-Source: https://casarobino.org/content/ang-caro-and-ethan-arriving-today
+<p class="chapter-source"><a href="https://casarobino.org/node/581">node/581</a></p>

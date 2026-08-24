@@ -8,4 +8,4 @@ Op Geldloos vind je heel veel [tips](/tips) hoe je bijvoorbeeld ook aan [gratis 
 
 ---
 
-Source: https://geldloos.nl/geen-geld
+<p class="chapter-source"><a href="https://geldloos.nl/node/122">node/122</a></p>

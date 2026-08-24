@@ -6,4 +6,4 @@ rock n rolling
 
 ---
 
-Source: https://casarobino.org/2009/08/bikes
+<p class="chapter-source"><a href="https://casarobino.org/node/4684">node/4684</a></p>

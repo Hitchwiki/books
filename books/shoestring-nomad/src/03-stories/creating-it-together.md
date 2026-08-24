@@ -5,4 +5,4 @@ She also writes how she got 40 euro while [busking](http://karma-kas.blogspot.co
 
 ---
 
-Source: https://casarobino.org/2008/10/creating-it-together
+<p class="chapter-source"><a href="https://casarobino.org/node/81">node/81</a></p>

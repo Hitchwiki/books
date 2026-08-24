@@ -7,4 +7,4 @@ Het stukje over het Dumpster Diving duurt bijna vier minuten en geeft een leuk b
 
 ---
 
-Source: https://dumpsterdam.nl/dumpster-diving-met-tegenlicht
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/101">node/101</a></p>

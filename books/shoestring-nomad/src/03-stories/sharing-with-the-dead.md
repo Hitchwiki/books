@@ -10,4 +10,4 @@ The following day I have to come back to the cemetery, I promised. I arrive late
 
 ---
 
-Source: https://casarobino.org/2009/11/sharing-dead
+<p class="chapter-source"><a href="https://casarobino.org/node/7663">node/7663</a></p>

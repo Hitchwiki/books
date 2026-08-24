@@ -4,4 +4,4 @@ Elke dag rijden er busjes af en aan om te zien of er recyclebare spullen langs d
 
 ---
 
-Source: https://dumpsterdam.nl/nieuws/graaien-huisvuil-trending-nederland
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/40">node/40</a></p>

@@ -15,4 +15,4 @@ Overall, an awesome experience, and a ton of learning.
 
 ---
 
-Source: https://casarobino.org/2009/06/long-distance-hiking-pacific-crest-trail
+<p class="chapter-source"><a href="https://casarobino.org/node/3620">node/3620</a></p>

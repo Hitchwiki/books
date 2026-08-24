@@ -8,4 +8,4 @@ Viking-Pet
 
 ---
 
-Source: https://casarobino.org/2009/09/totally-random-rancid-love-attack-0
+<p class="chapter-source"><a href="https://casarobino.org/node/5286">node/5286</a></p>

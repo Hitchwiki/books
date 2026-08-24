@@ -6,4 +6,4 @@ Daarmee kom je op dit moment natuurlijk niet verder mee, maar gelukkig hebben we
 
 ---
 
-Source: https://geldloos.nl/nieuws/tekort-bij-voedselbanken
+<p class="chapter-source"><a href="https://geldloos.nl/node/102">node/102</a></p>

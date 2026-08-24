@@ -1,8 +1,8 @@
 # noah's pudding
 
-I would like to add this recipe since its story fits with la casa:)Which i like the story and the taste as well since my childhood.
+I would like to add this recipe since its story fits with la casa :)Which i like the story and the taste as well since my childhood.
 After the flood they had so little of everything in the ark that wouldn't be enough to make seperate meals. So they put everything together to be able to feed everyone. Mom makes it once a year traditionally and gives one bowl to each neighbours.
-Since it's a mom's recipe i have to say that amounts aren't accurate, typically:)
+Since it's a mom's recipe i have to say that amounts aren't accurate, typically :)
 Ingredients:
 250 gr wheat berries
 2 glasses of chickpeas
@@ -26,4 +26,4 @@ PS: I never had the guts to make it my own. So if you intend to cook it pleeeeas
 
 ---
 
-Source: https://casarobino.org/2009/06/noahs-pudding
+<p class="chapter-source"><a href="https://casarobino.org/node/3445">node/3445</a></p>

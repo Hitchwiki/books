@@ -7,4 +7,4 @@ still looking for more recipes and directions...
 
 ---
 
-Source: https://casarobino.org/content/diy-clean
+<p class="chapter-source"><a href="https://casarobino.org/node/2352">node/2352</a></p>

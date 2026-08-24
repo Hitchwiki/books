@@ -8,4 +8,4 @@ yeow! x lily
 
 ---
 
-Source: https://casarobino.org/content/skipping-waste-documentary
+<p class="chapter-source"><a href="https://casarobino.org/node/2379">node/2379</a></p>

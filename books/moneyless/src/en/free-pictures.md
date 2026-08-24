@@ -43,4 +43,4 @@ Other sources for free images include:
 
 ---
 
-Source: https://moneyless.org/free-pictures
+<p class="chapter-source"><a href="https://moneyless.org/node/130">node/130</a></p>

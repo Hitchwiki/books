@@ -18,4 +18,4 @@ Nevin
 
 ---
 
-Source: https://casarobino.org/2010/01/existential-risk-reduction
+<p class="chapter-source"><a href="https://casarobino.org/node/8773">node/8773</a></p>

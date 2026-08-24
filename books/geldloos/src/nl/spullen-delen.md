@@ -26,4 +26,4 @@ Spullen delen lijkt op een vorm van [ruilhandel](/ruilhandel). Maar om deel te n
 
 ---
 
-Source: https://geldloos.nl/spullen-delen
+<p class="chapter-source"><a href="https://geldloos.nl/node/18">node/18</a></p>

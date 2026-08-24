@@ -4,4 +4,4 @@ Wat een energie, wat een input! Het DAMn Food Waste Event, als voorproefje op Fo
 
 ---
 
-Source: https://dumpsterdam.nl/nieuws/foto’s-damn-food-waste-event
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/50">node/50</a></p>

@@ -44,4 +44,4 @@ So I guess I’m back, well at least for now. I switched to the language fast, s
 
 ---
 
-Source: https://casarobino.org/2010/12/oil-and-water
+<p class="chapter-source"><a href="https://casarobino.org/node/15779">node/15779</a></p>

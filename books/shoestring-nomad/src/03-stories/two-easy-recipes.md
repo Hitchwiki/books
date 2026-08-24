@@ -20,4 +20,4 @@ This is delicious for dipping bread into or eating as a cold salad.
 
 ---
 
-Source: https://casarobino.org/content/two-easy-recipes
+<p class="chapter-source"><a href="https://casarobino.org/node/280">node/280</a></p>

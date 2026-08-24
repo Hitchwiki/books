@@ -11,4 +11,4 @@ http://www.sproutpeople.com/seed/mung.html
 
 ---
 
-Source: https://casarobino.org/content/sprouting-mung-beans
+<p class="chapter-source"><a href="https://casarobino.org/node/2365">node/2365</a></p>

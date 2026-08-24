@@ -4,4 +4,4 @@ I just changed the transparent shower curtain with a blue one. I think it's nice
 
 ---
 
-Source: https://casarobino.org/content/new-shower-curtain
+<p class="chapter-source"><a href="https://casarobino.org/node/39">node/39</a></p>

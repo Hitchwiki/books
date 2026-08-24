@@ -4,4 +4,4 @@ The house needed a permanent place online to store its inputs and outputs, feedb
 
 ---
 
-Source: https://casarobino.org/2008/09/creation
+<p class="chapter-source"><a href="https://casarobino.org/node/2">node/2</a></p>

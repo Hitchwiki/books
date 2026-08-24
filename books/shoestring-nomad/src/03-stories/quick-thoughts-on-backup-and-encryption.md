@@ -3,7 +3,7 @@
 Backup
 Many folks around the casa carry more wifi-enabled gadgets than undergarments.
 If you actually get creative and they're not for consuming only, a backup over internet (or by mailing DVDs to a nomad base, to be all 90ies) is highly recommended.
-There're still precious analogue notebooks to loose (sorry to bring this up Robino;), there's no need this happens to your digital stuff as well.
+There're still precious analogue notebooks to loose (sorry to bring this up Robino ;), there's no need this happens to your digital stuff as well.
 Speaking of creativity, if yours is wasted on the WWW anyway, make sure you have decent a backup concept for your blog / website / flickr pool instead of relying on a company.
 [rsync](http://www.samba.org/rsync/) is a wonderful open sauce tool for backups, there are also ready made [scripts](http://rsnapshot.org/) around available.
 Encryption
@@ -14,4 +14,4 @@ This goes also for email (messaging over fake social networks sucks anyway). Whi
 
 ---
 
-Source: https://casarobino.org/2009/05/quick-thoughts-backup-and-encryption
+<p class="chapter-source"><a href="https://casarobino.org/node/2854">node/2854</a></p>

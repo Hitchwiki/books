@@ -5,4 +5,4 @@ Erga just suggested [Delicious Fruit](http://drupal.org/project/delicious_fruit)
 
 ---
 
-Source: https://casarobino.org/content/new-theme
+<p class="chapter-source"><a href="https://casarobino.org/node/29">node/29</a></p>

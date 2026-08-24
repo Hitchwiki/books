@@ -15,4 +15,4 @@ Pavlik has chosen to live in a different reality, ahead of his time, working tow
 
 ---
 
-Source: https://moneyless.org/elf-pavlik-moneyless-2009
+<p class="chapter-source"><a href="https://moneyless.org/node/116">node/116</a></p>

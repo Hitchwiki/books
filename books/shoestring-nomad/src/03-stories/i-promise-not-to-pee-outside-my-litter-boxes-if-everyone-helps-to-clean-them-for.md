@@ -15,4 +15,4 @@ If my litter boxes remain clean and not smelly i will use them and them only. Ki
 
 ---
 
-Source: https://casarobino.org/2010/03/i-promise-not-pee-outside-my-litter-boxes-if-everyone-helps-clean-them-me
+<p class="chapter-source"><a href="https://casarobino.org/node/10465">node/10465</a></p>

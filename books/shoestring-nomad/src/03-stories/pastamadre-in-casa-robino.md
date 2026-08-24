@@ -5,4 +5,4 @@ pastaMadre and new bread!
 
 ---
 
-Source: https://casarobino.org/2009/05/pastamadre-casa-robino
+<p class="chapter-source"><a href="https://casarobino.org/node/2970">node/2970</a></p>

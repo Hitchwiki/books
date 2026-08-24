@@ -4,4 +4,4 @@ This wonderful creation of Amylin's has been on the wall of the Casa almost sinc
 
 ---
 
-Source: https://casarobino.org/2009/12/donate-towards-work-art
+<p class="chapter-source"><a href="https://casarobino.org/node/8414">node/8414</a></p>

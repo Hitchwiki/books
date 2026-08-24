@@ -17,4 +17,4 @@ Als je zelf mooie kleren hebt die je toch niet meer wilt, of die je niet meer pa
 
 ---
 
-Source: https://geldloos.nl/geen-geld-voor-kleding
+<p class="chapter-source"><a href="https://geldloos.nl/node/138">node/138</a></p>

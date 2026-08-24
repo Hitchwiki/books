@@ -12,7 +12,7 @@ There are different goals of the race.
 
 We're starting the 23rd August in Hamburg, then moving slowly down to romania and plan to be in Vama Veche around the 8th/9th September! =)
 I would love to see all of you people on the race, participating in a nice project and meet a lot of nice and lovely people! =)
-Check our website: http://www.tramprennen.org and yeah, get all the needed information there!:)
+Check our website: http://www.tramprennen.org and yeah, get all the needed information there! :)
 for last year we made a 23 minutes documentary, giving a simple camera every stage to another team, this is what happenend: http://www.dailymotion.com/relevance/search/tramprennen#hp-h-9
 Hope to see ya soon!
 If i'll be able to make it to the 6-8-10, in Portugal or Barcelona, if not: hopefully on the hitchhike race!
@@ -21,4 +21,4 @@ Malte
 
 ---
 
-Source: https://casarobino.org/2010/06/hitchhiking-race-drinking-water-2010
+<p class="chapter-source"><a href="https://casarobino.org/node/11395">node/11395</a></p>

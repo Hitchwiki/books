@@ -8,4 +8,4 @@ See for other Fun Tasks and Things you can do that will make your Mom feel Proud
 
 ---
 
-Source: https://casarobino.org/content/hacking-wireless
+<p class="chapter-source"><a href="https://casarobino.org/node/1807">node/1807</a></p>

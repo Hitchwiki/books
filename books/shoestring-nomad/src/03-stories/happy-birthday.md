@@ -7,4 +7,4 @@ Hugs from over sea, Erga
 
 ---
 
-Source: https://casarobino.org/content/happy-birthday
+<p class="chapter-source"><a href="https://casarobino.org/node/2122">node/2122</a></p>

@@ -8,4 +8,4 @@ A website in Korean language you can find here: http://house.jinbo.net/
 
 ---
 
-Source: https://casarobino.org/2009/06/nomadbases-around
+<p class="chapter-source"><a href="https://casarobino.org/node/3614">node/3614</a></p>

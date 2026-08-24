@@ -14,4 +14,4 @@ papiloule@hotmail.fr
 
 ---
 
-Source: https://casarobino.org/2010/02/room-rent-march-maybe-longer
+<p class="chapter-source"><a href="https://casarobino.org/node/9674">node/9674</a></p>

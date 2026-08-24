@@ -7,4 +7,4 @@ Dumpsterdam wil ook een community forum zijn, en mensen ondersteunen elkaar te v
 
 ---
 
-Source: https://dumpsterdam.nl/dumpsterdam-missie
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/41">node/41</a></p>

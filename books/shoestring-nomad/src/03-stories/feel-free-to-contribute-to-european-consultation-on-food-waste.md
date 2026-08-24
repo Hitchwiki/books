@@ -5,4 +5,4 @@ http://ec.europa.eu/environment/consultations/food\_en.htm
 
 ---
 
-Source: https://casarobino.org/2013/07/feel-free-contribute-european-consultation-food-waste
+<p class="chapter-source"><a href="https://casarobino.org/node/27784">node/27784</a></p>

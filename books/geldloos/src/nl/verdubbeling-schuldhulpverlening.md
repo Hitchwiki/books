@@ -8,4 +8,4 @@ In deze grafiek zien we duidelijk de grote steiging van bijna 100% van mensen di
 
 ---
 
-Source: https://geldloos.nl/nieuws/verdubbeling-schuldhulpverlening
+<p class="chapter-source"><a href="https://geldloos.nl/node/89">node/89</a></p>

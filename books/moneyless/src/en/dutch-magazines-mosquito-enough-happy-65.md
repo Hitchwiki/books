@@ -11,4 +11,4 @@ Do you know some good magazine about living with less money in your country or c
 
 ---
 
-Source: https://moneyless.org/dutch-magazines-mosquito-enough-happy
+<p class="chapter-source"><a href="https://moneyless.org/node/65">node/65</a></p>

@@ -5,4 +5,4 @@ Really funny to see also Veit in [action](http://www.opencouchsurfing.org/2008/0
 
 ---
 
-Source: https://casarobino.org/2008/09/mindmapping-she
+<p class="chapter-source"><a href="https://casarobino.org/node/23">node/23</a></p>

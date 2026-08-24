@@ -7,4 +7,4 @@ have fun,
 
 ---
 
-Source: https://casarobino.org/2009/05/wireless-music-control-casarobino
+<p class="chapter-source"><a href="https://casarobino.org/node/2726">node/2726</a></p>

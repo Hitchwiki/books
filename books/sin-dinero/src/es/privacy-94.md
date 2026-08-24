@@ -14,4 +14,4 @@ Dado que los sitios web de editores y las leyes de cada país pueden variar, no 
 
 ---
 
-Source: https://sindinero.net/privacy
+<p class="chapter-source"><a href="https://sindinero.net/node/94">node/94</a></p>

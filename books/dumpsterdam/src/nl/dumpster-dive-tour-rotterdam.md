@@ -7,4 +7,4 @@ Naar aanleiding van de actie verscheen er ook het artikel [Dumpster Diven in Rot
 
 ---
 
-Source: https://dumpsterdam.nl/article/dumpster-dive-tour-rotterdam
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/31">node/31</a></p>

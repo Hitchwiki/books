@@ -6,4 +6,4 @@ More to come (video) about this trip (hitchhiking from Porto to Amsterdam) soon.
 
 ---
 
-Source: https://casarobino.org/content/road-again
+<p class="chapter-source"><a href="https://casarobino.org/node/41">node/41</a></p>

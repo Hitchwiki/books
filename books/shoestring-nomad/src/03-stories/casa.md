@@ -6,4 +6,4 @@ Anyway it's just a room in a squat in A'dam 25 years ago, but the resemblance to
 
 ---
 
-Source: https://casarobino.org/2010/03/casa
+<p class="chapter-source"><a href="https://casarobino.org/node/9854">node/9854</a></p>

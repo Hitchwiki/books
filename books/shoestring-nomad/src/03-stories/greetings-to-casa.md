@@ -8,4 +8,4 @@ The Brueckenschlaeger office in Berlin Greifswalder/Schieritzstrasse, calling th
 
 ---
 
-Source: https://casarobino.org/content/greetings-casa
+<p class="chapter-source"><a href="https://casarobino.org/node/108">node/108</a></p>

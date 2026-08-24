@@ -5,4 +5,4 @@ Out to the [movies](http://www.denieuweanita.nl/maandag-6-oktober-aanvang-20.30-
 
 ---
 
-Source: https://casarobino.org/content/punishment-park
+<p class="chapter-source"><a href="https://casarobino.org/node/53">node/53</a></p>

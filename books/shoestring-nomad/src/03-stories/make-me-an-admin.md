@@ -6,4 +6,4 @@ Julien
 
 ---
 
-Source: https://casarobino.org/content/make-me-admin
+<p class="chapter-source"><a href="https://casarobino.org/node/1492">node/1492</a></p>

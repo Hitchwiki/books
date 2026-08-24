@@ -12,4 +12,4 @@ Is it technically possible for us to turn it into a part of the website (eventua
 
 ---
 
-Source: https://casarobino.org/2009/09/giveaways
+<p class="chapter-source"><a href="https://casarobino.org/node/5117">node/5117</a></p>

@@ -6,4 +6,4 @@ And for those who want more of Caveman, here goes a nice video:
 
 ---
 
-Source: https://casarobino.org/2009/04/third-side-coin
+<p class="chapter-source"><a href="https://casarobino.org/node/2500">node/2500</a></p>

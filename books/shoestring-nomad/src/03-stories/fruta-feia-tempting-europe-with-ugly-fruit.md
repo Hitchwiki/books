@@ -4,4 +4,4 @@ http://mobile.nytimes.com/2014/05/25/world/europe/tempting-europe-with-ugly-frui
 
 ---
 
-Source: https://casarobino.org/2014/05/fruta-feia-tempting-europe-ugly-fruit
+<p class="chapter-source"><a href="https://casarobino.org/node/27964">node/27964</a></p>

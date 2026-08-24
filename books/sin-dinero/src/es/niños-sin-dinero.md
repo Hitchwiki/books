@@ -12,4 +12,4 @@ Una forma de ayudarles podría ser enseñándoles lo que sabes. Comparte tus con
 
 ---
 
-Source: https://sindinero.net/ninos-sin-dinero
+<p class="chapter-source"><a href="https://sindinero.net/node/145">node/145</a></p>

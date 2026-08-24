@@ -14,4 +14,4 @@ DW Ok, then I know enough, goodbye
 
 ---
 
-Source: https://casarobino.org/2009/12/english-not-enough
+<p class="chapter-source"><a href="https://casarobino.org/node/8607">node/8607</a></p>

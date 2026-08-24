@@ -5,4 +5,4 @@ Funny enough it was all through [funny drug pictures](http://loldrugs.com/)...
 
 ---
 
-Source: https://casarobino.org/2012/03/goals-life
+<p class="chapter-source"><a href="https://casarobino.org/node/25282">node/25282</a></p>

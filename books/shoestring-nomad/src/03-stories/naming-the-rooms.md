@@ -108,4 +108,4 @@ Comment.
 
 ---
 
-Source: https://casarobino.org/content/naming-rooms
+<p class="chapter-source"><a href="https://casarobino.org/node/100">node/100</a></p>

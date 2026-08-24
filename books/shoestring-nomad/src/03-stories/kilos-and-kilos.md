@@ -5,4 +5,4 @@ Later today we might head to [STEIM](http://www.steim.org/steim/) for some elect
 
 ---
 
-Source: https://casarobino.org/content/kilos-and-kilos
+<p class="chapter-source"><a href="https://casarobino.org/node/26">node/26</a></p>

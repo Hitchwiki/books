@@ -6,4 +6,4 @@ Artwork is by [artymori](http://artymori.canalblog.com/)
 
 ---
 
-Source: https://casarobino.org/2011/06/hitchgathering-2011-artwork
+<p class="chapter-source"><a href="https://casarobino.org/node/19774">node/19774</a></p>

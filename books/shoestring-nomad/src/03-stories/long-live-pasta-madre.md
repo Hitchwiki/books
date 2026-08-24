@@ -14,4 +14,4 @@ Charlie
 
 ---
 
-Source: https://casarobino.org/2009/10/long-live-pasta-madre
+<p class="chapter-source"><a href="https://casarobino.org/node/7279">node/7279</a></p>

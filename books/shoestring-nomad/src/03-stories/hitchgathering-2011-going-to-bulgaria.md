@@ -5,4 +5,4 @@ It seems also to be the case that another gathering will take place in North-Ame
 
 ---
 
-Source: https://casarobino.org/2011/04/hitchgathering-2011-going-bulgaria
+<p class="chapter-source"><a href="https://casarobino.org/node/18435">node/18435</a></p>

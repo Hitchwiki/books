@@ -4,4 +4,4 @@ She-Berlin, two weeks of discussions, brainstorming, work, joy, play and fun. A 
 
 ---
 
-Source: https://casarobino.org/2009/12/walking-through-air
+<p class="chapter-source"><a href="https://casarobino.org/node/8327">node/8327</a></p>

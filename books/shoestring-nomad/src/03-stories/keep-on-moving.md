@@ -5,4 +5,4 @@ So, I found this poster just now that I wanted to share, without going sentiment
 
 ---
 
-Source: https://casarobino.org/2010/11/keep-moving
+<p class="chapter-source"><a href="https://casarobino.org/node/14824">node/14824</a></p>

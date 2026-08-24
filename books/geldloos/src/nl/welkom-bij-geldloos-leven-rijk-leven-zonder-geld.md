@@ -40,4 +40,4 @@ Geldloos.nl wilt graag verder gaan dan die discussie en aandragen hoe we zonder 
 
 ---
 
-Source: https://geldloos.nl/welkom-bij-geldloos-leven-rijk-leven-zonder-geld
+<p class="chapter-source"><a href="https://geldloos.nl/node/2">node/2</a></p>

@@ -44,4 +44,4 @@ Hij gaat verder door toe te voegen dat we hetzelfde of zelfs *meer* welvaart kun
 
 ---
 
-Source: https://geldloos.nl/basisinkomen
+<p class="chapter-source"><a href="https://geldloos.nl/node/126">node/126</a></p>

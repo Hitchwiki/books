@@ -4,4 +4,4 @@ I just set up [CloudFlare](http://cloudflare.com/) on this site. This will hopef
 
 ---
 
-Source: https://casarobino.org/2011/12/cloudflare
+<p class="chapter-source"><a href="https://casarobino.org/node/22863">node/22863</a></p>

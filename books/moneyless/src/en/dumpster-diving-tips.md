@@ -29,4 +29,4 @@ If you don't have money for food, dumpster diving can be solution but there are 
 
 ---
 
-Source: https://moneyless.org/dumpster-diving-tips
+<p class="chapter-source"><a href="https://moneyless.org/node/103">node/103</a></p>

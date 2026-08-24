@@ -35,4 +35,4 @@ Hugs,
 
 ---
 
-Source: https://casarobino.org/2011/04/other-side
+<p class="chapter-source"><a href="https://casarobino.org/node/18513">node/18513</a></p>

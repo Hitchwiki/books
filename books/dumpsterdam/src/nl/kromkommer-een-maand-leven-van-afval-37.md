@@ -7,4 +7,4 @@ Kromkommer wil graag voedselverspilling onder de aandacht brengen en ervoor zorg
 
 ---
 
-Source: https://dumpsterdam.nl/artikel/kromkommer-een-maand-leven-van-afval
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/37">node/37</a></p>

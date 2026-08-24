@@ -10,4 +10,4 @@ Voor analyse over de situatie in Istanbul en Turkije adviseer ik het artikel *[T
 
 ---
 
-Source: https://geldloos.nl/blog/alles-wijkt-voor-geld
+<p class="chapter-source"><a href="https://geldloos.nl/node/86">node/86</a></p>

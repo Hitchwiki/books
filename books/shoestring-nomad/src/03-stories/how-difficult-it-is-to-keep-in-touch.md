@@ -11,4 +11,4 @@ PS. How do u keep track of friends? Reveal me your secrets...
 
 ---
 
-Source: https://casarobino.org/2009/08/how-difficult-it-keep-touch
+<p class="chapter-source"><a href="https://casarobino.org/node/4807">node/4807</a></p>

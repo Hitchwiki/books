@@ -8,4 +8,4 @@ GIVE ME BACK MmmmmYyyyyy PEN UNIVERSE!!!!!!!!!!!!!!!!
 
 ---
 
-Source: https://casarobino.org/content/without-pen-humanity-can-fall-apart-minute
+<p class="chapter-source"><a href="https://casarobino.org/node/140">node/140</a></p>

@@ -68,4 +68,4 @@ Hoe meer je dit doet, des te creatiever je zal worden. Dat is op zich al genoeg 
 
 ---
 
-Source: https://geldloos.nl/10-stappen-zonder-geld
+<p class="chapter-source"><a href="https://geldloos.nl/node/167">node/167</a></p>

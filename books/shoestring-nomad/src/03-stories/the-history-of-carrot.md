@@ -11,4 +11,4 @@ Think about this when you'll find the next carrot in the dumpster!
 
 ---
 
-Source: https://casarobino.org/2010/07/history-carrot
+<p class="chapter-source"><a href="https://casarobino.org/node/12670">node/12670</a></p>

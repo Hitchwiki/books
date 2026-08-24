@@ -6,4 +6,4 @@ While other visitors were sitting in the room, we did an [interview](http://hitc
 
 ---
 
-Source: https://casarobino.org/content/when-you-are-all-whatever-it-will-all-click-together
+<p class="chapter-source"><a href="https://casarobino.org/node/34">node/34</a></p>

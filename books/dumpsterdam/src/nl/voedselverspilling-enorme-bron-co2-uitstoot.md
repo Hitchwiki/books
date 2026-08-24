@@ -6,4 +6,4 @@
 
 ---
 
-Source: https://dumpsterdam.nl/voedselverspilling-enorme-bron-co2-uitstoot
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/98">node/98</a></p>

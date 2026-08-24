@@ -15,4 +15,4 @@ I feel I should have left her casa's website address or the physical one... I fe
 
 ---
 
-Source: https://casarobino.org/2009/04/lightfoot-mission-milan-community-and-freedom
+<p class="chapter-source"><a href="https://casarobino.org/node/2520">node/2520</a></p>

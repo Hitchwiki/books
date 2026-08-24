@@ -6,4 +6,4 @@ Help. Please. I need a window to breathe.
 
 ---
 
-Source: https://casarobino.org/2009/10/protest-against-bad-design
+<p class="chapter-source"><a href="https://casarobino.org/node/6331">node/6331</a></p>

@@ -4,4 +4,4 @@ Enjoy the week here! AM off to Barcelona for a week, to enjoy the sun, see some 
 
 ---
 
-Source: https://casarobino.org/content/have-fun-week
+<p class="chapter-source"><a href="https://casarobino.org/node/44">node/44</a></p>

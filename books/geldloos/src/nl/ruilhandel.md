@@ -33,4 +33,4 @@ Het systeem van 1 op 1 ruilhandel (ruilhandel zonder een puntensysteem) heeft on
 
 ---
 
-Source: https://geldloos.nl/ruilhandel
+<p class="chapter-source"><a href="https://geldloos.nl/node/23">node/23</a></p>

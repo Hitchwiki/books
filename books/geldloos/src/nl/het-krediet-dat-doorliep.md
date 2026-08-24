@@ -13,4 +13,4 @@ Het krediet stelde hem op zijn gemak, maar het baasje wist dat het over was. Het
 
 ---
 
-Source: https://geldloos.nl/verhalen/het-krediet-dat-doorliep
+<p class="chapter-source"><a href="https://geldloos.nl/node/152">node/152</a></p>

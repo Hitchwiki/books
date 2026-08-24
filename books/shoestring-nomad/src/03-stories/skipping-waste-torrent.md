@@ -6,4 +6,4 @@ Big thanks to Sebastian! Will put it on the trashwiki site too. Thanks! x
 
 ---
 
-Source: https://casarobino.org/2009/03/skipping-waste-torrent
+<p class="chapter-source"><a href="https://casarobino.org/node/2409">node/2409</a></p>

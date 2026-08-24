@@ -10,4 +10,4 @@ Back on the road again, I spoke in a mixture of languages and gestured in a vari
 
 ---
 
-Source: https://casarobino.org/2009/08/and-i-woke
+<p class="chapter-source"><a href="https://casarobino.org/node/4817">node/4817</a></p>

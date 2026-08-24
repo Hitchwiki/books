@@ -29,4 +29,4 @@ Freecycle, de onderste op de lijst, is internationaal de bekendste en werkt via 
 
 ---
 
-Source: https://geldloos.nl/gratis-spullen
+<p class="chapter-source"><a href="https://geldloos.nl/node/70">node/70</a></p>

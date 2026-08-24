@@ -1,6 +1,6 @@
 # dumpstered recipes
 
-One of the great things about Dumpster Diving is that you never know beforehand what you will be cooking. So when I went to the market today, just before closing time, I was in fact very happy to find some aubergines (eggplant), tomatoes and red peppers (paprika). As usual the vendors at Ten Kate markt were very nice and allowed me to dive into their dumpsters at the same time as they were filling them. But I didn't expect the results of my cooking, it was so nice that even Rene was highly impressed:D
+One of the great things about Dumpster Diving is that you never know beforehand what you will be cooking. So when I went to the market today, just before closing time, I was in fact very happy to find some aubergines (eggplant), tomatoes and red peppers (paprika). As usual the vendors at Ten Kate markt were very nice and allowed me to dive into their dumpsters at the same time as they were filling them. But I didn't expect the results of my cooking, it was so nice that even Rene was highly impressed :D
 What I made:
 \* I cut the aubergines into small parts (big parts were impossible this time), washed them and soaked them into salt. Squeeze and add flower. Fry on high fire for 5 to 10 minutes.
 \* Make a souce out of the tomatoes and red paprika's. Add sambal, chili and hot paprika powder, koriander, flower, egg (replacement) and alternatively some soya milk.
@@ -11,4 +11,4 @@ As usual, there will be an open dinner on Thursday. This time, almost no-one of 
 
 ---
 
-Source: https://casarobino.org/2009/03/dumpstered-recipes
+<p class="chapter-source"><a href="https://casarobino.org/node/2412">node/2412</a></p>

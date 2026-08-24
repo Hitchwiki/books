@@ -4,4 +4,4 @@ The ubercool and super free (compared to [almost](http://www.openmoko.com/) all 
 
 ---
 
-Source: https://casarobino.org/2009/09/maemo-summit
+<p class="chapter-source"><a href="https://casarobino.org/node/5229">node/5229</a></p>

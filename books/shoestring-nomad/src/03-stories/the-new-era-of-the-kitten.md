@@ -10,4 +10,4 @@ So, after only a few hours on the road Kitten and I made it back safe and sound 
 
 ---
 
-Source: https://casarobino.org/2009/07/new-era-kitten
+<p class="chapter-source"><a href="https://casarobino.org/node/4095">node/4095</a></p>

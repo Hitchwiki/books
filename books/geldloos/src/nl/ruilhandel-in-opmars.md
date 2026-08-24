@@ -4,4 +4,4 @@
 
 ---
 
-Source: https://geldloos.nl/nieuws/ruilhandel-opmars
+<p class="chapter-source"><a href="https://geldloos.nl/node/27">node/27</a></p>

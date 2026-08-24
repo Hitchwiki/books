@@ -10,4 +10,4 @@ Soms vind je een plek waar je voor langere tijd kan blijven. Dan kan je bijvoorb
 
 ---
 
-Source: https://geldloos.nl/ga-kamperen
+<p class="chapter-source"><a href="https://geldloos.nl/node/15">node/15</a></p>

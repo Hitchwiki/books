@@ -1,7 +1,7 @@
 # "i am never just in one place at a time"
 
 i arrived very early this morning in porto, in a mere 6 rides, which is half of the amount that it took from amsterdam to grenoble.
-during the day, all of the rides spoke only french, except for two, whom also spoke some moroccan arabic:)
+during the day, all of the rides spoke only french, except for two, whom also spoke some moroccan arabic :)
 on the second to last petrol station in france, i found a portuguese guy who was driving straight to porto. he was speaking to the servicemen in french, so i approached him french... we spoke for a little while, and he said he would be going in the direction of spain. he looked very spanish, so i decided to go ahead and ask:
 --"¿hablas español, también?"
 -"sí"
@@ -22,4 +22,4 @@ beijinhos casa!
 
 ---
 
-Source: https://casarobino.org/content/i-am-never-just-one-place-time
+<p class="chapter-source"><a href="https://casarobino.org/node/465">node/465</a></p>

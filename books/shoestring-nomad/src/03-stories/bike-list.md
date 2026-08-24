@@ -4,4 +4,4 @@ New feature on casarobino.org - we now have a list of bicycles including details
 
 ---
 
-Source: https://casarobino.org/content/bike-list
+<p class="chapter-source"><a href="https://casarobino.org/node/841">node/841</a></p>

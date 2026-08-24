@@ -7,4 +7,4 @@ Love y'all
 
 ---
 
-Source: https://casarobino.org/2009/08/searching-star
+<p class="chapter-source"><a href="https://casarobino.org/node/4795">node/4795</a></p>

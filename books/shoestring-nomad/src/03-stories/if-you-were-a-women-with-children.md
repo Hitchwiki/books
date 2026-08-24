@@ -6,4 +6,4 @@ This encounter crushed me. It made me think. What has humanity come to? That we 
 
 ---
 
-Source: https://casarobino.org/2009/04/if-you-were-women-children
+<p class="chapter-source"><a href="https://casarobino.org/node/2505">node/2505</a></p>

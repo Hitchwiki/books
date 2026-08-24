@@ -5,4 +5,4 @@ This is the video of the action camp which Paxus organized last summer.
 
 ---
 
-Source: https://casarobino.org/content/action-camp-slideshow
+<p class="chapter-source"><a href="https://casarobino.org/node/311">node/311</a></p>

@@ -7,4 +7,4 @@ Dinner, laughs, music. fun. No matter where we are, the doos, Casa Robino, the o
 
 ---
 
-Source: https://casarobino.org/2009/03/journey-texel
+<p class="chapter-source"><a href="https://casarobino.org/node/2398">node/2398</a></p>

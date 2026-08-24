@@ -4,4 +4,4 @@ Een nieuw initiatief van voedselbedrijven moet ervoor zorgen dat minder voedsel 
 
 ---
 
-Source: https://dumpsterdam.nl/een-afgekeurd-frietje-nog-prima-veevoer
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/135">node/135</a></p>

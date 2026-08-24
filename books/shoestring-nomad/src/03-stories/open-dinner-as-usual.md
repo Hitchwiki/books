@@ -9,4 +9,4 @@ Happy eating and happy dumpstering!
 
 ---
 
-Source: https://casarobino.org/2009/03/open-dinner-usual
+<p class="chapter-source"><a href="https://casarobino.org/node/2401">node/2401</a></p>

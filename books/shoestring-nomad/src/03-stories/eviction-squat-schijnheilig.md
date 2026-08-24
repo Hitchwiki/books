@@ -6,4 +6,4 @@ For photos: http://www.flickr.com/photos/64913380@N08/sets/72157627121624352/sho
 
 ---
 
-Source: https://casarobino.org/2011/07/evection-schijnheilig-squat-0
+<p class="chapter-source"><a href="https://casarobino.org/node/19892">node/19892</a></p>

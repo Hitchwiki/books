@@ -12,4 +12,4 @@ Join, initiate, create, learn, share, bake.
 
 ---
 
-Source: https://casarobino.org/2009/05/wanted-20-kilo-organic-flower
+<p class="chapter-source"><a href="https://casarobino.org/node/3023">node/3023</a></p>

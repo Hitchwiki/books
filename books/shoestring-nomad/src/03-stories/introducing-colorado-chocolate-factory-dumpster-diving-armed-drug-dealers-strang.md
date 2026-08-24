@@ -34,4 +34,4 @@ They were extremely nice and fascinated by our foreign accents, they’ve never 
 
 ---
 
-Source: https://casarobino.org/2010/06/introducing-colorado-chocolate-factory-dumpster-diving-armed-drug-dealers-strange-encounters
+<p class="chapter-source"><a href="https://casarobino.org/node/12085">node/12085</a></p>

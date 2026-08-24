@@ -12,4 +12,4 @@ Postponing arguments as to what's less environmentally destructive and further d
 
 ---
 
-Source: https://casarobino.org/content/populatechnolog-and-decree
+<p class="chapter-source"><a href="https://casarobino.org/node/1955">node/1955</a></p>

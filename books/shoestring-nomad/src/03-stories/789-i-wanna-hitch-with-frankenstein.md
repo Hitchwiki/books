@@ -9,8 +9,8 @@ Slogans are important sometimes. They give a face, something recognizable and ca
 # 789- welcome to the hitchhikers storyline
 # 789 - come to be mine
 # 789 - electromagnetic delay line
-You can find the [whole list](http://hitchwiki.org/en/789/Slogan) with more than 30 slogans on <hitchwiki.org>. Feel free to add your own. We might set up a beauty contest and we wouldn't want to miss yours:)
+You can find the [whole list](http://hitchwiki.org/en/789/Slogan) with more than 30 slogans on <hitchwiki.org>. Feel free to add your own. We might set up a beauty contest and we wouldn't want to miss yours :)
 
 ---
 
-Source: https://casarobino.org/content/789-i-wanna-hitch-frankenstein
+<p class="chapter-source"><a href="https://casarobino.org/node/187">node/187</a></p>

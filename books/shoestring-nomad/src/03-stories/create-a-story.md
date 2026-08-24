@@ -7,4 +7,4 @@ http://casarobino.org/node/add/story
 
 ---
 
-Source: https://casarobino.org/2009/07/create-story
+<p class="chapter-source"><a href="https://casarobino.org/node/3923">node/3923</a></p>

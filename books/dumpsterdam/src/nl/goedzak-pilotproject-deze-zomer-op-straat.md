@@ -7,4 +7,4 @@ Geweldig initiatief zou ik zeggen. Dit maakt het vinden en het wegdoen van de kl
 
 ---
 
-Source: https://dumpsterdam.nl/nieuws/goedzak-pilotproject-deze-zomer-op-straat
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/73">node/73</a></p>

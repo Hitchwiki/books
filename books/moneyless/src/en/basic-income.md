@@ -33,4 +33,4 @@ If you're an EU citizen [Sign the petition](http://sign.basicincome2013.eu/) for
 
 ---
 
-Source: https://moneyless.org/basic-income
+<p class="chapter-source"><a href="https://moneyless.org/node/113">node/113</a></p>

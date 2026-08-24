@@ -6,4 +6,4 @@ Hugs!
 
 ---
 
-Source: https://casarobino.org/2011/05/academy-free-travel
+<p class="chapter-source"><a href="https://casarobino.org/node/18790">node/18790</a></p>

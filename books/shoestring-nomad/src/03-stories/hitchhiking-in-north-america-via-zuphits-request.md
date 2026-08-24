@@ -12,4 +12,4 @@ Perhaps others can comment on their experiences?
 
 ---
 
-Source: https://casarobino.org/2010/03/hitchhiking-north-america-zuphits-request
+<p class="chapter-source"><a href="https://casarobino.org/node/10368">node/10368</a></p>

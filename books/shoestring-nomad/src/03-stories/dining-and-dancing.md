@@ -6,4 +6,4 @@ And if you want even more, on Sunday there is a nice [event](http://www.couchsur
 
 ---
 
-Source: https://casarobino.org/content/dining-and-dancing
+<p class="chapter-source"><a href="https://casarobino.org/node/2344">node/2344</a></p>

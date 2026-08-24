@@ -5,4 +5,4 @@ Daarna wil ik echter ook de volgende stap zetten. Ik wil volledig zonder geld le
 
 ---
 
-Source: https://geldloos.nl/blog/eerste-stap
+<p class="chapter-source"><a href="https://geldloos.nl/node/8">node/8</a></p>

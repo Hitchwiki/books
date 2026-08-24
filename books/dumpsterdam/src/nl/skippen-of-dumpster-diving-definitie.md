@@ -4,4 +4,4 @@
 
 ---
 
-Source: https://dumpsterdam.nl/skippen-dumpster-diving-definitie
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/88">node/88</a></p>

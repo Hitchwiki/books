@@ -6,4 +6,4 @@ You want to come, but don't have the address? [Contact us](/contact)!
 
 ---
 
-Source: https://casarobino.org/2011/03/thursday-sunday
+<p class="chapter-source"><a href="https://casarobino.org/node/17312">node/17312</a></p>

@@ -8,4 +8,4 @@ Het gaat om meer factoren, zoals ook de kwaliteit van de productie, het beleid v
 
 ---
 
-Source: https://dumpsterdam.nl/nieuws/met-gezond-verstand-de-voedselverspilling-te-lijf
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/66">node/66</a></p>

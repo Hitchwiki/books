@@ -7,4 +7,4 @@ http://www.ted.com/talks/tristram\_stuart\_the\_global\_food\_waste\_scandal.htm
 
 ---
 
-Source: https://casarobino.org/2012/09/feeding-5000-people-food-what-otherwise-would-have-been-wasted
+<p class="chapter-source"><a href="https://casarobino.org/node/27767">node/27767</a></p>

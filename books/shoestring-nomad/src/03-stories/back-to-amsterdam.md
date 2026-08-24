@@ -5,4 +5,4 @@ Now we're about to hit the road again to head back to Casa Robino...
 
 ---
 
-Source: https://casarobino.org/node/22
+<p class="chapter-source"><a href="https://casarobino.org/node/22">node/22</a></p>

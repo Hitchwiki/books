@@ -4,4 +4,4 @@ As Rene wrote prior to this story we took a bike trip to Leiden. It got me think
 
 ---
 
-Source: https://casarobino.org/content/continuing-renes-story
+<p class="chapter-source"><a href="https://casarobino.org/node/2368">node/2368</a></p>

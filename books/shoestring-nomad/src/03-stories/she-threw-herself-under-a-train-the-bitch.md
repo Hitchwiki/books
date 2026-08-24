@@ -14,4 +14,4 @@ People are so depressed there, there is so much alcoholism that they don’t eve
 
 ---
 
-Source: https://casarobino.org/2009/03/she-threw-herself-under-train-bitch
+<p class="chapter-source"><a href="https://casarobino.org/node/2391">node/2391</a></p>

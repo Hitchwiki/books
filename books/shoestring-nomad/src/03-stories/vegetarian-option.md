@@ -1,7 +1,7 @@
 # Vegetarian option
 
-Hey! Now they're giving me a beautiful potato gratin... there should be food for everyone:)
+Hey! Now they're giving me a beautiful potato gratin... there should be food for everyone :)
 
 ---
 
-Source: https://casarobino.org/2009/09/vegetarian-option
+<p class="chapter-source"><a href="https://casarobino.org/node/5349">node/5349</a></p>

@@ -8,4 +8,4 @@ I've been trying to eat raw this week, but I don't have the patience/money. Inst
 
 ---
 
-Source: https://casarobino.org/content/raw-foods
+<p class="chapter-source"><a href="https://casarobino.org/node/292">node/292</a></p>

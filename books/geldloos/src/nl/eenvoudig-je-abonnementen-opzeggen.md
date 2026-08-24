@@ -17,4 +17,4 @@ Wil je je verzekering opzeggen? Kijk dan eens naar deze [verzekering opzeggen](h
 
 ---
 
-Source: https://geldloos.nl/eenvoudig-je-abonnementen-opzeggen
+<p class="chapter-source"><a href="https://geldloos.nl/node/478">node/478</a></p>

@@ -12,4 +12,4 @@ In de tussentijd heeft Wiebe veel avonturen meegemaakt, tegenslagen gekend en ve
 
 ---
 
-Source: https://geldloos.nl/zonder-geld-de-wereld-rond-met-een-auto
+<p class="chapter-source"><a href="https://geldloos.nl/node/279">node/279</a></p>

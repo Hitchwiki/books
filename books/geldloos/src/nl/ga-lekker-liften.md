@@ -9,4 +9,4 @@ Maar het allerbelangrijkste is dat je een leven opbouwt waarbij je niet langer a
 
 ---
 
-Source: https://geldloos.nl/ga-lekker-liften
+<p class="chapter-source"><a href="https://geldloos.nl/node/7">node/7</a></p>

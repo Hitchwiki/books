@@ -23,4 +23,4 @@ x
 
 ---
 
-Source: https://casarobino.org/2008/10/vegan-carrot-cake
+<p class="chapter-source"><a href="https://casarobino.org/node/82">node/82</a></p>

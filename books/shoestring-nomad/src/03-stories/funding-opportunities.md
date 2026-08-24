@@ -5,4 +5,4 @@ Six times a year NLnet offers smaller and starting projects (budget between 0 an
 
 ---
 
-Source: https://casarobino.org/content/funding-opportunities
+<p class="chapter-source"><a href="https://casarobino.org/node/1491">node/1491</a></p>

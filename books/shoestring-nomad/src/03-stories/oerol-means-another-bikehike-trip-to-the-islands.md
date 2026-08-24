@@ -7,4 +7,4 @@ It's on Terschelling, past Texel. Think you can bike that?
 
 ---
 
-Source: https://casarobino.org/2009/05/oerol-means-another-bikehike-trip-islands
+<p class="chapter-source"><a href="https://casarobino.org/node/3144">node/3144</a></p>

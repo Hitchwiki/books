@@ -17,4 +17,4 @@ Daarnaast laat Geldloos advertenties toe via het Google Adsense netwerk ([Google
 
 ---
 
-Source: https://geldloos.nl/privacy
+<p class="chapter-source"><a href="https://geldloos.nl/node/94">node/94</a></p>

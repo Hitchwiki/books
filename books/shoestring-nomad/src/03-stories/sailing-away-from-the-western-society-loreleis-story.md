@@ -11,4 +11,4 @@ I still think there's something left worth of exploring in this world. Some peop
 
 ---
 
-Source: https://casarobino.org/2010/05/sailing-away-western-society-loreleis-story
+<p class="chapter-source"><a href="https://casarobino.org/node/11143">node/11143</a></p>

@@ -3,8 +3,8 @@
 Olá!
 I came across this website:
 http://www.vhemt.org/index.htm
-I thought I had to share it...:)
+I thought I had to share it... :)
 
 ---
 
-Source: https://casarobino.org/2010/02/vhemt
+<p class="chapter-source"><a href="https://casarobino.org/node/9374">node/9374</a></p>

@@ -5,4 +5,4 @@ There is one thing, though: I painted some of the furniture and it will quickly 
 
 ---
 
-Source: https://casarobino.org/content/casa-needs-somekindof-maid
+<p class="chapter-source"><a href="https://casarobino.org/node/63">node/63</a></p>

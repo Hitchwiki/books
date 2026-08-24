@@ -4,4 +4,4 @@ De opkomst van alternatieve betaalsoorten en tijdbanken is niet uniek voor Spanj
 
 ---
 
-Source: https://geldloos.nl/nieuws/armlastig-spanje-neemt-toevlucht-tot-ruilhandel-en-alternatieve-betaalwijzen
+<p class="chapter-source"><a href="https://geldloos.nl/node/88">node/88</a></p>

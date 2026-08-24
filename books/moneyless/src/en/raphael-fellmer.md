@@ -17,4 +17,4 @@ all in German:
 
 ---
 
-Source: https://moneyless.org/raphael-fellmer
+<p class="chapter-source"><a href="https://moneyless.org/node/157">node/157</a></p>

@@ -15,4 +15,4 @@ I know she will go back home, after this other adventure, playing with stories a
 
 ---
 
-Source: https://casarobino.org/2011/04/one-day-i-will-go-malmo
+<p class="chapter-source"><a href="https://casarobino.org/node/18494">node/18494</a></p>

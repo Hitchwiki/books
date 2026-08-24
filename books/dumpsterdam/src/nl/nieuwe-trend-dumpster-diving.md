@@ -4,4 +4,4 @@
 
 ---
 
-Source: https://dumpsterdam.nl/nieuws/nieuwe-trend-dumpster-diving
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/72">node/72</a></p>

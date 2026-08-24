@@ -11,4 +11,4 @@ Het initiatief om een maand lang niets te kopen komt overigens oorspronkelijk ui
 
 ---
 
-Source: https://geldloos.nl/niets-kopen-maand
+<p class="chapter-source"><a href="https://geldloos.nl/node/84">node/84</a></p>

@@ -6,4 +6,4 @@ We sloten de maaltijd af met een toetje, een heerlijke en onvervalste dumpsterta
 
 ---
 
-Source: https://dumpsterdam.nl/dumpsterdam-catering-leiden
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/92">node/92</a></p>

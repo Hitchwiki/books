@@ -4,4 +4,4 @@
 
 ---
 
-Source: https://dumpsterdam.nl/afval-we-kúnnen-het-opruimen
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/110">node/110</a></p>

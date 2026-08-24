@@ -8,4 +8,4 @@ Ah, and sooon I hope we will have a new content type on this website to make a l
 
 ---
 
-Source: https://casarobino.org/2010/01/how-make-soap
+<p class="chapter-source"><a href="https://casarobino.org/node/8962">node/8962</a></p>

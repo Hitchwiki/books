@@ -5,4 +5,4 @@ Oh oh...
 
 ---
 
-Source: https://casarobino.org/2010/06/beware-hugs
+<p class="chapter-source"><a href="https://casarobino.org/node/11861">node/11861</a></p>

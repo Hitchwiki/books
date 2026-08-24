@@ -5,4 +5,4 @@ In order to avoid downtime of this website (and others) I just ALTERed some MySQ
 
 ---
 
-Source: https://casarobino.org/2010/10/you-have-log-again
+<p class="chapter-source"><a href="https://casarobino.org/node/14090">node/14090</a></p>

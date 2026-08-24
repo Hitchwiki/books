@@ -45,4 +45,4 @@ We didn't succeed in doing everything completely without money, but that was not
 
 ---
 
-Source: https://moneyless.org/pregnant-and-no-money
+<p class="chapter-source"><a href="https://moneyless.org/node/75">node/75</a></p>

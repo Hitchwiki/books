@@ -4,4 +4,4 @@ Uit onderzoek blijkt dat de voedselverspilling hoger ligt dan gedacht. In plaats
 
 ---
 
-Source: https://dumpsterdam.nl/nieuws/voedselverspilling-met-68-toegenomen
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/32">node/32</a></p>

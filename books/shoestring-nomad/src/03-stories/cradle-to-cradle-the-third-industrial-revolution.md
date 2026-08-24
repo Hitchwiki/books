@@ -7,4 +7,4 @@ http://www.ted.com/talks/lang/eng/william\_mcdonough\_on\_cradle\_to\_cradle\_de
 
 ---
 
-Source: https://casarobino.org/2009/11/cradle-cradle-third-industrial-revolution
+<p class="chapter-source"><a href="https://casarobino.org/node/7796">node/7796</a></p>

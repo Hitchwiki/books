@@ -6,4 +6,4 @@ P.S. Dennis: try slicehost.com. So far I've been very happy with them.
 
 ---
 
-Source: https://casarobino.org/content/healthywiki-kick
+<p class="chapter-source"><a href="https://casarobino.org/node/450">node/450</a></p>

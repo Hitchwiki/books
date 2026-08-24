@@ -11,4 +11,4 @@ this is to be filed under: "we went on a trip together, one night, that we never
 
 ---
 
-Source: https://casarobino.org/2009/08/lets-get-away-here
+<p class="chapter-source"><a href="https://casarobino.org/node/4530">node/4530</a></p>

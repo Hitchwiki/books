@@ -34,4 +34,4 @@ As of 2015 there are several open source, non profit networks worth mentioning:
 
 ---
 
-Source: https://moneyless.org/hospitality-exchange-networks
+<p class="chapter-source"><a href="https://moneyless.org/node/117">node/117</a></p>

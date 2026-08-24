@@ -11,4 +11,4 @@ Love
 
 ---
 
-Source: https://casarobino.org/2009/12/moving-onwards-and-developing
+<p class="chapter-source"><a href="https://casarobino.org/node/8438">node/8438</a></p>

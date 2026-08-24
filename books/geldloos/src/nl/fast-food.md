@@ -18,4 +18,4 @@ Zo vaak eet ik geen vlees en eigenlijk ben ik al ruim tien jaar vegetariër. Maa
 
 ---
 
-Source: https://geldloos.nl/verhalen/fast-food
+<p class="chapter-source"><a href="https://geldloos.nl/node/62">node/62</a></p>

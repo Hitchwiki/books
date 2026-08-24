@@ -5,4 +5,4 @@ Dumpsterdam presenteert op vrijdag 6 september "Lekker Graaien" in de Fringe ten
 
 ---
 
-Source: https://dumpsterdam.nl/dumpsterdam-gaat-fringe
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/96">node/96</a></p>

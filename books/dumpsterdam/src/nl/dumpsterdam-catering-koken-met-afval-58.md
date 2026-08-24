@@ -9,4 +9,4 @@ Organiseer je een festival over duurzaamheid, of wil je eens "iets anders"? Orga
 
 ---
 
-Source: https://dumpsterdam.nl/dumpsterdam-catering-koken-met-afval
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/58">node/58</a></p>

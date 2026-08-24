@@ -4,4 +4,4 @@ Twitter integration has come to casa robino and every new story will be posted o
 
 ---
 
-Source: https://casarobino.org/content/every-new-story-now-twittered
+<p class="chapter-source"><a href="https://casarobino.org/node/127">node/127</a></p>

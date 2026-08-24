@@ -4,4 +4,4 @@
 
 ---
 
-Source: https://casarobino.org/2009/12/hitchhiking-buddy
+<p class="chapter-source"><a href="https://casarobino.org/node/8312">node/8312</a></p>

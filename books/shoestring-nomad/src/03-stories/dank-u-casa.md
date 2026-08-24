@@ -7,4 +7,4 @@ Diego
 
 ---
 
-Source: https://casarobino.org/2009/08/dank-u-casa
+<p class="chapter-source"><a href="https://casarobino.org/node/4557">node/4557</a></p>

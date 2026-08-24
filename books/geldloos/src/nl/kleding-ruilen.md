@@ -12,4 +12,4 @@ Op de foto zie je [Amylin](http://www.flickr.com/photos/amylin/). Zij heeft al h
 
 ---
 
-Source: https://geldloos.nl/kleding-ruilen
+<p class="chapter-source"><a href="https://geldloos.nl/node/14">node/14</a></p>

@@ -4,4 +4,4 @@ Every Thursday night is an open dinner. This Thursday I (amylin) will cook. Come
 
 ---
 
-Source: https://casarobino.org/2008/12/thursday-night-dinner-night
+<p class="chapter-source"><a href="https://casarobino.org/node/315">node/315</a></p>

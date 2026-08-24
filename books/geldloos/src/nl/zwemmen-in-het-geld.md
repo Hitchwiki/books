@@ -10,4 +10,4 @@ Hiervoor heb je echter niet veel geld nodig. Je kan namelijk ook zwemmen in het 
 
 ---
 
-Source: https://geldloos.nl/zwemmen-het-geld
+<p class="chapter-source"><a href="https://geldloos.nl/node/243">node/243</a></p>

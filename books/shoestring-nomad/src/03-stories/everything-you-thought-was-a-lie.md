@@ -15,4 +15,4 @@ So long and thanks for all the trash!
 
 ---
 
-Source: https://casarobino.org/2010/03/everything-you-thought-was-lie
+<p class="chapter-source"><a href="https://casarobino.org/node/10562">node/10562</a></p>

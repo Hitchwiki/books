@@ -14,4 +14,4 @@ The other day I met Jeremy completely by mistake (the guy who dropped by a few t
 
 ---
 
-Source: https://casarobino.org/2009/10/australian-trash
+<p class="chapter-source"><a href="https://casarobino.org/node/7254">node/7254</a></p>

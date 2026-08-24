@@ -5,4 +5,4 @@ Be Warned. For I Am Coming.
 
 ---
 
-Source: https://casarobino.org/2009/08/bewarned
+<p class="chapter-source"><a href="https://casarobino.org/node/4898">node/4898</a></p>

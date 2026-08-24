@@ -20,4 +20,4 @@ Apart from the above there's also **Ripple**, which I've already looked into bac
 
 ---
 
-Source: https://moneyless.org/cryptocurrency-20-stability-through-speculation
+<p class="chapter-source"><a href="https://moneyless.org/node/232">node/232</a></p>

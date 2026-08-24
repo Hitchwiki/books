@@ -11,4 +11,4 @@ Untill then, tata!
 
 ---
 
-Source: https://casarobino.org/2009/11/my-trip-so-far
+<p class="chapter-source"><a href="https://casarobino.org/node/7527">node/7527</a></p>

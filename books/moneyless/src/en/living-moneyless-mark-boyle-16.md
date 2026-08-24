@@ -18,4 +18,4 @@ He also published a book about it: [The Moneyless Man: A Year of Freeconomic Liv
 
 ---
 
-Source: https://moneyless.org/living-moneyless-mark-boyle
+<p class="chapter-source"><a href="https://moneyless.org/node/16">node/16</a></p>

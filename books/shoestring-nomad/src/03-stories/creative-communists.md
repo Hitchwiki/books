@@ -9,4 +9,4 @@ P.S. [The dotCommunist Manifesto](http://emoglen.law.columbia.edu/my_pubs/dcm.ht
 
 ---
 
-Source: https://casarobino.org/2008/12/creative-communists
+<p class="chapter-source"><a href="https://casarobino.org/node/567">node/567</a></p>

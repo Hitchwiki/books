@@ -7,4 +7,4 @@ Julien
 
 ---
 
-Source: https://casarobino.org/2009/10/cat-desinfector-way
+<p class="chapter-source"><a href="https://casarobino.org/node/6501">node/6501</a></p>

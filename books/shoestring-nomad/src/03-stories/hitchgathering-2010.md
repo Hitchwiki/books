@@ -7,4 +7,4 @@ Check http://hitchgathering.org & http://hitchwiki.org/en/6810
 
 ---
 
-Source: https://casarobino.org/2010/03/hitchgathering-2010
+<p class="chapter-source"><a href="https://casarobino.org/node/9783">node/9783</a></p>

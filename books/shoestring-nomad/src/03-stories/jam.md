@@ -8,4 +8,4 @@ There have already been several jams made. If anyone has jars please bring them 
 
 ---
 
-Source: https://casarobino.org/2009/09/jam
+<p class="chapter-source"><a href="https://casarobino.org/node/5414">node/5414</a></p>

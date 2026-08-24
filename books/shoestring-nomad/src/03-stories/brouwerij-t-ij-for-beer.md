@@ -20,4 +20,4 @@ Opening hours of the pub: daily from 15:00 to 20:00 hours.
 
 ---
 
-Source: https://casarobino.org/content/brouwerij-t-ij-beer
+<p class="chapter-source"><a href="https://casarobino.org/node/294">node/294</a></p>

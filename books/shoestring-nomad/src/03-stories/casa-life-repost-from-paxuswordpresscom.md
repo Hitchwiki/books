@@ -13,4 +13,4 @@ For pictures, video and links that are in this article go to paxus.wordpress.com
 
 ---
 
-Source: https://casarobino.org/2010/10/casa-life-repost-paxuswordpresscom
+<p class="chapter-source"><a href="https://casarobino.org/node/14277">node/14277</a></p>

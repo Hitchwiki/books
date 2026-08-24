@@ -4,4 +4,4 @@ Via de app '[Too Good To Go](https://toogoodtogo.nl/)' kun je voor een klein bed
 
 ---
 
-Source: https://dumpsterdam.nl/too-good-go
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/136">node/136</a></p>

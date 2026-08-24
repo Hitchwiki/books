@@ -11,4 +11,4 @@ And some visual accompaniment, soon.
 
 ---
 
-Source: https://casarobino.org/content/more-quotes
+<p class="chapter-source"><a href="https://casarobino.org/node/54">node/54</a></p>

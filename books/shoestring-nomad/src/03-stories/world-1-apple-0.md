@@ -4,4 +4,4 @@ DRMs are falling! Soon it will be possible to broadcast music online without bei
 
 ---
 
-Source: https://casarobino.org/content/world-1-apple-0
+<p class="chapter-source"><a href="https://casarobino.org/node/1678">node/1678</a></p>

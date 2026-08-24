@@ -4,4 +4,4 @@ Might be a nice toy for geeks but is definitely not user friendly. Be nice with 
 
 ---
 
-Source: https://casarobino.org/content/coup-de-gueule-website-not-user-friendly
+<p class="chapter-source"><a href="https://casarobino.org/node/1525">node/1525</a></p>

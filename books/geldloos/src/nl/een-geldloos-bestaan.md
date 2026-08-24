@@ -12,4 +12,4 @@ Over zijn ervaringen heeft hij in 2010 ook een boek gepubliceerd: [The Moneyless
 
 ---
 
-Source: https://geldloos.nl/een-geldloos-bestaan
+<p class="chapter-source"><a href="https://geldloos.nl/node/16">node/16</a></p>

@@ -9,4 +9,4 @@ I wished, to myself, that I had been the lucky one to find that feast in the dum
 
 ---
 
-Source: https://casarobino.org/2009/07/i-would-rather-be-dumpster-diving
+<p class="chapter-source"><a href="https://casarobino.org/node/3879">node/3879</a></p>

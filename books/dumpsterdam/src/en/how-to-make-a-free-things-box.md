@@ -8,4 +8,4 @@
 
 ---
 
-Source: https://dumpsterdam.nl/nieuws/how-make-free-things-box
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/78">node/78</a></p>

@@ -7,4 +7,4 @@ hope all is well in amsterdam and the many places near and beyond!
 
 ---
 
-Source: https://casarobino.org/2009/12/dancing-toronto
+<p class="chapter-source"><a href="https://casarobino.org/node/8265">node/8265</a></p>

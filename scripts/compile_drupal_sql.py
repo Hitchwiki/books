@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import argparse
 import gzip
+import json
 import re
 import sys
 import xml.etree.ElementTree as ET
@@ -126,6 +127,7 @@ def compile_source(cfg: dict) -> int:
     skip = cfg.get("skip_types") or set()
     n = 0
     skipped = 0
+    manifest: dict[str, dict[str, str]] = {}
     seen_slugs: set[tuple[str, str]] = set()
     for row in root.findall("row"):
         d = row_dict(row)
@@ -145,15 +147,24 @@ def compile_source(cfg: dict) -> int:
         if key in seen_slugs:
             slug = f"{slug}-{d.get('nid')}"
         seen_slugs.add((sub, slug))
-        alias = (d.get("alias") or "").lstrip("/")
-        url = cfg["base"] + (alias or f"node/{d.get('nid')}")
+        node_path = f"node/{d.get('nid')}"
+        url = cfg["base"] + node_path
         dest = dest_dir / f"{slug}.md"
-        generated = f"# {title}\n\n{body}\n\n---\n\nSource: {url}\n"
+        rel = dest.relative_to(book / "src").as_posix()
+        manifest[rel] = {"url": url, "label": node_path}
+        source = f'<p class="chapter-source"><a href="{url}">{node_path}</a></p>'
+        generated = f"# {title}\n\n{body}\n\n---\n\n{source}\n"
         result = write_generated(book, dest, generated, title=title)
         if result == "wrote":
             n += 1
         else:
             skipped += 1
+    manifest_path = book / "editorial" / "drupal-nodes.json"
+    manifest_path.parent.mkdir(parents=True, exist_ok=True)
+    manifest_path.write_text(
+        json.dumps(dict(sorted(manifest.items())), indent=2, ensure_ascii=False) + "\n",
+        encoding="utf-8",
+    )
     extra = f", skipped {skipped}" if skipped else ""
     print(f"  {cfg['file']}: {n} chapters{extra}")
     return n

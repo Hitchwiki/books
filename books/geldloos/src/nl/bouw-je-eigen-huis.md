@@ -15,4 +15,4 @@ Je kan ook overwegen om een hut bouwen. Er is een boek in het Engels dat heet "[
 
 ---
 
-Source: https://geldloos.nl/bouw-je-eigen-huis
+<p class="chapter-source"><a href="https://geldloos.nl/node/136">node/136</a></p>

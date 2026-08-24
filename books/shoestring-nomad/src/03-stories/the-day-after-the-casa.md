@@ -6,8 +6,8 @@ Jesus briefly visited a squat in Amsterdam called ADM, with Peter, and was surpr
 At this point, it would be good to inform all travelers that there is no such thing as hassle-free crossings of EU borders anymore. If you look weird, you WILL have to deal with the border cops. Just keep that in mind and make yr plans accordingly...
 Then got checked again on the France-UK borders, and finally arrived in the UK. He just made it to his destination before illness kicked in bigtime, so he's now bedbound and unwell...
 Anja and Jesus both have the same symptoms, sore throat, runny nose, weird stomach feeling (indigestion?), and Jesus also has a fever.. Isn't it lovely how we share everything? Did we share this with anyone at the casa? Anyone with similar symptoms?
-So this is what we've been up to since the Casa... We both really enjoyed being there, lovely house with lovely people! Thanks for everything! I'm sure we'll visit again some day!....or at least meet elsewhere along the way!
+So this is what we've been up to since the Casa... We both really enjoyed being there, lovely house with lovely people! Thanks for everything! I'm sure we'll visit again some day! ....or at least meet elsewhere along the way!
 
 ---
 
-Source: https://casarobino.org/2010/05/day-after-casa
+<p class="chapter-source"><a href="https://casarobino.org/node/11162">node/11162</a></p>

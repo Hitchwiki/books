@@ -5,4 +5,4 @@ http://boulderhousingcoalition.org/
 
 ---
 
-Source: https://casarobino.org/2009/09/boulder-usa-housing-projects
+<p class="chapter-source"><a href="https://casarobino.org/node/5573">node/5573</a></p>

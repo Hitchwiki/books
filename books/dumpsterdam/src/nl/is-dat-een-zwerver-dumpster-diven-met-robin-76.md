@@ -8,4 +8,4 @@ Lees het verslag verder op hun website [Leve de crisis](http://levedecrisis.blog
 
 ---
 
-Source: https://dumpsterdam.nl/artikel/dat-een-zwerver-dumpster-diven-met-robin
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/76">node/76</a></p>

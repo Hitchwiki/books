@@ -9,4 +9,4 @@ And the name? [Rutabage](http://www.vegparadise.com/highestperch4.html), part of
 
 ---
 
-Source: https://casarobino.org/content/science-rutabaga
+<p class="chapter-source"><a href="https://casarobino.org/node/576">node/576</a></p>

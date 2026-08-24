@@ -12,4 +12,4 @@ Check for the full list of dumpsters around here and when you find a new one, do
 
 ---
 
-Source: https://casarobino.org/2011/05/new-dumpster-finds
+<p class="chapter-source"><a href="https://casarobino.org/node/18717">node/18717</a></p>

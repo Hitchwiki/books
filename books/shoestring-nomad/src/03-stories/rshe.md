@@ -8,4 +8,4 @@ And now friends, here is where we the discussion recommences. How can SHE be bet
 
 ---
 
-Source: https://casarobino.org/2009/09/rshe
+<p class="chapter-source"><a href="https://casarobino.org/node/5310">node/5310</a></p>

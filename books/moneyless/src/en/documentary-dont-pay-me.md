@@ -31,4 +31,4 @@ A for the release date, I would love to tell you that but I have not even a slig
 
 ---
 
-Source: https://moneyless.org/documentary-dont-pay-me
+<p class="chapter-source"><a href="https://moneyless.org/node/164">node/164</a></p>

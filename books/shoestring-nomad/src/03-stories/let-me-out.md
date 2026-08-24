@@ -14,4 +14,4 @@ Remember that song?
 
 ---
 
-Source: https://casarobino.org/content/let-me-out
+<p class="chapter-source"><a href="https://casarobino.org/node/121">node/121</a></p>

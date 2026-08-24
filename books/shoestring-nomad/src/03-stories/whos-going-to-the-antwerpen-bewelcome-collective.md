@@ -5,4 +5,4 @@ Not me, but I'm sure half of the current hosts would be interested, still I don'
 
 ---
 
-Source: https://casarobino.org/content/whos-going-antwerpen-bewelcome-collective
+<p class="chapter-source"><a href="https://casarobino.org/node/209">node/209</a></p>

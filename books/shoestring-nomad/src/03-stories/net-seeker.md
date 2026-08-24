@@ -15,4 +15,4 @@ Feedback? does something like this exist? Anyone interested in helping out (I sh
 
 ---
 
-Source: https://casarobino.org/2009/08/net-seeker
+<p class="chapter-source"><a href="https://casarobino.org/node/4824">node/4824</a></p>

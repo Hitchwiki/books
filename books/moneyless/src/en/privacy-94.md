@@ -17,4 +17,4 @@ This website and its owners use any information submitted to provide you with fu
 
 ---
 
-Source: https://moneyless.org/privacy
+<p class="chapter-source"><a href="https://moneyless.org/node/94">node/94</a></p>

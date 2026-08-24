@@ -14,4 +14,4 @@ In the past week BW has seen almost 1000 new signups and many people with dorman
 
 ---
 
-Source: https://casarobino.org/2011/09/couchsurfing-goes-profit-go-go-bewelcome
+<p class="chapter-source"><a href="https://casarobino.org/node/21432">node/21432</a></p>

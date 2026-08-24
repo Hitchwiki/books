@@ -4,4 +4,4 @@ At least one idea a day shouldn't be that hard if there is more than one person 
 
 ---
 
-Source: https://casarobino.org/2008/12/setting-massage-network
+<p class="chapter-source"><a href="https://casarobino.org/node/314">node/314</a></p>

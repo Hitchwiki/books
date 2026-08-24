@@ -7,4 +7,4 @@ Een bekend initiatief om voedsel te delen was ook Foodsharing.nl. Dat was een on
 
 ---
 
-Source: https://geldloos.nl/voedsel-delen
+<p class="chapter-source"><a href="https://geldloos.nl/node/82">node/82</a></p>

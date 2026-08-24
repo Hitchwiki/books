@@ -4,4 +4,4 @@
 
 ---
 
-Source: https://dumpsterdam.nl/pauluskerk-kookt-tegen-de-verspilling
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/106">node/106</a></p>

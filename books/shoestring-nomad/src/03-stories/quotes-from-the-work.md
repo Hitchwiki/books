@@ -13,4 +13,4 @@ I have other quotes but this is enough for today;)
 
 ---
 
-Source: https://casarobino.org/content/quotes-work
+<p class="chapter-source"><a href="https://casarobino.org/node/1524">node/1524</a></p>

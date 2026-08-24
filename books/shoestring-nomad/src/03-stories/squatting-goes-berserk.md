@@ -4,4 +4,4 @@ For more information on the squatting eviction: http://krakendraaitdoor.wordpres
 
 ---
 
-Source: https://casarobino.org/2011/07/squatting-goes-berserk
+<p class="chapter-source"><a href="https://casarobino.org/node/19839">node/19839</a></p>

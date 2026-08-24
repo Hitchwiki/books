@@ -4,4 +4,4 @@
 
 ---
 
-Source: https://casarobino.org/content/image-gallery
+<p class="chapter-source"><a href="https://casarobino.org/node/878">node/878</a></p>

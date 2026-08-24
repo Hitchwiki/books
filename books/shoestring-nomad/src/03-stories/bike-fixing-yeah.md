@@ -19,4 +19,4 @@ There are only two more bikes that need to be fixed, Racing and Golden bike (whi
 
 ---
 
-Source: https://casarobino.org/2009/07/bike-fixing-yeah
+<p class="chapter-source"><a href="https://casarobino.org/node/4264">node/4264</a></p>

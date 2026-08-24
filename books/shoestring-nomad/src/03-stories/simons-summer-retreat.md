@@ -4,4 +4,4 @@ Starting today, the 1st of june, untill the end of july i will be a retreatent i
 
 ---
 
-Source: https://casarobino.org/2012/06/simons-summer-retreat
+<p class="chapter-source"><a href="https://casarobino.org/node/26421">node/26421</a></p>

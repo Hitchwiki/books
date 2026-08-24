@@ -5,4 +5,4 @@ A self-organised travelers home, a nomad base. It is also a real social network 
 
 ---
 
-Source: https://casarobino.org/2009/06/12-questions-you-never-dared-ask
+<p class="chapter-source"><a href="https://casarobino.org/node/3379">node/3379</a></p>

@@ -22,4 +22,4 @@ Er is ook een documentaire gemaakt over haar leven. Die vind je via de website [
 
 ---
 
-Source: https://geldloos.nl/heidemarie-schwermer-een-rijk-leven-zonder-geld
+<p class="chapter-source"><a href="https://geldloos.nl/node/9">node/9</a></p>

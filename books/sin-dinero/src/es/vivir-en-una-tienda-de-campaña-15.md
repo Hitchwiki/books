@@ -7,4 +7,4 @@ A veces, usted encontrará un lugar donde se puede permanecer por un período m�
 
 ---
 
-Source: https://sindinero.net/vivir-una-tienda-campana
+<p class="chapter-source"><a href="https://sindinero.net/node/15">node/15</a></p>

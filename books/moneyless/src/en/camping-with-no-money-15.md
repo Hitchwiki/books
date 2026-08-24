@@ -16,4 +16,4 @@ I tried to find more information about why it's illegal but couldn't. It seems q
 
 ---
 
-Source: https://moneyless.org/camping
+<p class="chapter-source"><a href="https://moneyless.org/node/15">node/15</a></p>

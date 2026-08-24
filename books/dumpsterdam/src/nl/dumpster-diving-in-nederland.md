@@ -4,4 +4,4 @@
 
 ---
 
-Source: https://dumpsterdam.nl/dumpster-diving-nederland
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/87">node/87</a></p>

@@ -9,4 +9,4 @@ More photos you can find on [fb](http://www.facebook.com/album.php?aid=286541&id
 
 ---
 
-Source: https://casarobino.org/2011/04/dumpster-diving-tour-den-haag
+<p class="chapter-source"><a href="https://casarobino.org/node/17847">node/17847</a></p>

@@ -10,4 +10,4 @@ Most of the plastic produced in the house does not end up in this ocean. However
 
 ---
 
-Source: https://casarobino.org/2009/05/how-much-plastic-do-we-produce
+<p class="chapter-source"><a href="https://casarobino.org/node/2838">node/2838</a></p>

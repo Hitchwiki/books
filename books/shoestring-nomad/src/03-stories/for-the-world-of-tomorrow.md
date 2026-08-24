@@ -8,4 +8,4 @@ Your thoughts please.
 
 ---
 
-Source: https://casarobino.org/content/world-tomorrow
+<p class="chapter-source"><a href="https://casarobino.org/node/130">node/130</a></p>

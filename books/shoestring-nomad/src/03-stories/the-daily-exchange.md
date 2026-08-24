@@ -7,8 +7,8 @@ Random person (looks very confused, notes my general appearence before finally c
 (awkward pause)
 Random person: "can i just ask...where are your shoes?"
 Hehehee.....
-Loving it so far, The law is hard but i feel like i'm really learning, and have managed to find lots of charities to work with using my soon-to-be legal knowledge, Amnesty being the one i am most interested in. Changing the world, one legal document at a time:)
+Loving it so far, The law is hard but i feel like i'm really learning, and have managed to find lots of charities to work with using my soon-to-be legal knowledge, Amnesty being the one i am most interested in. Changing the world, one legal document at a time :)
 
 ---
 
-Source: https://casarobino.org/2009/10/daily-exchange
+<p class="chapter-source"><a href="https://casarobino.org/node/7103">node/7103</a></p>

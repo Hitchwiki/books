@@ -6,4 +6,4 @@ Het is een project van [Robino](/users/robino). Hij heeft ruim 5 jaar ervaring m
 
 ---
 
-Source: https://dumpsterdam.nl/article/dumpsterdam-missie
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/22">node/22</a></p>

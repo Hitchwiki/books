@@ -13,4 +13,4 @@ Savor the amazing deliciousness.
 
 ---
 
-Source: https://casarobino.org/2009/12/delicious-delicious
+<p class="chapter-source"><a href="https://casarobino.org/node/8324">node/8324</a></p>

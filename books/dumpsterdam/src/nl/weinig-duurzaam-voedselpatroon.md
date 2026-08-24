@@ -4,4 +4,4 @@ Terwijl vandaag in Amsterdam het [Damnfoodwaste](http://damnfoodwaste.com) evene
 
 ---
 
-Source: https://dumpsterdam.nl/weinig-duurzaam-voedselpatroon
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/91">node/91</a></p>

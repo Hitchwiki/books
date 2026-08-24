@@ -9,4 +9,4 @@ Dat is dus het idee. Ik ben benieuwd of er iemand is die hier iets mee wilt doen
 
 ---
 
-Source: https://dumpsterdam.nl/gratis-eten-winkel
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/102">node/102</a></p>

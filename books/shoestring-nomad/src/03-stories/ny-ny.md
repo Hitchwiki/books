@@ -28,4 +28,4 @@ The randomness of the event has its reasons.
 
 ---
 
-Source: https://casarobino.org/2009/09/ny-ny
+<p class="chapter-source"><a href="https://casarobino.org/node/5293">node/5293</a></p>

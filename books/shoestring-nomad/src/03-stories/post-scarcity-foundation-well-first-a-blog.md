@@ -7,4 +7,4 @@ So I invite you to [share your own thoughts on how to make this happen on the bl
 
 ---
 
-Source: https://casarobino.org/2010/07/post-scarcity-foundation-well-first-blog
+<p class="chapter-source"><a href="https://casarobino.org/node/12523">node/12523</a></p>

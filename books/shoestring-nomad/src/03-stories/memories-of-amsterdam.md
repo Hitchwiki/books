@@ -9,4 +9,4 @@ I will soon come to visit Casa Robino and so look forward to be sharing a meal w
 
 ---
 
-Source: https://casarobino.org/2009/05/memories-amsterdam
+<p class="chapter-source"><a href="https://casarobino.org/node/2727">node/2727</a></p>

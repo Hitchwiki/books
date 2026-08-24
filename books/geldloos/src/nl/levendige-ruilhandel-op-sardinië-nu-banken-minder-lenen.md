@@ -4,4 +4,4 @@
 
 ---
 
-Source: https://geldloos.nl/nieuws/levendige-ruilhandel-op-sardinië-nu-banken-minder-lenen
+<p class="chapter-source"><a href="https://geldloos.nl/node/87">node/87</a></p>

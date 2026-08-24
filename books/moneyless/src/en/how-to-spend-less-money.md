@@ -20,4 +20,4 @@ How to spend less money? First, get an overview of what you're spending money on
 
 ---
 
-Source: https://moneyless.org/how-spend-less-money
+<p class="chapter-source"><a href="https://moneyless.org/node/143">node/143</a></p>

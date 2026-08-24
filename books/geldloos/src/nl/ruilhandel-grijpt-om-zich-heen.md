@@ -4,4 +4,4 @@ Peer-to-peer [ruilhandel](/ruilhandel) komt steeds vaker voor in Nederland. In d
 
 ---
 
-Source: https://geldloos.nl/nieuws/ruilhandel-grijpt-om-zich-heen
+<p class="chapter-source"><a href="https://geldloos.nl/node/33">node/33</a></p>

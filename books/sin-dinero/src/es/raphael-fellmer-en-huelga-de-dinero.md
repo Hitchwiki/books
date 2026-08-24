@@ -16,4 +16,4 @@ Raphael es autor del libro Feliz sin dinero, publicado en 2014. Si te interesa s
 
 ---
 
-Source: https://sindinero.net/raphael-fellmer-huelga-dinero
+<p class="chapter-source"><a href="https://sindinero.net/node/140">node/140</a></p>

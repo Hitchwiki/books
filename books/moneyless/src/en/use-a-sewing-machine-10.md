@@ -7,4 +7,4 @@ Image from [Wikipedia](https://commons.wikimedia.org/wiki/File:Sewing_Lesson.jpg
 
 ---
 
-Source: https://moneyless.org/use-sewing-machine
+<p class="chapter-source"><a href="https://moneyless.org/node/10">node/10</a></p>

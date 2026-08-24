@@ -23,4 +23,4 @@ Junto a [Raphael Fellmer](https://sindinero.net/raphael-fellmer-huelga-dinero), 
 
 ---
 
-Source: https://sindinero.net/daniel-suelo
+<p class="chapter-source"><a href="https://sindinero.net/node/153">node/153</a></p>

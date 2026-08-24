@@ -28,4 +28,4 @@ I'm doing it as a public service!
 
 ---
 
-Source: https://casarobino.org/2009/09/drinks-r-good
+<p class="chapter-source"><a href="https://casarobino.org/node/5487">node/5487</a></p>

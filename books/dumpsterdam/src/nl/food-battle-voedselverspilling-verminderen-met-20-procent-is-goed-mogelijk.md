@@ -4,4 +4,4 @@ Huishoudens die in een dagboek bijhouden hoeveel eten ze weggooien en actief ges
 
 ---
 
-Source: https://dumpsterdam.nl/nieuws/food-battle-voedselverspilling-verminderen-met-20-procent-goed-mogelijk
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/68">node/68</a></p>

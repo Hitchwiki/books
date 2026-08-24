@@ -10,4 +10,4 @@ Vandaag liep het verder goed af. Ik mocht de bloemen houden. Wel dreigde de mana
 
 ---
 
-Source: https://dumpsterdam.nl/artikel/betrapt-worden-reacties-van-medewerkers-verkopers
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/48">node/48</a></p>

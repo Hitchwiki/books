@@ -11,4 +11,4 @@ Jass
 
 ---
 
-Source: https://casarobino.org/2010/06/harvest-season-seasonal-work-anything
+<p class="chapter-source"><a href="https://casarobino.org/node/11385">node/11385</a></p>

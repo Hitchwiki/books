@@ -8,4 +8,4 @@ they have some tasty ideas
 
 ---
 
-Source: https://casarobino.org/2010/04/good-food-stuff
+<p class="chapter-source"><a href="https://casarobino.org/node/10734">node/10734</a></p>

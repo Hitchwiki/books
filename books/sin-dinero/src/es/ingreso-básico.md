@@ -17,4 +17,4 @@ Algunas ventajas del ingreso básico:
 
 ---
 
-Source: https://sindinero.net/ingreso-basico
+<p class="chapter-source"><a href="https://sindinero.net/node/113">node/113</a></p>

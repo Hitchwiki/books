@@ -6,4 +6,4 @@ Tomorrow we'll hit the Albert Cuijp as part of our goal to dumpster 3 markets in
 
 ---
 
-Source: https://casarobino.org/content/dumpster-diving-goodies-dappermarkt
+<p class="chapter-source"><a href="https://casarobino.org/node/606">node/606</a></p>

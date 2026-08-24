@@ -7,4 +7,4 @@ And why not? The house is shared; we all live here together temporarily and we a
 
 ---
 
-Source: https://casarobino.org/2010/05/sustainable-shared-hospitality
+<p class="chapter-source"><a href="https://casarobino.org/node/11174">node/11174</a></p>

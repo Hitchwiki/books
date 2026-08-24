@@ -13,4 +13,4 @@ Daarnaast laat deze website bij wijze van experiment advertenties toe via het Go
 
 ---
 
-Source: https://dumpsterdam.nl/privacy
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/95">node/95</a></p>

@@ -29,4 +29,4 @@ Henrik and Paz, Skill Surfers
 
 ---
 
-Source: https://casarobino.org/content/occupied-universitat-de-barcelona
+<p class="chapter-source"><a href="https://casarobino.org/node/608">node/608</a></p>

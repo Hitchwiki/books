@@ -30,4 +30,4 @@ My colleague James Martin created an audio slideshow on Noisebridge:
 
 ---
 
-Source: https://casarobino.org/2009/12/nose-bridge-hacker-collective-space-san-fran
+<p class="chapter-source"><a href="https://casarobino.org/node/8235">node/8235</a></p>

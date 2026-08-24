@@ -7,4 +7,4 @@ Although the main language is Dutch, maybe we will also cover other languages on
 
 ---
 
-Source: https://dumpsterdam.nl/about-dumpsterdam
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/33">node/33</a></p>

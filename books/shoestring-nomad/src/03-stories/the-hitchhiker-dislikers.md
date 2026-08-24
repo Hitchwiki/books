@@ -14,4 +14,4 @@ Some minutes later I found a very friendly man who brought me even further than 
 
 ---
 
-Source: https://casarobino.org/2011/04/hitchhiker-dislikers
+<p class="chapter-source"><a href="https://casarobino.org/node/18330">node/18330</a></p>

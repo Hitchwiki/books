@@ -9,4 +9,4 @@ Hieronder nog een artikel uit de MUG van een paar jaar geleden, met daarbij meer
 
 ---
 
-Source: https://geldloos.nl/blog/dumpster-diving-nederland
+<p class="chapter-source"><a href="https://geldloos.nl/node/73">node/73</a></p>

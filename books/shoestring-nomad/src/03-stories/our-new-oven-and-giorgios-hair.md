@@ -7,4 +7,4 @@ Birthday's and other celebrations really are at its best when you can turn it in
 
 ---
 
-Source: https://casarobino.org/2009/04/our-new-oven-and-giorgios-hair
+<p class="chapter-source"><a href="https://casarobino.org/node/2627">node/2627</a></p>

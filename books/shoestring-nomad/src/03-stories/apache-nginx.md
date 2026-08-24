@@ -4,4 +4,4 @@ I moved the server to nginx. I also added a decent expires header and more gzip 
 
 ---
 
-Source: https://casarobino.org/content/apache-nginx
+<p class="chapter-source"><a href="https://casarobino.org/node/40">node/40</a></p>

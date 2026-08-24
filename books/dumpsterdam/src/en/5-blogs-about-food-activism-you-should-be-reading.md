@@ -4,4 +4,4 @@ CALL IT SUSTAINABLE FOOD OR FOOD ACTIVISM or just common sense: the movement to 
 
 ---
 
-Source: https://dumpsterdam.nl/nieuws/5-blogs-about-food-activism-you-should-be-reading
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/63">node/63</a></p>

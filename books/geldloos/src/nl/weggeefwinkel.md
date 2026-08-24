@@ -7,4 +7,4 @@ Zie ook https://geldloos.nl/gratis-spullen-netwerken voor online netwerken om sp
 
 ---
 
-Source: https://geldloos.nl/weggeefwinkel-0
+<p class="chapter-source"><a href="https://geldloos.nl/node/29">node/29</a></p>

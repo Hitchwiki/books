@@ -37,4 +37,4 @@ Temporary free markets are called **Really really free markets**. These are usua
 
 ---
 
-Source: https://moneyless.org/give-away-shop
+<p class="chapter-source"><a href="https://moneyless.org/node/119">node/119</a></p>

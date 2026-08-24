@@ -24,4 +24,4 @@ There's also a documentary about her life. You can find it on the website [Livin
 
 ---
 
-Source: https://moneyless.org/heidemarie-schwermer-rich-life-without-money
+<p class="chapter-source"><a href="https://moneyless.org/node/9">node/9</a></p>

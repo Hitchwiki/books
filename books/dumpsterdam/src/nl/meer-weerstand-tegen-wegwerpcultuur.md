@@ -4,4 +4,4 @@
 
 ---
 
-Source: https://dumpsterdam.nl/meer-weerstand-tegen-wegwerpcultuur
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/90">node/90</a></p>

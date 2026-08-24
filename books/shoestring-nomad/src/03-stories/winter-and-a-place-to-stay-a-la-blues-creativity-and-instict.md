@@ -1,4 +1,4 @@
-# Winter and a place to stay (a la Blues, Creativity and Instict),
+# Winter and a place to stay (a la Blues, Creativity and Instict) ,
 
 Ah, to you all,
 I've to come that winter always brings about a huge interior turmoil. Always, without fail.
@@ -19,4 +19,4 @@ Jass
 
 ---
 
-Source: https://casarobino.org/2011/12/winter-and-place-stay-la-blues-creativity-and-instict
+<p class="chapter-source"><a href="https://casarobino.org/node/22633">node/22633</a></p>

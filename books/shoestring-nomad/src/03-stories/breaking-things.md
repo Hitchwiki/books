@@ -7,4 +7,4 @@ Those days when things just brake down are in fact good days. They remember you 
 
 ---
 
-Source: https://casarobino.org/2009/05/breaking-things
+<p class="chapter-source"><a href="https://casarobino.org/node/2769">node/2769</a></p>

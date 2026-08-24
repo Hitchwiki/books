@@ -52,4 +52,4 @@ You can learn anything on Youtube these days. [A query for Learn Python](http://
 
 ---
 
-Source: https://moneyless.org/learn-how-code-free
+<p class="chapter-source"><a href="https://moneyless.org/node/121">node/121</a></p>

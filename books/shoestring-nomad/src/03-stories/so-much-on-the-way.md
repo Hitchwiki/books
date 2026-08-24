@@ -5,4 +5,4 @@ At the same time we have new people arriving today, there is Ben hitching from B
 
 ---
 
-Source: https://casarobino.org/2009/03/so-much-way
+<p class="chapter-source"><a href="https://casarobino.org/node/2395">node/2395</a></p>

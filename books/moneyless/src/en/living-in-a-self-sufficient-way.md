@@ -6,4 +6,4 @@ I don't yet have plans to take this direction in the near future. But I would li
 
 ---
 
-Source: https://moneyless.org/living-self-sufficient-way
+<p class="chapter-source"><a href="https://moneyless.org/node/71">node/71</a></p>

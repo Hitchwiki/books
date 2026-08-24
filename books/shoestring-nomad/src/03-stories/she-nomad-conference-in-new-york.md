@@ -7,4 +7,4 @@ Find the others!
 
 ---
 
-Source: https://casarobino.org/2009/11/she-nomad-conference-new-york
+<p class="chapter-source"><a href="https://casarobino.org/node/7724">node/7724</a></p>

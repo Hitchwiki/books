@@ -13,4 +13,4 @@ what think ye?
 
 ---
 
-Source: https://casarobino.org/2009/09/new-look-and-lovecasting-far-and-wide
+<p class="chapter-source"><a href="https://casarobino.org/node/5591">node/5591</a></p>

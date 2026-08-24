@@ -8,4 +8,4 @@ Please come by in the afternoon/evening with some mandarin oranges (a very popul
 
 ---
 
-Source: https://casarobino.org/2010/01/ç-yeni-yılı-春节
+<p class="chapter-source"><a href="https://casarobino.org/node/9178">node/9178</a></p>

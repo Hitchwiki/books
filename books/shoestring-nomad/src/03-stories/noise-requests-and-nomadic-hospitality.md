@@ -7,4 +7,4 @@ I heard some interesting suggestions at She-Berlin about this too, some new idea
 
 ---
 
-Source: https://casarobino.org/2009/12/noise-requests-and-nomadic-hospitality
+<p class="chapter-source"><a href="https://casarobino.org/node/8313">node/8313</a></p>

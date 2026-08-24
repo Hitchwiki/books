@@ -36,4 +36,4 @@ I also successfully made a lime-mango version of the cake yesterday by replacing
 
 ---
 
-Source: https://casarobino.org/2009/12/vegan-chocolate-espresso-cake-vegan-buttercream-icing
+<p class="chapter-source"><a href="https://casarobino.org/node/8724">node/8724</a></p>

@@ -5,4 +5,4 @@ Mug Magazine is een gratis tijdschrift voor mensen met een klein budget dat verk
 
 ---
 
-Source: https://geldloos.nl/tijdschrift-mug
+<p class="chapter-source"><a href="https://geldloos.nl/node/83">node/83</a></p>

@@ -12,4 +12,4 @@ Ah... the joys of bicycling.
 
 ---
 
-Source: https://casarobino.org/content/bicycle-bloopers
+<p class="chapter-source"><a href="https://casarobino.org/node/215">node/215</a></p>

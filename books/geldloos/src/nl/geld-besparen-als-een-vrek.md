@@ -13,4 +13,4 @@ De Vrekkenkrant stopte in 1996, maar werd in 1997 opgevolgd door het [tijdschrif
 
 ---
 
-Source: https://geldloos.nl/geld-besparen-als-een-vrek
+<p class="chapter-source"><a href="https://geldloos.nl/node/281">node/281</a></p>

@@ -4,4 +4,4 @@ Gezinnen kunnen honderden euro's besparen door beter bij te houden hoeveel eten 
 
 ---
 
-Source: https://dumpsterdam.nl/nieuws/voedselverspilling-kost-gezin-jaar-400-euro
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/67">node/67</a></p>

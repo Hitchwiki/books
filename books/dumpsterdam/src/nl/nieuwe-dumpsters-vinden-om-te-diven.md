@@ -7,4 +7,4 @@ In Amsterdam zijn er bovendien veel nieuwe "hippe" winkels (Marqt, Stach). Deze 
 
 ---
 
-Source: https://dumpsterdam.nl/nieuwe-dumpsters-vinden-om-te-diven
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/130">node/130</a></p>

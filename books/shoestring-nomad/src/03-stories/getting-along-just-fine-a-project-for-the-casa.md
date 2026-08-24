@@ -8,4 +8,4 @@ Oh and Davide, I love you. Come back to the states so I can show you how to ride
 
 ---
 
-Source: https://casarobino.org/2009/10/getting-along-just-fine-project-casa
+<p class="chapter-source"><a href="https://casarobino.org/node/6524">node/6524</a></p>

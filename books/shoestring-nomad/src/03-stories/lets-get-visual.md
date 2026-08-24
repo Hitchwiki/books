@@ -6,4 +6,4 @@
 
 ---
 
-Source: https://casarobino.org/content/lets-get-visual
+<p class="chapter-source"><a href="https://casarobino.org/node/300">node/300</a></p>

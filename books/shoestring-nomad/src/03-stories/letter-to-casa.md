@@ -16,4 +16,4 @@ PS. Kitten: when will you teach me how to fly?
 
 ---
 
-Source: https://casarobino.org/2010/09/letter-casa
+<p class="chapter-source"><a href="https://casarobino.org/node/14013">node/14013</a></p>

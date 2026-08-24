@@ -4,4 +4,4 @@ Hallo from no-so-random roads, 191 km from a'dam now, car with 2 more surfers & 
 
 ---
 
-Source: https://casarobino.org/content/tui
+<p class="chapter-source"><a href="https://casarobino.org/node/25">node/25</a></p>

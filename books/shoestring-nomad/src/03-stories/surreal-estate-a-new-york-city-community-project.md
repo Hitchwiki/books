@@ -9,4 +9,4 @@ Jeremie (in Canada).
 
 ---
 
-Source: https://casarobino.org/2010/05/surreal-estate-new-york-city-community-project
+<p class="chapter-source"><a href="https://casarobino.org/node/11136">node/11136</a></p>

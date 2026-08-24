@@ -14,4 +14,4 @@ Diego
 
 ---
 
-Source: https://casarobino.org/2009/10/letter-cruel-destiny-refugees-iceland
+<p class="chapter-source"><a href="https://casarobino.org/node/6756">node/6756</a></p>

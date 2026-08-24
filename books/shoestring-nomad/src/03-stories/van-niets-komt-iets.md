@@ -6,4 +6,4 @@ A day of late breakfast, welcoming, goodbyes, structuring the overload of mess, 
 
 ---
 
-Source: https://casarobino.org/2009/03/van-niets-komt-iets
+<p class="chapter-source"><a href="https://casarobino.org/node/2420">node/2420</a></p>

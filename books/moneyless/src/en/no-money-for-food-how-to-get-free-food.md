@@ -46,4 +46,4 @@ Occasionally do a job for which food is also an option
 
 ---
 
-Source: https://moneyless.org/no-money-food
+<p class="chapter-source"><a href="https://moneyless.org/node/76">node/76</a></p>

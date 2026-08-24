@@ -4,4 +4,4 @@ Four friends left hitchhiking and one just got stranded hopelessly (again). Gues
 
 ---
 
-Source: https://casarobino.org/content/4-people-road
+<p class="chapter-source"><a href="https://casarobino.org/node/120">node/120</a></p>

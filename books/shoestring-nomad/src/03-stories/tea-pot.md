@@ -6,4 +6,4 @@ Anyone?
 
 ---
 
-Source: https://casarobino.org/content/tea-pot
+<p class="chapter-source"><a href="https://casarobino.org/node/2341">node/2341</a></p>

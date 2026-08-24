@@ -53,4 +53,4 @@ If you don't have goods or services to exchange you should consider dumpster Div
 
 ---
 
-Source: https://moneyless.org/bartering
+<p class="chapter-source"><a href="https://moneyless.org/node/23">node/23</a></p>

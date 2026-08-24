@@ -43,4 +43,4 @@ St Thomas, Virgin Islands in November. Barbados/Grenada in November/December. Pa
 
 ---
 
-Source: https://casarobino.org/2010/04/boat-hitching-info
+<p class="chapter-source"><a href="https://casarobino.org/node/10963">node/10963</a></p>

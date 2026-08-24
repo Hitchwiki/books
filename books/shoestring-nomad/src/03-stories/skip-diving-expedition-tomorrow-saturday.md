@@ -11,4 +11,4 @@ Just leave a comment or turn up here around quarter to one.
 
 ---
 
-Source: https://casarobino.org/2010/03/skip-diving-expedition-tomorrow-saturday
+<p class="chapter-source"><a href="https://casarobino.org/node/9799">node/9799</a></p>

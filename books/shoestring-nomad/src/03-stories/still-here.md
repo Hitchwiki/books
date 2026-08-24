@@ -7,4 +7,4 @@ Which is likely, given my current luck.
 
 ---
 
-Source: https://casarobino.org/content/still-here
+<p class="chapter-source"><a href="https://casarobino.org/node/62">node/62</a></p>

@@ -13,4 +13,4 @@ If you're going to use a lock more than one time, take a minute to figure out ho
 
 ---
 
-Source: https://casarobino.org/2010/04/casa-bike-locks
+<p class="chapter-source"><a href="https://casarobino.org/node/10957">node/10957</a></p>

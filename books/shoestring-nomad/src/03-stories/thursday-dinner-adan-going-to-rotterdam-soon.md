@@ -22,4 +22,4 @@ I hope you are all having a great time.I hope you are all having a great time.
 
 ---
 
-Source: https://casarobino.org/2009/08/thursday-dinner-adan-going-rotterdam-soon
+<p class="chapter-source"><a href="https://casarobino.org/node/4626">node/4626</a></p>

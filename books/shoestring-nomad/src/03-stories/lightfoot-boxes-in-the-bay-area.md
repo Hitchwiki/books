@@ -6,4 +6,4 @@ Love to you!
 
 ---
 
-Source: https://casarobino.org/2010/12/lightfoot-boxes-bay-area
+<p class="chapter-source"><a href="https://casarobino.org/node/15665">node/15665</a></p>

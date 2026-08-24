@@ -3,7 +3,7 @@
 Late afternoon, Friday and the doorbel rings. It is the mailman, "Hi, is this Casa Robino, I have a package for you". I feel surprised and wonder what it would be as I walk down to the front-door. The amazement grows tremendously as soon as I open the door and see the mailman with a GIANT package in his arms.
 While walking back up, my excitement increases too. What could it be? What would be in it? While I slowly walk the stairs I check the box but there is nothing really on the square thing that reveals its contents; I can hardly wait to know and the curiosity grows even more.
 Inside the casa I put it on the floor, look at it carefully and am trying not to move too fast. Let's sit for a bit and wait, I tell myself. Argh, forget it, where are the scissors!
-Opening it I even feel more amazement, more wonder and I am enormously excited. Wait a minute! This box is full with... tea!? I turn the box upside down and hundreds of tea-packages fall on the floor like a wave into the beach, or a snow-avalanche down a hill. So much tea!
+Opening it I even feel more amazement, more wonder and I am enormously excited. Wait a minute! This box is full with ... tea!? I turn the box upside down and hundreds of tea-packages fall on the floor like a wave into the beach, or a snow-avalanche down a hill. So much tea!
 And this isn't it. I see a wonderful book called "[The Peace Pilgrim](http://www.peacepilgrim.com/)", numerous great Free Tea Party stickers (Make Tea, Not War), a [gourd](http://en.wikipedia.org/wiki/Mate_%28beverage%29) to drink Mate with, a full package of [Tulsi](http://en.wikipedia.org/wiki/Ocimum_tenuiflorum) (which I had just learned about that week), as well as some other teas (*all organic!*) and leaflets.
 Accompanied with the box is a letter:
 My Dear Members of the Casa Robino Family,
@@ -28,4 +28,4 @@ And anyone who comes across Giusepi, make sure you give him a double hug! You wi
 
 ---
 
-Source: https://casarobino.org/2011/01/free-tea-big-surprise-party
+<p class="chapter-source"><a href="https://casarobino.org/node/16162">node/16162</a></p>

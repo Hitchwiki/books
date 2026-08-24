@@ -5,4 +5,4 @@ P.S. I'm pretty sure the "Share a photo" feature is broken. This one is hosted b
 
 ---
 
-Source: https://casarobino.org/2008/12/one-more-smile
+<p class="chapter-source"><a href="https://casarobino.org/node/543">node/543</a></p>

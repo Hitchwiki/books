@@ -9,4 +9,4 @@ If you are wondering how much babysitting pays, it depends primarily on a couple
 
 ---
 
-Source: https://moneyless.org/make-money-babysitting
+<p class="chapter-source"><a href="https://moneyless.org/node/225">node/225</a></p>

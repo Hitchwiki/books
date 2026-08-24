@@ -8,4 +8,4 @@ There is much to share, but I can't find the words yet to describe the events th
 
 ---
 
-Source: https://casarobino.org/2010/08/life-happens-when-you-make-no-plans
+<p class="chapter-source"><a href="https://casarobino.org/node/13522">node/13522</a></p>

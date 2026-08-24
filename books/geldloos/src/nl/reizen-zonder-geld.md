@@ -10,4 +10,4 @@ Foto credit: [Charlie](http://bicycle4earth.org)
 
 ---
 
-Source: https://geldloos.nl/reizen-zonder-geld
+<p class="chapter-source"><a href="https://geldloos.nl/node/133">node/133</a></p>

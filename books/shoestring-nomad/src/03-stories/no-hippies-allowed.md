@@ -6,4 +6,4 @@ check this out...
 
 ---
 
-Source: https://casarobino.org/2011/01/no-hippies-allowed
+<p class="chapter-source"><a href="https://casarobino.org/node/15958">node/15958</a></p>

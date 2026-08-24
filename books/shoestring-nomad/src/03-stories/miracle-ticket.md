@@ -8,4 +8,4 @@ anyway...it was funkadelic
 
 ---
 
-Source: https://casarobino.org/2009/07/miracle-ticket
+<p class="chapter-source"><a href="https://casarobino.org/node/4420">node/4420</a></p>

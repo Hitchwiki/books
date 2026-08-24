@@ -6,4 +6,4 @@ The Moneyless Foundation is here to pursue this goal. It is a virtual foundation
 
 ---
 
-Source: https://moneyless.org/foundation
+<p class="chapter-source"><a href="https://moneyless.org/node/268">node/268</a></p>

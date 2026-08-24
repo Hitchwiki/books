@@ -5,4 +5,4 @@ Er is ook een facebook-pagina. En hier lees je een [verslag](http://cult.thepost
 
 ---
 
-Source: https://geldloos.nl/nieuws/anywhere-south-please
+<p class="chapter-source"><a href="https://geldloos.nl/node/134">node/134</a></p>

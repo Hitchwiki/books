@@ -18,4 +18,4 @@ Zo vaak eet ik geen vlees en eigenlijk ben ik al ruim tien jaar vegetariër. Maa
 
 ---
 
-Source: https://dumpsterdam.nl/verhaal/fast-food-tablediving
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/56">node/56</a></p>

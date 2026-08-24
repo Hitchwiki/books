@@ -6,4 +6,4 @@ Daarnaast kan je in de zomer natuurlijk ook gewoon heel veel lol hebben in de pu
 
 ---
 
-Source: https://geldloos.nl/zwemmen-de-zomer
+<p class="chapter-source"><a href="https://geldloos.nl/node/128">node/128</a></p>

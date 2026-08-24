@@ -8,4 +8,4 @@ En het was erg leuk trouwens om mezelf geciteerd tegen te komen met: "Ik weiger 
 
 ---
 
-Source: https://dumpsterdam.nl/article/ik-weiger-een-consument-te-zijn
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/36">node/36</a></p>

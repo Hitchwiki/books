@@ -5,4 +5,4 @@ Veel bezoekers komen voor het gratis Persoonlijk Budgetadvies; een rekentool waa
 
 ---
 
-Source: https://geldloos.nl/nieuws/2012-42-miljoen-bezoekers-op-nibudnl
+<p class="chapter-source"><a href="https://geldloos.nl/node/44">node/44</a></p>

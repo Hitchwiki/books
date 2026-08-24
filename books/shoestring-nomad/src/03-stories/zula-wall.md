@@ -4,4 +4,4 @@ A lot of work has been done recently on the website, the style changed, the colo
 
 ---
 
-Source: https://casarobino.org/2009/11/zula-wall
+<p class="chapter-source"><a href="https://casarobino.org/node/7536">node/7536</a></p>

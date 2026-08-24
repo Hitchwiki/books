@@ -4,4 +4,4 @@ Restjeskoken is relaxed. Doe gewoon boodschappen voor de helft van de dagen en k
 
 ---
 
-Source: https://dumpsterdam.nl/nieuws/koken-met-restjes
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/61">node/61</a></p>

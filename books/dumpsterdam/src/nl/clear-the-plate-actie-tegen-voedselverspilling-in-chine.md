@@ -6,4 +6,4 @@ Voor een meer kritische analyse, zie ook [What’s Behind China’s Sudden Campa
 
 ---
 
-Source: https://dumpsterdam.nl/nieuws/clear-plate-actie-tegen-voedselverspilling-chine
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/47">node/47</a></p>

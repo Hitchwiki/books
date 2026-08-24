@@ -8,4 +8,4 @@ I also created a convenient way to listen to **advertising free online radio sta
 
 ---
 
-Source: https://moneyless.org/dont-advertising-adblock
+<p class="chapter-source"><a href="https://moneyless.org/node/126">node/126</a></p>

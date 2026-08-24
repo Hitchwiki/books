@@ -20,4 +20,4 @@ Jass
 
 ---
 
-Source: https://casarobino.org/2010/11/bloodclots-will-get-you-end-ii
+<p class="chapter-source"><a href="https://casarobino.org/node/14836">node/14836</a></p>

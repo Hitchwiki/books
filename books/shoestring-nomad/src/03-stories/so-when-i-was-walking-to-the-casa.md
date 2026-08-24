@@ -5,4 +5,4 @@ the casa is famous en el barrio..apparently.
 
 ---
 
-Source: https://casarobino.org/content/so-when-i-was-walking-casa
+<p class="chapter-source"><a href="https://casarobino.org/node/643">node/643</a></p>

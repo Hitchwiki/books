@@ -6,4 +6,4 @@ And I guess it'll be okay to let wiki.sharingisdaring.com simple redirect to sha
 
 ---
 
-Source: https://casarobino.org/content/visawiki-and-sharewiki
+<p class="chapter-source"><a href="https://casarobino.org/node/129">node/129</a></p>

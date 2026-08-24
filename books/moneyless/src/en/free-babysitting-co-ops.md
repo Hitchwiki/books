@@ -13,4 +13,4 @@ Joining a babysitting co-op requires a lot of trust and love. Finding the right 
 
 ---
 
-Source: https://moneyless.org/free-babysitting-co-ops
+<p class="chapter-source"><a href="https://moneyless.org/node/191">node/191</a></p>

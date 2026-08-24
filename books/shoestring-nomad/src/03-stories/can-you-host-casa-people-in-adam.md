@@ -7,4 +7,4 @@ Any comments, or suggestions? Let us know!
 
 ---
 
-Source: https://casarobino.org/2010/04/can-you-host-casa-people-adam
+<p class="chapter-source"><a href="https://casarobino.org/node/10884">node/10884</a></p>

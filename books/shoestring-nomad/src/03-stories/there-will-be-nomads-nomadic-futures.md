@@ -13,4 +13,4 @@ You win a loaf and an hug on discount: only 1.65 euros for the first who answer.
 
 ---
 
-Source: https://casarobino.org/2010/04/there-will-be-nomads-nomadic-futures
+<p class="chapter-source"><a href="https://casarobino.org/node/10940">node/10940</a></p>

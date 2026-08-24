@@ -5,4 +5,4 @@ And so, yesterday, Heather, Robin, & I spent some quality time in the spacious D
 
 ---
 
-Source: https://casarobino.org/2009/12/casa-catering-crashes-wedding-party-ot-301
+<p class="chapter-source"><a href="https://casarobino.org/node/8697">node/8697</a></p>

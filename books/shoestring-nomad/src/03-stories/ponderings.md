@@ -8,4 +8,4 @@ Love and hugs and lashings of good energy to all xx
 
 ---
 
-Source: https://casarobino.org/2010/03/ponderings
+<p class="chapter-source"><a href="https://casarobino.org/node/10404">node/10404</a></p>

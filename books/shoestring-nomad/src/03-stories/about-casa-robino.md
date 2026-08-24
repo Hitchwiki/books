@@ -4,4 +4,4 @@ Casa Robino is an apartment in Amsterdam. casarobino.org is the collective web p
 
 ---
 
-Source: https://casarobino.org/2009/03/about-casa-robino
+<p class="chapter-source"><a href="https://casarobino.org/node/2397">node/2397</a></p>

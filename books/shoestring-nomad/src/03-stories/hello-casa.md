@@ -6,4 +6,4 @@ I want to thank Casa Robino, the place, the people, and Robino himself for all t
 
 ---
 
-Source: https://casarobino.org/2011/07/hello-casa
+<p class="chapter-source"><a href="https://casarobino.org/node/20043">node/20043</a></p>

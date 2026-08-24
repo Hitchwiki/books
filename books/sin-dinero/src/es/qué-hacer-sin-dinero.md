@@ -30,4 +30,4 @@ Hay diversas actividades culturales, recreativas y para relajarse que se pueden 
 
 ---
 
-Source: https://sindinero.net/que-hacer-sin-dinero
+<p class="chapter-source"><a href="https://sindinero.net/node/142">node/142</a></p>

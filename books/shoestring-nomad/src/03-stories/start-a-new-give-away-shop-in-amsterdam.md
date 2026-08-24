@@ -5,4 +5,4 @@ Check this [attempt at coordinating the creation of the freeshop](http://trashwi
 
 ---
 
-Source: https://casarobino.org/2009/03/start-new-give-away-shop-amsterdam
+<p class="chapter-source"><a href="https://casarobino.org/node/2396">node/2396</a></p>

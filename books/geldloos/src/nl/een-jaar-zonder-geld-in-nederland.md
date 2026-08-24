@@ -16,4 +16,4 @@ Eva Prins schreef voor het [tijdschrift Genoeg](/tijdschrift-genoeg) een lang ac
 
 ---
 
-Source: https://geldloos.nl/een-jaar-zonder-geld-nederland
+<p class="chapter-source"><a href="https://geldloos.nl/node/37">node/37</a></p>

@@ -19,4 +19,4 @@ Schulden krijg je door rekeningen niet op tijd te betalen. Dit kan komen doordat
 
 ---
 
-Source: https://geldloos.nl/schulden
+<p class="chapter-source"><a href="https://geldloos.nl/node/60">node/60</a></p>

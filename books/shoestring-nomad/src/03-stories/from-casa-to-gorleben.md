@@ -6,4 +6,4 @@ I spent a charming day in Belzig with my dear friend Tobais (formerly Frodo) and
 
 ---
 
-Source: https://casarobino.org/content/casa-gorleben
+<p class="chapter-source"><a href="https://casarobino.org/node/132">node/132</a></p>

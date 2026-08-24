@@ -31,4 +31,4 @@ Geld is een dominante factor in onze moderne maatschappij en ik laat graag zien 
 
 ---
 
-Source: https://geldloos.nl/blog/tegenlicht-mensen-van-nu
+<p class="chapter-source"><a href="https://geldloos.nl/node/124">node/124</a></p>

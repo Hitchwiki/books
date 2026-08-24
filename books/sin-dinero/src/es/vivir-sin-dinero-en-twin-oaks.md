@@ -35,4 +35,4 @@ Hay una red de comunidades egalitarias que ofrece servicios similares y estructu
 
 ---
 
-Source: https://sindinero.net/vivir-sin-dinero-twin-oaks
+<p class="chapter-source"><a href="https://sindinero.net/node/197">node/197</a></p>

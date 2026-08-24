@@ -41,4 +41,4 @@ Si vas a pedir un préstamo para hacerte de muebles, investiga bien cuál es el 
 
 ---
 
-Source: https://sindinero.net/como-conseguir-muebles-gratis
+<p class="chapter-source"><a href="https://sindinero.net/node/195">node/195</a></p>

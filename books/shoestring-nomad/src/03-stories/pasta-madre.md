@@ -4,4 +4,4 @@ So, yesterday I made my first loaf of bread, using our wonderful pasta madre, bu
 
 ---
 
-Source: https://casarobino.org/2010/01/pasta-madre
+<p class="chapter-source"><a href="https://casarobino.org/node/9184">node/9184</a></p>

@@ -27,4 +27,4 @@ While the veggies are being washed, David from Mexico bakes some beans to still 
 
 ---
 
-Source: https://casarobino.org/2011/10/benefiting-waste-based-society
+<p class="chapter-source"><a href="https://casarobino.org/node/22065">node/22065</a></p>

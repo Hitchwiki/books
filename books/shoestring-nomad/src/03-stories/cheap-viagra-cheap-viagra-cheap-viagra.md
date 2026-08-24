@@ -8,4 +8,4 @@ Ok. I'm done...
 
 ---
 
-Source: https://casarobino.org/2009/07/cheap-viagra-cheap-viagra-cheap-viagra
+<p class="chapter-source"><a href="https://casarobino.org/node/4271">node/4271</a></p>

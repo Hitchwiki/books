@@ -6,4 +6,4 @@ Zie ook: [Een Geldloos Bestaan](https://geldloos.nl/een-geldloos-bestaan)
 
 ---
 
-Source: https://geldloos.nl/boek-moneyless-man
+<p class="chapter-source"><a href="https://geldloos.nl/node/17">node/17</a></p>

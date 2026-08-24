@@ -12,4 +12,4 @@ Of course that does not apply to burglars, heck.
 
 ---
 
-Source: https://casarobino.org/2009/07/grow-local-food
+<p class="chapter-source"><a href="https://casarobino.org/node/4332">node/4332</a></p>

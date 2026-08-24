@@ -8,4 +8,4 @@ Wrenaqua, a nomadic flower child
 
 ---
 
-Source: https://casarobino.org/2010/10/lightfoot-amsterdam-berlin
+<p class="chapter-source"><a href="https://casarobino.org/node/14408">node/14408</a></p>

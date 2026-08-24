@@ -13,4 +13,4 @@ How sad it is when people keep their knowledge to themselves. I feel like the pe
 
 ---
 
-Source: https://casarobino.org/2009/08/une-petite-renaissance-please
+<p class="chapter-source"><a href="https://casarobino.org/node/4930">node/4930</a></p>

@@ -6,4 +6,4 @@ x lil
 
 ---
 
-Source: https://casarobino.org/content/dumpster-film-screening-28th-feb
+<p class="chapter-source"><a href="https://casarobino.org/node/2346">node/2346</a></p>

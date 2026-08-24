@@ -10,4 +10,4 @@ It seems the white fuzz was just the mushroom's root systems... assuming the Can
 
 ---
 
-Source: https://casarobino.org/2009/11/eat-moldy-foods
+<p class="chapter-source"><a href="https://casarobino.org/node/8010">node/8010</a></p>

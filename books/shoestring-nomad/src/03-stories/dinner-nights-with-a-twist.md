@@ -7,4 +7,4 @@ xoxo
 
 ---
 
-Source: https://casarobino.org/content/dinner-nights-twist
+<p class="chapter-source"><a href="https://casarobino.org/node/2378">node/2378</a></p>

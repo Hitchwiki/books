@@ -21,4 +21,4 @@ Check out these links below to read more reviews about this book.
 
 ---
 
-Source: https://moneyless.org/life-without-money
+<p class="chapter-source"><a href="https://moneyless.org/node/273">node/273</a></p>

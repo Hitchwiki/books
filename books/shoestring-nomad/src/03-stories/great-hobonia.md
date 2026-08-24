@@ -7,4 +7,4 @@ I thought that this might be of interest to many Casaists, so if you're interest
 
 ---
 
-Source: https://casarobino.org/2011/12/great-hobonia
+<p class="chapter-source"><a href="https://casarobino.org/node/22586">node/22586</a></p>

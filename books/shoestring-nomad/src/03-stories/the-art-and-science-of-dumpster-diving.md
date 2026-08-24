@@ -4,4 +4,4 @@
 
 ---
 
-Source: https://casarobino.org/2011/02/art-and-science-dumpster-diving
+<p class="chapter-source"><a href="https://casarobino.org/node/16790">node/16790</a></p>

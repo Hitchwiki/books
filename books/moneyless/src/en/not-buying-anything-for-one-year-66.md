@@ -13,4 +13,4 @@ There is also a Dutch initiative to not buy anything new for one month. It was s
 
 ---
 
-Source: https://moneyless.org/not-buying-anything-one-year
+<p class="chapter-source"><a href="https://moneyless.org/node/66">node/66</a></p>

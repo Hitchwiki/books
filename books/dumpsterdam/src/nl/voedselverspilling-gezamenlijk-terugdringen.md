@@ -12,4 +12,4 @@ Zie ook:
 
 ---
 
-Source: https://dumpsterdam.nl/voedselverspilling-gezamenlijk-terugdringen
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/105">node/105</a></p>

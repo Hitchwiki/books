@@ -7,4 +7,4 @@ I can't really think at the moment and I'm too tired, so if anybody has any sugg
 
 ---
 
-Source: https://casarobino.org/2011/10/stranded-sick-montpellier
+<p class="chapter-source"><a href="https://casarobino.org/node/22116">node/22116</a></p>

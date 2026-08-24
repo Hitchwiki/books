@@ -4,4 +4,4 @@
 
 ---
 
-Source: https://dumpsterdam.nl/nieuws/‘de-burger-kan-de-winkels-dwingen-het-aanbod-te-veranderen’
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/71">node/71</a></p>

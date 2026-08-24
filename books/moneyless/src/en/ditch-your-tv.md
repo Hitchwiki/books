@@ -39,4 +39,4 @@ The following image was shamelessly taken from [Forced Development's post about 
 
 ---
 
-Source: https://moneyless.org/ditch-your-tv
+<p class="chapter-source"><a href="https://moneyless.org/node/112">node/112</a></p>

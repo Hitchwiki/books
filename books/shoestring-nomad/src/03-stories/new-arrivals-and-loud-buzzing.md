@@ -6,4 +6,4 @@ He promised us last night to write a manual on how to press the doorbell and not
 
 ---
 
-Source: https://casarobino.org/2010/04/new-arrivals-and-loud-buzzing
+<p class="chapter-source"><a href="https://casarobino.org/node/10937">node/10937</a></p>

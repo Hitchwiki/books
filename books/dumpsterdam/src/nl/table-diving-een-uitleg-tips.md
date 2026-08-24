@@ -4,4 +4,4 @@ Table diving is een manier om aan gratis eten te komen in een restaurant. Je gaa
 
 ---
 
-Source: https://dumpsterdam.nl/nieuws/table-diving-een-uitleg-tips
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/64">node/64</a></p>

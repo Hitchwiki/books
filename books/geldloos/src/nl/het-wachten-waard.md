@@ -17,4 +17,4 @@ De volgende dag, na heerlijke wijn, goede gesprekken en een fantastische nachtru
 
 ---
 
-Source: https://geldloos.nl/verhalen/het-wachten-waard
+<p class="chapter-source"><a href="https://geldloos.nl/node/21">node/21</a></p>

@@ -5,4 +5,4 @@ MediaWiki is still vastly superior to Drupal when it comes to wikis - especially
 
 ---
 
-Source: https://casarobino.org/content/drupalwikinet
+<p class="chapter-source"><a href="https://casarobino.org/node/523">node/523</a></p>

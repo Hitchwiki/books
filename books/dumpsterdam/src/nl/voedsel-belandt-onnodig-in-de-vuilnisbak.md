@@ -6,4 +6,4 @@
 
 ---
 
-Source: https://dumpsterdam.nl/nieuws/‘voedsel-belandt-onnodig-de-vuilnisbak’
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/75">node/75</a></p>

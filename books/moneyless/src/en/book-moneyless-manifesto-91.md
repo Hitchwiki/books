@@ -11,4 +11,4 @@ It's no wonder the book received a raving review by Zerzan, who is known to be h
 
 ---
 
-Source: https://moneyless.org/book-moneyless-manifesto
+<p class="chapter-source"><a href="https://moneyless.org/node/91">node/91</a></p>

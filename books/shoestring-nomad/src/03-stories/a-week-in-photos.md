@@ -5,4 +5,4 @@ Thank you all for being who you are.
 
 ---
 
-Source: https://casarobino.org/2010/07/week-photos
+<p class="chapter-source"><a href="https://casarobino.org/node/12856">node/12856</a></p>

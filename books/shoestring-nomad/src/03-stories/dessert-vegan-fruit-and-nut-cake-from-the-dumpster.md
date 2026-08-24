@@ -8,4 +8,4 @@ Topping: egg-replacer (to hold everything together), agave nectar (or honey), ci
 
 ---
 
-Source: https://casarobino.org/content/dessert-vegan-fruit-and-nut-cake-dumpster
+<p class="chapter-source"><a href="https://casarobino.org/node/295">node/295</a></p>

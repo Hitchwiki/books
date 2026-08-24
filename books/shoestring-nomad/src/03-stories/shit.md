@@ -6,4 +6,4 @@ nobody has a good idea yet
 
 ---
 
-Source: https://casarobino.org/2009/10/shit
+<p class="chapter-source"><a href="https://casarobino.org/node/6410">node/6410</a></p>

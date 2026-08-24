@@ -19,4 +19,4 @@ dennis(collective)
 
 ---
 
-Source: https://casarobino.org/2008/12/sorry-not-hugging-you-all-goodbye
+<p class="chapter-source"><a href="https://casarobino.org/node/313">node/313</a></p>

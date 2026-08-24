@@ -8,4 +8,4 @@ Today I ordered four new books that will come in handy. I just wanted to order o
 
 ---
 
-Source: https://casarobino.org/content/new-books-house
+<p class="chapter-source"><a href="https://casarobino.org/node/275">node/275</a></p>

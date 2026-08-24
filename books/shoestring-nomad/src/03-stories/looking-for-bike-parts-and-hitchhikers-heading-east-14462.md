@@ -7,4 +7,4 @@ http://freakbike.lv/index.php?do=gallery&id=28
 
 ---
 
-Source: https://casarobino.org/2010/10/looking-bike-parts-and-hitchhikers-heading-east-0
+<p class="chapter-source"><a href="https://casarobino.org/node/14462">node/14462</a></p>

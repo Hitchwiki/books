@@ -4,4 +4,4 @@
 
 ---
 
-Source: https://dumpsterdam.nl/de-harde-feiten-over-voedselverspilling
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/108">node/108</a></p>

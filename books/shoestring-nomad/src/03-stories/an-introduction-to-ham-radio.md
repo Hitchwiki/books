@@ -20,4 +20,4 @@ That test is an easy one for those, like you, who are accustomed to learning new
 
 ---
 
-Source: https://casarobino.org/2011/03/introduction-ham-radio
+<p class="chapter-source"><a href="https://casarobino.org/node/17037">node/17037</a></p>

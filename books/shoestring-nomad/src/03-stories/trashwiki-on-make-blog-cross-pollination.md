@@ -8,4 +8,4 @@ If you haven't encountered makezine yet, check it out! It's a sweet resource for
 
 ---
 
-Source: https://casarobino.org/content/trashwiki-make-blog-cross-pollination
+<p class="chapter-source"><a href="https://casarobino.org/node/416">node/416</a></p>

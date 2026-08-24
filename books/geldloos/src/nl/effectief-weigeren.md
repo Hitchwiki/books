@@ -51,4 +51,4 @@ Noot: Dit verhaal is een onvoltooide bewerking van een voordracht over [Henry Th
 
 ---
 
-Source: https://geldloos.nl/verhalen/effectief-weigeren
+<p class="chapter-source"><a href="https://geldloos.nl/node/20">node/20</a></p>

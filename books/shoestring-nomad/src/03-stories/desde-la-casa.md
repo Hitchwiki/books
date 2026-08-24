@@ -4,4 +4,4 @@ If you made it to this page, this house is for people like you.
 
 ---
 
-Source: https://casarobino.org/node/1
+<p class="chapter-source"><a href="https://casarobino.org/node/1">node/1</a></p>

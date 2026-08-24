@@ -6,4 +6,4 @@ Here you got another example: http://www.instructables.com/id/Innertube-Chair-Se
 
 ---
 
-Source: https://casarobino.org/2009/11/chair-fixingsz
+<p class="chapter-source"><a href="https://casarobino.org/node/7802">node/7802</a></p>

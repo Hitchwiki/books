@@ -5,4 +5,4 @@ Happily enough, some people here in Amsterdam recently started the initiative of
 
 ---
 
-Source: https://casarobino.org/content/setting-food-coop
+<p class="chapter-source"><a href="https://casarobino.org/node/1080">node/1080</a></p>

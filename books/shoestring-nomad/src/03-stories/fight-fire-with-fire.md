@@ -16,4 +16,4 @@ Any idea?
 
 ---
 
-Source: https://casarobino.org/2009/08/fight-fire-fire
+<p class="chapter-source"><a href="https://casarobino.org/node/4458">node/4458</a></p>

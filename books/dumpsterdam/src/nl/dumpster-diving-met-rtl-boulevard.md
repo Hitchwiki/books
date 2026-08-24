@@ -6,4 +6,4 @@ Er was ook aandacht voor onze [Dumpsterdam Duurzame Catering](/dumpsterdam-cater
 
 ---
 
-Source: https://dumpsterdam.nl/dumpster-diving-met-rtl-boulevard
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/83">node/83</a></p>

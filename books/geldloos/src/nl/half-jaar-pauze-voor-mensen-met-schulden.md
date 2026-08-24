@@ -4,4 +4,4 @@ Mensen met schulden kunnen tijdelijk een adempauze krijgen zodat ze even geen re
 
 ---
 
-Source: https://geldloos.nl/nieuws/half-jaar-pauze-voor-mensen-met-schulden
+<p class="chapter-source"><a href="https://geldloos.nl/node/200">node/200</a></p>

@@ -5,4 +5,4 @@ A Call for the Use of Hallucinogens in the Middle East Peace Process, the 1st se
 
 ---
 
-Source: https://casarobino.org/content/hallucinogens-peace-process
+<p class="chapter-source"><a href="https://casarobino.org/node/1039">node/1039</a></p>

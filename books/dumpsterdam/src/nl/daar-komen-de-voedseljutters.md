@@ -4,4 +4,4 @@ Voedseljutters halen na de oogst de achtergebleven groente van het veld, om thui
 
 ---
 
-Source: https://dumpsterdam.nl/nieuws/daar-komen-de-voedseljutters
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/70">node/70</a></p>

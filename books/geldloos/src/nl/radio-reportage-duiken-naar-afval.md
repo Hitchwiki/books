@@ -8,4 +8,4 @@ Beluister de reportages vanaf de website van de NOS:
 
 ---
 
-Source: https://geldloos.nl/blog/radio-reportage-duiken-naar-afval
+<p class="chapter-source"><a href="https://geldloos.nl/node/30">node/30</a></p>

@@ -20,4 +20,4 @@ La recomendación es que si usted va a prestar dinero evalúe bien las alternati
 
 ---
 
-Source: https://sindinero.net/la-usura-un-factor-comun-salvador
+<p class="chapter-source"><a href="https://sindinero.net/node/120">node/120</a></p>

@@ -24,4 +24,4 @@ There are many more projects and numerous people who made all these projects hap
 
 ---
 
-Source: https://moneyless.org/projects-we-love
+<p class="chapter-source"><a href="https://moneyless.org/node/149">node/149</a></p>

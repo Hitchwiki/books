@@ -5,4 +5,4 @@ Our ideas stand very close to these and there are many ways we can help enabling
 
 ---
 
-Source: https://casarobino.org/content/amsterdam-goes-green
+<p class="chapter-source"><a href="https://casarobino.org/node/318">node/318</a></p>

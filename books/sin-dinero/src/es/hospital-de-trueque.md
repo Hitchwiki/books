@@ -20,4 +20,4 @@ Información obtenida en Forbes [“El hospital de Chiapas donde los indígenas 
 
 ---
 
-Source: https://sindinero.net/hospital-trueque
+<p class="chapter-source"><a href="https://sindinero.net/node/217">node/217</a></p>

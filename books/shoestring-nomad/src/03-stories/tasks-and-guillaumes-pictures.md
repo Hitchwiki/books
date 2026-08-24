@@ -8,4 +8,4 @@ While doing that I found 2 little notes:
 
 ---
 
-Source: https://casarobino.org/content/tasks-and-guillaumes-pictures
+<p class="chapter-source"><a href="https://casarobino.org/node/65">node/65</a></p>

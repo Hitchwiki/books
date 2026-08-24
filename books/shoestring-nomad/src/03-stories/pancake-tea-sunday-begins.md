@@ -12,4 +12,4 @@ Jass & Casa
 
 ---
 
-Source: https://casarobino.org/2010/01/pancake-tea-sunday-begins
+<p class="chapter-source"><a href="https://casarobino.org/node/9100">node/9100</a></p>

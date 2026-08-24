@@ -100,4 +100,4 @@ As for free food... shops start closing around 4pm so before that I couldn't rea
 
 ---
 
-Source: https://moneyless.org/really-free-everything-london
+<p class="chapter-source"><a href="https://moneyless.org/node/151">node/151</a></p>

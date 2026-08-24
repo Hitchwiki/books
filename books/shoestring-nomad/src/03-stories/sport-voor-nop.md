@@ -6,4 +6,4 @@ http://www.usc.uva.nl/nl/nieuws/nws13zat.htm
 
 ---
 
-Source: https://casarobino.org/2009/09/sport-voor-nop
+<p class="chapter-source"><a href="https://casarobino.org/node/5428">node/5428</a></p>

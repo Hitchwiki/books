@@ -48,4 +48,4 @@ Here we talk about ways you don't get money now, but you actually learn about th
 
 ---
 
-Source: https://moneyless.org/how-make-money-dumpster-diving
+<p class="chapter-source"><a href="https://moneyless.org/node/135">node/135</a></p>

@@ -4,4 +4,4 @@ The [give-away shop](http://sharewiki.org/en/Freeshop) around the corner is on t
 
 ---
 
-Source: https://casarobino.org/2011/09/give-away-party
+<p class="chapter-source"><a href="https://casarobino.org/node/21922">node/21922</a></p>

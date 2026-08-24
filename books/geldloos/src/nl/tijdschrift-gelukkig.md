@@ -5,4 +5,4 @@ Het magazine wordt geschreven en gepubliceerd door Henderina van [De zakelijke h
 
 ---
 
-Source: https://geldloos.nl/tijdschrift-gelukkig
+<p class="chapter-source"><a href="https://geldloos.nl/node/65">node/65</a></p>

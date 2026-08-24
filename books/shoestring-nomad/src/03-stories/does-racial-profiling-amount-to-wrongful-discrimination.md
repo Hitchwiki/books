@@ -4,4 +4,4 @@ This is the essay title i am currently working on and in my research i have unco
 
 ---
 
-Source: https://casarobino.org/2010/03/does-racial-profiling-amount-wrongful-discrimination
+<p class="chapter-source"><a href="https://casarobino.org/node/10437">node/10437</a></p>

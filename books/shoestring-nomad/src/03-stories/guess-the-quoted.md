@@ -6,4 +6,4 @@
 
 ---
 
-Source: https://casarobino.org/content/guess-quoted
+<p class="chapter-source"><a href="https://casarobino.org/node/49">node/49</a></p>

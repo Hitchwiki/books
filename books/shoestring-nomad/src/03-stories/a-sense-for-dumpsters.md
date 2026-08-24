@@ -14,4 +14,4 @@ So, new spot, next to the green lighthouse. Yeeeee!
 
 ---
 
-Source: https://casarobino.org/2009/11/sense-dumpsters
+<p class="chapter-source"><a href="https://casarobino.org/node/7954">node/7954</a></p>

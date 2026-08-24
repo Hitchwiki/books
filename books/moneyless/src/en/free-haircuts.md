@@ -18,4 +18,4 @@ I hope you give these solutions a try some time. You could even throw a haircutt
 
 ---
 
-Source: https://moneyless.org/free-haircuts
+<p class="chapter-source"><a href="https://moneyless.org/node/104">node/104</a></p>

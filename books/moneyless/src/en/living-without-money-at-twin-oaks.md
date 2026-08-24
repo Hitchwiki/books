@@ -42,4 +42,4 @@ There is a network of egalitarian communities, which provide similar services an
 
 ---
 
-Source: https://moneyless.org/living-without-money-twin-oaks
+<p class="chapter-source"><a href="https://moneyless.org/node/226">node/226</a></p>

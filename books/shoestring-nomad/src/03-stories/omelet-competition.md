@@ -35,4 +35,4 @@ this is Can Masdeu
 
 ---
 
-Source: https://casarobino.org/content/omelet-competition
+<p class="chapter-source"><a href="https://casarobino.org/node/560">node/560</a></p>

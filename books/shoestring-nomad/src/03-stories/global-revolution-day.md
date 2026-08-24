@@ -8,4 +8,4 @@ Enjoy!
 
 ---
 
-Source: https://casarobino.org/2011/09/global-revolution-day
+<p class="chapter-source"><a href="https://casarobino.org/node/21793">node/21793</a></p>

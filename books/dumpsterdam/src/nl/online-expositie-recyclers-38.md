@@ -5,4 +5,4 @@ Met die invalshoek is er een [online expositie](http://www.mheu.org/en/ragpicker
 
 ---
 
-Source: https://dumpsterdam.nl/article/online-expositie-recyclers
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/38">node/38</a></p>

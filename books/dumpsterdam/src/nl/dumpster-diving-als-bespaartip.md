@@ -4,4 +4,4 @@
 
 ---
 
-Source: https://dumpsterdam.nl/dumpster-diving-als-bespaartip
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/89">node/89</a></p>

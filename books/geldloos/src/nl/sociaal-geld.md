@@ -20,4 +20,4 @@ Reportages:
 
 ---
 
-Source: https://geldloos.nl/sociaal-geld
+<p class="chapter-source"><a href="https://geldloos.nl/node/96">node/96</a></p>

@@ -6,4 +6,4 @@ The more amazing thing about this story is that instead of bothering to walk all
 
 ---
 
-Source: https://casarobino.org/2009/03/ams-mas-ams-mas
+<p class="chapter-source"><a href="https://casarobino.org/node/2404">node/2404</a></p>

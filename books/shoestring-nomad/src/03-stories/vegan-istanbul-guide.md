@@ -7,4 +7,4 @@ http://feketeleves.wordpress.com/istanbul-was-constantinapoli/
 
 ---
 
-Source: https://casarobino.org/2012/08/vegan-istanbul-guide
+<p class="chapter-source"><a href="https://casarobino.org/node/27763">node/27763</a></p>

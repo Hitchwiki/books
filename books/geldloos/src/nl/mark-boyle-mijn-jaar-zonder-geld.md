@@ -4,4 +4,4 @@
 
 ---
 
-Source: https://geldloos.nl/nieuws/mijn-jaar-zonder-geld
+<p class="chapter-source"><a href="https://geldloos.nl/node/40">node/40</a></p>

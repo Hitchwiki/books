@@ -6,4 +6,4 @@ Want some more? [NYC hacker space](http://www.nytimes.com/2008/12/28/nyregion/th
 
 ---
 
-Source: https://casarobino.org/content/hackerspaces
+<p class="chapter-source"><a href="https://casarobino.org/node/1007">node/1007</a></p>

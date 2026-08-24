@@ -5,4 +5,4 @@ Als een bezetene begint hij het oud vuil een nieuw leven te geven. Met het afval
 
 ---
 
-Source: https://dumpsterdam.nl/nieuws/een-nederige-voddenboer-die-van-afgedankte-spullen-kunst-maakte
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/39">node/39</a></p>

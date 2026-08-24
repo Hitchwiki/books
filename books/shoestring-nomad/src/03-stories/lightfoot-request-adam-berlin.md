@@ -7,4 +7,4 @@ wrenaqua
 
 ---
 
-Source: https://casarobino.org/2011/01/lightfoot-request-adam-berlin
+<p class="chapter-source"><a href="https://casarobino.org/node/15945">node/15945</a></p>

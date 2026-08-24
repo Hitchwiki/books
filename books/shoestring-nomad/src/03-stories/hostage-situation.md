@@ -12,4 +12,4 @@ p.s. Alison, did you make it over your intimidating experience? I am curious and
 
 ---
 
-Source: https://casarobino.org/2009/08/hostage-situation
+<p class="chapter-source"><a href="https://casarobino.org/node/4686">node/4686</a></p>

@@ -12,4 +12,4 @@ Maar de boodschap van Henk is zeker niet dat je beroepsavonturier moet zijn voor
 
 ---
 
-Source: https://geldloos.nl/zonder-geld-lopen-van-nederland-naar-jeruzalem
+<p class="chapter-source"><a href="https://geldloos.nl/node/280">node/280</a></p>

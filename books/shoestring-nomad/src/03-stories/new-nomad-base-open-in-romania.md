@@ -7,4 +7,4 @@ Again, I've been waiting five years for this, so don't let me down, nomads!
 
 ---
 
-Source: https://casarobino.org/2010/09/new-nomad-base-open-romania
+<p class="chapter-source"><a href="https://casarobino.org/node/13737">node/13737</a></p>

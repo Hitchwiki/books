@@ -7,4 +7,4 @@ http://www.ecotopiabiketour.net/join-us/registration
 
 ---
 
-Source: https://casarobino.org/2010/05/cycling-climate-justice-1
+<p class="chapter-source"><a href="https://casarobino.org/node/11121">node/11121</a></p>

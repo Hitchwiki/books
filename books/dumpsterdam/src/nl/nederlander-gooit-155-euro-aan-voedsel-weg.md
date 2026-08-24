@@ -4,4 +4,4 @@ Nederlanders gooien gemiddeld 14 procent van al hun eten weg in de prullenbak. D
 
 ---
 
-Source: https://dumpsterdam.nl/nieuws/nederlander-gooit-155-euro-aan-voedsel-weg
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/29">node/29</a></p>

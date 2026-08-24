@@ -6,4 +6,4 @@ Recyclen is een andere manier. Je vraag dan om het eten bij de markt, winkel of 
 
 ---
 
-Source: https://dumpsterdam.nl/gratis-eten
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/93">node/93</a></p>

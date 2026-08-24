@@ -7,4 +7,4 @@ Abundance indeed.
 
 ---
 
-Source: https://casarobino.org/content/tuesdays-dumpster-haul
+<p class="chapter-source"><a href="https://casarobino.org/node/645">node/645</a></p>

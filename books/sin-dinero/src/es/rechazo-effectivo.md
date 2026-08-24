@@ -8,4 +8,4 @@ Este es el comienzo de una traducción de la misma historia en los [Países Bajo
 
 ---
 
-Source: https://sindinero.net/rechazo-effectivo
+<p class="chapter-source"><a href="https://sindinero.net/node/20">node/20</a></p>

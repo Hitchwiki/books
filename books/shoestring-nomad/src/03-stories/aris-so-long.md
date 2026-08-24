@@ -16,4 +16,4 @@ Aris might still be alive - even after a 3 day search. We never know. But one th
 
 ---
 
-Source: https://casarobino.org/2009/01/aris-so-long
+<p class="chapter-source"><a href="https://casarobino.org/node/1977">node/1977</a></p>

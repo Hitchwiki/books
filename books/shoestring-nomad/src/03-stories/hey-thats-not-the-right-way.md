@@ -1,4 +1,4 @@
-# Hey, that's not the right way!
+# Hey, that's not the right way !
 
 Today, when I was going back home form the Uni, I got a ride from a really friendly retired pilot.
 While still working, he was often transporting VIPs.
@@ -9,4 +9,4 @@ Few moments later the hitchhiker realises:
 
 ---
 
-Source: https://casarobino.org/content/hey-thats-not-right-way
+<p class="chapter-source"><a href="https://casarobino.org/node/1918">node/1918</a></p>

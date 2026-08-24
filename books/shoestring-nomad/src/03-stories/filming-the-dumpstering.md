@@ -8,4 +8,4 @@ Cheers and hope to hear from ya's! xx lily
 
 ---
 
-Source: https://casarobino.org/2008/10/filming-dumpstering
+<p class="chapter-source"><a href="https://casarobino.org/node/72">node/72</a></p>

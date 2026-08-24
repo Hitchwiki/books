@@ -30,4 +30,4 @@ Si quieres pasar un tiempo en Centroamérica para trabajar con una ONG local, ha
 
 ---
 
-Source: https://sindinero.net/trabajo-voluntario-tic-en-nicaragua
+<p class="chapter-source"><a href="https://sindinero.net/node/132">node/132</a></p>

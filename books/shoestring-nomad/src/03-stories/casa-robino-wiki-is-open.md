@@ -4,4 +4,4 @@ Access the wiki at http://casarobino.org/wiki
 
 ---
 
-Source: https://casarobino.org/content/casa-robino-wiki-open
+<p class="chapter-source"><a href="https://casarobino.org/node/106">node/106</a></p>

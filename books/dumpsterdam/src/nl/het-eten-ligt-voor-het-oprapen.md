@@ -4,4 +4,4 @@
 
 ---
 
-Source: https://dumpsterdam.nl/het-eten-ligt-voor-het-oprapen
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/112">node/112</a></p>

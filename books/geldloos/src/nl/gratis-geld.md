@@ -10,4 +10,4 @@ Een boek met een frisse uitwerking van een vijf grote ideeën die de wereld soci
 
 ---
 
-Source: https://geldloos.nl/gratis-geld
+<p class="chapter-source"><a href="https://geldloos.nl/node/214">node/214</a></p>

@@ -6,4 +6,4 @@ We will call her 'The Germ' (or more properly 'Zééé Shjurm'), referring to th
 
 ---
 
-Source: https://casarobino.org/2009/05/germ
+<p class="chapter-source"><a href="https://casarobino.org/node/3204">node/3204</a></p>

@@ -9,9 +9,9 @@ Functional bikes as of now:
 \* Mama
 \* Gypsie
 \* (Laura)
-While repairing the bikes, some people in the neighborhood stopped for a chat. One of them, Ruud, stopped over for a longer talk and told us about his bike-trip around South-East Asia where he cycled for a year and a half 22.000 km. After this nice chat he decided to give us one of his bikes:)
+While repairing the bikes, some people in the neighborhood stopped for a chat. One of them, Ruud, stopped over for a longer talk and told us about his bike-trip around South-East Asia where he cycled for a year and a half 22.000 km. After this nice chat he decided to give us one of his bikes :)
 One of the things missing in Amsterdam, by the way, are social workspaces for people to repair bikes. There are lots of these in the United States for example. There are some in Amsterdam which are mostly connected to squats. Though we have many children in the area here who have bikes but don't even know how to repair those. It would be great if we could get some space here where we can open a one day a week bike-repair workshop. Unfortunately though we don't have the resources in terms of people to even do this each Saturday, but who knows we might be able to pull this off one day, even if we just do it out on the street.
 
 ---
 
-Source: https://casarobino.org/2009/04/bike-notes
+<p class="chapter-source"><a href="https://casarobino.org/node/2613">node/2613</a></p>

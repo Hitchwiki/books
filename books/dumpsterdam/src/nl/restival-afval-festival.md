@@ -8,4 +8,4 @@ Het festival is kleinschalig van opzet en vindt plaats zaterdag 21 september 201
 
 ---
 
-Source: https://dumpsterdam.nl/restival-afval-festival
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/100">node/100</a></p>

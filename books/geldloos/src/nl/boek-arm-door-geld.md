@@ -13,4 +13,4 @@ Het boekje is gratis beschikbaar.
 
 ---
 
-Source: https://geldloos.nl/arm-door-geld
+<p class="chapter-source"><a href="https://geldloos.nl/node/63">node/63</a></p>

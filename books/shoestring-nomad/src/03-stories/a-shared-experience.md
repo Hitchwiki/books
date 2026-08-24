@@ -5,4 +5,4 @@ http://nomadbase.info
 
 ---
 
-Source: https://casarobino.org/2013/10/shared-experience
+<p class="chapter-source"><a href="https://casarobino.org/node/27786">node/27786</a></p>

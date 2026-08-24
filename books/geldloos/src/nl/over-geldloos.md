@@ -21,4 +21,4 @@ Hoe dingen in de samenleving ook geconditioneerd zijn inclusief ons eigen bestaa
 
 ---
 
-Source: https://geldloos.nl/over-geldloos
+<p class="chapter-source"><a href="https://geldloos.nl/node/81">node/81</a></p>

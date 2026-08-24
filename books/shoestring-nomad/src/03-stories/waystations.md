@@ -4,4 +4,4 @@ As (unfortunately) I don't think I'll be back in Europe for the next year or so 
 
 ---
 
-Source: https://casarobino.org/2009/02/waystations
+<p class="chapter-source"><a href="https://casarobino.org/node/2357">node/2357</a></p>

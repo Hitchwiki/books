@@ -6,4 +6,4 @@ En [wikihow.com](http://wikihow.com) usted puede encontrar más información ace
 
 ---
 
-Source: https://sindinero.net/usar-una-maquina-coser
+<p class="chapter-source"><a href="https://sindinero.net/node/10">node/10</a></p>

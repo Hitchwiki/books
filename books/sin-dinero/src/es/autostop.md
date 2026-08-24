@@ -9,4 +9,4 @@ El transporte público es también una opción, pero cuesta dinero. En algunos p
 
 ---
 
-Source: https://sindinero.net/autostop
+<p class="chapter-source"><a href="https://sindinero.net/node/7">node/7</a></p>

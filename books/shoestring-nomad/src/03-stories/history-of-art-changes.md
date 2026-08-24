@@ -6,4 +6,4 @@ Finally i still got to knew Renoir name. And we didnt write this new nintheen ce
 
 ---
 
-Source: https://casarobino.org/2009/10/history-art-changes
+<p class="chapter-source"><a href="https://casarobino.org/node/7416">node/7416</a></p>

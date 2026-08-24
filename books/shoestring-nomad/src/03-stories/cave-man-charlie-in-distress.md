@@ -23,4 +23,4 @@ Lily.
 
 ---
 
-Source: https://casarobino.org/2010/09/cave-man-charlie-distress
+<p class="chapter-source"><a href="https://casarobino.org/node/13950">node/13950</a></p>

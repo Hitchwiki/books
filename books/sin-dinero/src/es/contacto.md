@@ -4,4 +4,4 @@ Se puede contactar Sindinero.net aquí.
 
 ---
 
-Source: https://sindinero.net/contacto
+<p class="chapter-source"><a href="https://sindinero.net/node/131">node/131</a></p>

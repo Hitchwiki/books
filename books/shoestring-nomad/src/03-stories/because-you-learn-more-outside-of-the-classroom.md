@@ -16,4 +16,4 @@ Thank you casa robino, for giving me the opportunity to revolutionise my life. T
 
 ---
 
-Source: https://casarobino.org/content/because-you-learn-more-outside-classroom
+<p class="chapter-source"><a href="https://casarobino.org/node/1211">node/1211</a></p>

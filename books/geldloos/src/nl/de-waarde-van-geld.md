@@ -13,4 +13,4 @@ De waarde van geld is complex. Het is iets dat voor iedereen wel een beetje ande
 
 ---
 
-Source: https://geldloos.nl/verhalen/de-waarde-van-geld
+<p class="chapter-source"><a href="https://geldloos.nl/node/45">node/45</a></p>

@@ -13,4 +13,4 @@ David
 
 ---
 
-Source: https://casarobino.org/2009/08/paul-pantone-shows-geet-albuquerque
+<p class="chapter-source"><a href="https://casarobino.org/node/4671">node/4671</a></p>

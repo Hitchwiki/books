@@ -5,4 +5,4 @@ http://coopsurgenereux.googlepages.com/en
 
 ---
 
-Source: https://casarobino.org/2009/08/montreal-community-project-plateau
+<p class="chapter-source"><a href="https://casarobino.org/node/4830">node/4830</a></p>

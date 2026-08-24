@@ -6,4 +6,4 @@ The original article is [here](http://owni.eu/2011/05/25/why-twitter’s-oral-cu
 
 ---
 
-Source: https://casarobino.org/2011/05/social-media-changes-our-way-communicating-better-or-worse
+<p class="chapter-source"><a href="https://casarobino.org/node/19045">node/19045</a></p>

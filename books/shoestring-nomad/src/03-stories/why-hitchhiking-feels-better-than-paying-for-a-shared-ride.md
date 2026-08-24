@@ -7,4 +7,4 @@ All the best from Düsseldorf, Florian.
 
 ---
 
-Source: https://casarobino.org/2010/06/why-hitchhiking-feels-better-paying-shared-ride
+<p class="chapter-source"><a href="https://casarobino.org/node/11380">node/11380</a></p>

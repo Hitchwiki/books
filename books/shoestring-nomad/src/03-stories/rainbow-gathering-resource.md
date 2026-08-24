@@ -5,4 +5,4 @@ http://www.xtec.es/~acastan/rainbow/rainbow.html
 
 ---
 
-Source: https://casarobino.org/2009/09/rainbow-gathering-resource
+<p class="chapter-source"><a href="https://casarobino.org/node/5338">node/5338</a></p>

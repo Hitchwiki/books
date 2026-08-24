@@ -32,4 +32,4 @@ Wat kun je zonder geld doen. Op de website waar je nu zit, **[geldloos.nl](/)**,
 
 ---
 
-Source: https://geldloos.nl/zonder-geld-wat-nu
+<p class="chapter-source"><a href="https://geldloos.nl/node/139">node/139</a></p>

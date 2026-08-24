@@ -9,4 +9,4 @@ Basing the economy on giving is less hard to accomplish than one think. The mone
 
 ---
 
-Source: https://moneyless.org/gift-economy
+<p class="chapter-source"><a href="https://moneyless.org/node/274">node/274</a></p>

@@ -31,4 +31,4 @@ Wil je echter makkelijk brood bakken zonder gist, dan kan je ook overwegen om ge
 
 ---
 
-Source: https://geldloos.nl/zelf-brood-bakken
+<p class="chapter-source"><a href="https://geldloos.nl/node/35">node/35</a></p>

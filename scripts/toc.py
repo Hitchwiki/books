@@ -8,6 +8,7 @@ from collections import defaultdict
 from pathlib import Path
 
 from common import github_icon_link, wiki_edit_url
+from ui_strings import ui_strings
 
 PART_LABELS = {
     "01-practice": "Practice",
@@ -37,6 +38,7 @@ GAZETTEER = {
     "fr",
     "de",
 }
+LANGUAGE_PARTS = {"en", "nl", "es", "fr", "de"}
 HEADING = re.compile(r"^# (.+)$", re.M)
 INTRO_STEM = re.compile(r"^\d{2}-")
 ATTR = re.compile(r"\s*\{[^}]*\}\s*$")
@@ -94,6 +96,24 @@ def chapter_part(src: Path, path: Path) -> str:
     return rel.parts[0]
 
 
+def editorial_parts(src: Path) -> dict[str, tuple[str, str]]:
+    """Optional [Part name] sections in editorial/order.txt."""
+    order = src.parent / "editorial" / "order.txt"
+    if not order.exists():
+        return {}
+    out: dict[str, tuple[str, str]] = {}
+    part_id = part_name = ""
+    for raw in order.read_text(encoding="utf-8").splitlines():
+        line = raw.strip()
+        section = re.fullmatch(r"\[([^]]+)\]", line)
+        if section:
+            part_name = section.group(1).strip()
+            part_id = re.sub(r"[^a-z0-9]+", "-", part_name.casefold()).strip("-")
+        elif line and not line.startswith("#") and part_id:
+            out[line] = (part_id, part_name)
+    return out
+
+
 def part_label(part: str) -> str:
     if not part:
         return "This edition"
@@ -126,10 +146,14 @@ def html_h1s(doc: str) -> list[tuple[str, str]]:
 
 def toc_entries(chapters: list[Path], doc: str, src: Path) -> list[dict]:
     headings = html_h1s(doc)
+    custom_parts = editorial_parts(src)
     i = 0
     entries: list[dict] = []
     for path in chapters:
-        part = chapter_part(src, path)
+        rel = path.relative_to(src)
+        custom_part = custom_parts.get(rel.as_posix())
+        part = custom_part[0] if custom_part else chapter_part(src, path)
+        part_name = custom_part[1] if custom_part else part_label(part)
         title = chapter_title(path)
         want = normalize(title)
         if path.name.startswith("00-frontmatter"):
@@ -147,11 +171,12 @@ def toc_entries(chapters: list[Path], doc: str, src: Path) -> list[dict]:
         if found is None:
             continue
         hid, heading = found
-        rel = path.relative_to(src)
         parent = rel.parts[1] if len(rel.parts) >= 3 else None
         entries.append(
             {
                 "part": part,
+                "part_name": part_name,
+                "path": rel.as_posix(),
                 "title": heading,
                 "href": hid,
                 "intro": is_part_intro(src, path),
@@ -298,7 +323,7 @@ def _item_list(part: str, items: list[dict], *, az: bool) -> str:
     return "<ul>\n" + "\n".join(rows) + "\n</ul>"
 
 
-def render_toc(entries: list[dict]) -> str:
+def render_toc(entries: list[dict], labels: dict[str, str]) -> str:
     groups: dict[str, list[dict]] = defaultdict(list)
     order: list[str] = []
     for item in entries:
@@ -307,37 +332,41 @@ def render_toc(entries: list[dict]) -> str:
             order.append(part)
         groups[part].append(item)
     chunks = [
-        '<nav id="TOC" role="doc-toc" aria-label="Table of contents">',
+        f'<nav id="TOC" role="doc-toc" aria-label="{labels["table_of_contents"]}">',
         '<div class="toc-chrome">',
-        '<h2 class="toc-title">Contents</h2>',
-        '<label class="toc-filter-wrap"><span class="visually-hidden">Filter chapters</span>',
-        '<input class="toc-filter" type="search" placeholder="Find a chapter…" autocomplete="off"></label>',
-        '<p class="toc-empty" hidden>No matching chapters.</p>',
+        f'<h2 class="toc-title">{labels["contents"]}</h2>',
+        f'<label class="toc-filter-wrap"><span class="visually-hidden">{labels["filter_chapters"]}</span>',
+        f'<input class="toc-filter" type="search" placeholder="{labels["find_chapter"]}" autocomplete="off"></label>',
+        f'<p class="toc-empty" hidden>{labels["no_matching_chapters"]}</p>',
     ]
-    jumps = []
-    for part in order:
-        items = groups[part]
-        intro = next((x for x in items if x.get("intro")), None)
-        first = intro or (items[0] if items else None)
-        if not first:
-            continue
-        raw = intro["title"] if intro else part_label(part)
-        m = re.match(r"^(Part [IVXLCDM]+)(?:\s+[—–-]\s+.+)?$", raw)
-        short = m.group(1) if m else part_label(part)
-        href = html.escape(first["href"], quote=True)
-        pid = html.escape(part or "front")
-        jumps.append(
-            f'<a href="#{href}" data-part="{pid}">{html.escape(short)}</a>'
-        )
-    if jumps:
-        chunks.append(f'<p class="toc-parts">{"".join(jumps)}</p>')
+    single_language = len(order) == 1 and order[0] in LANGUAGE_PARTS
+    if not single_language:
+        jumps = []
+        for part in order:
+            items = groups[part]
+            intro = next((x for x in items if x.get("intro")), None)
+            first = intro or (items[0] if items else None)
+            if not first:
+                continue
+            raw = intro["title"] if intro else items[0].get("part_name", part_label(part))
+            m = re.match(r"^(Part [IVXLCDM]+)(?:\s+[—–-]\s+.+)?$", raw)
+            short = m.group(1) if m else part_label(part)
+            href = html.escape(first["href"], quote=True)
+            pid = html.escape(part or "front")
+            jumps.append(
+                f'<a href="#{href}" data-part="{pid}">{html.escape(short)}</a>'
+            )
+        if jumps:
+            chunks.append(f'<p class="toc-parts">{"".join(jumps)}</p>')
     chunks.append("</div>")
     for part in order:
         items = groups[part]
         intro = next((x for x in items if x.get("intro")), None)
         chapters = [x for x in items if not x.get("intro")]
         n = len([x for x in chapters if not x.get("region")])
-        label = html.escape((intro["title"] if intro else part_label(part)))
+        label = html.escape(
+            intro["title"] if intro else items[0].get("part_name", part_label(part))
+        )
         if intro and not chapters:
             href = html.escape(intro["href"], quote=True)
             chunks.append(f'<p class="toc-solo"><a href="#{href}">{label}</a></p>')
@@ -346,6 +375,11 @@ def render_toc(entries: list[dict]) -> str:
         by_region = any(x.get("region") for x in chapters)
         az = (not by_region) and n >= (24 if part in GAZETTEER else 80)
         pid = html.escape(part or "front")
+        if single_language:
+            if az:
+                chunks.append(_az_links(part or "front", chapters))
+            chunks.append(_item_list(part or "front", chapters, az=az))
+            continue
         summary = label
         if intro:
             href = html.escape(intro["href"], quote=True)
@@ -365,7 +399,7 @@ def render_toc(entries: list[dict]) -> str:
     return "\n".join(chunks)
 
 
-def wrap_body(html_doc: str, toc: str) -> str:
+def wrap_body(html_doc: str, toc: str, labels: dict[str, str]) -> str:
     html_doc = NAV_RE.sub("", html_doc, count=1)
     html_doc = html_doc.replace('<div class="book-layout">', "")
     html_doc = re.sub(
@@ -397,7 +431,7 @@ def wrap_body(html_doc: str, toc: str) -> str:
             html_doc = re.sub(r"(<body[^>]*>)", r"\1\n" + insertion, html_doc, count=1)
         html_doc = html_doc.replace(
             "</body>",
-            '</article>\n<a class="toc-jump" href="#TOC">Contents</a>\n'
+            f'</article>\n<a class="toc-jump" href="#TOC">{labels["contents"]}</a>\n'
             '<script src="book.js"></script>\n</body>',
             1,
         )
@@ -416,8 +450,12 @@ def wrap_body(html_doc: str, toc: str) -> str:
     banner = re.search(r'<header class="book-banner">.*?</header>', html_doc, flags=re.S)
     if banner:
         text = banner.group(0)
-        if 'href="#TOC">Contents</a>' not in text:
-            text = text.replace("</p></header>", ' · <a href="#TOC">Contents</a></p></header>', 1)
+        if 'href="#TOC"' not in text:
+            text = text.replace(
+                "</p></header>",
+                f' · <a href="#TOC">{labels["contents"]}</a></p></header>',
+                1,
+            )
         if ">EPUB</a>" not in text:
             slug_m = re.search(r'class="book book-([a-z0-9-]+)"', html_doc)
             if slug_m:
@@ -430,7 +468,7 @@ def wrap_body(html_doc: str, toc: str) -> str:
         if 'class="github"' not in text:
             text = text.replace(
                 "</p></header>",
-                f" · {github_icon_link()}</p></header>",
+                f" · {github_icon_link(labels['source_on_github'])}</p></header>",
                 1,
             )
         if text != banner.group(0):
@@ -438,7 +476,9 @@ def wrap_body(html_doc: str, toc: str) -> str:
     return html_doc
 
 
-def add_chapter_edit_links(html_doc: str, entries: list[dict]) -> str:
+def add_chapter_edit_links(
+    html_doc: str, entries: list[dict], labels: dict[str, str]
+) -> str:
     for entry in entries:
         edit_url = entry.get("edit_url")
         if not edit_url:
@@ -454,17 +494,62 @@ def add_chapter_edit_links(html_doc: str, entries: list[dict]) -> str:
             '<div class="chapter-heading">'
             r'<h1\g<attrs>>\g<body></h1>'
             f'<a class="chapter-edit" href="{href}" '
-            f'aria-label="Edit {title} on the wiki">Edit on wiki</a>'
+            f'aria-label="{labels["edit_on_wiki_aria"].format(title=title)}">'
+            f'{labels["edit_on_wiki"]}</a>'
             '</div>'
         )
         html_doc = pattern.sub(replacement, html_doc, count=1)
     return html_doc
 
 
-def enhance_html(html_doc: str, chapters: list[Path], src: Path) -> str:
+def add_missing_drupal_source_links(
+    html_doc: str,
+    entries: list[dict],
+    sources: dict[str, dict[str, str]],
+) -> str:
+    """Add node references to preserved Drupal chapters that lack attribution."""
+    insertions: list[tuple[int, str]] = []
+    for entry in entries:
+        source = sources.get(entry.get("path", ""))
+        if not source:
+            continue
+        heading = re.search(
+            rf'<h1\b[^>]*\bid="{re.escape(entry["href"])}"[^>]*>.*?</h1>',
+            html_doc,
+            re.I | re.S,
+        )
+        if not heading:
+            continue
+        next_heading = re.search(r"<h1\b", html_doc[heading.end() :], re.I)
+        end = heading.end() + next_heading.start() if next_heading else html_doc.find("</article>", heading.end())
+        if end < 0:
+            continue
+        section = html_doc[heading.end() : end]
+        if 'class="chapter-source"' in section or re.search(r"<p>Source:", section, re.I):
+            continue
+        url = html.escape(str(source.get("url", "")), quote=True)
+        label = html.escape(str(source.get("label", "")))
+        if url and label:
+            insertions.append(
+                (end, f'<p class="chapter-source"><a href="{url}">{label}</a></p>\n')
+            )
+    for position, markup in reversed(insertions):
+        html_doc = html_doc[:position] + markup + html_doc[position:]
+    return html_doc
+
+
+def enhance_html(
+    html_doc: str,
+    chapters: list[Path],
+    src: Path,
+    lang: str = "en",
+    drupal_sources: dict[str, dict[str, str]] | None = None,
+) -> str:
+    labels = ui_strings(lang)
     entries = toc_entries(chapters, html_doc, src)
     expected = sum(1 for p in chapters if not p.name.startswith("00-frontmatter"))
     if len(entries) != expected:
         print(f"  toc: matched {len(entries)}/{expected} chapters", flush=True)
-    html_doc = add_chapter_edit_links(html_doc, entries)
-    return wrap_body(html_doc, render_toc(entries))
+    html_doc = add_missing_drupal_source_links(html_doc, entries, drupal_sources or {})
+    html_doc = add_chapter_edit_links(html_doc, entries, labels)
+    return wrap_body(html_doc, render_toc(entries, labels), labels)

@@ -31,4 +31,4 @@ Er zijn meestal tussen de 10 en 25 mensen, veel jongeren uit alle uithoeken van 
 
 ---
 
-Source: https://geldloos.nl/eetbare-planten-zoeken
+<p class="chapter-source"><a href="https://geldloos.nl/node/19">node/19</a></p>

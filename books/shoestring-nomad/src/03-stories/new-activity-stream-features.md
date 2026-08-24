@@ -13,4 +13,4 @@ echo $user->uid;
 
 ---
 
-Source: https://casarobino.org/2010/02/new-activity-stream-features
+<p class="chapter-source"><a href="https://casarobino.org/node/9341">node/9341</a></p>

@@ -25,4 +25,4 @@ De volgende stap is simpelweg om zo'n netwerk meer eigendom te geven. Bijvoorbee
 
 ---
 
-Source: https://geldloos.nl/geldloos-samenleven
+<p class="chapter-source"><a href="https://geldloos.nl/node/474">node/474</a></p>

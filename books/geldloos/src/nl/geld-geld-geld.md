@@ -6,4 +6,4 @@ Veel ideeën heb ik dus. Ik kijk ze nog even aan, om nog wat meer structuur te k
 
 ---
 
-Source: https://geldloos.nl/blog/geld-geld-geld
+<p class="chapter-source"><a href="https://geldloos.nl/node/59">node/59</a></p>

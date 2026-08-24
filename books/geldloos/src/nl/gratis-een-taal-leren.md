@@ -14,4 +14,4 @@ Andere websites:
 
 ---
 
-Source: https://geldloos.nl/gratis-een-taal-leren
+<p class="chapter-source"><a href="https://geldloos.nl/node/121">node/121</a></p>

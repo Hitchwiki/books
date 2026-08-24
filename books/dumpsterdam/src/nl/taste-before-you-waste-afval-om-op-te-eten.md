@@ -4,4 +4,4 @@
 
 ---
 
-Source: https://dumpsterdam.nl/nieuws/‘taste-you-waste’-afval-om-op-te-eten
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/45">node/45</a></p>

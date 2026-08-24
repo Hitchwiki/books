@@ -30,4 +30,4 @@ Wij denken dat dit goed is, omdat het zorgt voor een bepaalde distributie. Maar 
 
 ---
 
-Source: https://geldloos.nl/geldeconomie
+<p class="chapter-source"><a href="https://geldloos.nl/node/80">node/80</a></p>

@@ -8,4 +8,4 @@ Terminé gastando completamente los €20, y volví a casa con un carro lleno de
 
 ---
 
-Source: https://sindinero.net/valor-del-dinero
+<p class="chapter-source"><a href="https://sindinero.net/node/130">node/130</a></p>

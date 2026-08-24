@@ -8,4 +8,4 @@
 
 ---
 
-Source: https://dumpsterdam.nl/klokhuis
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/107">node/107</a></p>

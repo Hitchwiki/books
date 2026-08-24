@@ -4,4 +4,4 @@
 
 ---
 
-Source: https://dumpsterdam.nl/nieuws/voedselverspilling-zoekt-creativiteit
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/74">node/74</a></p>

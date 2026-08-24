@@ -4,4 +4,4 @@ There is a current hosts block on the right hand side of the page (if you are lo
 
 ---
 
-Source: https://casarobino.org/content/current-hosts-block
+<p class="chapter-source"><a href="https://casarobino.org/node/2351">node/2351</a></p>

@@ -10,4 +10,4 @@ http://www.moneylessmanifesto.org/
 
 ---
 
-Source: https://geldloos.nl/boek-moneyless-manifesto
+<p class="chapter-source"><a href="https://geldloos.nl/node/91">node/91</a></p>

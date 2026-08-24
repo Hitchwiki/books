@@ -10,4 +10,4 @@ Kitten is a happy kitten again. She didn't loose much of her character. She has 
 
 ---
 
-Source: https://casarobino.org/2010/03/kitten-everything-just-fine
+<p class="chapter-source"><a href="https://casarobino.org/node/9821">node/9821</a></p>

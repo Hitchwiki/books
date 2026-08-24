@@ -5,4 +5,4 @@ http://www.fundable.com/
 
 ---
 
-Source: https://casarobino.org/content/fundable
+<p class="chapter-source"><a href="https://casarobino.org/node/317">node/317</a></p>

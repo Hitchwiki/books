@@ -52,4 +52,4 @@ Esperamos que disfrutes de este sitio y que logremos compartir contigo la curios
 
 ---
 
-Source: https://sindinero.net/bienvenido-sindineronet-como-vivir-sin-dinero
+<p class="chapter-source"><a href="https://sindinero.net/node/2">node/2</a></p>

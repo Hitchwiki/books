@@ -1,4 +1,4 @@
-# Whoopie, it's working:)
+# Whoopie, it's working :)
 
 Yohh ppl, hi,
 how are u atm?
@@ -6,4 +6,4 @@ Great thnx for getting the site working again on the create account part
 
 ---
 
-Source: https://casarobino.org/2009/10/whoopie-its-working
+<p class="chapter-source"><a href="https://casarobino.org/node/6712">node/6712</a></p>

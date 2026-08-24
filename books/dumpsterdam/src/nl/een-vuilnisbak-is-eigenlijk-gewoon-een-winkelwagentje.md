@@ -4,4 +4,4 @@
 
 ---
 
-Source: https://dumpsterdam.nl/een-vuilnisbak-eigenlijk-gewoon-een-winkelwagentje
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/109">node/109</a></p>

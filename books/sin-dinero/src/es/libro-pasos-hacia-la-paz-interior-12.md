@@ -7,4 +7,4 @@ También puedes ver Wikipedia para más información sobre su vida y el sitio we
 
 ---
 
-Source: https://sindinero.net/libro-pasos-hacia-la-paz-interior
+<p class="chapter-source"><a href="https://sindinero.net/node/12">node/12</a></p>

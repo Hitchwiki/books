@@ -9,4 +9,4 @@ Goede voorstellen. Maar aan de voorstellen ontbreekt nog wat. Zo zie ik veel sup
 
 ---
 
-Source: https://dumpsterdam.nl/wet-tegen-voedselverspilling
+<p class="chapter-source"><a href="https://dumpsterdam.nl/node/103">node/103</a></p>

@@ -7,8 +7,8 @@ One thing led to another. At some point I figured out how to scam free plane tic
 Why Buenos Aires? There's no great reason, and I'm not attached to it. It's the largest south-american city on CS by a factor of two. It's not tropical. It's a hub of international travel (land, sea, and air). I enjoyed the 10 days I spent there in 2008, and my friends who live (or have lived) there rave about it. But in the end it just seems like a good place to start the search, not necessarily to finish it.
 The idea has also piqued the interest of various friends and housemates, and there now seems to be a sizable ad-hoc group planning on being present, at different points and for different amount of times, at this place that currently exists only in our minds. A nomad from Montreal (living in my co-op for the past 6 months) just set off hitching south. Two friends got a grant to produce a radio piece about the endeavor, and are using the money to fly down in mid July. Two other friends plan on being there around the beginning of september. And Curious George is heading down by boat or motorcycle or hitching in early october.
 And that's where things stand at the moment. Nothing is set in stone. Maybe it will fail to start? Maybe we'll run into the casa bonita problem (too man tourists, not enough nomads)? Maybe it's naive to try to transplant such an idea without more thoroughly accounting for cultural context?
-Time will tell, to be sure. But in the mean time, I'd love to hear what you have to say. Advice? Contacts? Skepticism? Optimism? Please share everything.;-)
+Time will tell, to be sure. But in the mean time, I'd love to hear what you have to say. Advice? Contacts? Skepticism? Optimism? Please share everything. ;-)
 
 ---
 
-Source: https://casarobino.org/2011/05/casa-south-america
+<p class="chapter-source"><a href="https://casarobino.org/node/18589">node/18589</a></p>

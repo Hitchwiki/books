@@ -14,4 +14,4 @@ Ania Micińska
 
 ---
 
-Source: https://casarobino.org/2009/12/goodbye-letter
+<p class="chapter-source"><a href="https://casarobino.org/node/8322">node/8322</a></p>

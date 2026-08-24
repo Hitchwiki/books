@@ -6,4 +6,4 @@ Recuerda Dios nunca desampara a las personas, el sabe cuál es tu estilo de vida
 
 ---
 
-Source: https://sindinero.net/ir-la-iglesia-por-ropa-y-comida
+<p class="chapter-source"><a href="https://sindinero.net/node/128">node/128</a></p>
