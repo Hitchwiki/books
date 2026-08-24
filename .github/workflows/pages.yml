@@ -24,9 +24,18 @@ jobs:
           python-version: "3.12"
       - name: Install pandoc and WeasyPrint libs
         run: sudo apt-get update && sudo apt-get install -y pandoc libpango-1.0-0 libpangocairo-1.0-0 libgdk-pixbuf-2.0-0 libffi-dev libharfbuzz0b libpangoft2-1.0-0
+      - name: Cache book images
+        uses: actions/cache@v4
+        with:
+          path: books/*/images/*.jpg
+          key: book-images-${{ hashFiles('books/*/images/images.json') }}
+          restore-keys: |
+            book-images-
       - name: Python deps
         run: pip install -r requirements.txt
       - name: Restore images
+        env:
+          PAGES_ORIGIN: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
         run: make images
       - name: Build
         run: make all
