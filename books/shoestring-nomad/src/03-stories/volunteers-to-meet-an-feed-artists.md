@@ -1,7 +1,7 @@
 # volunteers to meet an feed artists?
 
 so one of my lecturers sent this out, i thought you might like the idea! i don't really know him but he seemed like an interesting guy and possibly gave the only two lectures worth going to at VU.
-. . . . . . I was wondering if you would be available to volunteer during the period
+...... I was wondering if you would be available to volunteer during the period
 17 to 22 December 2009?
 We (ARTIS DEN BOSCH) currently have 10 artists with widely varying nationalities visiting a residence. The theme of the residency is "mirrored Activism and Politics in Contemporary artist"
 We need help to propelled Editor, which provides daily news. We look for people:
@@ -19,7 +19,7 @@ Want to be deployed this project?
 Send an email with your name, phone number, which you will be deployed, the date and time of day
 DUTCH ORIgINAL
 Beste,
-. . . . . . ik vroeg me af of je beschikbaar zou zijn voor vrijwilligerswerk gedurende de periode van
+...... ik vroeg me af of je beschikbaar zou zijn voor vrijwilligerswerk gedurende de periode van
 17- 22 december 2009?
 We (ARTIS DEN BOSCH) hebben op dat moment 10 kunstenaars met zeer uiteenlopende nationaliteiten op bezoek in een residentie. Het thema van de residentie is “Activisme en politiek gespiegeld in hedendaags kunstenaarschap”
 Wij hebben hulp nodig voor de Rijdende Redactie, die het dagelijks nieuws verzorgt. We zoeken mensen:

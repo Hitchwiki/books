@@ -6,8 +6,8 @@ With long distance hitchhikers probably mean more than 1 day of traveling. 1000 
 
 There are several ways of doing it:
 
-1.  As fast as possible - in which case you probably want to bring a tent to sleep somewhere close to the road or don\'t sleep at all - this is very well possible by jumping from service station to service station, under the midnight sun or if you\'re slightly crazy and equipped with a reflecting vest.
-2.  As convenient as possible - in which case you want to contact friends on the way or find places to stay with through [hospitality exchange](finding_accommodation "hospitality exchange"){.wikilink} - or if you have a budget: get a hotel (which can be quite cheap in countries like [Syria](Syria "Syria"){.wikilink} or [China](China "China"){.wikilink}).
+1. As fast as possible - in which case you probably want to bring a tent to sleep somewhere close to the road or don\'t sleep at all - this is very well possible by jumping from service station to service station, under the midnight sun or if you\'re slightly crazy and equipped with a reflecting vest.
+2. As convenient as possible - in which case you want to contact friends on the way or find places to stay with through [hospitality exchange](finding_accommodation "hospitality exchange"){.wikilink} - or if you have a budget: get a hotel (which can be quite cheap in countries like [Syria](Syria "Syria"){.wikilink} or [China](China "China"){.wikilink}).
 
 Some more tips before leaving:
 
@@ -19,10 +19,7 @@ Some more tips before leaving:
 
 [Category:General info](Category:General_info "Category:General info"){.wikilink}
 
-
-
-
 ---
 
-Source: [Long distance hitchhiking](https://hitchwiki.org/en/Long_distance_hitchhiking)  
+Source: [Long distance hitchhiking](https://hitchwiki.org/en/Long_distance_hitchhiking)
 License: CC-BY-SA-4.0

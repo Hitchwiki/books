@@ -10,10 +10,7 @@
 
 Delhi has very good public transport with many metro lines and modern buses. Moving around the city is easy and cheap. Google Maps works perfectly fine for public transport connections, so no other apps are really needed.
 
-
-
-
 ---
 
-Source: [New Delhi](https://hitchwiki.org/en/New_Delhi)  
+Source: [New Delhi](https://hitchwiki.org/en/New_Delhi)
 License: CC-BY-SA-4.0

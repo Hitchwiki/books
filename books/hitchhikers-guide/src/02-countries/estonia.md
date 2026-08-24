@@ -142,10 +142,7 @@ It was my starting location and final one, so it\'s my home country. Some people
 
 [ ](Category:Estonia " "){.wikilink} [Category:Northern Europe](Category:Northern_Europe "Category:Northern Europe"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Estonia](https://hitchwiki.org/en/Estonia)  
+Source: [Estonia](https://hitchwiki.org/en/Estonia)
 License: CC-BY-SA-4.0

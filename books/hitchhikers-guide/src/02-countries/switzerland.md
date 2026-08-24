@@ -20,7 +20,7 @@ Swiss law contains no rule against hitchhiking, only against being on foot where
 
 Since in not legal to hitch on motorways (petrol stations are allowed though), you should avoid to get dropped at the border. If you\'re hitchhiking with a truck driver into [Italy](Italy "Italy"){.wikilink}, he\'ll maybe need to stop at the border before driving on - but ask him not to say that you\'re a hitchhiker since the border police might tell you to leave the truck and drive you to the bus station instead.
 
-![Anthony hitching in [Lausanne](Lausanne "Lausanne"){.wikilink}](Lausanneswitzerland.jpg "Anthony hitching in Lausanne"){width="350"} ![](Hitchhiking_to_Italy_in_Switzerland_06-2010.jpg "Hitchhiking_to_Italy_in_Switzerland_06-2010.jpg"){width="200"}
+![Anthony hitching in [Lausanne](Lausanne "Lausanne"){.wikilink}](Lausanneswitzerland.jpg "Anthony hitching in Lausanne"){width="350"}![](Hitchhiking_to_Italy_in_Switzerland_06-2010.jpg "Hitchhiking_to_Italy_in_Switzerland_06-2010.jpg"){width="200"}
 
 ## Cities
 
@@ -82,10 +82,7 @@ Hitchhiked from Zurich south toward Italy, met an incredible old Swiss man who d
 
 [ ](Category:Switzerland " "){.wikilink} [Category:Western Europe](Category:Western_Europe "Category:Western Europe"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Switzerland](https://hitchwiki.org/en/Switzerland)  
+Source: [Switzerland](https://hitchwiki.org/en/Switzerland)
 License: CC-BY-SA-4.0

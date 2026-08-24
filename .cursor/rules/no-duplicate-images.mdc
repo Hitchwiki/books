@@ -1,0 +1,16 @@
+---
+description: Do not reuse the same image twice inside a book
+alwaysApply: true
+---
+
+# One image, one placement
+
+Do not use the same image twice in a book.
+
+The only intended exception is a cover image that also appears inside the book (title page, chapter opener, or similar). That is branding the edition, not filling pages.
+
+When placing, keeping, or fetching images:
+
+- If a file is already used in that book’s `src/`, skip it. Same photo under a different filename or path still counts as a duplicate.
+- A wiki dump that repeats a photo across chapters should keep one placement and drop the rest.
+- Do not “fill” a chapter with a photo already used elsewhere in the same title.

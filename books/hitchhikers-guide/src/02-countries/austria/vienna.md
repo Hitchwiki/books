@@ -22,10 +22,7 @@ Another website where the passengers tell of where and when they have seen contr
 
 ## Sleeping
 
-
-
-
 ---
 
-Source: [Vienna](https://hitchwiki.org/en/Vienna)  
+Source: [Vienna](https://hitchwiki.org/en/Vienna)
 License: CC-BY-SA-4.0

@@ -45,14 +45,9 @@ In total I spent 35usd, including 3 nights in hostel within that amount.
 
 - The border to [Myanmar](Myanmar "Myanmar"){.wikilink} is closed (information from Sep 2023)
 
-[visa:Bangladesh](visa:Bangladesh "visa:Bangladesh"){.wikilink}
-
 [Category:Asia](Category:Asia "Category:Asia"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
-
-
-
 
 ---
 
-Source: [Bangladesh](https://hitchwiki.org/en/Bangladesh)  
+Source: [Bangladesh](https://hitchwiki.org/en/Bangladesh)
 License: CC-BY-SA-4.0

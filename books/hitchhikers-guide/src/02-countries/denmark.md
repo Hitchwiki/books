@@ -115,7 +115,7 @@ If you\'re travelling with a tent, hammock or sleeping bag, you can use a number
 
 <div class="hw-exp-text">
 
-Denmark is, along with Serbia, probably the best country in Europe for hitchhiking. I would go with 4 or 4.5 out of 5. So fast, easy, you can stand anywhere (ok, not on the highway :), you never wait more than 10-20 minutes. I went Copenhagen - Helsingor - Hillerod - Roskilde - Slagelse - Vejle - Aaarhus - Kolding - Ribe - Hamburg. Roads are in a very good condition. People are so relaxed and they literally take you wherever you say. I wish every country is like that. Also, people are so relaxed in terms of where to stop. It can be anywhere, no matter there is no space next to the road line or 2 meters space on the side. Very helpful, positive and nice. Definitelly, I did not feel like I was in Western Europe. This description more fits into some Middle East hospitality country. :)
+Denmark is, along with Serbia, probably the best country in Europe for hitchhiking. I would go with 4 or 4.5 out of 5. So fast, easy, you can stand anywhere (ok, not on the highway:), you never wait more than 10-20 minutes. I went Copenhagen - Helsingor - Hillerod - Roskilde - Slagelse - Vejle - Aaarhus - Kolding - Ribe - Hamburg. Roads are in a very good condition. People are so relaxed and they literally take you wherever you say. I wish every country is like that. Also, people are so relaxed in terms of where to stop. It can be anywhere, no matter there is no space next to the road line or 2 meters space on the side. Very helpful, positive and nice. Definitelly, I did not feel like I was in Western Europe. This description more fits into some Middle East hospitality country.:)
 
 </div>
 </div>
@@ -139,10 +139,7 @@ Crossing into Denmark from Puttgarden, I ended up drawn in by the sea and forgot
 
 [ ](Category:Denmark " "){.wikilink} [Category:Northern Europe](Category:Northern_Europe "Category:Northern Europe"){.wikilink} [Category:East Route from North Cape to Cape of Good Hope](Category:East_Route_from_North_Cape_to_Cape_of_Good_Hope "Category:East Route from North Cape to Cape of Good Hope"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Denmark](https://hitchwiki.org/en/Denmark)  
+Source: [Denmark](https://hitchwiki.org/en/Denmark)
 License: CC-BY-SA-4.0

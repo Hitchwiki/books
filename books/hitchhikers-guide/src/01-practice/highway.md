@@ -22,10 +22,7 @@ Routing on [Hitchwiki Maps](https://maps.hitchwiki.org/) can recommend you good 
 
 [Category:General info](Category:General_info "Category:General info"){.wikilink} [Category:Motorways](Category:Motorways "Category:Motorways"){.wikilink}
 
-
-
-
 ---
 
-Source: [Highway](https://hitchwiki.org/en/Highway)  
+Source: [Highway](https://hitchwiki.org/en/Highway)
 License: CC-BY-SA-4.0

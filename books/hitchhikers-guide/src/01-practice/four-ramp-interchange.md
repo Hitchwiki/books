@@ -4,10 +4,7 @@ A **four-ramp interchange** is the most common [interchange](interchange "interc
 
 [Category:General info](Category:General_info "Category:General info"){.wikilink}
 
-
-
-
 ---
 
-Source: [Four-ramp interchange](https://hitchwiki.org/en/Four-ramp_interchange)  
+Source: [Four-ramp interchange](https://hitchwiki.org/en/Four-ramp_interchange)
 License: CC-BY-SA-4.0

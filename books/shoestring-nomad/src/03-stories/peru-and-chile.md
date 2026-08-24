@@ -1,4 +1,4 @@
-# Peru!  (and Chile?)
+# Peru! (and Chile?)
 
 Casa casa!
 I'm headed to Peru! And maybe Chile. Do you know anyone in Peru or Chile who would be wonderful to meet?

@@ -16,10 +16,7 @@ See also:
 
 [Category:Dumpster diving](Category:Dumpster_diving "Category:Dumpster diving"){.wikilink} [Category:General info](Category:General_info "Category:General info"){.wikilink}
 
-
-
-
 ---
 
-Source: [Mold](https://trashwiki.org/en/Mold)  
+Source: [Mold](https://trashwiki.org/en/Mold)
 License: CC-BY-NC-SA-4.0

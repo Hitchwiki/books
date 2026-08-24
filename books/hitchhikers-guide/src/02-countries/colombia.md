@@ -10,7 +10,7 @@ Although it\'s not an easy country to hitchhike, it is not as bad as they say. T
 
 Like anywhere in Latin America, the biggest danger is to be robbed, which may happen if you travel alone. Bus transport is decent and reasonably priced, although not as cheap as countries like [Bolivia](Bolivia "Bolivia"){.wikilink} or [Venezuela](Venezuela "Venezuela"){.wikilink}.
 
-As mentioned, the security situation makes hitching difficult, but certainly not as bad as you would think. To know which areas are outright no-go zones, ask around and check the newspapers. People tend to tell you that the whole country is *muy peligroso*, only take information seriously if there is something concrete going on (example : *the FARC have attacked a military outpost on the road to Turbo\...*) Thumbs up hitch-hiking might get you a ride, but isn\'t the best approach. Much easier is talking to people at gas stations and peajes (toll booths), or asking soldiers at check-points and explaining where you are going, either they should let you talk to cars that slow for the check-point, or they may even ask people for you\...
+As mentioned, the security situation makes hitching difficult, but certainly not as bad as you would think. To know which areas are outright no-go zones, ask around and check the newspapers. People tend to tell you that the whole country is *muy peligroso*, only take information seriously if there is something concrete going on (example: *the FARC have attacked a military outpost on the road to Turbo\...*) Thumbs up hitch-hiking might get you a ride, but isn\'t the best approach. Much easier is talking to people at gas stations and peajes (toll booths), or asking soldiers at check-points and explaining where you are going, either they should let you talk to cars that slow for the check-point, or they may even ask people for you\...
 
 To cross from Colombia to [Panama](Panama "Panama"){.wikilink} you\'ve got to travel around the the [Darién Gap](Darién_Gap "Darién Gap"){.wikilink} somehow. See the article on the gap itself for details on that.
 
@@ -38,7 +38,7 @@ Hitchhiking from febraury 2022 to May 2022 around Colombia. Hitchhiking is worki
 
 <div class="hw-exp-text">
 
-In the spring of 2008 me and a Colombian female friend went for some hikes in the countryside around Bogotá. We went to the village of , where a 7 km dirt road leads up to the \'Laguna Sagrada\'. On the way a milk truck picked us up. A great experience, standing on the back of a truck driving up a bumpy road, the wind in our hair. On the way back we easily scored a ride back to Bogotá, in a car with a bank employee who liked talking about football. The dirt roads in the countryside are not busy, but everybody seems willing to pick you up. Same experience in Puente Nacional late one evening, where we got a ride from a farmer for a few pesos.
+In the spring of 2008 me and a Colombian female friend went for some hikes in the countryside around Bogotá. We went to the village of, where a 7 km dirt road leads up to the \'Laguna Sagrada\'. On the way a milk truck picked us up. A great experience, standing on the back of a truck driving up a bumpy road, the wind in our hair. On the way back we easily scored a ride back to Bogotá, in a car with a bank employee who liked talking about football. The dirt roads in the countryside are not busy, but everybody seems willing to pick you up. Same experience in Puente Nacional late one evening, where we got a ride from a farmer for a few pesos.
 
 </div>
 </div>
@@ -88,7 +88,7 @@ Hitched from Ipiales north in April 2012. The difference between talking face to
 
 <div class="hw-exp-text">
 
-March 2014, for about a month- much, much better than I had anticipated. I hitched from the very north to the very south of Colombia, with nerry an issue. Hitching around the Darien proved frustrating and impossible for me, but when I was in country, things got much better. It is more difficult than say Ecuador, but I rarely waited longer than an hour. The far north is easy to hitch, but getting around big cities can be a real bitch, as there are very few bypasses and you get sucked in. Public transport costs are very high relatively. Police are always nice, and gas station attendants. Do direct hitchhike and ask people at petrol stations, they are always super nice and honest. Was given money for food a number of time, despite refusing weakly. I got offered my longest hitch ever here outside of Neiva, as far as Ushushia in Patagonia which I took as far as Ecuador border. Also had three drivers on cocaine which were great, fast rides, very entertaining and obvious !
+March 2014, for about a month- much, much better than I had anticipated. I hitched from the very north to the very south of Colombia, with nerry an issue. Hitching around the Darien proved frustrating and impossible for me, but when I was in country, things got much better. It is more difficult than say Ecuador, but I rarely waited longer than an hour. The far north is easy to hitch, but getting around big cities can be a real bitch, as there are very few bypasses and you get sucked in. Public transport costs are very high relatively. Police are always nice, and gas station attendants. Do direct hitchhike and ask people at petrol stations, they are always super nice and honest. Was given money for food a number of time, despite refusing weakly. I got offered my longest hitch ever here outside of Neiva, as far as Ushushia in Patagonia which I took as far as Ecuador border. Also had three drivers on cocaine which were great, fast rides, very entertaining and obvious!
 
 </div>
 </div>
@@ -136,10 +136,7 @@ Average waiting time was about 2 hours. Mostly cars picked me up. i saw single g
 
 [Colombia](Category:Colombia "Colombia"){.wikilink} [Category:South America](Category:South_America "Category:South America"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Colombia](https://hitchwiki.org/en/Colombia)  
+Source: [Colombia](https://hitchwiki.org/en/Colombia)
 License: CC-BY-SA-4.0

@@ -4,7 +4,7 @@
 
 # Hitchhiking
 
-![](tramprennen_polish_car.jpg "tramprennen_polish_car.jpg"){width="270"} ![Hitchhiker in [Kraków](Kraków "Kraków"){.wikilink}](Krakow_to_ukraine.JPG "Hitchhiker in Kraków"){width="250"}
+![](tramprennen_polish_car.jpg "tramprennen_polish_car.jpg"){width="270"}![Hitchhiker in [Kraków](Kraków "Kraków"){.wikilink}](Krakow_to_ukraine.JPG "Hitchhiker in Kraków"){width="250"}
 
 It is an awesome country for hitchhiking and even one of the most hitchhiker friendly countries in whole Europe. The average time of waiting varies from 15 min to 1 hour (rarely 2 hours - if so, you probably have a bad spot) depending on your spot. Many drivers generally believe that others do not stop and that hitchhiking days are over in Poland, which however does not prevent hundreds of them from stopping. Since 1958 till the beginning of 90\'s hitchhiking in Poland was an official way of traveling organized by National Tourist Board, when hitchhikers had their ID with [insurance](insurance "insurance"){.wikilink} included and drivers could win prizes every year. Thousands of people were hitchhiking through all these years -- and most of them have cars today, so very often do they repay the debt.
 
@@ -171,10 +171,7 @@ I transited through Poland in 2011, and it was ok, even though roads were not th
 
 [ ](Category:Poland " "){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Poland](https://hitchwiki.org/en/Poland)  
+Source: [Poland](https://hitchwiki.org/en/Poland)
 License: CC-BY-SA-4.0

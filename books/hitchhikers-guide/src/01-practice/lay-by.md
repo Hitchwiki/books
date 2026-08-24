@@ -10,10 +10,7 @@ At some larger lay-bys mobile catering is provided by vendors operating from con
 
 [Category:General info](Category:General_info "Category:General info"){.wikilink}
 
-
-
-
 ---
 
-Source: [Lay-by](https://hitchwiki.org/en/Lay-by)  
+Source: [Lay-by](https://hitchwiki.org/en/Lay-by)
 License: CC-BY-SA-4.0

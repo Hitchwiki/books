@@ -17,12 +17,7 @@
 
 - [frigan.no](http://www.frigan.no) has info on freeganism in Norway, and a [forum](http://forum.frigan.no) for freegans.
 
-[hitch:Oslo](hitch:Oslo "hitch:Oslo"){.wikilink} [nomad:Oslo](nomad:Oslo "nomad:Oslo"){.wikilink}
-
-
-
-
 ---
 
-Source: [Oslo](https://trashwiki.org/en/Oslo)  
+Source: [Oslo](https://trashwiki.org/en/Oslo)
 License: CC-BY-NC-SA-4.0

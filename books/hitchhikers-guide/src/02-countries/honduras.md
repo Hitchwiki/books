@@ -49,10 +49,7 @@ hichhiked between march to mid april 2016(as well as using buses). The public tr
 
 [Category:Countries](Category:Countries "Category:Countries"){.wikilink}
 
-
-
-
 ---
 
-Source: [Honduras](https://hitchwiki.org/en/Honduras)  
+Source: [Honduras](https://hitchwiki.org/en/Honduras)
 License: CC-BY-SA-4.0

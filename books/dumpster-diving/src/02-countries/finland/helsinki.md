@@ -16,10 +16,7 @@
 
 [Froodly](http://froodly.com/) it\'s an app that shows you where to get discounted food, for the moment it\'s just working in Helsinki and you can\'t get stuff for free, but with time it may be popular in other countries and could incentive Supermarkets to give away food nearly for free (hopefully even completely for free!)
 
-
-
-
 ---
 
-Source: [Helsinki](https://trashwiki.org/en/Helsinki)  
+Source: [Helsinki](https://trashwiki.org/en/Helsinki)
 License: CC-BY-NC-SA-4.0

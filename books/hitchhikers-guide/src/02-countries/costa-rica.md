@@ -86,10 +86,7 @@ Image:Fabzgy_costarica.JPG\|[Fabzgy](User:fabzgy "Fabzgy"){.wikilink} hitchhikin
 
 [Category:Central America](Category:Central_America "Category:Central America"){.wikilink} [Category:Costa Rica](Category:Costa_Rica "Category:Costa Rica"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Costa Rica](https://hitchwiki.org/en/Costa_Rica)  
+Source: [Costa Rica](https://hitchwiki.org/en/Costa_Rica)
 License: CC-BY-SA-4.0

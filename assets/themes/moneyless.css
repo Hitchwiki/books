@@ -1,33 +1,40 @@
 @font-face {
-  font-family: "IBM Plex Sans";
-  src: url("fonts/IBMPlexSans-Bold.ttf") format("truetype");
+  font-family: "Source Serif 4";
+  src: url("fonts/SourceSerif4-Semibold.ttf") format("truetype");
   font-weight: 600;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
-  font-family: "IBM Plex Sans";
-  src: url("fonts/IBMPlexSans-Regular.ttf") format("truetype");
+  font-family: "Source Serif 4";
+  src: url("fonts/SourceSerif4-Regular.ttf") format("truetype");
   font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Source Serif 4";
+  src: url("fonts/SourceSerif4-Bold.ttf") format("truetype");
+  font-weight: 700;
   font-style: normal;
   font-display: swap;
 }
 
 body.book-moneyless {
-  --fg: #181818;
-  --muted: #5c5c5c;
-  --bg: #f7f7f5;
-  --accent: #0ca6bb;
-  --accent2: #076370;
-  --rule: #ddddd8;
-  --cover-bg: #181818;
-  --cover-fg: #f7f7f5;
-  --measure: 34rem;
+  --fg: #2a1c14;
+  --muted: #7a5e4a;
+  --bg: #f7f1e6;
+  --accent: #c4452d;
+  --accent2: #5c3a1e;
+  --rule: #e4d4c0;
+  --cover-bg: #3a2418;
+  --cover-fg: #f7f1e6;
+  --measure: 36rem;
   --toc: 20rem;
   --banner: 3.15rem;
   background: var(--bg);
   color: var(--fg);
-  font-family: "IBM Plex Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Source Serif 4", Georgia, Palatino, serif;
   max-width: var(--measure);
   margin: 0 auto;
   padding: 0 1.25rem 5rem;
@@ -39,7 +46,7 @@ body.book-moneyless h1,
 body.book-moneyless h2,
 body.book-moneyless h3,
 body.book-moneyless .cover-title {
-  font-family: "IBM Plex Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Source Serif 4", Georgia, Palatino, serif;
   font-style: normal;
   font-weight: 600;
   line-height: 1.15;
@@ -69,6 +76,14 @@ body.book-moneyless nav#TOC {
   background: var(--bg);
   -webkit-overflow-scrolling: touch;
 }
+body.book-moneyless nav#TOC .toc-chrome {
+  position: sticky;
+  top: 0;
+  z-index: 2;
+  background: var(--bg);
+  padding: 0 0 0.35rem;
+  margin: 0 0 0.15rem;
+}
 body.book-moneyless nav#TOC .toc-title {
   font-size: 1.15rem;
   margin: 0 0 0.4rem;
@@ -77,7 +92,7 @@ body.book-moneyless nav#TOC .toc-title {
 body.book-moneyless nav#TOC .toc-filter {
   width: 100%;
   box-sizing: border-box;
-  margin: 0.35rem 0 0.7rem;
+  margin: 0.35rem 0 0.45rem;
   padding: 0.4rem 0.55rem;
   border: 1px solid var(--rule);
   background: var(--bg);
@@ -88,6 +103,15 @@ body.book-moneyless nav#TOC .toc-empty {
   color: var(--muted);
   margin: 0 0 0.6rem;
 }
+body.book-moneyless nav#TOC .toc-parts {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem 0.85rem;
+  margin: 0 0 0.35rem;
+  font-size: 0.88rem;
+  font-weight: 600;
+}
+body.book-moneyless nav#TOC .toc-parts a { color: var(--accent); }
 body.book-moneyless nav#TOC ul {
   list-style: none;
   margin: 0;
@@ -176,14 +200,14 @@ body.book-moneyless .toc-jump {
   font-size: 0.78rem;
   letter-spacing: 0.06em;
   text-transform: uppercase;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: Georgia, Palatino, serif;
 }
 body.book-moneyless .book-banner {
   position: sticky;
   top: 0;
   z-index: 20;
-  background: #181818;
-  color: #f7f7f5;
+  background: #3a2418;
+  color: #f7f1e6;
   margin: 0 -1.25rem 0;
   padding: 0.85rem 1.25rem;
   font-size: 0.82rem;
@@ -221,10 +245,17 @@ body.book-moneyless .book-banner a { color: inherit; text-decoration: underline;
   body.book-moneyless { --toc: 22rem; }
 }
 
-body.book-moneyless .cover-page { justify-content: flex-end; }
-body.book-moneyless .cover-logo-wrap { position: relative; z-index: 1; margin-bottom: auto; }
-body.book-moneyless .cover-kicker { position: relative; }
-body.book-moneyless .cover-title { font-style: normal; font-weight: 700; font-size: 2.6rem; }
+body.book-moneyless .cover-title { font-style: normal; font-weight: 600; }
+body.book-moneyless .cover-main { text-align: left; }
+body.book-moneyless .cover-kicker { letter-spacing: 0.2em; }
+body.book-moneyless .cover-page::after {
+  content: "";
+  position: absolute;
+  left: 0; right: 0; bottom: 0;
+  height: 14px;
+  z-index: 3;
+  background: var(--accent);
+}
 
 
 
@@ -255,7 +286,7 @@ body.book-moneyless .cover-read a {
   text-transform: uppercase;
   font-size: 0.78rem;
   font-style: normal;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: Georgia, Palatino, serif;
 }
 body.book-moneyless .cover-logo-wrap {
   margin: 0 0 1.2rem;
@@ -265,13 +296,13 @@ body.book-moneyless .cover-logo-wrap {
 body.book-moneyless .cover-logo {
   display: block;
   max-height: 5.6rem;
-  max-width: 16rem;
+  max-width: 6.2rem;
   width: auto;
   height: auto;
   object-fit: contain;
 }
 body.book-moneyless .cover-kicker {
-  font-family: "IBM Plex Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Source Serif 4", Georgia, Palatino, serif;
   font-style: normal;
   font-size: 0.78rem;
   letter-spacing: 0.16em;
@@ -307,29 +338,25 @@ body.book-moneyless .cover-page.cover-has-photo::before {
   inset: 0;
   z-index: 0;
   background-image:
-    linear-gradient(to top, #181818 8%, #181818d8 32%, #18181800 62%),
+    linear-gradient(to top, #3a2418 8%, #3a2418d8 32%, #3a241800 62%),
     url("covers/photo.jpg");
   background-size: cover, cover;
-  background-position: bottom, center 55%;
+  background-position: bottom, center 32%;
   background-repeat: no-repeat;
   pointer-events: none;
 }
 body.book-moneyless .cover-has-photo .cover-kicker,
 body.book-moneyless .cover-has-photo .cover-main,
 body.book-moneyless .cover-has-photo .cover-foot,
-body.book-moneyless .cover-has-photo .cover-photo-credit,
 body.book-moneyless .cover-has-photo .cover-logo-wrap {
   position: relative;
   z-index: 2;
 }
-body.book-moneyless .cover-photo-credit {
-  margin: 0 0 0.35rem;
-  font-size: 0.68rem;
-  letter-spacing: 0.04em;
-  text-transform: none;
-  opacity: 0.78;
-  position: relative;
-  z-index: 2;
+body.book-moneyless .photo-credit {
+  margin: 2rem 0 2.5rem;
+  font-size: 0.88rem;
+  color: var(--muted);
+  max-width: 28rem;
 }
 
 @media print {

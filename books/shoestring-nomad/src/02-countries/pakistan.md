@@ -2,7 +2,7 @@
 
 **Pakistan** is a country in [Southern Asia](Southern_Asia "Southern Asia"){.wikilink}.
 
-To cross **Pakistan** from west to east, you need to go through \"[Baloutchistan](Baloutchistan "Baloutchistan"){.wikilink}, a region which spreads between [Afghanistan](Afghanistan "Afghanistan"){.wikilink}, Pakistan and [Iran](Iran "Iran"){.wikilink}. A region which is fighting for their independance since many years, a region which brings up terror and violence, because the Pakistani police, the Taliban and the Balochis fight each other. As a tourist you get an police escort\" from [weitumdiewelt.de (Going through an exciting country)](http://www.weitumdiewelt.de/en/going-through-exciting-country). See also the video about crossing Pakistan from Iran to India : [vimeo.com/84466726](http://vimeo.com/84466726).
+To cross **Pakistan** from west to east, you need to go through \"[Baloutchistan](Baloutchistan "Baloutchistan"){.wikilink}, a region which spreads between [Afghanistan](Afghanistan "Afghanistan"){.wikilink}, Pakistan and [Iran](Iran "Iran"){.wikilink}. A region which is fighting for their independance since many years, a region which brings up terror and violence, because the Pakistani police, the Taliban and the Balochis fight each other. As a tourist you get an police escort\" from [weitumdiewelt.de (Going through an exciting country)](http://www.weitumdiewelt.de/en/going-through-exciting-country). See also the video about crossing Pakistan from Iran to India: [vimeo.com/84466726](http://vimeo.com/84466726).
 
 ## Safety
 
@@ -18,18 +18,11 @@ The general safety concerns about kidnappings are exactly the same for men and f
 
 Pakistan has borders with [Iran](Iran "Iran"){.wikilink}, [Afghanistan](Afghanistan "Afghanistan"){.wikilink}, [China](China "China"){.wikilink} and [India](India "India"){.wikilink}.
 
-[Hitch:Pakistan](Hitch:Pakistan "Hitch:Pakistan"){.wikilink}
-
 ## External Links {#external_links}
 
 [Stories from a female adventurer in Pakistan - 2011 and 2015](http://youarealltourists.blogspot.com/search/label/Pakistan/)
 
-[couch:Pakistan](couch:Pakistan "couch:Pakistan"){.wikilink}
-
-
-
-
 ---
 
-Source: [Pakistan](https://nomadwiki.org/en/Pakistan)  
+Source: [Pakistan](https://nomadwiki.org/en/Pakistan)
 License: CC-BY-SA-4.0

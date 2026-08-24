@@ -8,14 +8,9 @@ The building or facility in which a fee is collected is called a [toll station](
 
 In [France](France "France"){.wikilink} and French-speaking countries toll roads are called *[péage](péage "péage"){.wikilink}*.
 
-[wikipedia:Toll road](wikipedia:Toll_road "wikipedia:Toll road"){.wikilink}
-
 [Category:General info](Category:General_info "Category:General info"){.wikilink} [Category:Roads](Category:Roads "Category:Roads"){.wikilink}
-
-
-
 
 ---
 
-Source: [Toll road](https://hitchwiki.org/en/Toll_road)  
+Source: [Toll road](https://hitchwiki.org/en/Toll_road)
 License: CC-BY-SA-4.0

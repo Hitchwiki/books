@@ -22,7 +22,7 @@ There\'s ferries from Denmark and from Iceland to Tórshavn; they don\'t seem to
 
 ## Transportation in the Faroes {#transportation_in_the_faroes}
 
-There are cars, buses, and ferries. Buses go to lots of places, their price depends on factor such as going through the underwater tunnels or not etc. Check out timetables at www.ssl.fo . They can come in handy, especially in remote places that may have 2 buses coming and going per day, but maybe not even a single car (see info on Trøllanes below under the Kalsoy section). **All red buses in the capital Tórshavn are free of charge**. In many other places, you might find out after a long wait at a bus stop that you have to call the bus company several hours before, if you want to take the bus! You can\'t hitch on the ferries of course − you pay. It\'s not expensive. There are also many tunnels connecting towns and islands. Except for the newest ones, they are generally one lane and without lights. They are very scary and dangerous to walk through − avoid at all costs!!
+There are cars, buses, and ferries. Buses go to lots of places, their price depends on factor such as going through the underwater tunnels or not etc. Check out timetables at www.ssl.fo. They can come in handy, especially in remote places that may have 2 buses coming and going per day, but maybe not even a single car (see info on Trøllanes below under the Kalsoy section). **All red buses in the capital Tórshavn are free of charge**. In many other places, you might find out after a long wait at a bus stop that you have to call the bus company several hours before, if you want to take the bus! You can\'t hitch on the ferries of course − you pay. It\'s not expensive. There are also many tunnels connecting towns and islands. Except for the newest ones, they are generally one lane and without lights. They are very scary and dangerous to walk through − avoid at all costs!!
 
 .
 
@@ -76,10 +76,7 @@ Hitchwiki user [Gutuater](user:Gutuater "Gutuater"){.wikilink} was there during 
 
 [Category:Northern Europe](Category:Northern_Europe "Category:Northern Europe"){.wikilink} [Category:Denmark](Category:Denmark "Category:Denmark"){.wikilink} [Category:Excellent Articles](Category:Excellent_Articles "Category:Excellent Articles"){.wikilink} [Category:Island](Category:Island "Category:Island"){.wikilink} [Category:Cities](Category:Cities "Category:Cities"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Faroe Islands](https://hitchwiki.org/en/Faroe_Islands)  
+Source: [Faroe Islands](https://hitchwiki.org/en/Faroe_Islands)
 License: CC-BY-SA-4.0

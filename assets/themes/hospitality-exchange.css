@@ -21,14 +21,14 @@
 }
 
 body.book-hospitality-exchange {
-  --fg: #26302e;
-  --muted: #45645f;
-  --bg: #fcfffe;
-  --accent: #08766b;
-  --accent2: #00a995;
-  --rule: #c5ddd6;
-  --cover-bg: #edf5f1;
-  --cover-fg: #26302e;
+  --fg: #2a2724;
+  --muted: #6a6158;
+  --bg: #faf7f2;
+  --accent: #3f6f68;
+  --accent2: #8b5e3c;
+  --rule: #e4d9cc;
+  --cover-bg: #2c2824;
+  --cover-fg: #faf7f2;
   --measure: 38rem;
   --toc: 20rem;
   --banner: 3.15rem;
@@ -76,6 +76,14 @@ body.book-hospitality-exchange nav#TOC {
   background: var(--bg);
   -webkit-overflow-scrolling: touch;
 }
+body.book-hospitality-exchange nav#TOC .toc-chrome {
+  position: sticky;
+  top: 0;
+  z-index: 2;
+  background: var(--bg);
+  padding: 0 0 0.35rem;
+  margin: 0 0 0.15rem;
+}
 body.book-hospitality-exchange nav#TOC .toc-title {
   font-size: 1.15rem;
   margin: 0 0 0.4rem;
@@ -84,7 +92,7 @@ body.book-hospitality-exchange nav#TOC .toc-title {
 body.book-hospitality-exchange nav#TOC .toc-filter {
   width: 100%;
   box-sizing: border-box;
-  margin: 0.35rem 0 0.7rem;
+  margin: 0.35rem 0 0.45rem;
   padding: 0.4rem 0.55rem;
   border: 1px solid var(--rule);
   background: var(--bg);
@@ -95,6 +103,15 @@ body.book-hospitality-exchange nav#TOC .toc-empty {
   color: var(--muted);
   margin: 0 0 0.6rem;
 }
+body.book-hospitality-exchange nav#TOC .toc-parts {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem 0.85rem;
+  margin: 0 0 0.35rem;
+  font-size: 0.88rem;
+  font-weight: 600;
+}
+body.book-hospitality-exchange nav#TOC .toc-parts a { color: var(--accent); }
 body.book-hospitality-exchange nav#TOC ul {
   list-style: none;
   margin: 0;
@@ -189,8 +206,8 @@ body.book-hospitality-exchange .book-banner {
   position: sticky;
   top: 0;
   z-index: 20;
-  background: #edf5f1;
-  color: #26302e;
+  background: #2c2824;
+  color: #faf7f2;
   margin: 0 -1.25rem 0;
   padding: 0.85rem 1.25rem;
   font-size: 0.82rem;
@@ -228,13 +245,11 @@ body.book-hospitality-exchange .book-banner a { color: inherit; text-decoration:
   body.book-hospitality-exchange { --toc: 22rem; }
 }
 
-body.book-hospitality-exchange .cover-page {
-  box-shadow: inset 0 0 0 14px var(--bg), inset 0 0 0 22px var(--accent2);
+body.book-hospitality-exchange .cover-title {
+  font-style: italic;
 }
-body.book-hospitality-exchange .cover-main { text-align: center; }
-body.book-hospitality-exchange .cover-sub { margin-left: auto; margin-right: auto; }
-body.book-hospitality-exchange .cover-kicker, body.book-hospitality-exchange .cover-foot,
-body.book-hospitality-exchange .cover-logo-wrap { text-align: center; }
+body.book-hospitality-exchange .cover-main { text-align: left; }
+body.book-hospitality-exchange .cover-kicker { letter-spacing: 0.18em; }
 
 
 
@@ -293,7 +308,7 @@ body.book-hospitality-exchange .cover-title {
   font-size: 3.4rem;
   margin: 0 0 0.6rem;
   color: inherit;
-  font-style: normal;
+  font-style: italic;
 }
 body.book-hospitality-exchange .cover-sub {
   margin: 0;
@@ -317,7 +332,7 @@ body.book-hospitality-exchange .cover-page.cover-has-photo::before {
   inset: 0;
   z-index: 0;
   background-image:
-    linear-gradient(to top, #edf5f1 8%, #edf5f1d8 32%, #edf5f100 62%),
+    linear-gradient(to top, #2c2824 8%, #2c2824d8 32%, #2c282400 62%),
     url("covers/photo.jpg");
   background-size: cover, cover;
   background-position: bottom, center 32%;
@@ -327,19 +342,15 @@ body.book-hospitality-exchange .cover-page.cover-has-photo::before {
 body.book-hospitality-exchange .cover-has-photo .cover-kicker,
 body.book-hospitality-exchange .cover-has-photo .cover-main,
 body.book-hospitality-exchange .cover-has-photo .cover-foot,
-body.book-hospitality-exchange .cover-has-photo .cover-photo-credit,
 body.book-hospitality-exchange .cover-has-photo .cover-logo-wrap {
   position: relative;
   z-index: 2;
 }
-body.book-hospitality-exchange .cover-photo-credit {
-  margin: 0 0 0.35rem;
-  font-size: 0.68rem;
-  letter-spacing: 0.04em;
-  text-transform: none;
-  opacity: 0.78;
-  position: relative;
-  z-index: 2;
+body.book-hospitality-exchange .photo-credit {
+  margin: 2rem 0 2.5rem;
+  font-size: 0.88rem;
+  color: var(--muted);
+  max-width: 28rem;
 }
 
 @media print {

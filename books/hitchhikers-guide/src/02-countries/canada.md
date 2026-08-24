@@ -6,7 +6,7 @@
 
 ### Car Number Plate {#car_number_plate}
 
-Just like its southern neighbour, the [United States](United_States_of_America "United States"){.wikilink}, every provinces are issuing their own specific car plates. For example, a car from Manitoba will have a specific [Car licenses](wikipedia:License_plates_of_Canada "Car licenses"){.wikilink} tagged as such.
+Just like its southern neighbour, the [United States](United_States_of_America "United States"){.wikilink}, every provinces are issuing their own specific car plates. For example, a car from Manitoba will have a specific Car licenses tagged as such.
 
 ### Local attitude {#local_attitude}
 
@@ -68,17 +68,14 @@ I have hitched across the country twice from west to east and been up to Alaska 
 
 <div class="hw-exp-text">
 
-Canada is pretty easy to hitch in the whole country except maybe for Wawa aka hitchhiker hell as a lot for stuck there, Did most of my hitch in Quebec and BC, yeah true Quebec is easier if you know French but simple bonjour and merci will go a long way usually about 15 minutes waiting as I grew there started hitch at 14 and since then did not change much still easy to hitch Regarding BC I had lot of people\'s inviting in there home giving me weed or cash and good tips where to find free shower and good spot to pitch a tent if it was not on their yard for a night , Once a lady pick me up , offer me a place for three days,she offere to use her car to go check out some spot at the condition I would her teenager to school and pick him up , on the last day there she ask me to get some smokes for her and to grab a pack for my self and gave me her car keys and credit card, was like wow, for sure would not have stole from her but that was a lot of trust to some one she met 3days before , later that month she wired me 100\$ because she was worried I would not eat enough, got me some food and a pack of smokes.
+Canada is pretty easy to hitch in the whole country except maybe for Wawa aka hitchhiker hell as a lot for stuck there, Did most of my hitch in Quebec and BC, yeah true Quebec is easier if you know French but simple bonjour and merci will go a long way usually about 15 minutes waiting as I grew there started hitch at 14 and since then did not change much still easy to hitch Regarding BC I had lot of people\'s inviting in there home giving me weed or cash and good tips where to find free shower and good spot to pitch a tent if it was not on their yard for a night, Once a lady pick me up, offer me a place for three days,she offere to use her car to go check out some spot at the condition I would her teenager to school and pick him up, on the last day there she ask me to get some smokes for her and to grab a pack for my self and gave me her car keys and credit card, was like wow, for sure would not have stole from her but that was a lot of trust to some one she met 3days before, later that month she wired me 100\$ because she was worried I would not eat enough, got me some food and a pack of smokes.
 
 </div>
 </div>
 
 [ ](Category:Canada " "){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Canada](https://hitchwiki.org/en/Canada)  
+Source: [Canada](https://hitchwiki.org/en/Canada)
 License: CC-BY-SA-4.0

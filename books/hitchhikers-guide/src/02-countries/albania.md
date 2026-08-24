@@ -68,10 +68,7 @@ Best to not try and stop a car until you\'re past the taxi stands and out of sig
 
 [Category:Albania](Category:Albania "Category:Albania"){.wikilink} [Category:Southern Europe](Category:Southern_Europe "Category:Southern Europe"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Albania](https://hitchwiki.org/en/Albania)  
+Source: [Albania](https://hitchwiki.org/en/Albania)
 License: CC-BY-SA-4.0

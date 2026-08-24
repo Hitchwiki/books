@@ -10,10 +10,7 @@ You can of course use Embassies for hitchhiking. As you need visa to enter some 
 
 [Category:General info](Category:General_info "Category:General info"){.wikilink}
 
-
-
-
 ---
 
-Source: [Embassy](https://hitchwiki.org/en/Embassy)  
+Source: [Embassy](https://hitchwiki.org/en/Embassy)
 License: CC-BY-SA-4.0

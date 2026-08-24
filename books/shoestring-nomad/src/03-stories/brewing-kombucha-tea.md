@@ -10,7 +10,7 @@ But, in case you're too lazy to read/click around much, generally keep these thi
 3. The fermenting jar (with the kombucha & tea) should be kept at a regularly warm to hot temperature at all times & away from cigarette smoke & air impurities. The jar should be covered with a sterile cheesecloth (or similar material) & fastened with a rubber band.
 4. Use bottled spring water to brew the tea, not city water, which is chloronated & will kill vital bacteria.
 5. Try brewing a batch with the karavan tea. Or get some oolong. Both make good varieties.
-(For any more info on how to actually prepare it, read through the link. Since we only have a 2 liter jar, ignore the whole 5 liters of water bit ;).
+(For any more info on how to actually prepare it, read through the link. Since we only have a 2 liter jar, ignore the whole 5 liters of water bit;).
 
 ---
 

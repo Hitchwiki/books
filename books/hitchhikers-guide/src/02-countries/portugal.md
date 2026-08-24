@@ -6,11 +6,11 @@
 
 People are very friendly in general. During the summer, especially the coastline is overrun with tourists. In Portugal people are easy going and sometimes slow. Everything needs its time, so you will probably have to wait for a little while. Long distance buses are usually a bit late.
 
-Hitching in Portugal is quite easy. However, it is important that you are protected from the sun. The [weather](weather "weather"){.wikilink} is, especially in summer, extremely hot. During the autumn or winter season, rain can be constant, especially in the north and centre of Portugal. Although, you still might be able to find long periods of beautiful sunshine. Anyway, keep in mind that Portugal is SO WINDY, especially in coastal areas due to the oceanic weather. This can be an ease in summer\'s hot afternoons, but it\'s definitely harsh at night, even more if your plan is to wildcamp or vivac. ![A hitchhiker bound for Lisbon\'\'](Hhlisboa.jpg "A hitchhiker bound for Lisbon''"){width="334"} If you hitchhike near the coastal regions, you will probably have more chances of being picked up. Most of the people in Portugal live near the coast. Regions around [Lisbon](Lisbon "Lisbon"){.wikilink} or [Porto](Porto "Porto"){.wikilink} are generally with more traffic throughout the year. The Southern coast of Portugal is also very touristic, so you will have higher chances of being picked also by foreigners.
+Hitching in Portugal is quite easy. However, it is important that you are protected from the sun. The [weather](weather "weather"){.wikilink} is, especially in summer, extremely hot. During the autumn or winter season, rain can be constant, especially in the north and centre of Portugal. Although, you still might be able to find long periods of beautiful sunshine. Anyway, keep in mind that Portugal is SO WINDY, especially in coastal areas due to the oceanic weather. This can be an ease in summer\'s hot afternoons, but it\'s definitely harsh at night, even more if your plan is to wildcamp or vivac.![A hitchhiker bound for Lisbon\'\'](Hhlisboa.jpg "A hitchhiker bound for Lisbon''"){width="334"} If you hitchhike near the coastal regions, you will probably have more chances of being picked up. Most of the people in Portugal live near the coast. Regions around [Lisbon](Lisbon "Lisbon"){.wikilink} or [Porto](Porto "Porto"){.wikilink} are generally with more traffic throughout the year. The Southern coast of Portugal is also very touristic, so you will have higher chances of being picked also by foreigners.
 
 As an alternative to hitchhiking you can use the buses from *Rede Expresso* for overland travels. The railway network is not in a good state, it is slow and there are only two lines. Although, the network is improving a lot during the last years and it\'s easy to sneak in without paying, especially in short-distance regional trains around Lisbon.
 
-Another important issue is the way you address the drivers (since speaking directly with them gives better result than standing on the exit of the highway, if you´re hitchhiking on one. The Portuguese, even if not very familiar with the idea of hitchhiking, turn out to be very friendly people if approached in the right way. Say hello, excuse for disturbing, explain where you´re going to and ask if by any chance they´re going the same way. Seems like very basic advice but in Portugal it matters more than in central Europe ;)
+Another important issue is the way you address the drivers (since speaking directly with them gives better result than standing on the exit of the highway, if you´re hitchhiking on one. The Portuguese, even if not very familiar with the idea of hitchhiking, turn out to be very friendly people if approached in the right way. Say hello, excuse for disturbing, explain where you´re going to and ask if by any chance they´re going the same way. Seems like very basic advice but in Portugal it matters more than in central Europe;)
 
 ## Legality of Hitchhiking {#legality_of_hitchhiking}
 
@@ -76,10 +76,7 @@ Getting rides around Algarve is very easy due to the many tourists who come from
 
 [Category:Southern Europe](Category:Southern_Europe "Category:Southern Europe"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Portugal](https://hitchwiki.org/en/Portugal)  
+Source: [Portugal](https://hitchwiki.org/en/Portugal)
 License: CC-BY-SA-4.0

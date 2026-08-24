@@ -30,10 +30,7 @@ In general, because of the length of the days and the cold [Winter](Winter "Wint
 
 [Category:General info](Category:General_info "Category:General info"){.wikilink}
 
-
-
-
 ---
 
-Source: [Good times to hitchhike](https://hitchwiki.org/en/Good_times_to_hitchhike)  
+Source: [Good times to hitchhike](https://hitchwiki.org/en/Good_times_to_hitchhike)
 License: CC-BY-SA-4.0

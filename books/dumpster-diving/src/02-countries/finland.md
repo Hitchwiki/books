@@ -40,7 +40,7 @@ There are a few establishments in Finland for getting rid of your surplus [stuff
 
 - Since the early 1990\'s depression, for many folks [flea markets](flea_markets "flea markets"){.wikilink} are a favorite way of getting extra cash while getting rid of unwanted possessions.
 - In most Finnish cities, used (and preferably clean) but still usable clothes can be dumped into big yellow [UFF](http://www.uff.fi/) containers (in Central [Europe](Europe "Europe"){.wikilink} operated by Humana).
-- [\"Fida International\"](http://www.fida.info/) (see [contact details](http://www.fida.info/cgi-bin/linnea.pl?document=00010822) of all Finnish \"Fida\" stores), a Christian charity organization, both accepts donations from individuals and picks up (for free; appointment has to be set up) anything still valuable you want to discard ([furniture](furniture "furniture"){.wikilink}, [clothes](clothes "clothes"){.wikilink}\...) .
+- [\"Fida International\"](http://www.fida.info/) (see [contact details](http://www.fida.info/cgi-bin/linnea.pl?document=00010822) of all Finnish \"Fida\" stores), a Christian charity organization, both accepts donations from individuals and picks up (for free; appointment has to be set up) anything still valuable you want to discard ([furniture](furniture "furniture"){.wikilink}, [clothes](clothes "clothes"){.wikilink}\...).
 - Recycling centers (\"kierrätyskeskus\") accept and collect donations but charge for items you want to take back home
   - [Helsinki region](http://www.pkskierke.fi/)
   - [Turku](http://www.turunekotori.fi/)
@@ -98,16 +98,9 @@ There are a few establishments in Finland for getting rid of your surplus [stuff
 
 - [Siltala-Huovinen, Tarja: Roskisdyykkarin käsikirja](http://www.like.fi/kirja.php?detail_id=384) (Like Kustannus) (\"Dumpster-diver\'s Handbook\") [Some](http://hirvasnoro.blogspot.com/2005/04/dyykkaus-on-kunniallista-ja-rehellist.html) [reviews](http://www.ylioppilaslehti.fi/2002/020226/tehtavat.html)
 
-[hitch:Finland](hitch:Finland "hitch:Finland"){.wikilink}
-
-[nomad:Finland](nomad:Finland "nomad:Finland"){.wikilink}
-
 [Category:Finland](Category:Finland "Category:Finland"){.wikilink}
-
-
-
 
 ---
 
-Source: [Finland](https://trashwiki.org/en/Finland)  
+Source: [Finland](https://trashwiki.org/en/Finland)
 License: CC-BY-NC-SA-4.0

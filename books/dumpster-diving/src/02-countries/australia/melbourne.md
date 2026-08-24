@@ -66,8 +66,8 @@ There are a number of dumpster maps for Melbourne
 ## Food markets {#food_markets}
 
 - **Queen Victoris Market**, see above.
-- **Preston markets**, located outside the CBD (Bundoora/RMIT tram, plenty of stops from city), might have similar results as Victoria markets on the weekend. `<small>`{=html}(Last checked: ?)`</small>`{=html}
-- If you go to the **Prahran market** at closing time you can pick up dropped produce. `<small>`{=html}(Last checked: ?)`</small>`{=html}
+- **Preston markets**, located outside the CBD (Bundoora/RMIT tram, plenty of stops from city), might have similar results as Victoria markets on the weekend. `<small>`{=html}(Last checked:?)`</small>`{=html}
+- If you go to the **Prahran market** at closing time you can pick up dropped produce. `<small>`{=html}(Last checked:?)`</small>`{=html}
 - **South Melbourne Market**?
 
 ## Rent bicycle for free {#rent_bicycle_for_free}
@@ -83,16 +83,9 @@ Dining hall *Little Creatures* at 222 Brunswick Street, Fitzroy is offering [fre
 - \*ON HIATUS\* **Free Feed Street Kitchen** 7pm every Wednesday at on the footpath at 161 Smith street, Collingwood. ´Free Feed´ is a non-faith based street kitchen providing rescued food from local restaurants for free. Facebook: [Free Feed](https://www.facebook.com/FreeFeedMelbourne/).
 - \*SHUT DOWN\* **Lentils as Anything** is a chain of 4 vegetarian restaurants with buffet, based on donations and a \"pay as you feel\" philosophy.
 
-[hitch:Melbourne](hitch:Melbourne "hitch:Melbourne"){.wikilink}
-
-[vegan:Melbourne](vegan:Melbourne "vegan:Melbourne"){.wikilink} [nomad:Melbourne](nomad:Melbourne "nomad:Melbourne"){.wikilink}
-
 [Category:Australia](Category:Australia "Category:Australia"){.wikilink}
-
-
-
 
 ---
 
-Source: [Melbourne](https://trashwiki.org/en/Melbourne)  
+Source: [Melbourne](https://trashwiki.org/en/Melbourne)
 License: CC-BY-NC-SA-4.0

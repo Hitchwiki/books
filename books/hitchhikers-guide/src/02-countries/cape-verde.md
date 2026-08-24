@@ -55,10 +55,7 @@ Etiquette: please be careful with closing the doors of your Yasi\'s, as some of 
 
 [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Cape Verde](https://hitchwiki.org/en/Cape_Verde)  
+Source: [Cape Verde](https://hitchwiki.org/en/Cape_Verde)
 License: CC-BY-SA-4.0

@@ -299,14 +299,7 @@ All in Swedish unless otherwise stated.
 - [Blocket-bortskänkes-hela Sverige](http://www.blocket.se/uppsala?q=bortsk%E4nkes&cg=0&w=3&st=s&st=u&st=b&ca=10&l=0&md=th)
 - [bjussa.se](http://www.bjussa.se)
 
-[hitch:Stockholm](hitch:Stockholm "hitch:Stockholm"){.wikilink}
-
-[vegan:Stockholm](vegan:Stockholm "vegan:Stockholm"){.wikilink} [nomad:Stockholm](nomad:Stockholm "nomad:Stockholm"){.wikilink}
-
-
-
-
 ---
 
-Source: [Stockholm](https://trashwiki.org/en/Stockholm)  
+Source: [Stockholm](https://trashwiki.org/en/Stockholm)
 License: CC-BY-NC-SA-4.0

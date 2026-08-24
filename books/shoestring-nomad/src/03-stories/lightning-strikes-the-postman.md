@@ -1,8 +1,8 @@
 # lightning strikes the postman
 
-http://www.lightfootpost.org/ :)
-What about a map with post boxes on city level (like on hitchwiki... :) and some more structured information?
-I have no time for that in the foreseeable future.. :/ Anyone else?
+http://www.lightfootpost.org/:)
+What about a map with post boxes on city level (like on hitchwiki...:) and some more structured information?
+I have no time for that in the foreseeable future..:/ Anyone else?
 
 ---
 

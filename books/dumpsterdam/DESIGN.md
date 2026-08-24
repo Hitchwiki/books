@@ -10,12 +10,14 @@ Visual identity for this book, taken from dumpsterdam.nl.
 
 ## Logo
 
-Header `<img>` is **Trasher-grey** — the same dumpster/Trasher silhouette Trashwiki uses, 150×150 on olive-beige.
+Header `<img>` is **Trasher-grey** — the same dumpster/Trasher silhouette Trashwiki uses.
+
+On this cover the mark is **small** (a stamp in the corner, not a second title). Dumpster Diving keeps the large Trasher because that book is from Trashwiki.
 
 - Live: `https://dumpsterdam.nl/sites/dumpsterdam.nl/files/Trasher-grey.jpg`
-- Local: `assets/logos/dumpsterdam.png` (same mark at wiki resolution)
+- Local: `assets/logos/dumpsterdam.png`
 
-Site name is typeset next to it: “Dumpsterdam” / “Dumpster Diving - Voedselactivisme - Workshops - Catering - Lezingen”.
+Site name is typeset as the title, not as a wordmark beside a large icon.
 
 ## Colors
 
@@ -37,7 +39,7 @@ From dumpsterdam.nl aggregated Drupal CSS (not an invented orange):
 
 ## Applied
 
-Brick-red wash over an open dumpster, olive side bar, Trasher mark. Distinct from Trashwiki’s green-on-olive even though the dumpster drawing is shared.
+Brick-red wash over an open dumpster, olive side bar, small Trasher stamp. Distinct from Trashwiki’s green-on-olive even though the dumpster drawing is shared.
 
 ## Cover photo
 

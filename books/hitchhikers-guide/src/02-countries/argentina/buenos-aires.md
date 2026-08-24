@@ -20,10 +20,7 @@ The easiest way to get from Buenos Aires to Uruguay is by ferry to [Colonia del 
 
 There\'s also a ferry leaving from Tigre to Carmelo in Uruguay that apparently goes via Isla Martín Garcia, an Argentinian island that\'s actually closer to Uruguay in the Rio de la Plata.
 
-
-
-
 ---
 
-Source: [Buenos Aires](https://hitchwiki.org/en/Buenos_Aires)  
+Source: [Buenos Aires](https://hitchwiki.org/en/Buenos_Aires)
 License: CC-BY-SA-4.0

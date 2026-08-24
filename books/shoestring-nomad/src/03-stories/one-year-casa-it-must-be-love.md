@@ -1,6 +1,6 @@
 # One year casa, it must be love.
 
-Happy birthday casarobino! It is one year now that we have been able to keep up with you. You little weird house that nobody understands, house of punks hitchhiking through love, eclectic magical communal place! To give you something nice on this special day I prepared a silly speech for you. Please ... don't hate me for it.
+Happy birthday casarobino! It is one year now that we have been able to keep up with you. You little weird house that nobody understands, house of punks hitchhiking through love, eclectic magical communal place! To give you something nice on this special day I prepared a silly speech for you. Please... don't hate me for it.
 - Si?
 "Hello, is this casarobino?"
 - Yes, how may I help you?
@@ -9,7 +9,7 @@ Happy birthday casarobino! It is one year now that we have been able to keep up 
 "Really? Oh that is such a pity. Do you maybe know anything else that is available for us? I am coming with a friend."
 - Hmmm, that depends. What are you looking for?
 "Oh, something close to the center, and not too expensive...
-- ...
+-...
 "Ah, and something that offers the same kind of experience, of course"
 Right. If you would ask me to tell one of the funniest things that happened to me in relation to 'casa' in the past year, it must be this phone-call that we received sometime early Summer. Of all things we expected, one year ago when Anu created the foundation of this website, it wasn't this... for sure.
 One year after it is not easy though to sum up all the wonderful things what the casa did for so many people. And what beautiful things people did for the casa - and for all other people who were around and those yet to come. But ok, let's try to make a short list:

@@ -85,14 +85,9 @@ Look at the [Nomadwiki article](http://nomadwiki.org/en/New_Zealand) for more, b
 
 ## Personal experience {#personal_experience}
 
-[trash:New Zealand](trash:New_Zealand "trash:New Zealand"){.wikilink} [nomad:New Zealand](nomad:New_Zealand "nomad:New Zealand"){.wikilink}
-
 [ ](Category:New_Zealand " "){.wikilink} [Category:Oceania](Category:Oceania "Category:Oceania"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
-
-
-
 
 ---
 
-Source: [New Zealand](https://hitchwiki.org/en/New_Zealand)  
+Source: [New Zealand](https://hitchwiki.org/en/New_Zealand)
 License: CC-BY-SA-4.0

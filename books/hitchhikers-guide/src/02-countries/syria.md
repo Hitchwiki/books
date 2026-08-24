@@ -83,10 +83,7 @@ They thought he was lost and called the police, who sent him to a military base 
 
 [\*](Category:Syria "*"){.wikilink} [Category:E91](Category:E91 "Category:E91"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink}
 
-
-
-
 ---
 
-Source: [Syria](https://hitchwiki.org/en/Syria)  
+Source: [Syria](https://hitchwiki.org/en/Syria)
 License: CC-BY-SA-4.0

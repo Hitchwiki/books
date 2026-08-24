@@ -16,7 +16,7 @@ Police in [Uzbekistan](Uzbekistan "Uzbekistan"){.wikilink} are most kind and hel
 
 ### [Tajikistan](Tajikistan "Tajikistan"){.wikilink}
 
-Every policeman is ready to help you on the road. Sometimes they just carry you to the next checkpoint and ask local policemen to get a car for you. Also could offer some food or give some money (up to 5 USD :)).
+Every policeman is ready to help you on the road. Sometimes they just carry you to the next checkpoint and ask local policemen to get a car for you. Also could offer some food or give some money (up to 5 USD:)).
 
 ### [Kazakhstan](Kazakhstan "Kazakhstan"){.wikilink}
 
@@ -34,10 +34,7 @@ There are many police checkpoints (often, but not always in use) at the entrance
 
 [Category:General info](Category:General_info "Category:General info"){.wikilink}
 
-
-
-
 ---
 
-Source: [Mentostop](https://hitchwiki.org/en/Mentostop)  
+Source: [Mentostop](https://hitchwiki.org/en/Mentostop)
 License: CC-BY-SA-4.0

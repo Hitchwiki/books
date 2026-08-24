@@ -16,10 +16,7 @@ The region close to Mali is not very safe. Read up on [safety](hitchhiker's_safe
 
 [Category:Africa](Category:Africa "Category:Africa"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Niger](https://hitchwiki.org/en/Niger)  
+Source: [Niger](https://hitchwiki.org/en/Niger)
 License: CC-BY-SA-4.0

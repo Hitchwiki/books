@@ -18,10 +18,7 @@ Thamel is full of trekking shops, but you\'ll find better prices and often nicer
 
 Check around Ason market for good boots. Look for full leather with a stitched sole. Don\'t buy any boots where you can\'t see the stitches as they\'re likely cheap fakes which are glued together. Buy leather over synthetic. A good pair of boots should be available for around 2,500 - 3,000 NPR.
 
-
-
-
 ---
 
-Source: [Kathmandu](https://hitchwiki.org/en/Kathmandu)  
+Source: [Kathmandu](https://hitchwiki.org/en/Kathmandu)
 License: CC-BY-SA-4.0

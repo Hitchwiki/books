@@ -34,10 +34,7 @@ Take bus number 11 from Vaduz to Feldkirch (rarely controlled, leaves twice an h
 
 [ ](Category:Liechtenstein " "){.wikilink} [Category:Cities](Category:Cities "Category:Cities"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Liechtenstein](https://hitchwiki.org/en/Liechtenstein)  
+Source: [Liechtenstein](https://hitchwiki.org/en/Liechtenstein)
 License: CC-BY-SA-4.0

@@ -22,10 +22,7 @@ Make sure to have enough water with you and something to cover you head. The adv
 
 [ ](Category:Mali " "){.wikilink} [Category:Africa](Category:Africa "Category:Africa"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Mali](https://hitchwiki.org/en/Mali)  
+Source: [Mali](https://hitchwiki.org/en/Mali)
 License: CC-BY-SA-4.0

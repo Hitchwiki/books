@@ -14,10 +14,7 @@ Add info pls
 
 [Category:Southern Europe](Category:Southern_Europe "Category:Southern Europe"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [San Marino](https://hitchwiki.org/en/San_Marino)  
+Source: [San Marino](https://hitchwiki.org/en/San_Marino)
 License: CC-BY-SA-4.0

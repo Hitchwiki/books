@@ -20,10 +20,7 @@ Fruit and veg stalls just off Parnell St have many skips full of food, go during
 
 There are buses and trams in Dublin. You have to pay when getting on the bus and they only accept cash and give no change. The trams are being called \'Luas\' and there is the red line and the green line. Sometimes there are poeple on the Luas checking for tickets, they are usually wearing all black clothes and are easily recognisable. If you do get caught without a ticket you can usually get away if you just tell them you\'re getting off the next stop (and then doing so). There are ticket machines for the luas at every luas stop.
 
-
-
-
 ---
 
-Source: [Dublin](https://hitchwiki.org/en/Dublin)  
+Source: [Dublin](https://hitchwiki.org/en/Dublin)
 License: CC-BY-SA-4.0

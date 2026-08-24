@@ -20,7 +20,7 @@ Public transportation (busses, trains and the [Luxembourg (City)](Luxembourg_(Ci
 
 ## Living
 
-Luxembourg is a very expensive country. Restaurants and accommodation are expensive. The cheapest youth hostel in Luxembourg City will be EUR 20 per night. Luxembourg has a huge financial sector - many banks, [insurance](insurance "insurance"){.wikilink} companies etc. As an anti-capitalist you may feel a little cold there ;)
+Luxembourg is a very expensive country. Restaurants and accommodation are expensive. The cheapest youth hostel in Luxembourg City will be EUR 20 per night. Luxembourg has a huge financial sector - many banks, [insurance](insurance "insurance"){.wikilink} companies etc. As an anti-capitalist you may feel a little cold there;)
 
 ## Personal experience {#personal_experience}
 
@@ -37,10 +37,7 @@ We (a couple - man and woman) traveled for more than a week in Luxembourg, almos
 
 [Category:E25](Category:E25 "Category:E25"){.wikilink} [Category:E44](Category:E44 "Category:E44"){.wikilink} [Category:Luxembourg](Category:Luxembourg "Category:Luxembourg"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Luxembourg](https://hitchwiki.org/en/Luxembourg)  
+Source: [Luxembourg](https://hitchwiki.org/en/Luxembourg)
 License: CC-BY-SA-4.0

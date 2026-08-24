@@ -30,10 +30,7 @@ The story according to [indymedia.be](http://indymedia.be/en/node/32038) (3rd of
 
 [Category:Belgium](Category:Belgium "Category:Belgium"){.wikilink} [Category:People](Category:People "Category:People"){.wikilink} [Category:Dumpster diving](Category:Dumpster_diving "Category:Dumpster diving"){.wikilink} [Category:2009](Category:2009 "Category:2009"){.wikilink}
 
-
-
-
 ---
 
-Source: [Ollie](https://trashwiki.org/en/Ollie)  
+Source: [Ollie](https://trashwiki.org/en/Ollie)
 License: CC-BY-NC-SA-4.0

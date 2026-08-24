@@ -4,7 +4,7 @@
 
 ### Regions
 
-![Finnish motorways (blue) with their European numbers and national roads (red and yellow)](Finland_european_roads.png "Finnish motorways (blue) with their European numbers and national roads (red and yellow)"){width="250"} ![Hitchhiker Erga and a friendly Finnish driver](Erga-and-a-friendly-finnish-man.jpg "Hitchhiker Erga and a friendly Finnish driver"){width="240"} ![Find info on camping on [Nomadwiki](:nomad:Finland "Nomadwiki"){.wikilink}](Erga-camping-in-finland.jpg "Find info on camping on Nomadwiki"){width="250"}
+![Finnish motorways (blue) with their European numbers and national roads (red and yellow)](Finland_european_roads.png "Finnish motorways (blue) with their European numbers and national roads (red and yellow)"){width="250"}![Hitchhiker Erga and a friendly Finnish driver](Erga-and-a-friendly-finnish-man.jpg "Hitchhiker Erga and a friendly Finnish driver"){width="240"}!Find info on camping on [Nomadwiki](Erga-camping-in-finland.jpg "Find info on camping on Nomadwiki"){width="250"}
 
 - [Lapland](Lapland "Lapland"){.wikilink}
 
@@ -64,7 +64,7 @@ I hitchhiked around the country in the summer of 2024 (Helsinki-Tampere-Turku-Va
 
 ## Links
 
-- [Finnish Hitchwiki](:fi:Etusivu "Finnish Hitchwiki"){.wikilink}
+- Finnish Hitchwiki
 - IRC Channel [Liftari @ IRCnet](Liftari_@_IRCnet "Liftari @ IRCnet"){.wikilink}
 - [Finnish hitchhikers FB group](https://www.facebook.com/groups/liftarit/)
 - [Hitchhiker\'s guide to Europe](http://www.cs.helsinki.fi/u/kjokisal/liftaus/) − a hitchhiking site by a Finn
@@ -73,10 +73,7 @@ I hitchhiked around the country in the summer of 2024 (Helsinki-Tampere-Turku-Va
 
 [ ](Category:Finland " "){.wikilink} [Category:Northern Europe](Category:Northern_Europe "Category:Northern Europe"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Finland](https://hitchwiki.org/en/Finland)  
+Source: [Finland](https://hitchwiki.org/en/Finland)
 License: CC-BY-SA-4.0

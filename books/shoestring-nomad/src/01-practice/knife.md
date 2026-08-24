@@ -15,10 +15,7 @@
 
 [Category:Food](Category:Food "Category:Food"){.wikilink}
 
-
-
-
 ---
 
-Source: [Knife](https://nomadwiki.org/en/Knife)  
+Source: [Knife](https://nomadwiki.org/en/Knife)
 License: CC-BY-SA-4.0

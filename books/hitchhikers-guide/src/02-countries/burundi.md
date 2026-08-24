@@ -14,10 +14,7 @@ Pls add info.
 
 [Category:Eastern Africa](Category:Eastern_Africa "Category:Eastern Africa"){.wikilink} [Category:Africa](Category:Africa "Category:Africa"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Burundi](https://hitchwiki.org/en/Burundi)  
+Source: [Burundi](https://hitchwiki.org/en/Burundi)
 License: CC-BY-SA-4.0

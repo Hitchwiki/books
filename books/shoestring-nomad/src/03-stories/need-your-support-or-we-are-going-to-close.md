@@ -24,7 +24,7 @@ So we ask to you to first spread this message to your contacts, and then if you 
 If we found someone motivated and with ideas that can work, we can also give them some money (600€ that we have in our deposit), so that they can have suppurt for the first 2 months.
 For us, what is important is that this place keep to live. Is something unique, because the relations builded with the local community and the support from the local people.
 Alternatives are: to close, or ti give this places to some local organizations, but we know, in this case, the nomad spirit will be lost.
-Please, check our blog www.serydarth.wordpress.com , www.casaleattiva.wordpress.com and find us on facebook where you can find a lot of pictures: www.facebook.com/serydarth
+Please, check our blog www.serydarth.wordpress.com, www.casaleattiva.wordpress.com and find us on facebook where you can find a lot of pictures: www.facebook.com/serydarth
 To contact us: serydarth@yahoo.it +39.349.5250560
 Thanks for your support.
 Hugs

@@ -14,7 +14,7 @@ Title 9, subsection 1103
 
 : \(a\) no person shall stand on the main-traveled portion of a public highway for the purpose of:
 
-  : (1)soliciting a ride or the custody of a motor vehicle parked or to be parked
+: (1)soliciting a ride or the custody of a motor vehicle parked or to be parked
 
 ## Hitchhiking out of [San Juan](San_Juan "San Juan"){.wikilink} {#hitchhiking_out_of_san_juan}
 
@@ -32,10 +32,7 @@ Very easy to hitchhike around this small island off the East Coast, especially i
 
 [Category:Island](Category:Island "Category:Island"){.wikilink} [Category:Puerto Rico](Category:Puerto_Rico "Category:Puerto Rico"){.wikilink} [Category:United States of America](Category:United_States_of_America "Category:United States of America"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Puerto Rico](https://hitchwiki.org/en/Puerto_Rico)  
+Source: [Puerto Rico](https://hitchwiki.org/en/Puerto_Rico)
 License: CC-BY-SA-4.0

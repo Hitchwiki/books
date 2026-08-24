@@ -9,10 +9,7 @@
 
 Madrid has a very extensive well - connected metro system that can help you get in and out of the city; a single metro journey is 2 Euros, and a ride on the cercanías should be between 2.50 and 4 euros. If the guard is not watching, or if the metro station has two entrances, you can usually jump the turnstiles. Once inside, there are few controls. The cercanías, however, have barriers at the entry AND the exit.
 
-
-
-
 ---
 
-Source: [Madrid](https://hitchwiki.org/en/Madrid)  
+Source: [Madrid](https://hitchwiki.org/en/Madrid)
 License: CC-BY-SA-4.0

@@ -93,16 +93,9 @@ Ireland is great for hitchhiking, people are very friendly and will pick you up 
 </div>
 </div>
 
-[wikipedia:Republic of Ireland](wikipedia:Republic_of_Ireland "wikipedia:Republic of Ireland"){.wikilink}
-
-[trash:Ireland](trash:Ireland "trash:Ireland"){.wikilink}
-
 [ ](Category:Ireland " "){.wikilink} [Category:Northern Europe](Category:Northern_Europe "Category:Northern Europe"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
-
-
-
 
 ---
 
-Source: [Ireland](https://hitchwiki.org/en/Ireland)  
+Source: [Ireland](https://hitchwiki.org/en/Ireland)
 License: CC-BY-SA-4.0

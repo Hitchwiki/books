@@ -4,7 +4,7 @@ Although there aren\'t many disabled hitchers, the truth is that they *do* exist
 
 Besides, unlike many other social or cultural conditionants, the instinct to help and trust those with a physical handicap is so inherent to the human being that it can be found in absolutely every country across the globe. No matter if you\'re hitching out of [Amsterdam](Amsterdam "Amsterdam"){.wikilink}, in the middle of the Hajj muslin pilgrimage or in the most remote village of [China](China "China"){.wikilink}: you will be helped. Always.
 
-With that said, here comes some advice for any handicapped hitchhiker-to-be. Keep in mind that this page focuses almost exclusively on those disabilities that force you to travel on a wheelchair; of course, there are things like people\'s eagerness to help which are general to any kind of physical disability (or even cognitive disabilities like blindness or deafness), but many others are not, so feel free to expand this page with any additional info you have! ;)
+With that said, here comes some advice for any handicapped hitchhiker-to-be. Keep in mind that this page focuses almost exclusively on those disabilities that force you to travel on a wheelchair; of course, there are things like people\'s eagerness to help which are general to any kind of physical disability (or even cognitive disabilities like blindness or deafness), but many others are not, so feel free to expand this page with any additional info you have!;)
 
 ## Beginner\'s guide for hitchhiking in a wheelchair {#beginners_guide_for_hitchhiking_in_a_wheelchair}
 
@@ -39,7 +39,7 @@ The amount of little skills, tricks and tactics that you\'ll end up mastering if
 - Don\'t be afraid to break your wheelchair. As long as you\'re carrying one made of iron, any motorcycle or car garage in the world will be able to fix it somehow, no matter what you did to it. Still, try to wash it with water as soon as possible if it ever falls in the sea, cause the salt is deadly.
 - One of the many advantages of traveling in a wheelchair is that weight isn\'t really a matter for you. Unlike hitchhikers who travel on foot, you can carry a heavy bag with anything you need and you will still be able to rely on traveling long distances just by yourself to get to that pesky [petrol station](petrol_station_hitchhiking "petrol station"){.wikilink} or hitching spot.
 - Use all the social and psychological advantages that your disability grants you to their full extent with no remorse at all, and don\'t ever dare to question yourself for it. Hitchhiker [Dargeron](User:Dargeron "Dargeron"){.wikilink} used to stowaway into ferries by pretending to fall from his wheelchair at the entrance of the ship, to take advantage of the worker\'s ensuing commotion and attempts to help him in order to enter the ship with no one remembering to demand him the ticket (and it worked). Seriously, you will have to put up with all the handicaps of being in a wheelchair whether you want it or not, so at least take the advantages too!
-- *Add more info?* :)
+- *Add more info?*:)
 
 ### Hitchhiking in a wheelchair outside of western countries {#hitchhiking_in_a_wheelchair_outside_of_western_countries}
 
@@ -49,10 +49,7 @@ Of course, almost all the aforementioned skills become twice as necessary once y
 
 [Category:General info](Category:General_info "Category:General info"){.wikilink}
 
-
-
-
 ---
 
-Source: [Hitchhiking in a wheelchair](https://hitchwiki.org/en/Hitchhiking_in_a_wheelchair)  
+Source: [Hitchhiking in a wheelchair](https://hitchwiki.org/en/Hitchhiking_in_a_wheelchair)
 License: CC-BY-SA-4.0

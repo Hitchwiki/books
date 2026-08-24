@@ -23,10 +23,7 @@ Overall people seemed really friendly and kind in Honiara/Guadalcanal. Average w
 
 [Category:Oceania](Category:Oceania "Category:Oceania"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Solomon Islands](https://hitchwiki.org/en/Solomon_Islands)  
+Source: [Solomon Islands](https://hitchwiki.org/en/Solomon_Islands)
 License: CC-BY-SA-4.0

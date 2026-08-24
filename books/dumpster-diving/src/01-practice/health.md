@@ -41,17 +41,13 @@ You can check roughly how long an item of food can last or whether it is freezab
 - [Mold](Mold "Mold"){.wikilink}
 - [Preservation](Preservation "Preservation"){.wikilink}
 
-[hitch:Health](hitch:Health "hitch:Health"){.wikilink} [vegan:Health](vegan:Health "vegan:Health"){.wikilink}
-
 [Category:General info](Category:General_info "Category:General info"){.wikilink} [Category:Dumpster diving](Category:Dumpster_diving "Category:Dumpster diving"){.wikilink}
-
 
 ![Black bananas.jpg](../../images/black-bananasjpg.jpg)
 
 *Black bananas.jpg — Sigurdas*
 
-
 ---
 
-Source: [Health](https://trashwiki.org/en/Health)  
+Source: [Health](https://trashwiki.org/en/Health)
 License: CC-BY-NC-SA-4.0

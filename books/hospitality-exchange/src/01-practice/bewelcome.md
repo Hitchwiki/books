@@ -49,7 +49,7 @@ Canvi article about BeWelcome (Catalan) [4](http://www.cambio16.info/canvi/pdf/1
 
 Indymedia article about Media and BeWelcome [5](http://de.indymedia.org/2007/11/198280.shtml)
 
-more ?
+more?
 
 ------------------------------------------------------------------------
 
@@ -57,10 +57,7 @@ more ?
 
 [Category:BeWelcome](Category:BeWelcome "Category:BeWelcome"){.wikilink}
 
-
-
-
 ---
 
-Source: [BeWelcome](https://wiki.trustroots.org/en/BeWelcome)  
+Source: [BeWelcome](https://wiki.trustroots.org/en/BeWelcome)
 License: CC-BY-SA-4.0

@@ -6,7 +6,7 @@ Before leaving to [Wendland](http://castor.de/8termine.html) I'd like to share s
 - Finally we had this idea of [xmas dumpster diving](/wiki/xmas dumpster diving) till new year all around europe. The story behind this is that in germany supermarkets empty their storages around new year - so we have to save them together with all the returned xmas shoppings from the dumpsters! Please join us on this mission - it will be fun to share all our experiences!
 See you there!
 Back on the road soon again and happy about all those impressions. Thank to all of you! Special thanks to robino for sharing his home. I like that idea so much! (more in real guestbook)
-Greetings to all and .. bye!
+Greetings to all and.. bye!
 (Would like to have a calendar on this page soon)
 
 ---

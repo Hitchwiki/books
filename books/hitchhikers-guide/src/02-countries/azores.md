@@ -4,9 +4,9 @@
 
 The **Azores** are a group of nine islands in the [Atlantic Ocean](Atlantic_Ocean "Atlantic Ocean"){.wikilink} and form an autonomous region of [Portugal](Portugal "Portugal"){.wikilink} located about 1,700 km west of mainland Portugal and are divided into three main groups:
 
-1.  the Western Azores, consisting of the islands of [Flores](Flores "Flores"){.wikilink} and [Corvo](Corvo "Corvo"){.wikilink}
-2.  the Central Azores, consisting of the islands of [Faial](Faial "Faial"){.wikilink}, [Pico](Pico "Pico"){.wikilink}, [São Jorge](São_Jorge "São Jorge"){.wikilink}, [Graciosa](Graciosa "Graciosa"){.wikilink}, and [Terceira](Terceira "Terceira"){.wikilink}
-3.  the Eastern Azores, consisting of the islands of [São Miguel](São_Miguel "São Miguel"){.wikilink} and [Santa Maria](Santa_Maria "Santa Maria"){.wikilink}.
+1. the Western Azores, consisting of the islands of [Flores](Flores "Flores"){.wikilink} and [Corvo](Corvo "Corvo"){.wikilink}
+2. the Central Azores, consisting of the islands of [Faial](Faial "Faial"){.wikilink}, [Pico](Pico "Pico"){.wikilink}, [São Jorge](São_Jorge "São Jorge"){.wikilink}, [Graciosa](Graciosa "Graciosa"){.wikilink}, and [Terceira](Terceira "Terceira"){.wikilink}
+3. the Eastern Azores, consisting of the islands of [São Miguel](São_Miguel "São Miguel"){.wikilink} and [Santa Maria](Santa_Maria "Santa Maria"){.wikilink}.
 
 he most populated island is São Miguel with the biggest city [Ponta Delgada](Ponta_Delgada "Ponta Delgada"){.wikilink}, while Faial and Terceira also have a comparably dense population.
 
@@ -34,10 +34,7 @@ Mind you, [Sao Miguel](Sao_Miguel "Sao Miguel"){.wikilink} is the most populated
 
 [Category:Portugal](Category:Portugal "Category:Portugal"){.wikilink} [Category:Southern Europe](Category:Southern_Europe "Category:Southern Europe"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Azores](https://hitchwiki.org/en/Azores)  
+Source: [Azores](https://hitchwiki.org/en/Azores)
 License: CC-BY-SA-4.0

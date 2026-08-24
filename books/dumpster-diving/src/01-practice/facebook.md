@@ -49,14 +49,9 @@
 
 - [Freegan LT: mostly Kaunas and Vilnius](https://www.facebook.com/groups/661379370612851/)
 
-[vegan:Facebook](vegan:Facebook "vegan:Facebook"){.wikilink}
-
 [Category:General info](Category:General_info "Category:General info"){.wikilink}
-
-
-
 
 ---
 
-Source: [Facebook](https://trashwiki.org/en/Facebook)  
+Source: [Facebook](https://trashwiki.org/en/Facebook)
 License: CC-BY-NC-SA-4.0

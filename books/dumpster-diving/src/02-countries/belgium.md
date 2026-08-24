@@ -25,9 +25,9 @@ Some places where users have found good products:
 
 In Belgium, a type of dumpster lock (with a triangular key) found at many if not most dumpsters can be opened using almost any big house key (use an old one in case it bends!).
 
-1.  Pry the key in between the pin on the right side
-2.  Push the outer end of the key to the left
-3.  Pull out the pin
+1. Pry the key in between the pin on the right side
+2. Push the outer end of the key to the left
+3. Pull out the pin
 
 ### Legality
 
@@ -38,7 +38,7 @@ There are at least 2 known cases when [dumpster divers](dumpster_diver "dumpster
 
 ## Upcycling
 
-French speaking organizations involved in Upcycling :
+French speaking organizations involved in Upcycling:
 
 - <http://www.res-sources.be/>
 - <http://www.res-sources.be/liste-des-membres>
@@ -51,16 +51,9 @@ French speaking organizations involved in Upcycling :
 
 Place: Andenne, Braine-le-Comte, Bruxelles(°), Charleroi, Court-Saint-Etienne, Eghezée, Grez-Doiceau, Hannut, Haren, Jette, Lasne, Liège, dans la province de Luxembourg, à Mons, Namur, Nivelles, Helmet (Schaerbeek), Seneffe, Sombreffe-Gembloux, Verviers, à Villers-la-Ville et à Walhain.
 
-[hitch:Belgium](hitch:Belgium "hitch:Belgium"){.wikilink}
-
-[share:Belgium](share:Belgium "share:Belgium"){.wikilink} [vegan:Belgium](vegan:Belgium "vegan:Belgium"){.wikilink} [nomad:Belgium](nomad:Belgium "nomad:Belgium"){.wikilink}
-
 [Category:Belgium](Category:Belgium "Category:Belgium"){.wikilink}
-
-
-
 
 ---
 
-Source: [Belgium](https://trashwiki.org/en/Belgium)  
+Source: [Belgium](https://trashwiki.org/en/Belgium)
 License: CC-BY-NC-SA-4.0

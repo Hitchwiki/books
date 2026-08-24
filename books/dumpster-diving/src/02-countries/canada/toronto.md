@@ -18,12 +18,7 @@ One can also find discarded fruits and veggies at Kensington market, which is qu
 
 **Free Stuff** Every first Saturday of the month, there is a Really Really Free market that takes place at Campbell park. You can bring stuff, take stuff, volunteer, whatever. It\'s a good place to be since there are some really good things (even things like an occasional bike, a guitar or a tent). You can check the time and location on their blog: [FreeMarket](http://rrfmarket.blogspot.ca/)
 
-[hitch:Toronto](hitch:Toronto "hitch:Toronto"){.wikilink}
-
-
-
-
 ---
 
-Source: [Toronto](https://trashwiki.org/en/Toronto)  
+Source: [Toronto](https://trashwiki.org/en/Toronto)
 License: CC-BY-NC-SA-4.0

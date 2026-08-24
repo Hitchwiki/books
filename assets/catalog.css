@@ -25,14 +25,26 @@ body.catalog {
 body.catalog h1 {
   font-size: clamp(1.6rem, 3vw, 2.2rem);
   font-weight: 600;
-  margin: 0 0 0.4rem;
+  margin: 0 0 1.5rem;
   color: #6e3100;
 }
 body.catalog .lede {
-  max-width: 36rem;
   color: #76563c;
   line-height: 1.5;
-  margin-bottom: 1.5rem;
+  margin: 1.5rem 0 0;
+  white-space: nowrap;
+}
+@media (max-width: 40rem) {
+  body.catalog .lede { white-space: normal; }
+}
+body.catalog .lang + .lang {
+  margin-top: 2.5rem;
+}
+body.catalog .lang-label {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin: 0 0 1rem;
+  color: #6e3100;
 }
 .grid {
   display: grid;
@@ -142,20 +154,34 @@ article.card-dumpsterdam {
 }
 article.card-dumpsterdam a { color: #9a2016; }
 article.card-dumpsterdam .badge { border-color: #9a2016; }
+article.card-geldloos {
+  background: #eef4ea;
+  color: #1c2818;
+  border-color: #3d6b3a;
+}
+article.card-geldloos a { color: #3d6b3a; }
+article.card-geldloos .badge { border-color: #3d6b3a; }
 article.card-hospitality-exchange {
-  background: #fcfffe;
-  color: #26302e;
-  border-color: #08766b;
+  background: #faf7f2;
+  color: #2a2724;
+  border-color: #3f6f68;
 }
-article.card-hospitality-exchange a { color: #08766b; }
-article.card-hospitality-exchange .badge { border-color: #08766b; }
+article.card-hospitality-exchange a { color: #3f6f68; }
+article.card-hospitality-exchange .badge { border-color: #3f6f68; }
 article.card-moneyless {
-  background: #f7f7f5;
-  color: #181818;
-  border-color: #0ca6bb;
+  background: #f7f1e6;
+  color: #2a1c14;
+  border-color: #c4452d;
 }
-article.card-moneyless a { color: #0ca6bb; }
-article.card-moneyless .badge { border-color: #0ca6bb; }
+article.card-moneyless a { color: #c4452d; }
+article.card-moneyless .badge { border-color: #c4452d; }
+article.card-sin-dinero {
+  background: #f8f0e4;
+  color: #2c1a10;
+  border-color: #c45c1a;
+}
+article.card-sin-dinero a { color: #c45c1a; }
+article.card-sin-dinero .badge { border-color: #c45c1a; }
 article.card-shoestring-nomad {
   background: #fffdf8;
   color: #25232b;

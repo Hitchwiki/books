@@ -85,10 +85,7 @@ Wasserbillig is a small village on the border with [Germany](Germany "Germany"){
 
 - The *[Lidl](Lidl "Lidl"){.wikilink}* has an open plastic container in front of the garage door. `<small>`{=html}*(Last checked: December 2011)*`</small>`{=html}
 
-[hitch:Luxembourg](hitch:Luxembourg "hitch:Luxembourg"){.wikilink} [nomad:Luxembourg](nomad:Luxembourg "nomad:Luxembourg"){.wikilink}
-
 [Category:Luxembourg](Category:Luxembourg "Category:Luxembourg"){.wikilink}
-
 
 ![Luxembourg dumpster.jpeg](../../images/luxembourg-dumpsterjpeg.jpg)
 
@@ -98,8 +95,7 @@ Wasserbillig is a small village on the border with [Germany](Germany "Germany"){
 
 *FYSL_Logo.jpeg — OpenIDUser2*
 
-
 ---
 
-Source: [Luxembourg](https://trashwiki.org/en/Luxembourg)  
+Source: [Luxembourg](https://trashwiki.org/en/Luxembourg)
 License: CC-BY-NC-SA-4.0

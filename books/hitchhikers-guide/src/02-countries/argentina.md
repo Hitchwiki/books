@@ -28,7 +28,7 @@ Argentine law contains no offence of hitchhiking (*hacer dedo*), and on ordinary
 
 ## Provinces and Cities {#provinces_and_cities}
 
-Argentina is made up of 22 provinces (*provincias*) and one autonomous city, [Buenos Aires](Buenos_Aires "Buenos Aires"){.wikilink}. ![[SAn](User:SAn "SAn"){.wikilink} hitchhiking in Argentina](img0080ow5.jpg "SAn hitchhiking in Argentina"){width="300"}
+Argentina is made up of 22 provinces (*provincias*) and one autonomous city, [Buenos Aires](Buenos_Aires "Buenos Aires"){.wikilink}.![[SAn](User:SAn "SAn"){.wikilink} hitchhiking in Argentina](img0080ow5.jpg "SAn hitchhiking in Argentina"){width="300"}
 
 - **Ciudad de Buenos Aires (Distrito Federal)** ⇒ [Buenos Aires](Buenos_Aires "Buenos Aires"){.wikilink}
 - **Buenos Aires** ⇒ [Bahia Blanca](Bahia_Blanca "Bahia Blanca"){.wikilink} --- [La Plata](La_Plata "La Plata"){.wikilink} --- [Sierra de la Ventana](Sierra_de_la_Ventana "Sierra de la Ventana"){.wikilink} --- [Carmen de Patagones](Viedma-Carmen_de_Patagones "Carmen de Patagones"){.wikilink}
@@ -70,7 +70,7 @@ disgusting toilets hehehe\...
 
 - **Formosa:** People are not used to tourist and will be asking really weird questions, cause they don\'t understand what are you doing
 
-there.. there\'s not a lot of traffic in the 81. But I never got stuck anywhere.. Beware of the extreme hot temperatures!!!! ![[narfette](User:narfette "narfette"){.wikilink} hitchhiking on ruta 3, Trelew, Argentina](C_rivadavia.jpg "narfette hitchhiking on ruta 3, Trelew, Argentina"){width="150"}
+there.. there\'s not a lot of traffic in the 81. But I never got stuck anywhere.. Beware of the extreme hot temperatures!!!!![[narfette](User:narfette "narfette"){.wikilink} hitchhiking on ruta 3, Trelew, Argentina](C_rivadavia.jpg "narfette hitchhiking on ruta 3, Trelew, Argentina"){width="150"}
 
 - **Misiones:** [Platschi](User:Platschi "Platschi"){.wikilink} hitchhiked in a team of two through this area up from Uruguaiana to Iguazu and back and found its inhabitants extremely friendly and willingly to stop for hitchhikers. Except for night time and non-existing traffic at times, waiting times barely exceeded a few minutes. Be aware of the humidity and heat there, though, thus you need to drink a lot of water.
 
@@ -392,10 +392,7 @@ I'm a young blonde girl and I'm very sure that helped me in at least some situat
 
 [Category:Argentina](Category:Argentina "Category:Argentina"){.wikilink} [Category:South America](Category:South_America "Category:South America"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Argentina](https://hitchwiki.org/en/Argentina)  
+Source: [Argentina](https://hitchwiki.org/en/Argentina)
 License: CC-BY-SA-4.0

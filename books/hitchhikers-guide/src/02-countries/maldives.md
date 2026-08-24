@@ -14,10 +14,7 @@ The **Republic of Maldives** is an island nation in [Southern Asia](Southern_Asi
 
 [Category:Asia](Category:Asia "Category:Asia"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Maldives](https://hitchwiki.org/en/Maldives)  
+Source: [Maldives](https://hitchwiki.org/en/Maldives)
 License: CC-BY-SA-4.0

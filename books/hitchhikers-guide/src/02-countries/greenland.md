@@ -16,10 +16,7 @@ Greenland has its own traffic act rather than [Denmark](Denmark "Denmark"){.wiki
 
 [Category:North America](Category:North_America "Category:North America"){.wikilink} [Category:Denmark](Category:Denmark "Category:Denmark"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Greenland](https://hitchwiki.org/en/Greenland)  
+Source: [Greenland](https://hitchwiki.org/en/Greenland)
 License: CC-BY-SA-4.0

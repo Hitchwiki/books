@@ -30,10 +30,7 @@ Probably for most hosts a request like this won\'t do it. So for those, who have
 
 [Category:Etiquette Guides](Category:Etiquette_Guides "Category:Etiquette Guides"){.wikilink}
 
-
-
-
 ---
 
-Source: [How to write a request](https://wiki.trustroots.org/en/How_to_write_a_request)  
+Source: [How to write a request](https://wiki.trustroots.org/en/How_to_write_a_request)
 License: CC-BY-SA-4.0

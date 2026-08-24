@@ -10,12 +10,9 @@ Also, if tired, you can hang out on a sofa in the theatre hall in the Habima squ
 
 If you walk around Tel Aviv, there are some nice neighbourhood to see. The Carmel Market area is nice, Jaffo the Arab town is very beautiful, and walking around the flea market area is also very nice.
 
-If you want to go out or to find event, check the [DIY Tel Aviv Blog](http://www.diytelavivguide.com/blog/) where many events are listed every week. You can also check the [Tel Aviv Alternative Facebook group](https://www.facebook.com/TelAvivAlternative). And [world.timeout.com](https://world.timeout.com/) list also many events in Tel Aviv. [trash:Tel Aviv](trash:Tel_Aviv "trash:Tel Aviv"){.wikilink}
-
-
-
+If you want to go out or to find event, check the [DIY Tel Aviv Blog](http://www.diytelavivguide.com/blog/) where many events are listed every week. You can also check the [Tel Aviv Alternative Facebook group](https://www.facebook.com/TelAvivAlternative). And [world.timeout.com](https://world.timeout.com/) list also many events in Tel Aviv.
 
 ---
 
-Source: [Tel Aviv](https://nomadwiki.org/en/Tel_Aviv)  
+Source: [Tel Aviv](https://nomadwiki.org/en/Tel_Aviv)
 License: CC-BY-SA-4.0

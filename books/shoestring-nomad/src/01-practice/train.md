@@ -17,17 +17,13 @@ A cheap way to get around by train in Europe during a certain period of time mig
 - [seat61](http://www.seat61.com/railshop.htm) has good links to websites for finding cheap train tickets
 - We have some information about [finding cheap train tickets in France](France#Transport "finding cheap train tickets in France"){.wikilink} on Nomadwiki
 
-[hitch:Train](hitch:Train "hitch:Train"){.wikilink}
-
 [Category:Transport](Category:Transport "Category:Transport"){.wikilink}
-
 
 ![Train by the Durango and Silverton Narrow Gauge Railroad.jpg](../../images/train-by-the-durango-and-silverton-narrow-gauge-railroadjpg.jpg)
 
 *Train by the Durango and Silverton Narrow Gauge Railroad.jpg — Michael Gäbler (CC BY 3.0)*
 
-
 ---
 
-Source: [Train](https://nomadwiki.org/en/Train)  
+Source: [Train](https://nomadwiki.org/en/Train)
 License: CC-BY-SA-4.0

@@ -16,14 +16,9 @@ Places:
 - [Tartu](Tartu "Tartu"){.wikilink}
 - `<small>`{=html}add more?`</small>`{=html}
 
-[hitch:Estonia](hitch:Estonia "hitch:Estonia"){.wikilink} [nomad:Estonia](nomad:Estonia "nomad:Estonia"){.wikilink}
-
 [Category:Estonia](Category:Estonia "Category:Estonia"){.wikilink}
-
-
-
 
 ---
 
-Source: [Estonia](https://trashwiki.org/en/Estonia)  
+Source: [Estonia](https://trashwiki.org/en/Estonia)
 License: CC-BY-NC-SA-4.0

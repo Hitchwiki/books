@@ -24,10 +24,7 @@ The country is generally very safe. You should be prepared for tropical diseases
 
 [Category:Oceania](Category:Oceania "Category:Oceania"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Vanuatu](https://hitchwiki.org/en/Vanuatu)  
+Source: [Vanuatu](https://hitchwiki.org/en/Vanuatu)
 License: CC-BY-SA-4.0

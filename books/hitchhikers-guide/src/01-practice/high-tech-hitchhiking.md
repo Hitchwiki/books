@@ -22,14 +22,14 @@ Examples of free offline map apps are (as of 2025):
 - Apple maps - detailed maps, satellite pictures, public transport navigation, offline maps possible.
 - Regional apps - e.g. Yandex or 2gis for central asia
 
-### Offline [Hitchwiki Maps](:maps: "Hitchwiki Maps"){.wikilink} and Hitchwiki {#offline_hitchwiki_maps_and_hitchwiki}
+### Offline Hitchwiki Maps and Hitchwiki {#offline_hitchwiki_maps_and_hitchwiki}
 
 For offline [Hitchhiking Map](https://maps.hitchwiki.org/) you can download the information of the spots into a small GPX file and load it into your preferred maps app:
 
 - [Hitchhiking Map](https://maps.hitchwiki.org/) has a built-in feature to download spots in multiple formats.
-- [Hitchspots.me](https://Hitchspots.me/) generates .kml files for e.g. CoMaps / Organic Maps / Maps.ME. Note: As of 2025 Hitchspots.me doesnt get you the recently added spots.
+- [Hitchspots.me](https://Hitchspots.me/) generates.kml files for e.g. CoMaps / Organic Maps / Maps.ME. Note: As of 2025 Hitchspots.me doesnt get you the recently added spots.
 
-For an offline version of Hitchwiki.org see: [Hitchwiki:While offline](Hitchwiki:While_offline "Hitchwiki:While offline"){.wikilink}
+For an offline version of Hitchwiki.org see:
 
 ### Dedicated hitchhiking apps {#dedicated_hitchhiking_apps}
 
@@ -41,7 +41,7 @@ These are apps specifically created for the purposes of hitchhiking:
 <div style="text-align: center; width: 80%; margin-left: 0; background-color: #F9A7B0; border: 1px solid #aaa; border-radius: 4px; clear: both;">
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ***Hitchwiki note**: We do not endorse Hitchr as it does not align with [How we want to keep Hitchwiki and hitchhiking](Hitchwiki:How_we_want_to_keep_Hitchwiki "How we want to keep Hitchwiki and hitchhiking"){.wikilink}*
+  ***Hitchwiki note**: We do not endorse Hitchr as it does not align with How we want to keep Hitchwiki and hitchhiking*
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 </div>
@@ -90,10 +90,7 @@ E-book readers can be useful for killing boredom, especially for long-term or sl
 
 [Category:General info](Category:General_info "Category:General info"){.wikilink} [Category:Equipment](Category:Equipment "Category:Equipment"){.wikilink}
 
-
-
-
 ---
 
-Source: [High-tech hitchhiking](https://hitchwiki.org/en/High-tech_hitchhiking)  
+Source: [High-tech hitchhiking](https://hitchwiki.org/en/High-tech_hitchhiking)
 License: CC-BY-SA-4.0

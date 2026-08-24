@@ -26,10 +26,7 @@ If you want to take the frozen fruits and vegetables anyway, you should store yo
 
 [Category:Dumpster diving](Category:Dumpster_diving "Category:Dumpster diving"){.wikilink}
 
-
-
-
 ---
 
-Source: [Wintertime diving](https://trashwiki.org/en/Wintertime_diving)  
+Source: [Wintertime diving](https://trashwiki.org/en/Wintertime_diving)
 License: CC-BY-NC-SA-4.0

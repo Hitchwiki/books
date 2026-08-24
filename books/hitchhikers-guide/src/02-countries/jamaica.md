@@ -23,10 +23,7 @@ Do not hitch near police stops near ship ports (Ocho Rios) as when i did they st
 
 [Category:Island](Category:Island "Category:Island"){.wikilink} [Category:Caribbean](Category:Caribbean "Category:Caribbean"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Jamaica](https://hitchwiki.org/en/Jamaica)  
+Source: [Jamaica](https://hitchwiki.org/en/Jamaica)
 License: CC-BY-SA-4.0

@@ -6,7 +6,7 @@
 
 Hitching in Guyana is very easy, it is a country where few people own cars, and a lot get around by bus or by hiking. The road system is poorly developed so if you travel any distance, especially away from the coast, you will probably get to see it\'s remarkable dirt tracks. A lot of buses (small, Volkswagen combi-size buses) travel all around the country, and they are used to stopping anywhere for anyone if they drive past. So this means that is you are on the side of the road somewhere all the buses are bound to stop and try to convince you to come on board (note how fast prices drop if you keep saying no, and to get them to understand you really have to say no a few times!) and it also means that if you are having problems hiking from where you are, a bus will probably be along soon to take you a bit farther down to a better spot (and they are pretty cheep).
 
-The country didn\'t have excellent diplomatic relations with [Venezuela](Venezuela "Venezuela"){.wikilink} in the past and as the main point of discord was a large amount of territory ceded to Guyana and later disputed by Venezuela - no road exists between the two countries. To go from one country to the other by road you have to make a 340km journey through [Brazil](Brazil "Brazil"){.wikilink} via [Boa Vista](Boa_Vista "Boa Vista"){.wikilink}. This might mean that you need to get a visa for Brazil. Guyanese/Brazilian border - Guyanaese town is [Lethem](Lethem "Lethem"){.wikilink} (pronounced Latham) / Brazilian town is [Bonfim](Bonfim "Bonfim"){.wikilink}. Brazilian/Venezuelan border - Brazilian town is [Pacaraima](Pacaraima "Pacaraima"){.wikilink} / Venezuelan town is ?
+The country didn\'t have excellent diplomatic relations with [Venezuela](Venezuela "Venezuela"){.wikilink} in the past and as the main point of discord was a large amount of territory ceded to Guyana and later disputed by Venezuela - no road exists between the two countries. To go from one country to the other by road you have to make a 340km journey through [Brazil](Brazil "Brazil"){.wikilink} via [Boa Vista](Boa_Vista "Boa Vista"){.wikilink}. This might mean that you need to get a visa for Brazil. Guyanese/Brazilian border - Guyanaese town is [Lethem](Lethem "Lethem"){.wikilink} (pronounced Latham) / Brazilian town is [Bonfim](Bonfim "Bonfim"){.wikilink}. Brazilian/Venezuelan border - Brazilian town is [Pacaraima](Pacaraima "Pacaraima"){.wikilink} / Venezuelan town is?
 
 Google / Openstreetmaps both show the roads
 
@@ -33,10 +33,7 @@ in august 2024 for 10 days, i hitched from lethem to Mabura, after waiting 7 hou
 
 [ ](Category:Guyana " "){.wikilink} [Category:South America](Category:South_America "Category:South America"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Guyana](https://hitchwiki.org/en/Guyana)  
+Source: [Guyana](https://hitchwiki.org/en/Guyana)
 License: CC-BY-SA-4.0

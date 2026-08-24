@@ -36,10 +36,7 @@ In Guinea, the main roads are theoretically hitcheable, secondary roads only exc
 
 [Category:Africa](Category:Africa "Category:Africa"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Guinea](https://hitchwiki.org/en/Guinea)  
+Source: [Guinea](https://hitchwiki.org/en/Guinea)
 License: CC-BY-SA-4.0

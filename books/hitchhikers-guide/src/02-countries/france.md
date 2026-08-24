@@ -22,7 +22,7 @@ Hitchhiking at the péage next to the barrier is forbidden, but police and highw
 
 ## Asking people {#asking_people}
 
-If you want to ask for rides, you can say sentences like: \"*Excusez-moi, je vais à \[name of the city\] en stop. Allez-vous dans cette direction ?*\" and if you get a positive answer, just ask \"*Pourrais-je venir avec vous ?*\". It may be also good not to tell a city but the direction you want to go: \"*Excusez-moi, je fais du stop vers le sud. Allez-vous dans cette direction ?*\"
+If you want to ask for rides, you can say sentences like: \"*Excusez-moi, je vais à \[name of the city\] en stop. Allez-vous dans cette direction?*\" and if you get a positive answer, just ask \"*Pourrais-je venir avec vous?*\". It may be also good not to tell a city but the direction you want to go: \"*Excusez-moi, je fais du stop vers le sud. Allez-vous dans cette direction?*\"
 
 ## Autoroutes, péages and barrières de péage {#autoroutes_péages_and_barrières_de_péage}
 
@@ -140,10 +140,7 @@ License plates show the numbers of the region the car is from. This can help a l
 
 [ ](Category:France " "){.wikilink} [Category:Western Europe](Category:Western_Europe "Category:Western Europe"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [France](https://hitchwiki.org/en/France)  
+Source: [France](https://hitchwiki.org/en/France)
 License: CC-BY-SA-4.0

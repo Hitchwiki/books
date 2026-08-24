@@ -18,8 +18,8 @@ If you are a citizen of an EEA or EU country you should get an [ESIC card](ESIC_
 
 ### Free
 
-- Vienna : <http://www.barmherzige-brueder.at/site/wien/home> (checked)
-- Munich : <http://www.en.uni-muenchen.de/about_lmu_alt/academics/medical_center/index.html> (heard about a hospital in Munich)
+- Vienna: <http://www.barmherzige-brueder.at/site/wien/home> (checked)
+- Munich: <http://www.en.uni-muenchen.de/about_lmu_alt/academics/medical_center/index.html> (heard about a hospital in Munich)
 - UK / NHS (checked)
 - India (checked Delhi, 2010) Normally health care fees where they are not completely free of charge, are really cheap and affordable also by nomads; unless you want to deal with any private western hospital (where though also lots of rich indians do go) which is going to cost you more than you could even conceive.
 
@@ -33,7 +33,7 @@ If you are a citizen of an EEA or EU country you should get an [ESIC card](ESIC_
   - I was surprised to discover all dental care is private. A filling costs 50-70€, and a presupuesto for a root canal treatment was 430€. So I needed to head back to my home country to get free healthcare.
 - UK:
   - Got superb treatment in the UK by NHS (stitches). Got brought to Royal London Hospital by a local and no one wanted to see any documents.
-  - Dentistry is either private, or subsidized by NHS : <http://www.whatprice.co.uk/dentist/nhs-private-prices.html>
+  - Dentistry is either private, or subsidized by NHS: <http://www.whatprice.co.uk/dentist/nhs-private-prices.html>
 - Sweden: \"\[\...\]has free healthcare for illegal immigrants, should be possible to get if you are traveling\"
 - India:
   - [Fede](User:FedeDC "Fede"){.wikilink} after having been bitten by a probably rabish dog in the centre of Delhi (Paharganj, March 2010 don\'t have more recent updates but should be the same), has been visited, medicated and calmed down completely for free by a local doctor who sent him straightly to the hospital where he received antitetan and antirabies vaccines again completely free of charge. The day after, back to the same hospital they suggested him to go on with the treatment in his home country having the fligh the day after. Every consultation and cure was free and every doctor or staff member was extremely nice, helpful, competent and professional.
@@ -80,10 +80,7 @@ Feasible DIY medicine
 
 [Category:Health](Category:Health "Category:Health"){.wikilink}
 
-
-
-
 ---
 
-Source: [Accessible healthcare](https://nomadwiki.org/en/Accessible_healthcare)  
+Source: [Accessible healthcare](https://nomadwiki.org/en/Accessible_healthcare)
 License: CC-BY-SA-4.0

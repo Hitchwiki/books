@@ -8,7 +8,7 @@ The European route [E30](E30 "E30"){.wikilink} passes through it entering at [Br
 
 Hitchhiking in Belarus is very easy and rarely your waiting time will exceed 15 minutes, at least on the main road M1 from [Brest](Brest "Brest"){.wikilink} via [Minsk](Minsk "Minsk"){.wikilink} to [Moscow](Moscow "Moscow"){.wikilink}. As it is very common in Belarus, often drivers may pick you up without being curious about you or what you are doing, sometimes no communication at all. Belarusian people can seem gloomy at first sight, but in the end they are mostly very nice and helpful and drop you on a good spot. In rare cases a small number of older drivers might ask for some money when giving you a ride -- to avoid that, tell the driver about your intention to travel for free before you sit into the car (*\"Ja puteshestvuju avtostopom, bez deneg\"* \[*\"u\"* is pronounced as *\"oo\"* in English\] -- *\"I travel by hitch-hiking, not paying any money\"*). Usually, just saying \'no money\' works just fine too. It might be more difficult if you are more than 2 persons travelling together -- in such case it would be smart to split up for some time.
 
-When hitchhiking in Belarus, it is very likely to find some other people standing next to the road, waiting for a car to pick them up. Although most people do not speak English well, it is nice to try to make some contact. Most of them might look angry, but it\'s just on the outside and once you start talking to them they\'re just very friendly and warm people. Some Belarusians will even wait for an hour with you in a snowstorm, waiting for another car to stop :)
+When hitchhiking in Belarus, it is very likely to find some other people standing next to the road, waiting for a car to pick them up. Although most people do not speak English well, it is nice to try to make some contact. Most of them might look angry, but it\'s just on the outside and once you start talking to them they\'re just very friendly and warm people. Some Belarusians will even wait for an hour with you in a snowstorm, waiting for another car to stop:)
 
 Russian and Baltic truck drivers are reluctant to stop for hitchhikers in Belarus while Belarusian and Polish trucks are happy to have a company of some traveller(s). Hitchhiking at night is difficult but if you make yourself very visible you can get a ride even at two o\'clock at night (some cars might stop just because a driver thinks you are police -- light reflectors might give such an impression).
 
@@ -126,10 +126,7 @@ Pls add info
 
 [ ](Category:Belarus " "){.wikilink} [Category:Eastern Europe](Category:Eastern_Europe "Category:Eastern Europe"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Belarus](https://hitchwiki.org/en/Belarus)  
+Source: [Belarus](https://hitchwiki.org/en/Belarus)
 License: CC-BY-SA-4.0

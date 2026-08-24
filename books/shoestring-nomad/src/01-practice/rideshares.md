@@ -12,7 +12,7 @@
 
 <!-- -->
 
-- **hitchhikers.org**, despite the name is NOT a website for hitchhikers. If you want to [hitchhike](hitchhike "hitchhike"){.wikilink}, check [Hitchwiki](:hitch: "Hitchwiki"){.wikilink}.
+- **hitchhikers.org**, despite the name is NOT a website for hitchhikers. If you want to [hitchhike](hitchhike "hitchhike"){.wikilink}, check Hitchwiki.
 
 <!-- -->
 
@@ -70,14 +70,9 @@ Found at <http://www.bewelcome.org/forums/s5858>
 
 <http://www.carpooling.co.uk/>
 
-[couch:Rideshares](couch:Rideshares "couch:Rideshares"){.wikilink}
-
 [Category:Transport](Category:Transport "Category:Transport"){.wikilink}
-
-
-
 
 ---
 
-Source: [Rideshares](https://nomadwiki.org/en/Rideshares)  
+Source: [Rideshares](https://nomadwiki.org/en/Rideshares)
 License: CC-BY-SA-4.0

@@ -14,10 +14,7 @@ Since buses and taxis are really cheap in **Trinidad and Tobago**, there is real
 
 [Category:Caribbean](Category:Caribbean "Category:Caribbean"){.wikilink} [Category:Island](Category:Island "Category:Island"){.wikilink} [Category:Trinidad and Tobago](Category:Trinidad_and_Tobago "Category:Trinidad and Tobago"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Trinidad and Tobago](https://hitchwiki.org/en/Trinidad_and_Tobago)  
+Source: [Trinidad and Tobago](https://hitchwiki.org/en/Trinidad_and_Tobago)
 License: CC-BY-SA-4.0

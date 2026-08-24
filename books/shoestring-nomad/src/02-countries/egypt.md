@@ -6,12 +6,7 @@ This country is part of the Arab world, and the population is mostly Muslim.
 
 The currency is the Egyptian pound (EGP). As for August 2015 1 EGP = 0.11 EUR = 0.12 USD
 
-[couch:Egypt](couch:Egypt "couch:Egypt"){.wikilink}
-
-
-
-
 ---
 
-Source: [Egypt](https://nomadwiki.org/en/Egypt)  
+Source: [Egypt](https://nomadwiki.org/en/Egypt)
 License: CC-BY-SA-4.0

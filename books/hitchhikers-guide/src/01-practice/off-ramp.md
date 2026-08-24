@@ -4,10 +4,7 @@
 
 [Category:General info](Category:General_info "Category:General info"){.wikilink}
 
-
-
-
 ---
 
-Source: [Off-ramp](https://hitchwiki.org/en/Off-ramp)  
+Source: [Off-ramp](https://hitchwiki.org/en/Off-ramp)
 License: CC-BY-SA-4.0

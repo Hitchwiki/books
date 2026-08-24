@@ -14,7 +14,7 @@ There are many so called *comedores* (canteens) in Madrid, many are run by relig
 
 ## Free transport {#free_transport}
 
-Black-riding map list of metro of madrid (I tried to add it to nomadwiki, but I couldn\'t, so feel free to add it if you have a profile) Also feel free to add more accesses and stations and to translate it :)
+Black-riding map list of metro of madrid (I tried to add it to nomadwiki, but I couldn\'t, so feel free to add it if you have a profile) Also feel free to add more accesses and stations and to translate it:)
 
 Linea 1
 
@@ -48,14 +48,7 @@ Línea 10
 
 Tres Olivos \--\> único acceso (casi siempre sin personal) Begoña \--\> acceso (el del barrio) chekear Plaza Castilla (ver L1) Nuevos ministerios (ver L6) Tribunal (ver L1) Plaza españa (ver Noviciado L2)
 
-[hitch:Madrid](hitch:Madrid "hitch:Madrid"){.wikilink}
-
-[nomad:Madrid](nomad:Madrid "nomad:Madrid"){.wikilink}
-
-
-
-
 ---
 
-Source: [Madrid](https://trashwiki.org/en/Madrid)  
+Source: [Madrid](https://trashwiki.org/en/Madrid)
 License: CC-BY-NC-SA-4.0

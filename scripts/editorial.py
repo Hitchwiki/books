@@ -25,8 +25,10 @@ BOOKS = [
     "dumpster-diving",
     "random-roads",
     "dumpsterdam",
+    "geldloos",
     "hospitality-exchange",
     "moneyless",
+    "sin-dinero",
     "shoestring-nomad",
 ]
 
@@ -226,19 +228,25 @@ def stamp_book(book: Path) -> tuple[int, int]:
     upstream = load_upstream(book)
     stamped = 0
     locked = 0
+    present: set[str] = set()
     for path in sorted(src.rglob("*.md")):
+        rel = src_rel(book, path)
+        present.add(rel)
         ov = parse_overlay(book, path)
         if ov.lock or ov.omit:
             locked += 1
-            upstream.pop(src_rel(book, path), None)
+            upstream.pop(rel, None)
             continue
         if is_redirect_chapter(book, path):
-            upstream.pop(src_rel(book, path), None)
+            upstream.pop(rel, None)
             continue
-        upstream[src_rel(book, path)] = sha256_text(
+        upstream[rel] = sha256_text(
             generated_body(path.read_text(encoding="utf-8"))
         )
         stamped += 1
+    for rel in list(upstream):
+        if rel not in present:
+            upstream.pop(rel, None)
     save_upstream(book, upstream)
     return stamped, locked
 

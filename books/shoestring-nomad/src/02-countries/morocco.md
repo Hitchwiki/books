@@ -12,12 +12,9 @@ It is often said on online forums that you can just pitch your tent on the beach
 
 **[Chefchaouen](Chefchaouen "Chefchaouen"){.wikilink}** - The goat\'s horns, a small city up in the Rif mountains, founded by Jews expelled from Spain after the Reconquista. Painted blue, laid-back, some hustlers(harmless, even though they can be annoying) trying to sell you hash.
 
-**[Ouarzazate](Ouarzazate "Ouarzazate"){.wikilink}** A fairly uninteresting city in itself, but friendly and clean, Oarzazate is the biggest city on the Saharan side of the atlas, and the hub for tours to Erg Chebbi, Erg Chigaga, the Dades and Todra gorges, and Ait Benhaddou. If you want to camp, walk about 2km west along the main highway, and find a hidden spot in the farms and orchards that line the road. Workers are usually out there until dusk, so either ask their permission or wait till they\'re gone. [hitch:Morocco](hitch:Morocco "hitch:Morocco"){.wikilink} [trash:Morocco](trash:Morocco "trash:Morocco"){.wikilink} [couch:Morocco](couch:Morocco "couch:Morocco"){.wikilink}
-
-
-
+**[Ouarzazate](Ouarzazate "Ouarzazate"){.wikilink}** A fairly uninteresting city in itself, but friendly and clean, Oarzazate is the biggest city on the Saharan side of the atlas, and the hub for tours to Erg Chebbi, Erg Chigaga, the Dades and Todra gorges, and Ait Benhaddou. If you want to camp, walk about 2km west along the main highway, and find a hidden spot in the farms and orchards that line the road. Workers are usually out there until dusk, so either ask their permission or wait till they\'re gone.
 
 ---
 
-Source: [Morocco](https://nomadwiki.org/en/Morocco)  
+Source: [Morocco](https://nomadwiki.org/en/Morocco)
 License: CC-BY-SA-4.0

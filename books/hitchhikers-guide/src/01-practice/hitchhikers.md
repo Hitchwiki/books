@@ -11,10 +11,7 @@ Seldom any particular person belongs to any particular group. Typically, it is a
 
 [Category:General info](Category:General_info "Category:General info"){.wikilink}
 
-
-
-
 ---
 
-Source: [Hitchhikers](https://hitchwiki.org/en/Hitchhikers)  
+Source: [Hitchhikers](https://hitchwiki.org/en/Hitchhikers)
 License: CC-BY-SA-4.0

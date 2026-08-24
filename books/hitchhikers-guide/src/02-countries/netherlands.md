@@ -32,7 +32,7 @@ The basic idea is that when you\'re allowed to walk somewhere, you can stand the
 - Some employees of petrol stations may tell you not to hitch in front of the station, where the pumps are. Finding a ride at the parking lot, or thumbing where the back of the station starts is not a problem. Keep petrol station employees for friends and avoid starting unnecessary discussions.
 - Shell has internal guidelines to only allow customers on their property. A hitchhiker may therefore be asked not to talk with drivers in the forecourt of the station, but this rarely happens. If this happens, buy a coffee or inexpensive whatever-bar, and ask for the receipt. This will formally make you a customer!
 
-: 
+:
 
 : `<b>`{=html}Dutch Hall of Shame`</b>`{=html} of petrol stations where hitch-hikers have been asked not to talk with costumers on the forecourt
 
@@ -75,10 +75,7 @@ I hitchhiked from Amsterdam across the German border to Osnabrück in one day, m
 
 [Category:Western Europe](Category:Western_Europe "Category:Western Europe"){.wikilink} [\*](Category:Netherlands "*"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Netherlands](https://hitchwiki.org/en/Netherlands)  
+Source: [Netherlands](https://hitchwiki.org/en/Netherlands)
 License: CC-BY-SA-4.0

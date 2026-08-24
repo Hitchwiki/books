@@ -47,10 +47,7 @@ Pls add info
 
 [Category:Cambodia](Category:Cambodia "Category:Cambodia"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Cambodia](https://hitchwiki.org/en/Cambodia)  
+Source: [Cambodia](https://hitchwiki.org/en/Cambodia)
 License: CC-BY-SA-4.0

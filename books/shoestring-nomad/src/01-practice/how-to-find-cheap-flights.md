@@ -48,13 +48,11 @@ Promotions & error fares:
 
 [Category:Guides](Category:Guides "Category:Guides"){.wikilink} [Category:Transport](Category:Transport "Category:Transport"){.wikilink}
 
-
 ![Ryan.b737.750pix.jpg](../../images/ryanb737750pixjpg.jpg)
 
 *Ryan.b737.750pix.jpg — wikimediacommons>Denniss (Public domain)*
 
-
 ---
 
-Source: [How to find cheap flights](https://nomadwiki.org/en/How_to_find_cheap_flights)  
+Source: [How to find cheap flights](https://nomadwiki.org/en/How_to_find_cheap_flights)
 License: CC-BY-SA-4.0

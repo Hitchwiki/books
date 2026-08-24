@@ -14,10 +14,7 @@ Add info pls
 
 [Category:Asia](Category:Asia "Category:Asia"){.wikilink} [Category:China](Category:China "Category:China"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Hong Kong](https://hitchwiki.org/en/Hong_Kong)  
+Source: [Hong Kong](https://hitchwiki.org/en/Hong_Kong)
 License: CC-BY-SA-4.0

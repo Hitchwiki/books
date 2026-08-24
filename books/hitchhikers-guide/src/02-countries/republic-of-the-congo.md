@@ -10,10 +10,7 @@ The **Republic of the Congo** is in Central Africa. Sometimes it\'s called **Con
 
 [Category:Africa](Category:Africa "Category:Africa"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Republic of the Congo](https://hitchwiki.org/en/Republic_of_the_Congo)  
+Source: [Republic of the Congo](https://hitchwiki.org/en/Republic_of_the_Congo)
 License: CC-BY-SA-4.0

@@ -14,14 +14,9 @@ Within the [EU](EU "EU"){.wikilink} things are fairly well organized, but not to
 - [Money supermarket](http://www.moneysupermarket.com/travel-insurance/)
 - [Compare the Market](http://www.comparethemarket.com/travel-insurance/)
 
-[hitch:Insurance](hitch:Insurance "hitch:Insurance"){.wikilink}
-
 [Category:Money](Category:Money "Category:Money"){.wikilink}
-
-
-
 
 ---
 
-Source: [Insurance](https://nomadwiki.org/en/Insurance)  
+Source: [Insurance](https://nomadwiki.org/en/Insurance)
 License: CC-BY-SA-4.0

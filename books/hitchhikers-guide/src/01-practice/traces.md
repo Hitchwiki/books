@@ -18,14 +18,11 @@ Projects/DIYs:
 
 ## What\'s already happening {#whats_already_happening}
 
-- All over [Germany](Germany "Germany"){.wikilink} and at some spots in the north of [France](France "France"){.wikilink}, [Hungary](Hungary "Hungary"){.wikilink} [Netherlands](Netherlands "Netherlands"){.wikilink}, [Romania](Romania "Romania"){.wikilink} and [Bulgaria](Bulgaria "Bulgaria"){.wikilink}, you can actually already find some \"Hitchhikers will never die\" stickers printed by the German Autostop Society. Maybe it would be fun to make a list of places where you maybe could find some of those. Other hitchers can then leave a message there, too ;) For the sticker, see the image to the right. You can get them [here](http://abgefahren.hitchbase.com/kleinkram).
+- All over [Germany](Germany "Germany"){.wikilink} and at some spots in the north of [France](France "France"){.wikilink}, [Hungary](Hungary "Hungary"){.wikilink} [Netherlands](Netherlands "Netherlands"){.wikilink}, [Romania](Romania "Romania"){.wikilink} and [Bulgaria](Bulgaria "Bulgaria"){.wikilink}, you can actually already find some \"Hitchhikers will never die\" stickers printed by the German Autostop Society. Maybe it would be fun to make a list of places where you maybe could find some of those. Other hitchers can then leave a message there, too;) For the sticker, see the image to the right. You can get them [here](http://abgefahren.hitchbase.com/kleinkram).
 
 [Category:General info](Category:General_info "Category:General info"){.wikilink}
 
-
-
-
 ---
 
-Source: [Traces](https://hitchwiki.org/en/Traces)  
+Source: [Traces](https://hitchwiki.org/en/Traces)
 License: CC-BY-SA-4.0

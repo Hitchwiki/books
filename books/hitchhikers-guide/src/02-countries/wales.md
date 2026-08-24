@@ -44,14 +44,9 @@ Hitchhiking is legal in Wales and no law forbids asking a stranger for a lift; t
 
 ## Personal Experiences {#personal_experiences}
 
-[trash:Wales](trash:Wales "trash:Wales"){.wikilink}
-
 [ ](Category:Wales " "){.wikilink} [Category:Northern Europe](Category:Northern_Europe "Category:Northern Europe"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
-
-
-
 
 ---
 
-Source: [Wales](https://hitchwiki.org/en/Wales)  
+Source: [Wales](https://hitchwiki.org/en/Wales)
 License: CC-BY-SA-4.0

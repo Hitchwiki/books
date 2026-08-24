@@ -10,14 +10,9 @@ Some people leave everything behind when they drive home. Look out for huge pile
 
 [This video](http://www.youtube.com/watch?v=8DXNSL_1tmY) shows the aftermath of the 2009 Glastonbury Festival. Hundreds of tents, folding chairs, inflatable mattrasses and many other goodies abandoned by punters at festival\'s end.
 
-[vegan:Festivals](vegan:Festivals "vegan:Festivals"){.wikilink}
-
 [Category:General info](Category:General_info "Category:General info"){.wikilink}
-
-
-
 
 ---
 
-Source: [Festivals](https://trashwiki.org/en/Festivals)  
+Source: [Festivals](https://trashwiki.org/en/Festivals)
 License: CC-BY-NC-SA-4.0

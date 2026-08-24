@@ -116,10 +116,7 @@ British television shows have even featured home renovations and decoration usin
 - [Trash Hunting and tips for life](http://theurbantreasurehunter.blogspot.com)
 - [\"My Dumpster Diving Adventures\"](http://mydumpsterdive.blogspot.com/), a blog with pictures
 
-[share:Dumpster diving](share:Dumpster_diving "share:Dumpster diving"){.wikilink} [hitch:Dumpster diving](hitch:Dumpster_diving "hitch:Dumpster diving"){.wikilink} [nomad:Dumpster diving](nomad:Dumpster_diving "nomad:Dumpster diving"){.wikilink}
-
 [ ](Category:Dumpster_diving " "){.wikilink}
-
 
 ![Divyman.png](../../images/divymanpng.jpg)
 
@@ -133,8 +130,7 @@ British television shows have even featured home renovations and decoration usin
 
 *2010 stckhlm found in a trash.jpg — Sigurdas*
 
-
 ---
 
-Source: [Dumpster diving](https://trashwiki.org/en/Dumpster_diving)  
+Source: [Dumpster diving](https://trashwiki.org/en/Dumpster_diving)
 License: CC-BY-NC-SA-4.0

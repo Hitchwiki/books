@@ -40,14 +40,11 @@ At Allee shopping centre (metro stop Újbuda Központ, green line. Tram 4 and 6 
 
 Try the market at Újbuda Központ (Vásárlócsarnok) and you can maybe get some free vegetables from the sellers there.
 
-At Örs vezér tere, there\'s an IKEA with a great food court. Just take a left after you come up the stairs to avoid all the showrooms unless you enjoy playing there to raise your appetite :-)
+At Örs vezér tere, there\'s an IKEA with a great food court. Just take a left after you come up the stairs to avoid all the showrooms unless you enjoy playing there to raise your appetite:-)
 
 On the top floor of the central market at Fovam ter, there are many food stalls, popular among tourists, most of whom are ignorant fuckers who order what they want but not what they need, i.e. A LOT of leftovers on the table. There are public tables where these fuckers eat and they are not frequently cleaned by workers, thus easy opportunity for table diving. Please do this, even just once or twice. I have seen big sandwiches and baked potatoes and such being left after a single bite. We should make wasting food a crime.
 
-
-
-
 ---
 
-Source: [Budapest](https://hitchwiki.org/en/Budapest)  
+Source: [Budapest](https://hitchwiki.org/en/Budapest)
 License: CC-BY-SA-4.0

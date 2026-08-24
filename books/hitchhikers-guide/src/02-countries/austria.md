@@ -22,7 +22,7 @@ Hitchhiking is not an offence in Austrian law; where you stand is. [§ 46(1) of 
 
 ### [Germany](Germany "Germany"){.wikilink}
 
-If you\'re coming from Germany and plan to come to / pass by Austria, There are two main points to cross the border : [Passau](Passau "Passau"){.wikilink} and [Salzburg](Salzburg "Salzburg"){.wikilink}
+If you\'re coming from Germany and plan to come to / pass by Austria, There are two main points to cross the border: [Passau](Passau "Passau"){.wikilink} and [Salzburg](Salzburg "Salzburg"){.wikilink}
 
 - Most of the traffic going through **Passau** is heading **East** to [Linz](Linz "Linz"){.wikilink}, [Vienna](Vienna "Vienna"){.wikilink}, [Budapest](Budapest "Budapest"){.wikilink}
 - Most of the traffic going through **Salzburg** is heading **South** to [Trieste](Trieste "Trieste"){.wikilink}, [Italy](Italy "Italy"){.wikilink}, [Slovenia](Slovenia "Slovenia"){.wikilink}, [Balkans](Balkans "Balkans"){.wikilink}
@@ -36,19 +36,19 @@ If you\'re coming from Germany and plan to come to / pass by Austria, There are 
 Vienna is by far the country\'s largest city. Graz is second in size, with 291,007 inhabitants, followed by Linz (206,604), Salzburg (155,031), Innsbruck (131,989), and Klagenfurt (101,303). All other cities have fewer than 100,000 inhabitants.
 
 +-------------------------------------------------------------+----------------------------------------------------------+
-| Regions                                                     | Cities                                                   |
+| Regions | Cities |
 +=============================================================+==========================================================+
-| - [Vienna](Vienna "Vienna"){.wikilink}                      | - [Vienna](Vienna "Vienna"){.wikilink} (*Wien*)          |
-| - [Burgenland](Burgenland "Burgenland"){.wikilink}          | - [Eisenstadt](Eisenstadt "Eisenstadt"){.wikilink}       |
+| - [Vienna](Vienna "Vienna"){.wikilink} | - [Vienna](Vienna "Vienna"){.wikilink} (*Wien*) |
+| - [Burgenland](Burgenland "Burgenland"){.wikilink} | - [Eisenstadt](Eisenstadt "Eisenstadt"){.wikilink} |
 | - [Lower Austria](Lower_Austria "Lower Austria"){.wikilink} | - [Sankt Pölten](Sankt_Pölten "Sankt Pölten"){.wikilink} |
-| - [Upper Austria](Upper_Austria "Upper Austria"){.wikilink} | - [Linz](Linz "Linz"){.wikilink}                         |
-| - [Styria](Styria "Styria"){.wikilink}                      | - [Graz](Graz "Graz"){.wikilink}                         |
-| - [Salzburg](Salzburg "Salzburg"){.wikilink}                | - [Salzburg](Salzburg "Salzburg"){.wikilink}             |
-| - [Carinthia](Carinthia "Carinthia"){.wikilink}             | - [Klagenfurt](Klagenfurt "Klagenfurt"){.wikilink}       |
-| - [North Tyrol](North_Tyrol "North Tyrol"){.wikilink}       | - [Innsbruck](Innsbruck "Innsbruck"){.wikilink}          |
-| - [East Tyrol](East_Tyrol "East Tyrol"){.wikilink}          | - [Lienz](Lienz "Lienz"){.wikilink}                      |
-| - [Vorarlberg](Vorarlberg "Vorarlberg"){.wikilink}          | - [Bregenz](Bregenz "Bregenz"){.wikilink}                |
-|                                                             | - [Villach](Villach "Villach"){.wikilink}                |
+| - [Upper Austria](Upper_Austria "Upper Austria"){.wikilink} | - [Linz](Linz "Linz"){.wikilink} |
+| - [Styria](Styria "Styria"){.wikilink} | - [Graz](Graz "Graz"){.wikilink} |
+| - [Salzburg](Salzburg "Salzburg"){.wikilink} | - [Salzburg](Salzburg "Salzburg"){.wikilink} |
+| - [Carinthia](Carinthia "Carinthia"){.wikilink} | - [Klagenfurt](Klagenfurt "Klagenfurt"){.wikilink} |
+| - [North Tyrol](North_Tyrol "North Tyrol"){.wikilink} | - [Innsbruck](Innsbruck "Innsbruck"){.wikilink} |
+| - [East Tyrol](East_Tyrol "East Tyrol"){.wikilink} | - [Lienz](Lienz "Lienz"){.wikilink} |
+| - [Vorarlberg](Vorarlberg "Vorarlberg"){.wikilink} | - [Bregenz](Bregenz "Bregenz"){.wikilink} |
+| | - [Villach](Villach "Villach"){.wikilink} |
 +-------------------------------------------------------------+----------------------------------------------------------+
 
 ## Jumping trains {#jumping_trains}
@@ -69,7 +69,7 @@ Hitchhiking in Austria can be very time consuming but blackriding trains often w
 
 <div class="hw-exp-text">
 
-Austria is, along with Serbia and Denmark, probably the best country in Europe for hitchhiking. I was not optimist that any other country can get close to Ser-Den, but hitching in Austria was true joy! I was getting rides in 5-10 minutes. The only place where I stucked for 2 and a half hours was Graz northern exit as the place is pretty bad. But all over the country - Linz - Wachau - Vienna - Graz - Hallstatt - Salzburg - Werfen - Krimml - Lienz - Villach, it was excellent! I was scared a bit before I went as I heard many negative stories how Austrians are cold and scared and blabla - damn no! Both Austrians and gastarbaiters stop, they are friendly and even take you to city exits many times (extend their own ride). I would give Austria maybe even 5 out of 5, cheers! :)
+Austria is, along with Serbia and Denmark, probably the best country in Europe for hitchhiking. I was not optimist that any other country can get close to Ser-Den, but hitching in Austria was true joy! I was getting rides in 5-10 minutes. The only place where I stucked for 2 and a half hours was Graz northern exit as the place is pretty bad. But all over the country - Linz - Wachau - Vienna - Graz - Hallstatt - Salzburg - Werfen - Krimml - Lienz - Villach, it was excellent! I was scared a bit before I went as I heard many negative stories how Austrians are cold and scared and blabla - damn no! Both Austrians and gastarbaiters stop, they are friendly and even take you to city exits many times (extend their own ride). I would give Austria maybe even 5 out of 5, cheers!:)
 
 </div>
 </div>
@@ -96,10 +96,7 @@ hitched from Vienna airport to Kitzbuhel in January 2024, took me 3 days which i
 
 [Category:Western Europe](Category:Western_Europe "Category:Western Europe"){.wikilink} [\*](Category:Austria "*"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Austria](https://hitchwiki.org/en/Austria)  
+Source: [Austria](https://hitchwiki.org/en/Austria)
 License: CC-BY-SA-4.0

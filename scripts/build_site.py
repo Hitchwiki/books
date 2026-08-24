@@ -17,6 +17,8 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from themes import THEMES, fonts_dir, logos_dir
 
 BOOKS = list(THEMES)
+LANG_ORDER = ["en", "nl", "es"]
+LANG_LABELS = {"en": "English", "nl": "Nederlands", "es": "Español"}
 
 
 def version_stamp(raw: str | None) -> str:
@@ -62,8 +64,8 @@ def main() -> None:
             shutil.copy2(ttf, font_dest / ttf.name)
     logos_dest = assets / "logos"
     logos_dest.mkdir(exist_ok=True)
-    cards = []
-    for slug in BOOKS:
+
+    def card_html(slug: str) -> str:
         meta_path = ROOT / "books" / slug / "metadata.yaml"
         meta = yaml.safe_load(meta_path.read_text(encoding="utf-8")) if meta_path.exists() else {"title": slug}
         title = meta.get("title", slug)
@@ -82,8 +84,7 @@ def main() -> None:
             src_logo = logos_dir() / logo_name
             if src_logo.exists():
                 shutil.copy2(src_logo, logos_dest / logo_name)
-        cards.append(
-            f"""<article class="card card-{slug}">
+        return f"""<article class="card card-{slug}">
   <a class="open" href="./{slug}/" aria-label="Read {title}"></a>
   {cover_html}
   <div class="card-body">
@@ -96,6 +97,28 @@ def main() -> None:
     </p>
   </div>
 </article>"""
+
+    by_lang: dict[str, list[str]] = {}
+    for slug in BOOKS:
+        meta_path = ROOT / "books" / slug / "metadata.yaml"
+        meta = yaml.safe_load(meta_path.read_text(encoding="utf-8")) if meta_path.exists() else {}
+        lang = meta.get("lang") or "en"
+        by_lang.setdefault(lang, []).append(slug)
+    sections = []
+    seen = set()
+    for lang in [*LANG_ORDER, *by_lang]:
+        if lang in seen or lang not in by_lang:
+            continue
+        seen.add(lang)
+        label = LANG_LABELS.get(lang, lang)
+        heading = f'    <h2 class="lang-label">{label}</h2>\n' if lang != "en" else ""
+        cards = "".join(card_html(slug) for slug in by_lang[lang])
+        sections.append(
+            f'''  <section class="lang" lang="{lang}">
+{heading}    <div class="grid">
+    {cards}
+    </div>
+  </section>'''
         )
     html = f"""<!DOCTYPE html>
 <html lang="en">
@@ -108,12 +131,10 @@ def main() -> None:
 <body class="catalog">
   <header>
     <h1>books.hitchwiki.org</h1>
-    <p class="lede">Seven freely licensed books, each with its own type, cover, and license. Compiled from Hitchwiki, Trashwiki, Nomadwiki, Random Roads, Dumpsterdam, Trustroots Wiki, and Moneyless.</p>
   </header>
-  <div class="grid">
-    {"".join(cards)}
-  </div>
-  <p class="foot">Scripts MIT. Content licenses live with each book. <a class="github" href="https://github.com/guaka/books" aria-label="Source on GitHub"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" aria-hidden="true"><path fill="currentColor" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27s1.36.09 2 .27c1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0 0 16 8c0-4.42-3.58-8-8-8"/></svg></a> Built <time datetime="{built_iso}">{built}</time>.</p>
+{chr(10).join(sections)}
+  <p class="lede">A growing collection of freely licensed books. Created by thousands of people over two decades.</p>
+  <p class="foot">Content licenses live with each book. <a class="github" href="https://github.com/guaka/books" aria-label="Source on GitHub"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" aria-hidden="true"><path fill="currentColor" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27s1.36.09 2 .27c1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0 0 16 8c0-4.42-3.58-8-8-8"/></svg></a> Built <time datetime="{built_iso}">{built}</time>.</p>
 </body>
 </html>
 """

@@ -14,10 +14,7 @@
 
 [Category:Asia](Category:Asia "Category:Asia"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Qatar](https://hitchwiki.org/en/Qatar)  
+Source: [Qatar](https://hitchwiki.org/en/Qatar)
 License: CC-BY-SA-4.0

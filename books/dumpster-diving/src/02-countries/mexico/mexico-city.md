@@ -8,12 +8,7 @@ Contribute to the [map of the public markets](http://goo.gl/maps/kppdz) (under c
 
 Join the [Food Not Bombs](https://www.facebook.com/comidanobombasdf) if you are in Mexico City.
 
-[hitch:Mexico City](hitch:Mexico_City "hitch:Mexico City"){.wikilink}
-
-
-
-
 ---
 
-Source: [Mexico City](https://trashwiki.org/en/Mexico_City)  
+Source: [Mexico City](https://trashwiki.org/en/Mexico_City)
 License: CC-BY-NC-SA-4.0

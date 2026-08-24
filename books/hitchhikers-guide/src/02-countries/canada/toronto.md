@@ -5,10 +5,7 @@
 \
 **Toronto** is the largest city in [Canada](Canada "Canada"){.wikilink} with over 5 million inhabitants in the *Greater Toronto Area*. It is also the capital city of [Ontario](Ontario "Ontario"){.wikilink}. It is a fabulous city worth visiting, with a vibrant musical and cultural scene.
 
-
-
-
 ---
 
-Source: [Toronto](https://hitchwiki.org/en/Toronto)  
+Source: [Toronto](https://hitchwiki.org/en/Toronto)
 License: CC-BY-SA-4.0

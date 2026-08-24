@@ -44,16 +44,13 @@ As for sleeping when you\'re not invited back, best bring a nice thick sleeping 
 
 ## More information {#more_information}
 
-- [Nomadwiki](nomad:Money "Nomadwiki"){.wikilink}
-- [Trashwiki](trash:Money "Trashwiki"){.wikilink}
-- [Moneyless.org](:moneyless:tags/traveling-without-money "Moneyless.org"){.wikilink} contains some tips about living and [traveling without money](:moneyless:how-travel-no-money "traveling without money"){.wikilink} (or with much less money).
+- Nomadwiki
+- Trashwiki
+- Moneyless.org contains some tips about living and traveling without money (or with much less money).
 
 [Category:General info](Category:General_info "Category:General info"){.wikilink}
 
-
-
-
 ---
 
-Source: [Money](https://hitchwiki.org/en/Money)  
+Source: [Money](https://hitchwiki.org/en/Money)
 License: CC-BY-SA-4.0

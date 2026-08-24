@@ -5,7 +5,7 @@ BUT I found this that may be of interest to you all -
 http://www.foodnotbombs.net/HOLLAND.html
 There seems to be many groups.
 Will try to begin one here but fear that it will be extremely difficult. But many things of worth have this quality. Voila.
-But more..I wanted to ask all of you for your thoughts ..
+But more..I wanted to ask all of you for your thoughts..
 It's incredibly difficult to skip dive here. The gypsies and elderly get everything in an instant.
 It's a strange feeling to be so entrapped in the consumer's market again. I try not to visit supermarkets too often. There's a huge, huge market here that is wonderful. Old women on the corners of streets selling yogurt and nuts. Mountain herbs for tea.
 But there is no concept of community here, it seems. I'm finding it incredibly difficult to get close to people. I have a good friend that I've made here but of everyone I've met, she's french. Anything different or radical is seen as almost..deformed, in a way. Things have became softer..less violent since we found a place but now finding work is proving difficult (upon visiting the British Language centre (seriously), I was told 'No...we have absolutely no need for native teachers here..we just hire bulgarians..we already have one native teacher and that's enough).

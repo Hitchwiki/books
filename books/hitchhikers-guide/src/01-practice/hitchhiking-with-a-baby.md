@@ -34,10 +34,7 @@ In addition to that, many drivers drive around with an empty baby seat. Those wi
 
 [Category:General info](Category:General_info "Category:General info"){.wikilink}
 
-
-
-
 ---
 
-Source: [Hitchhiking with a baby](https://hitchwiki.org/en/Hitchhiking_with_a_baby)  
+Source: [Hitchhiking with a baby](https://hitchwiki.org/en/Hitchhiking_with_a_baby)
 License: CC-BY-SA-4.0

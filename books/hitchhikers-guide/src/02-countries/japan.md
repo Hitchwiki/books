@@ -140,12 +140,12 @@ If hitching out of a tourist spot (Nikko for example where I hitched to Utsunomi
 
 In Japan, as everywhere else, your **gender** matters when hitchhiking. On an ascending scale of difficulty, the best combinations are:
 
-1.  Girl alone (but see below)
-2.  Two girls
-3.  Boy and girl couple
-4.  Boy alone
-5.  Two boys
-6.  Three or more people
+1. Girl alone (but see below)
+2. Two girls
+3. Boy and girl couple
+4. Boy alone
+5. Two boys
+6. Three or more people
 
 While a single girl (or woman) is likely to get picked up very fast, this has its risks: Japan has its fair share of perverts and predators and a lone hitchhiker in a foreign country is a vulnerable target.
 
@@ -271,10 +271,7 @@ Will Ferguson has written a number of informative and entertaining books about h
 
 [\*](Category:Japan "*"){.wikilink} [Category:Asia](Category:Asia "Category:Asia"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Japan](https://hitchwiki.org/en/Japan)  
+Source: [Japan](https://hitchwiki.org/en/Japan)
 License: CC-BY-SA-4.0

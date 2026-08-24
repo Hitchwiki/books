@@ -58,17 +58,14 @@ hitched from border of Cambodia to china in 2 weeks (1week in Hanoi to get china
 
 <div class="hw-exp-text">
 
-I hitchhiked from HO chi Minh to Hanoi February 2024 and it was super easy ! never waiting more than 30 minutes! A big advice is to use a sing ( Xin Di Dho )  it will help you to avoid taxis and people who want money
+I hitchhiked from HO chi Minh to Hanoi February 2024 and it was super easy! never waiting more than 30 minutes! A big advice is to use a sing ( Xin Di Dho )  it will help you to avoid taxis and people who want money
 
 </div>
 </div>
 
 [Category:Vietnam](Category:Vietnam "Category:Vietnam"){.wikilink} [Category:Asia](Category:Asia "Category:Asia"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Vietnam](https://hitchwiki.org/en/Vietnam)  
+Source: [Vietnam](https://hitchwiki.org/en/Vietnam)
 License: CC-BY-SA-4.0

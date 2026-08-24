@@ -8,10 +8,7 @@ Are you an American hitchhiker interested in sport hitchhiking? Feel free to joi
 
 - [Facebook page](https://www.facebook.com/groups/hitchteamusa/members/)
 
-
-
-
 ---
 
-Source: [Hitch Team USA](https://hitchwiki.org/en/Hitch_Team_USA)  
+Source: [Hitch Team USA](https://hitchwiki.org/en/Hitch_Team_USA)
 License: CC-BY-SA-4.0

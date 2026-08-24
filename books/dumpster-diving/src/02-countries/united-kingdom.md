@@ -30,16 +30,9 @@ While dumpster diving in England and Wales may qualify as theft within the *Thef
 - [The Permaculture Association](http://www.permaculture.org.uk/)
 - [London Permaculture](http://londonpermaculturalists.ning.com/) - A place to keep abreast of permaculture projects in London
 
-[hitch:United Kingdom](hitch:United_Kingdom "hitch:United Kingdom"){.wikilink}
-
-[share:United Kingdom](share:United_Kingdom "share:United Kingdom"){.wikilink} [vegan:United Kingdom](vegan:United_Kingdom "vegan:United Kingdom"){.wikilink} [nomad:United Kingdom](nomad:United_Kingdom "nomad:United Kingdom"){.wikilink}
-
 [Category:United Kingdom](Category:United_Kingdom "Category:United Kingdom"){.wikilink}
-
-
-
 
 ---
 
-Source: [United Kingdom](https://trashwiki.org/en/United_Kingdom)  
+Source: [United Kingdom](https://trashwiki.org/en/United_Kingdom)
 License: CC-BY-NC-SA-4.0

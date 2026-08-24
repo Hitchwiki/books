@@ -49,10 +49,7 @@ Traffic can be very low at times, as described above. Hitchhiking around the Ciu
 
 [Category:South America](Category:South_America "Category:South America"){.wikilink} [\*](Category:Uruguay "*"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Uruguay](https://hitchwiki.org/en/Uruguay)  
+Source: [Uruguay](https://hitchwiki.org/en/Uruguay)
 License: CC-BY-SA-4.0

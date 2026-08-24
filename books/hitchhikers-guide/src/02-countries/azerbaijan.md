@@ -68,14 +68,9 @@ From the \"Red Bridge\" border the next main city is [Ganja](Ganja "Ganja"){.wik
 
 <https://www.facebook.com/groups/256467861393520/?ref=aymt_homepage_panel> Azerbaijani hitchhikers\'s facebook group.
 
-[visa:Azerbaijan](visa:Azerbaijan "visa:Azerbaijan"){.wikilink}
-
 [Category:Azerbaijan](Category:Azerbaijan "Category:Azerbaijan"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
-
-
-
 
 ---
 
-Source: [Azerbaijan](https://hitchwiki.org/en/Azerbaijan)  
+Source: [Azerbaijan](https://hitchwiki.org/en/Azerbaijan)
 License: CC-BY-SA-4.0

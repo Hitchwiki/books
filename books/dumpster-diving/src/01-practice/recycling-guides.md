@@ -28,10 +28,7 @@ Not surprisingly, used mattresses are costly to haul and dispose of in a landfil
 
 [Category:General info](Category:General_info "Category:General info"){.wikilink}
 
-
-
-
 ---
 
-Source: [Recycling Guides](https://trashwiki.org/en/Recycling_Guides)  
+Source: [Recycling Guides](https://trashwiki.org/en/Recycling_Guides)
 License: CC-BY-NC-SA-4.0

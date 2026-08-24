@@ -5,14 +5,14 @@
 ## Hitchhiking
 
 Hitchhiking in Oman (especially in the more populated north) is quite easy.\
-- *In fact I found it loads more easy in the south. The north and its people feel a bit more european.. Nevertheless north and south it\'s been the best hitching experience I had anywhere in the world! Some moments a car went by not stopping for me and I was actually stunned that it didn\'t stop, I had forgotten that some people don\'t stop for hitchers! ;-)*\
+- *In fact I found it loads more easy in the south. The north and its people feel a bit more european.. Nevertheless north and south it\'s been the best hitching experience I had anywhere in the world! Some moments a car went by not stopping for me and I was actually stunned that it didn\'t stop, I had forgotten that some people don\'t stop for hitchers!;-)*\
 Locals are curious about people standing in the middle of nowhere and give you a lift because they want to know what you are doing here. Food is sometimes \"included\". Most of the petrol stations (as well other places; from embassies to reataurants) have free filtered water on an outside wall, which you can use to refill supplies. Hitching in the remote areas of Oman is incredibly easy --- as soon as a car comes along. If you have to wait more than a few minutes for a car, then the chances that it will stop are very good. Waiting in a spot and then starting to walk when a car comes helps greatly, the Omani are extraordinarily kind people, and will feel obliged to stop and help you out.
 
 *It\'s also possible to hitch the taxi\'s that roam the roads. If you do it right, you can get about 20% of your lifts in free taxis. If you are walking besides the road, turning around and thumbing when a car passes, but not thumbing for a taxi, often they stop anyway. They drive up besides you, and ask you where you are going. Tell them \"maafi fluce\"(I have no money), and tell them that you are walking to your destination. Often they will let you in for a free ride, it happens quiet often if your walking on the side of the road. And don\'t worry, once your in, they will not then turn around and ask you for money at the end of the ride - Oman\'s taxi drivers are the nicest I\'ve ever found in the world.*
 
 Although english is spoken by virtually everyone and most signs are in both languages, learning how to read and pronounce arab letters can be a good idea. People will open up even more at foreigners showing the smallest effort to learn their language.\
 *Many locals were surprised when they noticed me reading arab letters! Sometimes I found it helpful to know pronunciation of letters when trying to say a city\'s name, as with english spellings don\'t tell me the difference between \"t\" and \"T\" (and there is one). Arabic Alpha is a free app for iPhone an Android and I found it most helpful of all things I tried.*\
-*It\'s not mine and neither get I paid for saying this. ;-) \--Marcel*
+*It\'s not mine and neither get I paid for saying this.;-) \--Marcel*
 
 ## Legality of Hitchhiking {#legality_of_hitchhiking}
 
@@ -33,11 +33,11 @@ Muscat is a pain to get out of, it is an incredibly long, stretched and highly d
 #### Option 1 {#option_1}
 
 \
-That is very good place on the intercity highway without taxis You can get here using bus #6 from here: or . Get off the bus here and follow path which will lead you to the mentioned good place on highway.
+That is very good place on the intercity highway without taxis You can get here using bus #6 from here: or. Get off the bus here and follow path which will lead you to the mentioned good place on highway.
 
 #### Option 2 {#option_2}
 
-Take a bus(A1 or 1) or taxi to Mabelah. Taxi cost almost same as bus along the main city road, 0.5 Rials from Gubra to Mabelah in 2024. The taxi will stop at this location and will not go any further. Now you can take another taxi (0.2 Rials in 2024) to this location . Here you can start hitchhiking, this roads has plenty of cars and taxis and leads to UAE border, but most of cars are not going far, so be ready for short lifts.
+Take a bus(A1 or 1) or taxi to Mabelah. Taxi cost almost same as bus along the main city road, 0.5 Rials from Gubra to Mabelah in 2024. The taxi will stop at this location and will not go any further. Now you can take another taxi (0.2 Rials in 2024) to this location. Here you can start hitchhiking, this roads has plenty of cars and taxis and leads to UAE border, but most of cars are not going far, so be ready for short lifts.
 
 #### Towards Nizwa and Southwest {#towards_nizwa_and_southwest}
 
@@ -120,10 +120,7 @@ I landed in Dubai and got a stamp for free since they now have an agreement with
 
 [Category:Western Asia](Category:Western_Asia "Category:Western Asia"){.wikilink} [Category:Middle East](Category:Middle_East "Category:Middle East"){.wikilink} [Category:East Route from North Cape to Cape of Good Hope](Category:East_Route_from_North_Cape_to_Cape_of_Good_Hope "Category:East Route from North Cape to Cape of Good Hope"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Oman](https://hitchwiki.org/en/Oman)  
+Source: [Oman](https://hitchwiki.org/en/Oman)
 License: CC-BY-SA-4.0

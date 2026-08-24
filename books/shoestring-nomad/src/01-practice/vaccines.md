@@ -19,10 +19,7 @@ But no worries, everything is going to be alright!
 
 [Category:Health](Category:Health "Category:Health"){.wikilink}
 
-
-
-
 ---
 
-Source: [Vaccines](https://nomadwiki.org/en/Vaccines)  
+Source: [Vaccines](https://nomadwiki.org/en/Vaccines)
 License: CC-BY-SA-4.0

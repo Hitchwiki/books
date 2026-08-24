@@ -40,10 +40,7 @@ There are some fairly basic rules that are mostly dictated by common sense about
 
 [Category:General info](Category:General_info "Category:General info"){.wikilink}
 
-
-
-
 ---
 
-Source: [Etiquette](https://hitchwiki.org/en/Etiquette)  
+Source: [Etiquette](https://hitchwiki.org/en/Etiquette)
 License: CC-BY-SA-4.0

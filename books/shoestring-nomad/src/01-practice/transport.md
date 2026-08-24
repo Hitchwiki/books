@@ -12,10 +12,7 @@
 
 [Category:Transport](Category:Transport "Category:Transport"){.wikilink}
 
-
-
-
 ---
 
-Source: [Transport](https://nomadwiki.org/en/Transport)  
+Source: [Transport](https://nomadwiki.org/en/Transport)
 License: CC-BY-SA-4.0

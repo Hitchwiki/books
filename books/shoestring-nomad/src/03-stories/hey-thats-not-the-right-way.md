@@ -1,4 +1,4 @@
-# Hey, that's not the right way !
+# Hey, that's not the right way!
 
 Today, when I was going back home form the Uni, I got a ride from a really friendly retired pilot.
 While still working, he was often transporting VIPs.

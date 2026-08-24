@@ -28,12 +28,7 @@ To meet locals, you generally have a few spots:
 
 - [Daphne Caruana Galizia, Panama Papers journalist and \"one-woman WikiLeaks,\" killed by car bomb](https://www.reddit.com/r/conspiracy/comments/76s5vr/daphne_caruana_galizia_panama_papers_journalist/)
 
-[trash:Malta](trash:Malta "trash:Malta"){.wikilink} [couch:Malta](couch:Malta "couch:Malta"){.wikilink}
-
-
-
-
 ---
 
-Source: [Malta](https://nomadwiki.org/en/Malta)  
+Source: [Malta](https://nomadwiki.org/en/Malta)
 License: CC-BY-SA-4.0

@@ -16,12 +16,7 @@ There are quite a few people who [dumpster dive](dumpster_dive "dumpster dive"){
 - <http://community.livejournal.com/dumpsterdive206> - a blog about dumpster diving in Seattle
 - <http://seattlepi.nwsource.com/local/223950_dumpster12.html> - an article about dumpster diving in Seattle
 
-[hitch:Seattle](hitch:Seattle "hitch:Seattle"){.wikilink} [nomad:Seattle](nomad:Seattle "nomad:Seattle"){.wikilink}
-
-
-
-
 ---
 
-Source: [Seattle](https://trashwiki.org/en/Seattle)  
+Source: [Seattle](https://trashwiki.org/en/Seattle)
 License: CC-BY-NC-SA-4.0

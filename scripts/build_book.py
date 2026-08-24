@@ -17,9 +17,10 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from common import rewrite_html_images, wiki_image_map
 from editorial import is_omitted_chapter, is_redirect_chapter
-from themes import THEMES, cover_html, fonts_dir, logos_dir, photos_dir, write_css_files
+from themes import THEMES, cover_html, fonts_dir, logos_dir, photo_credit_markdown, photos_dir, write_css_files
 from titles import geo_src_key
 from toc import enhance_html
+from wiki_links import strip_interwiki_html
 
 
 def version_stamp(raw: str | None) -> str:
@@ -136,6 +137,11 @@ def build(slug: str, version: str, formats: list[str], out: Path) -> None:
     epub_css = work / "epub.css"
     epub_css.write_text(epub_theme_css(slug), encoding="utf-8")
     inputs = [str(c) for c in chapters]
+    credit_md = photo_credit_markdown(slug)
+    if credit_md:
+        credit_path = work / "cover-photo.md"
+        credit_path.write_text(credit_md, encoding="utf-8")
+        inputs = [str(credit_path), *inputs]
     resource = [str(book), str(book / "src"), str(book / "images"), str(html_dir)]
     base = {
         "from": "markdown",
@@ -166,6 +172,8 @@ def build(slug: str, version: str, formats: list[str], out: Path) -> None:
                 f'<header class="book-banner"><p>'
                 f'<a href="../">books.hitchwiki.org</a> · {meta.get("title", slug)} · {version}'
                 f' · <a href="#TOC">Contents</a>'
+                f' · <a href="../downloads/{slug}.epub">EPUB</a>'
+                f' · <a href="../downloads/{slug}.pdf">PDF</a>'
                 f"</p></header>\n"
             )
             cover = cover_html(slug, meta)
@@ -176,6 +184,7 @@ def build(slug: str, version: str, formats: list[str], out: Path) -> None:
             )
             html = re.sub(r"(?:\.\./)+images/", "images/", html)
             html = rewrite_html_images(html, wiki_image_map(book / "images"))
+            html = strip_interwiki_html(html)
             html = enhance_html(html, chapters, book / "src")
             index.write_text(html, encoding="utf-8")
     stem = f"{slug}-{version}"

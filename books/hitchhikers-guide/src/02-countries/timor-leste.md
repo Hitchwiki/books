@@ -26,16 +26,13 @@ In July 2017, a microlet cost 50 cents. To go from Dili to Baucau, take a microl
 
 To Vale Beach (Jaco) or Hato-Builico\... Be ready to hike because there is not much traffic. I walked 2:30 hours from Tutuala to Vale Beach, but some turists gave me a ride on the way back. From the highway to Hato-Builico, there are 18 km and it\'s going up. I got shorts rides and hike, it took me few hours.
 
-From Timor-Leste to Indonesia When you arrive at the border, if you are European, they will stamp your passport with \"one month visa exemption, not extendable\". if you want to stay more than one month in Indonesia, ask to pay for a visa. They won\'t understand because you can have a free visa exemption. But explain that you want to pay a one month visa to be able later to extend your visa. A visa exemption can not be extended, only a visa !
+From Timor-Leste to Indonesia When you arrive at the border, if you are European, they will stamp your passport with \"one month visa exemption, not extendable\". if you want to stay more than one month in Indonesia, ask to pay for a visa. They won\'t understand because you can have a free visa exemption. But explain that you want to pay a one month visa to be able later to extend your visa. A visa exemption can not be extended, only a visa!
 
 ## Personal Experiences {#personal_experiences}
 
 [Category:East Timor](Category:East_Timor "Category:East Timor"){.wikilink} [Category:Asia](Category:Asia "Category:Asia"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Timor-Leste](https://hitchwiki.org/en/Timor-Leste)  
+Source: [Timor-Leste](https://hitchwiki.org/en/Timor-Leste)
 License: CC-BY-SA-4.0

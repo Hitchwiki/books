@@ -8,12 +8,7 @@ History is in the water village - the old town of Brunei. You can experience the
 
 Brunei is duty free.
 
-[hitch:Brunei](hitch:Brunei "hitch:Brunei"){.wikilink} [couch:Brunei](couch:Brunei "couch:Brunei"){.wikilink}
-
-
-
-
 ---
 
-Source: [Brunei](https://nomadwiki.org/en/Brunei)  
+Source: [Brunei](https://nomadwiki.org/en/Brunei)
 License: CC-BY-SA-4.0

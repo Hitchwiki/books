@@ -1,12 +1,12 @@
 # Croatia
 
-**Croatia** is a country in [Southern Europe](Southern_Europe "Southern Europe"){.wikilink}. It is a member state of the [European Union](European_Union "European Union"){.wikilink} and as of 2023 is a part of the [Schengen Agreement](Schengen_Agreement "Schengen Agreement"){.wikilink} .
+**Croatia** is a country in [Southern Europe](Southern_Europe "Southern Europe"){.wikilink}. It is a member state of the [European Union](European_Union "European Union"){.wikilink} and as of 2023 is a part of the [Schengen Agreement](Schengen_Agreement "Schengen Agreement"){.wikilink}.
 
 Aside from Croatian, Italian is widely known in some areas. Croatians are also extremely open, friendly, and hospitable, although there are known accidents of nationalistic hatred being directed onto foreign travelers. It is nonetheless definitely a must-see country with beautiful landscape, islands, and warm sea.
 
 ## Hitchhiking
 
-Croatia can be great for hitchhiking in summer. It is quite easy to hitch along the coast, and waiting time rarely exceeds 20 minutes. However, in the winter months many of the coastal towns become ghost towns and you may find that hitching wait times exceed an hour, often with very short rides once you do get them. ![Minefields in Croatia](Croatia_minefields.png "Minefields in Croatia")
+Croatia can be great for hitchhiking in summer. It is quite easy to hitch along the coast, and waiting time rarely exceeds 20 minutes. However, in the winter months many of the coastal towns become ghost towns and you may find that hitching wait times exceed an hour, often with very short rides once you do get them.![Minefields in Croatia](Croatia_minefields.png "Minefields in Croatia")
 
 Some routes, however, might appear to be more difficult to hitch but with some portion of patience one can get a ride almost anywhere in this Balkan country.
 
@@ -87,10 +87,7 @@ Pls add info
 
 [ ](Category:Croatia " "){.wikilink} [Category:Southern Europe](Category:Southern_Europe "Category:Southern Europe"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Croatia](https://hitchwiki.org/en/Croatia)  
+Source: [Croatia](https://hitchwiki.org/en/Croatia)
 License: CC-BY-SA-4.0

@@ -18,10 +18,7 @@ Taxi drivers may even give you a ride for free if you\'re going the same way and
 
 [Category:Island](Category:Island "Category:Island"){.wikilink} [Category:Caribbean](Category:Caribbean "Category:Caribbean"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Antigua and Barbuda](https://hitchwiki.org/en/Antigua_and_Barbuda)  
+Source: [Antigua and Barbuda](https://hitchwiki.org/en/Antigua_and_Barbuda)
 License: CC-BY-SA-4.0

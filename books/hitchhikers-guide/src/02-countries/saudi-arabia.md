@@ -8,7 +8,7 @@ Hitchhikers are known for their determination though, so if it is truly your des
 
 Other ways to enter the country are as visiting family to current numbers living out there, and this is difficult to obtain.
 
-It has been whispered that within the next 2-3 years, KSA will begin issuing tourist visas. Which probably means 20-30 years at the speed Saudis work. (Edit 2020: This was written back in 2014 and the Saudis managed to introduce the tourist visa in September 2019, so it \"only\" took 5 years :P )
+It has been whispered that within the next 2-3 years, KSA will begin issuing tourist visas. Which probably means 20-30 years at the speed Saudis work. (Edit 2020: This was written back in 2014 and the Saudis managed to introduce the tourist visa in September 2019, so it \"only\" took 5 years:P )
 
 When you are in, hitchhiking is quite feasible. Saudis are generally well educated, as fascinated by the West. The highways are built on the USA system, and are difficult to hitch on. However, stand at an exit, and a Saudi will soon stop to ask if you need help, and will run you out to a good place. The ferry to the Farsan Islands is free from Abha, and hitchhiking in the islands is very easy, as is wild camping.
 
@@ -101,10 +101,7 @@ In 2015 I was able to get a 3 day transit visa at the vfs Tasheel office in Amma
 
 [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Saudi Arabia](https://hitchwiki.org/en/Saudi_Arabia)  
+Source: [Saudi Arabia](https://hitchwiki.org/en/Saudi_Arabia)
 License: CC-BY-SA-4.0

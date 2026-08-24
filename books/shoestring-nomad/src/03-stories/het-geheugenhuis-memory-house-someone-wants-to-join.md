@@ -1,4 +1,4 @@
-# Het Geheugenhuis (Memory House) : someone wants to join?
+# Het Geheugenhuis (Memory House): someone wants to join?
 
 Despite the fact that casarobino.org does not allow me to have a status due to personal conflicts between a bug and me, I still love you and I want to invite Casa's friends to this event:
 Het Geheugenhuis (Memory House)http://www.waag.org/project/geheugenhuis

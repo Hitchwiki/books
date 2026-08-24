@@ -28,10 +28,7 @@ The Azores are a group of several volcanic islands situated in the middle of the
 
 [Category:Accommodation](Category:Accommodation "Category:Accommodation"){.wikilink} [Category:Guides](Category:Guides "Category:Guides"){.wikilink} [Category:Nomadbase](Category:Nomadbase "Category:Nomadbase"){.wikilink}
 
-
-
-
 ---
 
-Source: [Winter retreats](https://nomadwiki.org/en/Winter_retreats)  
+Source: [Winter retreats](https://nomadwiki.org/en/Winter_retreats)
 License: CC-BY-SA-4.0

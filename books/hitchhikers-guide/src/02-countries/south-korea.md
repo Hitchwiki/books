@@ -27,17 +27,17 @@ The Korean language is heavily steeped in formality and politeness. When speakin
 ### Some important phrases {#some_important_phrases}
 
   -------------------------- ----------------------------------------------------------------------------------
-  Hello                      An-nyong haseyo = Be healthy/peaceful
-  Good bye!                  An-nyong-hi ka-seyo! = Go in health/peace
-  Good bye!                  An-nyong-hi gyeh-seyo! = Stay in health/peace
-  Thank you                  Kamsa hamnida/Gomap sumnida
-  Where are you going?       Odi ga-yo? (lit. where go?) \|-)
-  No                         Ani-o
-  here                       Yogi-eh-yo (lit. here-at (polite ending))
-  Please                     juseyo
-  Motorway service station   hyu-ge-so
-  Gas station                ju-yu-so
-  Interchange                IC pronounced \"ee shee\", most Koreans seem to understand the word \"tollgate\"
+  Hello An-nyong haseyo = Be healthy/peaceful
+  Good bye! An-nyong-hi ka-seyo! = Go in health/peace
+  Good bye! An-nyong-hi gyeh-seyo! = Stay in health/peace
+  Thank you Kamsa hamnida/Gomap sumnida
+  Where are you going? Odi ga-yo? (lit. where go?) \|-)
+  No Ani-o
+  here Yogi-eh-yo (lit. here-at (polite ending))
+  Please juseyo
+  Motorway service station hyu-ge-so
+  Gas station ju-yu-so
+  Interchange IC pronounced \"ee shee\", most Koreans seem to understand the word \"tollgate\"
   -------------------------- ----------------------------------------------------------------------------------
 
 ### Hitchhiking for females {#hitchhiking_for_females}
@@ -46,7 +46,7 @@ If you are a girl, you should be careful hitchiking in South Korea. People may t
 
 ## Maps
 
-Google Map doesn\'t work much here. Just install KAKO map and to start hitchhiking just point out of city in the map, it gives you the best way to go by bus or metro and then you can enjoy hitchhiking. Toll gates are very good :)
+Google Map doesn\'t work much here. Just install KAKO map and to start hitchhiking just point out of city in the map, it gives you the best way to go by bus or metro and then you can enjoy hitchhiking. Toll gates are very good:)
 
 Naver Maps and Daum Maps are the most detailed maps of Korea, but an offline map like CoMaps / Organic Maps / Maps.ME can really help out as well.
 
@@ -89,10 +89,7 @@ Experience Winter 2025: Hitchiking Jeju Island was easy as a couple. There is li
 
 [Category:South Korea](Category:South_Korea "Category:South Korea"){.wikilink} [Category:Asia](Category:Asia "Category:Asia"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [South Korea](https://hitchwiki.org/en/South_Korea)  
+Source: [South Korea](https://hitchwiki.org/en/South_Korea)
 License: CC-BY-SA-4.0

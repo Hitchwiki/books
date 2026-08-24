@@ -16,10 +16,7 @@ People are generally friendly however like Saint Lucia you might experience some
 
 [Category:Island](Category:Island "Category:Island"){.wikilink} [Category:Caribbean](Category:Caribbean "Category:Caribbean"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Barbados](https://hitchwiki.org/en/Barbados)  
+Source: [Barbados](https://hitchwiki.org/en/Barbados)
 License: CC-BY-SA-4.0

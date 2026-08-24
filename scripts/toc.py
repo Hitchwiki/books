@@ -11,6 +11,7 @@ PART_LABELS = {
     "01-practice": "Practice",
     "02-countries": "Places",
     "03-history": "History",
+    "03-resources": "Resources",
     "03-software": "Software",
     "03-stories": "Stories",
     "04-outlook": "Outlook",
@@ -169,9 +170,7 @@ def _region_blocks(part: str, items: list[dict]) -> str:
         label = html.escape(current["title"]) if current else "Places"
         href = html.escape(current["href"], quote=True) if current else ""
         summary = f'<a href="#{href}">{label}</a>' if href else label
-        collapse = ""
-        if current and current.get("slug") not in {"_europe"}:
-            collapse = ' data-collapse="true"'
+        collapse = ' data-collapse="true"'
         n = sum(1 for x in buf if not x.get("parent"))
         chunks.append(
             f'<details class="toc-region" data-part="{html.escape(part)}" {collapse} open>'
@@ -291,11 +290,30 @@ def render_toc(entries: list[dict]) -> str:
         groups[part].append(item)
     chunks = [
         '<nav id="TOC" role="doc-toc" aria-label="Table of contents">',
+        '<div class="toc-chrome">',
         '<h2 class="toc-title">Contents</h2>',
         '<label class="toc-filter-wrap"><span class="visually-hidden">Filter chapters</span>',
         '<input class="toc-filter" type="search" placeholder="Find a chapter…" autocomplete="off"></label>',
         '<p class="toc-empty" hidden>No matching chapters.</p>',
     ]
+    jumps = []
+    for part in order:
+        items = groups[part]
+        intro = next((x for x in items if x.get("intro")), None)
+        first = intro or (items[0] if items else None)
+        if not first:
+            continue
+        raw = intro["title"] if intro else part_label(part)
+        m = re.match(r"^(Part [IVXLCDM]+)(?:\s+[—–-]\s+.+)?$", raw)
+        short = m.group(1) if m else part_label(part)
+        href = html.escape(first["href"], quote=True)
+        pid = html.escape(part or "front")
+        jumps.append(
+            f'<a href="#{href}" data-part="{pid}">{html.escape(short)}</a>'
+        )
+    if jumps:
+        chunks.append(f'<p class="toc-parts">{"".join(jumps)}</p>')
+    chunks.append("</div>")
     for part in order:
         items = groups[part]
         intro = next((x for x in items if x.get("intro")), None)
@@ -306,11 +324,7 @@ def render_toc(entries: list[dict]) -> str:
             href = html.escape(intro["href"], quote=True)
             chunks.append(f'<p class="toc-solo"><a href="#{href}">{label}</a></p>')
             continue
-        collapse = ""
-        if part in GAZETTEER and n >= 20:
-            collapse = ' data-collapse="true"'
-        elif n >= 80:
-            collapse = ' data-collapse="true"'
+        collapse = ' data-collapse="true"' if n >= 12 else ""
         by_region = any(x.get("region") for x in chapters)
         az = (not by_region) and n >= (24 if part in GAZETTEER else 80)
         pid = html.escape(part or "front")
@@ -319,7 +333,7 @@ def render_toc(entries: list[dict]) -> str:
             href = html.escape(intro["href"], quote=True)
             summary = f'<a href="#{href}">{label}</a>'
         chunks.append(
-            f'<details class="toc-part" data-part="{pid}"{collapse} open>'
+            f'<details class="toc-part" id="toc-part-{pid}" data-part="{pid}"{collapse} open>'
             f'<summary>{summary} <span class="toc-count">{n}</span></summary>'
         )
         if by_region:
@@ -382,12 +396,21 @@ def wrap_body(html_doc: str, toc: str) -> str:
             1,
         )
     banner = re.search(r'<header class="book-banner">.*?</header>', html_doc, flags=re.S)
-    if banner and 'href="#TOC">Contents</a>' not in banner.group(0):
-        html_doc = html_doc.replace(
-            banner.group(0),
-            banner.group(0).replace("</p></header>", ' · <a href="#TOC">Contents</a></p></header>', 1),
-            1,
-        )
+    if banner:
+        text = banner.group(0)
+        if 'href="#TOC">Contents</a>' not in text:
+            text = text.replace("</p></header>", ' · <a href="#TOC">Contents</a></p></header>', 1)
+        if ">EPUB</a>" not in text:
+            slug_m = re.search(r'class="book book-([a-z0-9-]+)"', html_doc)
+            if slug_m:
+                slug = slug_m.group(1)
+                extra = (
+                    f' · <a href="../downloads/{slug}.epub">EPUB</a>'
+                    f' · <a href="../downloads/{slug}.pdf">PDF</a>'
+                )
+                text = text.replace("</p></header>", extra + "</p></header>", 1)
+        if text != banner.group(0):
+            html_doc = html_doc.replace(banner.group(0), text, 1)
     return html_doc
 
 

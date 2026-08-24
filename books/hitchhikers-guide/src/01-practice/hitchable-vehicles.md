@@ -112,10 +112,7 @@ Please share what transports you have had with hitchhiking various transports.
 
 [Category:General info](Category:General_info "Category:General info"){.wikilink}
 
-
-
-
 ---
 
-Source: [Hitchable vehicles](https://hitchwiki.org/en/Hitchable_vehicles)  
+Source: [Hitchable vehicles](https://hitchwiki.org/en/Hitchable_vehicles)
 License: CC-BY-SA-4.0

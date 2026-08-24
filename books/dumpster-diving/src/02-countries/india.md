@@ -12,16 +12,9 @@ There is a rich Indian tradition of up-cycling, known locally as *Jugaad*. There
 
 - [Conserve](Conserve "Conserve"){.wikilink}
 
-[hitch:India](hitch:India "hitch:India"){.wikilink}
-
-[share:India](share:India "share:India"){.wikilink} [vegan:India](vegan:India "vegan:India"){.wikilink} [nomad:India](nomad:India "nomad:India"){.wikilink}
-
 [Category:India](Category:India "Category:India"){.wikilink}
-
-
-
 
 ---
 
-Source: [India](https://trashwiki.org/en/India)  
+Source: [India](https://trashwiki.org/en/India)
 License: CC-BY-NC-SA-4.0

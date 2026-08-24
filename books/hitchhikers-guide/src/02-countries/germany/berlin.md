@@ -36,10 +36,7 @@ As of April 2023, the current prices for a single adult, one-way ticket are: €
 
 When hitch hiking towards Berlin from [Belgium](Belgium "Belgium"){.wikilink}, avoid passing the Ruhr area ([Dortmund](Dortmund "Dortmund"){.wikilink}, [Essen](Essen "Essen"){.wikilink}, [Duisburg](Duisburg "Duisburg"){.wikilink}). Once you get in, it\'s difficult to get out. Service stations are rare and passing traffic avoids this region. We tried on several places and had to take the train to pass this area (lost 5 hours). There are sufficient work arounds to avoid this area. See also the [Hitchwiki](Hitchwiki "Hitchwiki"){.wikilink} page of the [Ruhr Area](Ruhr_Area "Ruhr Area"){.wikilink}.
 
-
-
-
 ---
 
-Source: [Berlin](https://hitchwiki.org/en/Berlin)  
+Source: [Berlin](https://hitchwiki.org/en/Berlin)
 License: CC-BY-SA-4.0

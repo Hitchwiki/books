@@ -18,9 +18,9 @@ Start performing but for a long period (minimum 30min - 1h). Don´t have high ex
 
 ### Annoyances
 
-1.  [Police](Police "Police"){.wikilink} may come to bother you. It may never happen or it may happen all the time. Just keep calm and be relaxed (especially if you are abroad). Often, you may be in a weaker power position. Don\'t run. Listen to to what they have to say and what they want. Ask them why you can´t play, where is the problem, where you can go etc. If you can´t communicate just stop performing and move somewhere else.
-2.  Other buskers may come to bother you. They may start to play next to you, argue that its their place for years etc\... Behave as with the police. They are nice people normally come to prevent you, ask you when you will have finished, if they can play after you etc, kindly and gently, the arrogants normally just get nervous angry and might aggress you, verbally as physically. Keep calm and wise, you won´t lose so much money changing spot, if you can´t make your rights be respected just let it flow and move somewhere else, show them how small they are!:)
-3.  Nearby shopkeepers might be bothered by your performance, because you \"take clients away\", if they feel you are too loud, or simply because they are that bored. They have rights, because they can´t go elsewhere to do their business while you can. Again, keep calm if they are aggressive. Just take your stuff and change location. Wait until their shop closes in the evening.
+1. [Police](Police "Police"){.wikilink} may come to bother you. It may never happen or it may happen all the time. Just keep calm and be relaxed (especially if you are abroad). Often, you may be in a weaker power position. Don\'t run. Listen to to what they have to say and what they want. Ask them why you can´t play, where is the problem, where you can go etc. If you can´t communicate just stop performing and move somewhere else.
+2. Other buskers may come to bother you. They may start to play next to you, argue that its their place for years etc\... Behave as with the police. They are nice people normally come to prevent you, ask you when you will have finished, if they can play after you etc, kindly and gently, the arrogants normally just get nervous angry and might aggress you, verbally as physically. Keep calm and wise, you won´t lose so much money changing spot, if you can´t make your rights be respected just let it flow and move somewhere else, show them how small they are!:)
+3. Nearby shopkeepers might be bothered by your performance, because you \"take clients away\", if they feel you are too loud, or simply because they are that bored. They have rights, because they can´t go elsewhere to do their business while you can. Again, keep calm if they are aggressive. Just take your stuff and change location. Wait until their shop closes in the evening.
 
 ## Paying Jobs {#paying_jobs}
 
@@ -68,10 +68,7 @@ In theory, many of the jobs you take should involve paying tax. However, undergr
 
 [Category:Money](Category:Money "Category:Money"){.wikilink}
 
-
-
-
 ---
 
-Source: [Earning on the road](https://nomadwiki.org/en/Earning_on_the_road)  
+Source: [Earning on the road](https://nomadwiki.org/en/Earning_on_the_road)
 License: CC-BY-SA-4.0

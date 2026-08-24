@@ -25,10 +25,7 @@ There is a system of (formerly free) buses known as GoKL ([1](http://www.gokl.co
 
 At KL Sentral there are many lockers available for use. There are two different kinds - the ones near the escalator toward the exit, close to the bathrooms and those on the way to the departure gate for the KL Ekspres to the airport near the escalator heading toward the mall. The lockers toward KL Ekspres are MYR 2 for 24 hours, including overnight, and MYR 2 for every hour over 24 hours. The lockers near the bathroom range in price from MYR 5 to 20 and do not allow overnight storage. Update 29.Jan.24: locker near bathroom: 12 hrs max.; small: 10 RM, Medium: 30 RM, large: 50 RM
 
-
-
-
 ---
 
-Source: [Kuala Lumpur](https://hitchwiki.org/en/Kuala_Lumpur)  
+Source: [Kuala Lumpur](https://hitchwiki.org/en/Kuala_Lumpur)
 License: CC-BY-SA-4.0

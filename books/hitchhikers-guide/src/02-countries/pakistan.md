@@ -73,10 +73,7 @@ A blog about the stories of a hitchhiker with [many stories about Pakistan from 
 
 [Category:Southern Asia](Category:Southern_Asia "Category:Southern Asia"){.wikilink} [Category:Pakistan](Category:Pakistan "Category:Pakistan"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Pakistan](https://hitchwiki.org/en/Pakistan)  
+Source: [Pakistan](https://hitchwiki.org/en/Pakistan)
 License: CC-BY-SA-4.0

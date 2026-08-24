@@ -16,10 +16,7 @@ Hitchhikernick - Visited for one week in late September 2023. Hitching seemed pr
 
 [Category:Oceania](Category:Oceania "Category:Oceania"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Nauru](https://hitchwiki.org/en/Nauru)  
+Source: [Nauru](https://hitchwiki.org/en/Nauru)
 License: CC-BY-SA-4.0

@@ -9,14 +9,9 @@ The **Faroe Islands** are a paradise for [dumpster divers](dumpster_diver "dumps
 - [Vestmanna](Vestmanna "Vestmanna"){.wikilink}
 - `<small>`{=html}*add more?*`</small>`{=html}
 
-[hitch:Faroe Islands](hitch:Faroe_Islands "hitch:Faroe Islands"){.wikilink}
-
 [Category:Faroe Islands](Category:Faroe_Islands "Category:Faroe Islands"){.wikilink} [Category:Europe](Category:Europe "Category:Europe"){.wikilink}
-
-
-
 
 ---
 
-Source: [Faroe Islands](https://trashwiki.org/en/Faroe_Islands)  
+Source: [Faroe Islands](https://trashwiki.org/en/Faroe_Islands)
 License: CC-BY-NC-SA-4.0

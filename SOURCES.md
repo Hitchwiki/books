@@ -18,9 +18,9 @@ How chapters are compiled and how to edit them without losing wiki updates: [EDI
 | randomroads.org | CC-BY-NC-SA | Random Roads |
 | dumpsterdam.nl | CC-BY-NC-SA-4.0 (this book) | Dumpsterdam |
 | moneyless.org | CC-BY-NC-SA | Moneyless (en) |
-| geldloos.nl | CC | Moneyless (nl) |
-| sindinero.net | CC-BY-NC | Moneyless (es) |
-| sansargent.fr, ohnegeld.net | CC-BY-NC-SA (mirrors); recover dumps | Moneyless (fr, de) |
+| geldloos.nl | CC | Geldloos |
+| sindinero.net | CC-BY-NC | Sin Dinero |
+| sansargent.fr, ohnegeld.net | CC-BY-NC-SA (mirrors); recover dumps | Moneyless (fr, de) if recovered |
 | casarobino.org | CC-BY-SA-3.0 | Hospitality Exchange, Shoestring Nomad |
 | github.com/Trustroots/trustroots | AGPL-3.0 (code) | describe only |
 | github.com/BeWelcome/rox | GPL-2.0 (code) | describe only |
@@ -29,7 +29,7 @@ How chapters are compiled and how to edit them without losing wiki updates: [EDI
 | opencouchsurfing.org | ask authors | Hospitality Exchange after grant |
 | file.wikileaks.org/file/veit-hospitality-power-strategy-2009.txt | leaked 2005 HC mailing (filename 2009); **cite only**, not compiled | Hospitality Exchange history chapter |
 
-Drupal node bodies for Random Roads, Dumpsterdam, Moneyless, and Casa Robino are compiled from content-only dumps kept locally (no `users` / session / webform tables). Trashwiki can use a private SQL dump in addition to the public ZIM. SSH hosts live in gitignored `local/hosts.env`. Nothing under `dumps/` is committed.
+Drupal node bodies for Random Roads, Dumpsterdam, Geldloos, Moneyless, Sin Dinero, and Casa Robino are compiled from content-only dumps kept locally (no `users` / session / webform tables). Trashwiki can use a private SQL dump in addition to the public ZIM. SSH hosts live in gitignored `local/hosts.env`. Nothing under `dumps/` is committed.
 
 ## Adjacent (later or cite-only)
 
@@ -44,7 +44,7 @@ Drupal node bodies for Random Roads, Dumpsterdam, Moneyless, and Casa Robino are
 
 ## Wanted later (not v1)
 
-Philosophy book(s), original writing, **separate title(s)** — do not merge with the seven v1 books (BY-SA vs NC-SA still cannot be one work).
+Philosophy book(s), original writing, **separate title(s)** — do not merge with the v1 books (BY-SA vs NC-SA still cannot be one work).
 
 Themes to cover when we start it:
 
@@ -65,8 +65,10 @@ Each book should get a **foreword by someone relevant in that space**, written f
 | Dumpster Diving | Trashwiki / dumpster diving | | | |
 | Random Roads | hitch storytellers / Robino orbit | | | |
 | Dumpsterdam | Robino / dumpster-diving Netherlands | | | |
+| Geldloos | geldloos.nl / gift economy (nl) | | | |
 | Hospitality Exchange | Trustroots / BeWelcome / hospex | | | |
 | Moneyless | moneyless / gift economy | | | |
+| Sin Dinero | sindinero.net / gift economy (es) | | | |
 | Shoestring Nomad | Nomadwiki / nomadbase | | | |
 
 ## Do not treat as free sources

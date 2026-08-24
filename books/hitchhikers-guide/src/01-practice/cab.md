@@ -7,10 +7,7 @@
 
 [Category:General info](Category:General_info "Category:General info"){.wikilink}
 
-
-
-
 ---
 
-Source: [Cab](https://hitchwiki.org/en/Cab)  
+Source: [Cab](https://hitchwiki.org/en/Cab)
 License: CC-BY-SA-4.0

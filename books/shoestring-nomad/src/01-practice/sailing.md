@@ -12,18 +12,16 @@ On [7knots.com](http://www.7knots.com/) some people offer free places on their b
 
 More information about hitchhiking boats:
 
-- [Hitchwiki](:hitch:Hitchhiking_a_boat "Hitchwiki"){.wikilink}.
-- [Randomroads.org story](:randomroads:story/ten-different-captains "Randomroads.org story"){.wikilink} with some special considerations for hitching on boats
+- Hitchwiki.
+- Randomroads.org story with some special considerations for hitching on boats
 
 [Category:Transport](Category:Transport "Category:Transport"){.wikilink}
-
 
 ![Ankerspill.jpg](../../images/ankerspilljpg.jpg)
 
 *Ankerspill.jpg — CeGe (CC BY-SA 3.0)*
 
-
 ---
 
-Source: [Sailing](https://nomadwiki.org/en/Sailing)  
+Source: [Sailing](https://nomadwiki.org/en/Sailing)
 License: CC-BY-SA-4.0

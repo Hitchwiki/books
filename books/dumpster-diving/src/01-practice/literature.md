@@ -40,14 +40,9 @@
 
 - *[Waste: Uncovering the Global Food Scandal](http://www.tristramstuart.co.uk/)* by Tristram Stuart. Penguin Books, 2 Jul 2009. (ISBN 0-14-103634-6)
 
-[share:Literature](share:Literature "share:Literature"){.wikilink}
-
 [Category:General info](Category:General_info "Category:General info"){.wikilink}
-
-
-
 
 ---
 
-Source: [Literature](https://trashwiki.org/en/Literature)  
+Source: [Literature](https://trashwiki.org/en/Literature)
 License: CC-BY-NC-SA-4.0

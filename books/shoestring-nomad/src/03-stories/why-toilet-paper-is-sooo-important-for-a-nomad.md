@@ -1,4 +1,4 @@
-# Why toilet paper is sooo…… important for a nomad :)
+# Why toilet paper is sooo…… important for a nomad:)
 
 14 ways why toiletpaper is handy for on the road (:
 Clean ur ears

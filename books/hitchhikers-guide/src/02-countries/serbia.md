@@ -79,7 +79,7 @@ I hitchhiked through the entirety of Serbia (North to South) in a single summer 
 
 <div class="hw-exp-text">
 
-27 years old man : I went from Croatia to Macedonia trough Serbia. My experience was so good. I\'ve been told it\'s really difficult country and that Serbian don\'t like foreigners. Personally every Serb I talked to was very nice to me when I asked politely, sometimes with few serbian words/phrases. I have been invited several times. I had very fast ride, when it was 30/40mn it was just because all the cars were full at the border with Croatia and Serbia. I think it\'s a bit like Italy and other countries where maybe it\'s easier if you look like a clean european guy.
+27 years old man: I went from Croatia to Macedonia trough Serbia. My experience was so good. I\'ve been told it\'s really difficult country and that Serbian don\'t like foreigners. Personally every Serb I talked to was very nice to me when I asked politely, sometimes with few serbian words/phrases. I have been invited several times. I had very fast ride, when it was 30/40mn it was just because all the cars were full at the border with Croatia and Serbia. I think it\'s a bit like Italy and other countries where maybe it\'s easier if you look like a clean european guy.
 
 </div>
 </div>
@@ -90,10 +90,7 @@ I hitchhiked through the entirety of Serbia (North to South) in a single summer 
 
 [Category:Serbia](Category:Serbia "Category:Serbia"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Serbia](https://hitchwiki.org/en/Serbia)  
+Source: [Serbia](https://hitchwiki.org/en/Serbia)
 License: CC-BY-SA-4.0

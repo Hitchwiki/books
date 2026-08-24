@@ -29,7 +29,7 @@ Another Option is to just walk out of the city you want to hitchhike from, until
 ### Border Crossing {#border_crossing}
 
 - [Morocco](Morocco "Morocco"){.wikilink}: There actually is no border, just a handful of police checkpoints along the road.
-- [Mauritania](Mauritania "Mauritania"){.wikilink}: Many land mines around the border area, take care! Visa are not issued anymore at the border, you have to get them beforehand at the Mauritanian [embassy](embassy "embassy"){.wikilink} in [Rabat](Rabat "Rabat"){.wikilink} (Morocco) or elsewhere they have one ([Banjul](Banjul "Banjul"){.wikilink}, [Dakar](Dakar "Dakar"){.wikilink}\...). (Edit. Lachance ; Visa can actually be issued at the border of Mauritania. Border open at 9 and visa office at 11h)
+- [Mauritania](Mauritania "Mauritania"){.wikilink}: Many land mines around the border area, take care! Visa are not issued anymore at the border, you have to get them beforehand at the Mauritanian [embassy](embassy "embassy"){.wikilink} in [Rabat](Rabat "Rabat"){.wikilink} (Morocco) or elsewhere they have one ([Banjul](Banjul "Banjul"){.wikilink}, [Dakar](Dakar "Dakar"){.wikilink}\...). (Edit. Lachance; Visa can actually be issued at the border of Mauritania. Border open at 9 and visa office at 11h)
 - [Algeria](Algeria "Algeria"){.wikilink}: The border to Algeria is closed, though it could be possible to get into via Polisario-controlled areas, though this is absolutely not advised if you want to travel safely.
 
 ## Hitchhiking {#hitchhiking_1}
@@ -48,10 +48,7 @@ Pls add info
 
 [Category:Northern Africa](Category:Northern_Africa "Category:Northern Africa"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Western Sahara](https://hitchwiki.org/en/Western_Sahara)  
+Source: [Western Sahara](https://hitchwiki.org/en/Western_Sahara)
 License: CC-BY-SA-4.0

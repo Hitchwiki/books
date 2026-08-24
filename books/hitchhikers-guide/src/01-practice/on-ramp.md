@@ -6,10 +6,7 @@
 
 [Category:General info](Category:General_info "Category:General info"){.wikilink}
 
-
-
-
 ---
 
-Source: [On-ramp](https://hitchwiki.org/en/On-ramp)  
+Source: [On-ramp](https://hitchwiki.org/en/On-ramp)
 License: CC-BY-SA-4.0

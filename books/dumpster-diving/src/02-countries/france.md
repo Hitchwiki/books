@@ -60,19 +60,13 @@ Consider browsing:
 - [secours catholique france](http://www.secours-catholique.org/)
 - [croix rouge francaise](http://www.croix-rouge.fr/)
 
-[hitch:France](hitch:France "hitch:France"){.wikilink} [velo:France](velo:France "velo:France"){.wikilink} [vegan:France](vegan:France "vegan:France"){.wikilink}
-
-[nomad:France](nomad:France "nomad:France"){.wikilink}
-
 [Category:France](Category:France "Category:France"){.wikilink}
-
 
 ![LyonDiveGoods1.jpg](../../images/lyondivegoods1jpg.jpg)
 
 *LyonDiveGoods1.jpg — 2fish*
 
-
 ---
 
-Source: [France](https://trashwiki.org/en/France)  
+Source: [France](https://trashwiki.org/en/France)
 License: CC-BY-NC-SA-4.0

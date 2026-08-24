@@ -44,14 +44,7 @@ According to its [website](http://foodnotbombs.net/mexico.html), FNB is in many 
 - [San Cristóbal](San_Cristóbal "San Cristóbal"){.wikilink} de las Casas
 - `<small>`{=html}*add more?*`</small>`{=html}
 
-[hitch:Mexico](hitch:Mexico "hitch:Mexico"){.wikilink}
-
-[nomad:Mexico](nomad:Mexico "nomad:Mexico"){.wikilink} [vegan:Mexico](vegan:Mexico "vegan:Mexico"){.wikilink}
-
-
-
-
 ---
 
-Source: [Mexico](https://trashwiki.org/en/Mexico)  
+Source: [Mexico](https://trashwiki.org/en/Mexico)
 License: CC-BY-NC-SA-4.0

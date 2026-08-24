@@ -10,16 +10,9 @@
 - [Usti nad labem](Usti_nad_labem "Usti nad labem"){.wikilink}
 - `<small>`{=html}add more?`</small>`{=html}
 
-[hitch:Czech Republic](hitch:Czech_Republic "hitch:Czech Republic"){.wikilink}
-
-[nomad:Czech Republic](nomad:Czech_Republic "nomad:Czech Republic"){.wikilink}
-
 [Category:Czech Republic](Category:Czech_Republic "Category:Czech Republic"){.wikilink}
-
-
-
 
 ---
 
-Source: [Czech Republic](https://trashwiki.org/en/Czech_Republic)  
+Source: [Czech Republic](https://trashwiki.org/en/Czech_Republic)
 License: CC-BY-NC-SA-4.0

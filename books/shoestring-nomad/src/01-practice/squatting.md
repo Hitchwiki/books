@@ -16,10 +16,7 @@ In the Netherlands, squatting is illegal since October 2010. However, when you d
 
 [Category:Accommodation](Category:Accommodation "Category:Accommodation"){.wikilink}
 
-
-
-
 ---
 
-Source: [Squatting](https://nomadwiki.org/en/Squatting)  
+Source: [Squatting](https://nomadwiki.org/en/Squatting)
 License: CC-BY-SA-4.0

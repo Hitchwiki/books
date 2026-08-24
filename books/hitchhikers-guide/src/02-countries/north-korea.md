@@ -16,10 +16,7 @@ Local people will be punished if you (as a foreigner) talk to them.
 
 [Category:Asia](Category:Asia "Category:Asia"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [North Korea](https://hitchwiki.org/en/North_Korea)  
+Source: [North Korea](https://hitchwiki.org/en/North_Korea)
 License: CC-BY-SA-4.0

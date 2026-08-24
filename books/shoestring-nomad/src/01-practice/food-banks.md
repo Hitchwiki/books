@@ -15,10 +15,7 @@ As a nomad, utilizing a food bank brings forth many ethical questions, since the
 
 [Category:Food](Category:Food "Category:Food"){.wikilink}
 
-
-
-
 ---
 
-Source: [Food banks](https://nomadwiki.org/en/Food_banks)  
+Source: [Food banks](https://nomadwiki.org/en/Food_banks)
 License: CC-BY-SA-4.0

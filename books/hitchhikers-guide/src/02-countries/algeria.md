@@ -12,7 +12,7 @@ French or Arabic is a HUGE asset in the country. Hitching without either would p
 
 ## Getting In {#getting_in}
 
-The best option is probably taking a boat from Almeria, Spain. The only company is Transmediterranea, which runs two boats a week to Oran for between 50 and 100 euros (depending on the time of year). Other options are flying into Algiers or Oran from Europe, however flights are usually cheaper into Tunis, Tunisia, from which you can get in overland. Hitchhiking in from Tunisia will not pose a problem at the border, though it is not a bad idea to communicate with your driver that you can both pretend he is a taxi driver as to hide the fact you are getting into a police state by hitchhiking. ![[PhysicsHipster](User:PhysicsHipster "PhysicsHipster"){.wikilink} hitchhiking in the Algerian Sahara.](AlgeriaSahara.JPG "PhysicsHipster hitchhiking in the Algerian Sahara."){width="300"}
+The best option is probably taking a boat from Almeria, Spain. The only company is Transmediterranea, which runs two boats a week to Oran for between 50 and 100 euros (depending on the time of year). Other options are flying into Algiers or Oran from Europe, however flights are usually cheaper into Tunis, Tunisia, from which you can get in overland. Hitchhiking in from Tunisia will not pose a problem at the border, though it is not a bad idea to communicate with your driver that you can both pretend he is a taxi driver as to hide the fact you are getting into a police state by hitchhiking.![[PhysicsHipster](User:PhysicsHipster "PhysicsHipster"){.wikilink} hitchhiking in the Algerian Sahara.](AlgeriaSahara.JPG "PhysicsHipster hitchhiking in the Algerian Sahara."){width="300"}
 
 ## Safety
 
@@ -61,14 +61,9 @@ it feels a bit stupid writing about Algeria on hitchwiki since we barely did any
 </div>
 </div>
 
-[visa:Algeria](visa:Algeria "visa:Algeria"){.wikilink} [nomad:Algeria](nomad:Algeria "nomad:Algeria"){.wikilink}
-
 [Category:Algeria](Category:Algeria "Category:Algeria"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
-
-
-
 
 ---
 
-Source: [Algeria](https://hitchwiki.org/en/Algeria)  
+Source: [Algeria](https://hitchwiki.org/en/Algeria)
 License: CC-BY-SA-4.0

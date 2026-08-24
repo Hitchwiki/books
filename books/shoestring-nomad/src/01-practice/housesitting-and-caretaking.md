@@ -24,10 +24,7 @@ In some countries there\'s also a more institutionalized form, in the [Netherlan
 
 [Category:Accommodation](Category:Accommodation "Category:Accommodation"){.wikilink}
 
-
-
-
 ---
 
-Source: [Housesitting and caretaking](https://nomadwiki.org/en/Housesitting_and_caretaking)  
+Source: [Housesitting and caretaking](https://nomadwiki.org/en/Housesitting_and_caretaking)
 License: CC-BY-SA-4.0

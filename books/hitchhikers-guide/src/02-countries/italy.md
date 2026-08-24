@@ -22,7 +22,7 @@ Italy bans hitchhiking on its fast roads by name, and unusually the ban reaches 
 
 Border crossings shouldn\'t be a problem, but avoid revealing yourself as a hitchhiker at the border, since it might still be considered as part of the highway and thus illegal.
 
-![[Quarim](User:Quarim "Quarim"){.wikilink} and a *NO autostop* sign.](No_autostop_en_italia.JPG "Quarim and a NO autostop sign.") ![Jurichezzbmx hitchhiking at the entrance of the Italian motorways, holding its thumb by a huge \"no autostop\" sign. Impressive but ju got a ride within 10min. Watch out for the cops tho.](WhatsApp_Image_2024-06-11_at_10.39.40_(1)_(1).jpg "Jurichezzbmx hitchhiking at the entrance of the Italian motorways, holding its thumb by a huge "no autostop" sign. Impressive but ju got a ride within 10min. Watch out for the cops tho.")
+![[Quarim](User:Quarim "Quarim"){.wikilink} and a *NO autostop* sign.](No_autostop_en_italia.JPG "Quarim and a NO autostop sign.")![Jurichezzbmx hitchhiking at the entrance of the Italian motorways, holding its thumb by a huge \"no autostop\" sign. Impressive but ju got a ride within 10min. Watch out for the cops tho.](WhatsApp_Image_2024-06-11_at_10.39.40_(1)_(1).jpg "Jurichezzbmx hitchhiking at the entrance of the Italian motorways, holding its thumb by a huge "no autostop" sign. Impressive but ju got a ride within 10min. Watch out for the cops tho.")
 
 Of course it is still possible to hitch the width and length of Italy on freeways without being fined all the time. On-ramps and exits of petrol stations have big signs saying *no autostop*; if you stay before those, you should be fine; even if police have a problem, they will mostly just ask you to move further away from the sign. The ban on hitchhiking is not generally enforced in highway gas stations, but all the more when you\'re in a place where it actually is potentially dangerous to stand. It can happen that they ask you to leave a gas station and continue by train (see [public transportation section in NomadWiki](https://nomadwiki.org/en/Italy#public_transport) for advice on how to travel for free by train). Generally it is smart to lower your thumb and try to look like a straying botanist or something whenever you see coppers approaching near the motorway.
 
@@ -34,9 +34,9 @@ Edit: (TommytheCommie) We had no success trying to hitchhike from the toll bridg
 
 ## Roads
 
-As described above, you\'ll find in Italy motorways \"Autostrada\" and state roads \"Strada Statale\". Motorways look pretty much like French ones : contrary to Germany, there are tollgates where drivers have to get slower.
+As described above, you\'ll find in Italy motorways \"Autostrada\" and state roads \"Strada Statale\". Motorways look pretty much like French ones: contrary to Germany, there are tollgates where drivers have to get slower.
 
-Roads in Italy, both state roads and motorways especially in the North, are surprisingly heavily arranged : there are lots of barriers or rails on the side of the roads, and lots of (really lots of) tunnels to cross uneven landscapes and ranges. In the North, in the Alps, some roads are only succession of tunnels (like in Aosta valley), and sometimes even tiny roads leading to a small valley will have barriers one both sides. You can then sometimes get stuck because there is absolutely no place to hitchhike and stop a car, on a road between two tunnels and barriers on both sides.
+Roads in Italy, both state roads and motorways especially in the North, are surprisingly heavily arranged: there are lots of barriers or rails on the side of the roads, and lots of (really lots of) tunnels to cross uneven landscapes and ranges. In the North, in the Alps, some roads are only succession of tunnels (like in Aosta valley), and sometimes even tiny roads leading to a small valley will have barriers one both sides. You can then sometimes get stuck because there is absolutely no place to hitchhike and stop a car, on a road between two tunnels and barriers on both sides.
 
 More generally, roads in Italy are quite tight, although really almost all the time very well sealed, and finding a good spot to hitch is maybe a bit difficult in mountains regions. Also because roads are stirring a lot, maybe more than in others countries.
 
@@ -63,28 +63,28 @@ Edit: (TheLoneBaker) Crossing the Alps via Switzerland from the A9 seemed to be 
 ## Regions and cities in Italy {#regions_and_cities_in_italy}
 
 +----------------------------------------------+-------------------------------------------------+
-| Region                                       | City                                            |
+| Region | City |
 +==============================================+=================================================+
 | - [Calabria](Calabria "Calabria"){.wikilink} | - [Agrigento](Agrigento "Agrigento"){.wikilink} |
-| - [Südtirol](Südtirol "Südtirol"){.wikilink} | - [Bergamo](Bergamo "Bergamo"){.wikilink}       |
-| - [Sardegna](Sardegna "Sardegna"){.wikilink} | - [Brindisi](Brindisi "Brindisi"){.wikilink}    |
-| - [Sicily](Sicily "Sicily"){.wikilink}       | - [Bologna](Bologna "Bologna"){.wikilink}       |
-|                                              | - [Catania](Catania "Catania"){.wikilink}       |
-|                                              | - [Cosenza](Cosenza "Cosenza"){.wikilink}       |
-|                                              | - [Enna](Enna "Enna"){.wikilink}                |
-|                                              | - [Florence](Firenze "Florence"){.wikilink}     |
-|                                              | - [Foggia](Foggia "Foggia"){.wikilink}          |
-|                                              | - [Genova](Genova "Genova"){.wikilink}          |
-|                                              | - [Milano](Milano "Milano"){.wikilink}          |
-|                                              | - [Napoli](Napoli "Napoli"){.wikilink}          |
-|                                              | - [Padova](Padova "Padova"){.wikilink}          |
-|                                              | - [Palermo](Palermo "Palermo"){.wikilink}       |
-|                                              | - [Rome](Rome "Rome"){.wikilink}                |
-|                                              | - [Sabaudia](Sabaudia "Sabaudia"){.wikilink}    |
-|                                              | - [Torino](Torino "Torino"){.wikilink}          |
-|                                              | - [Trento](Trento "Trento"){.wikilink}          |
-|                                              | - [Trieste](Trieste "Trieste"){.wikilink}       |
-|                                              | - [Venice](Venice "Venice"){.wikilink}          |
+| - [Südtirol](Südtirol "Südtirol"){.wikilink} | - [Bergamo](Bergamo "Bergamo"){.wikilink} |
+| - [Sardegna](Sardegna "Sardegna"){.wikilink} | - [Brindisi](Brindisi "Brindisi"){.wikilink} |
+| - [Sicily](Sicily "Sicily"){.wikilink} | - [Bologna](Bologna "Bologna"){.wikilink} |
+| | - [Catania](Catania "Catania"){.wikilink} |
+| | - [Cosenza](Cosenza "Cosenza"){.wikilink} |
+| | - [Enna](Enna "Enna"){.wikilink} |
+| | - [Florence](Firenze "Florence"){.wikilink} |
+| | - [Foggia](Foggia "Foggia"){.wikilink} |
+| | - [Genova](Genova "Genova"){.wikilink} |
+| | - [Milano](Milano "Milano"){.wikilink} |
+| | - [Napoli](Napoli "Napoli"){.wikilink} |
+| | - [Padova](Padova "Padova"){.wikilink} |
+| | - [Palermo](Palermo "Palermo"){.wikilink} |
+| | - [Rome](Rome "Rome"){.wikilink} |
+| | - [Sabaudia](Sabaudia "Sabaudia"){.wikilink} |
+| | - [Torino](Torino "Torino"){.wikilink} |
+| | - [Trento](Trento "Trento"){.wikilink} |
+| | - [Trieste](Trieste "Trieste"){.wikilink} |
+| | - [Venice](Venice "Venice"){.wikilink} |
 +----------------------------------------------+-------------------------------------------------+
 
 ## Ferries between Italy and Greece {#ferries_between_italy_and_greece}
@@ -107,10 +107,7 @@ For detailed information on speaking Italian check the [Italian phrasebook](Sout
 
 [Category:Southern Europe](Category:Southern_Europe "Category:Southern Europe"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Italy](https://hitchwiki.org/en/Italy)  
+Source: [Italy](https://hitchwiki.org/en/Italy)
 License: CC-BY-SA-4.0

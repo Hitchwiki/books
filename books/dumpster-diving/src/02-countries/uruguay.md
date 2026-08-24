@@ -7,14 +7,9 @@
 - [Montevideo](Montevideo "Montevideo"){.wikilink}
 - `<small>`{=html}add more?`</small>`{=html}
 
-[hitch:Uruguay](hitch:Uruguay "hitch:Uruguay"){.wikilink} [nomad:Uruguay](nomad:Uruguay "nomad:Uruguay"){.wikilink}
-
 [Category:Uruguay](Category:Uruguay "Category:Uruguay"){.wikilink}
-
-
-
 
 ---
 
-Source: [Uruguay](https://trashwiki.org/en/Uruguay)  
+Source: [Uruguay](https://trashwiki.org/en/Uruguay)
 License: CC-BY-NC-SA-4.0

@@ -58,14 +58,14 @@ SOURCES = [
     },
     {
         "file": "geldloosnl-nodes.xml.gz",
-        "book": "moneyless",
+        "book": "geldloos",
         "lang": "nl",
         "base": "https://geldloos.nl/",
         "skip_types": SKIP_TYPES | {"featured", "video"},
     },
     {
         "file": "sindineronet-nodes.xml.gz",
-        "book": "moneyless",
+        "book": "sin-dinero",
         "lang": "es",
         "base": "https://sindinero.net/",
         "skip_types": SKIP_TYPES,

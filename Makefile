@@ -1,7 +1,7 @@
 VERSION ?= 0.1-$(shell date -u +%Y%m%d-%H%M)
 PYTHON  ?= $(firstword $(wildcard $(CURDIR)/.venv/bin/python3) python3)
 PANDOC  ?= pandoc
-BOOKS   := hitchhikers-guide dumpster-diving random-roads dumpsterdam hospitality-exchange moneyless shoestring-nomad
+BOOKS   := hitchhikers-guide dumpster-diving random-roads dumpsterdam geldloos hospitality-exchange moneyless sin-dinero shoestring-nomad
 FORMATS ?= html,epub,pdf
 OUT     := build
 SITE    := $(OUT)/site

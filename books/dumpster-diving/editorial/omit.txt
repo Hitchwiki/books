@@ -1,2 +1,4 @@
 # Wiki titles, slugs, or src-relative paths to leave out of this book.
 # You can also put <!-- editorial:omit --> in the chapter.
+News and events
+01-practice/news-and-events.md

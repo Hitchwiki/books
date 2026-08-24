@@ -8,9 +8,9 @@
 
 In 2024 hitchhiking is illegal in the UAE, because:
 
-1.  Drivers are prohibited from stopping on the road, there is some fine for that.
-2.  Drivers can\'t drive strangers in his car. The fine for stranger in the car is about 700 USD.
-3.  If police will find drugs with some of car passengers, every person in this car will be equally guilty. In some cases it can be punished by death.
+1. Drivers are prohibited from stopping on the road, there is some fine for that.
+2. Drivers can\'t drive strangers in his car. The fine for stranger in the car is about 700 USD.
+3. If police will find drugs with some of car passengers, every person in this car will be equally guilty. In some cases it can be punished by death.
 
 ## Common visa facility with [Oman](Oman "Oman"){.wikilink} {#common_visa_facility_with_oman}
 
@@ -22,9 +22,9 @@ In 2024 hitchhiking is illegal in the UAE, because:
 
 I hitchhiked from Abu-Dhabi do Al Ain and Oman in 2024. I was staying at several good places and it was extremely hard, because only taxis were stopping. I waited for hours and eventually some Indian people picked me up twice and later local person, who explained me why hitchhiking is difficult here. Actually hitchhiking is illegal now in UAE, because:
 
-1.  Driver can\'t stop on the road, it\'s prohibited and he will pay fine.
-2.  Driver can\'t drive strangers in his car. The fine for stranger in the car is about 700 USD.
-3.  If police will find drugs with some of car passengers, every person in this car will be equally guilty.
+1. Driver can\'t stop on the road, it\'s prohibited and he will pay fine.
+2. Driver can\'t drive strangers in his car. The fine for stranger in the car is about 700 USD.
+3. If police will find drugs with some of car passengers, every person in this car will be equally guilty.
 
 ### [WildWill](WildWill "WildWill"){.wikilink}
 
@@ -46,7 +46,7 @@ My recommendations:
 
 - 3 hours south of Dubai is the epic desert of Liwa, near the Saudi border and the start of the Empty Quarter \[closer to Dubai, the desert of Badayer is beautiful\]. Huge dunes. Bring water. It\'s quite quiet but even just a drive through here will be a lasting memory. Hopefully you\'ll find someone to take you off-road. If this tickles your fancy, the Wahiba Sands in Oman are also epic, and more cultural. Make your way to Falaj Al Mashayikh, NW of Jalan Bani Bu Hassan. This is a Bedouin village and any ride here will likely result in you being welcomed to their Majalis, and inshallah, a desert drive too. Wadi Bani Khalid starting \~30km N of here is another gem, follow the road through the mountain oasis.
 
-Update: I see others are curious about the ferry from Bandar Abbas to Sharjah. I took this route completing my journey from the UK to the UAE. Originally I wanted to hitchhike a dhow, but the port I went to had security gates preventing me from reaching the dhows (Bandar Lengeh - \"Dhow Port\"!) \[this isn\'t the case in Dubai or Sharjah\]. I could have persevered by trying another port, but with home so close and the ferry leaving that day, I took it. I didn\'t have enough cash left for the ticket, so they agreed to take my passport as collateral and in Sharjah the friendly police escorted me to the ATM, I bought back my passport from the captain and they fast tracked me through security. Ferry took 13 hours, through the night. Not much to report except that it is possible. I don\'t know how reliable the schedule is. PS. Iran is an incredible country, the friendliest I\'ve been to. Please see for yourself :)
+Update: I see others are curious about the ferry from Bandar Abbas to Sharjah. I took this route completing my journey from the UK to the UAE. Originally I wanted to hitchhike a dhow, but the port I went to had security gates preventing me from reaching the dhows (Bandar Lengeh - \"Dhow Port\"!) \[this isn\'t the case in Dubai or Sharjah\]. I could have persevered by trying another port, but with home so close and the ferry leaving that day, I took it. I didn\'t have enough cash left for the ticket, so they agreed to take my passport as collateral and in Sharjah the friendly police escorted me to the ATM, I bought back my passport from the captain and they fast tracked me through security. Ferry took 13 hours, through the night. Not much to report except that it is possible. I don\'t know how reliable the schedule is. PS. Iran is an incredible country, the friendliest I\'ve been to. Please see for yourself:)
 
 ### [alex](User:Alex "alex"){.wikilink}:
 
@@ -77,10 +77,7 @@ Update: I see others are curious about the ferry from Bandar Abbas to Sharjah. I
 
 [Category:Western Asia](Category:Western_Asia "Category:Western Asia"){.wikilink} [Category:Middle East](Category:Middle_East "Category:Middle East"){.wikilink} [Category:East Route from North Cape to Cape of Good Hope](Category:East_Route_from_North_Cape_to_Cape_of_Good_Hope "Category:East Route from North Cape to Cape of Good Hope"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink}
 
-
-
-
 ---
 
-Source: [United Arab Emirates](https://hitchwiki.org/en/United_Arab_Emirates)  
+Source: [United Arab Emirates](https://hitchwiki.org/en/United_Arab_Emirates)
 License: CC-BY-SA-4.0

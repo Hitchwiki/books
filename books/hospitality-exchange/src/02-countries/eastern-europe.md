@@ -13,16 +13,9 @@
 - [Slovakia](Slovakia "Slovakia"){.wikilink}
 - [Ukraine](Ukraine "Ukraine"){.wikilink}
 
-[hitch:Eastern Europe](hitch:Eastern_Europe "hitch:Eastern Europe"){.wikilink} [trash:Eastern Europe](trash:Eastern_Europe "trash:Eastern Europe"){.wikilink}
-
-[nomad:Eastern Europe](nomad:Eastern_Europe "nomad:Eastern Europe"){.wikilink}
-
 [Category:Europe](Category:Europe "Category:Europe"){.wikilink}
-
-
-
 
 ---
 
-Source: [Eastern Europe](https://wiki.trustroots.org/en/Eastern_Europe)  
+Source: [Eastern Europe](https://wiki.trustroots.org/en/Eastern_Europe)
 License: CC-BY-SA-4.0

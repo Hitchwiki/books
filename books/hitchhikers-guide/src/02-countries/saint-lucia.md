@@ -29,10 +29,7 @@ Hitchhikernick - hitched there in may 2024 and July 2017.  Hitched without inci
 
 [Category:Caribbean](Category:Caribbean "Category:Caribbean"){.wikilink} [Category:Island](Category:Island "Category:Island"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Saint Lucia](https://hitchwiki.org/en/Saint_Lucia)  
+Source: [Saint Lucia](https://hitchwiki.org/en/Saint_Lucia)
 License: CC-BY-SA-4.0

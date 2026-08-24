@@ -6,7 +6,7 @@ It is bordered by [Egypt](Egypt "Egypt"){.wikilink} to the north, the Red Sea to
 
 ## Hitchhiking
 
-Hitchhiking is very common in Sudan, especially outside [Khartoum](Khartoum "Khartoum"){.wikilink}, where public transport tends to be scarce. Often a symbolic payment is typically expected, except for the region around [Khartoum](Khartoum "Khartoum"){.wikilink}. You need a travel permit from the Ministry of Tourism (which will be issued for free) to travel outside the capital. You will be asked to show a copy of the permit at every police checkpoint you pass. Some sources claim that the permit is not required anymore for tourists travelling in the North, but this information did not arrive at the police at the checkpoints, so it\'s best to have a permit to show. Make copies of your travel permit to hand them to police, so that you don\'t need to give the original away. ![Hitchhiking is very common in northern Sudan. This man is on his way to his family to celebrate Eid al-Adha.](292771_3792629380742_753177269_n.jpg "Hitchhiking is very common in northern Sudan. This man is on his way to his family to celebrate Eid al-Adha."){width="266"}
+Hitchhiking is very common in Sudan, especially outside [Khartoum](Khartoum "Khartoum"){.wikilink}, where public transport tends to be scarce. Often a symbolic payment is typically expected, except for the region around [Khartoum](Khartoum "Khartoum"){.wikilink}. You need a travel permit from the Ministry of Tourism (which will be issued for free) to travel outside the capital. You will be asked to show a copy of the permit at every police checkpoint you pass. Some sources claim that the permit is not required anymore for tourists travelling in the North, but this information did not arrive at the police at the checkpoints, so it\'s best to have a permit to show. Make copies of your travel permit to hand them to police, so that you don\'t need to give the original away.![Hitchhiking is very common in northern Sudan. This man is on his way to his family to celebrate Eid al-Adha.](292771_3792629380742_753177269_n.jpg "Hitchhiking is very common in northern Sudan. This man is on his way to his family to celebrate Eid al-Adha."){width="266"}
 
 Hitching is generally easy, although many of the citizens do not understand the concept of hitching, so it is best to say you are having money problems. On roads with trade and freight, you should easily be able to pick up a lorry. On minor roads, such as those heading north, often the only traffic will be with minibuses. These are modern, air conditioned and pretty reasonable.
 
@@ -61,10 +61,7 @@ TheLoneBaker: I hitchhiked through Sudan in 2018 and found it extremely easy. Mo
 
 [Category:Northern Africa](Category:Northern_Africa "Category:Northern Africa"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Sudan](https://hitchwiki.org/en/Sudan)  
+Source: [Sudan](https://hitchwiki.org/en/Sudan)
 License: CC-BY-SA-4.0

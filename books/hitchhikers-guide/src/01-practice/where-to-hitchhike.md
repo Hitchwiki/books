@@ -126,10 +126,7 @@ It is easy to lose hours by making mistakes such as standing on the wrong road, 
 
 [Category:Practical info](Category:Practical_info "Category:Practical info"){.wikilink}
 
-
-
-
 ---
 
-Source: [Where to hitchhike](https://hitchwiki.org/en/Where_to_hitchhike)  
+Source: [Where to hitchhike](https://hitchwiki.org/en/Where_to_hitchhike)
 License: CC-BY-SA-4.0

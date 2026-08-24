@@ -10,10 +10,6 @@ It is not the wealthiest country in the world, therefore [freegan](freegan "free
 - [Saint Petersburg](Saint_Petersburg "Saint Petersburg"){.wikilink}
 - `<small>`{=html}*add more?*`</small>`{=html}
 
-[hitch:Russia](hitch:Russia "hitch:Russia"){.wikilink}
-
-[nomad:Russia](nomad:Russia "nomad:Russia"){.wikilink}
-
 ## Useful phrases {#useful_phrases}
 
 Since relying on your social skills is the easiest way of getting nice food, here are some phrases to plan a conversation:
@@ -40,13 +36,11 @@ Dumpster\'s contents belong either to someone who produced that trash (e.g. a su
 
 [Category:Russia](Category:Russia "Category:Russia"){.wikilink} [Category:Asia](Category:Asia "Category:Asia"){.wikilink}
 
-
 ![St.p. homeless.jpg](../../images/stp-homelessjpg.jpg)
 
 *St.p. homeless.jpg — Sigurdas*
 
-
 ---
 
-Source: [Russia](https://trashwiki.org/en/Russia)  
+Source: [Russia](https://trashwiki.org/en/Russia)
 License: CC-BY-NC-SA-4.0

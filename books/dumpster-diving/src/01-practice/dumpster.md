@@ -11,17 +11,13 @@ See also:
 - [Unlocking dumpsters](Unlocking_dumpsters "Unlocking dumpsters"){.wikilink}
 - [Compactor](Compactor "Compactor"){.wikilink}
 
-[share:Dumpster](share:Dumpster "share:Dumpster"){.wikilink}
-
 [Category:General info](Category:General_info "Category:General info"){.wikilink}
-
 
 ![Dumpster in Groningen.JPG](../../images/dumpster-in-groningenjpg.jpg)
 
 *Dumpster in Groningen.JPG — Sigurdas*
 
-
 ---
 
-Source: [Dumpster](https://trashwiki.org/en/Dumpster)  
+Source: [Dumpster](https://trashwiki.org/en/Dumpster)
 License: CC-BY-NC-SA-4.0

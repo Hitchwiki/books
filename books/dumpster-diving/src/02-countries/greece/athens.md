@@ -12,7 +12,7 @@ There is a market open everyday (except Sunday) from 6am to 6pm in the middle of
 There is another very cheap fruits and vegetables market (7:00 - 15:00) in the (anarchist) neighborhood of Exarchia in Kallidromiou street, with a lot of leftovers at the end (around 12-3pm) every Saturday. In general the food is much cheaper at the end of such markets.
 
 == Bakeries ==
-You'll find bread in the bins of the local bakeries. The best is to go when they close, or when the baker come to bake, usually after 2am. 
+You'll find bread in the bins of the local bakeries. The best is to go when they close, or when the baker come to bake, usually after 2am.
 * There is a bakery on Exarchia triangle/park which throws away a lot of bread sometimes, check the bags around the dumpsters as well.<small>* (Last checked: Jan.2011)*</small>
 
 == Flea markets ==
@@ -30,15 +30,10 @@ You can give away or take (for free, of course) clothes at Skoros (former [http:
 * [http://www.forfree.gr/ forfree.gr] - a web page (in Greek though) informing about all of the free events and free stuff
 * <small>*add more?*</small>
 
-
-
-
 hitch:Athens
 nomad:Athens
 
-
-
 ---
 
-Source: [Athens](https://trashwiki.org/en/Athens)  
+Source: [Athens](https://trashwiki.org/en/Athens)
 License: CC-BY-NC-SA-4.0

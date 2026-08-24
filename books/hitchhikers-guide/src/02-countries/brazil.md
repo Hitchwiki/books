@@ -58,17 +58,17 @@ Gas stations will usually allow you to camp behind them if you ask nicely. You c
 
 Note that vehicles license plates are different, depending on where the car was issued. It starts with the state abbreviation and follows with numbers. This way you can also somehow figure out where the vehicle is going to. Usually the name of the state is written in small letters at the top, but this is harder to see.
 
-  Abbr   State                                                                Abbr   State                                                                      Abbr   State
+  Abbr State Abbr State Abbr State
   ------ -------------------------------------------------------------------- ------ -------------------------------------------------------------------------- ------ -----------------------------------------------------------------------------
-  AC     [Acre](Acre "Acre"){.wikilink}                                       MA     [Maranhão](Maranhão "Maranhão"){.wikilink}                                 RJ     [Rio de Janeiro](Rio_de_Janeiro "Rio de Janeiro"){.wikilink}
-  AL     [Alagoas](Alagoas "Alagoas"){.wikilink}                              MG     [Minas Gerais](Minas_Gerais "Minas Gerais"){.wikilink}                     RN     [Rio Grande do Norte](Rio_Grande_do_Norte "Rio Grande do Norte"){.wikilink}
-  AM     [Amazonas](Amazonas "Amazonas"){.wikilink}                           MS     [Mato Grosso do Sul](Mato_Grosso_do_Sul "Mato Grosso do Sul"){.wikilink}   RO     [Rondônia](Rondônia "Rondônia"){.wikilink}
-  AP     [Amapá](Amapá "Amapá"){.wikilink}                                    MT     [Mato Grosso](Mato_Grosso "Mato Grosso"){.wikilink}                        RR     [Roraima](Roraima "Roraima"){.wikilink}
-  BA     [Bahia](Bahia "Bahia"){.wikilink}                                    PA     [Pará](Pará "Pará"){.wikilink}                                             RS     [Rio Grande do Sul](Rio_Grande_do_Sul "Rio Grande do Sul"){.wikilink}
-  CE     [Ceará](Ceará "Ceará"){.wikilink}                                    PB     [Paraíba](Paraíba "Paraíba"){.wikilink}                                    SC     [Santa Catarina](Santa_Catarina "Santa Catarina"){.wikilink}
-  DF     [Distrito Federal](Distrito_Federal "Distrito Federal"){.wikilink}   PE     [Pernambuco](Pernambuco "Pernambuco"){.wikilink}                           SE     [Sergipe](Sergipe "Sergipe"){.wikilink}
-  ES     [Espírito Santo](Espírito_Santo "Espírito Santo"){.wikilink}         PI     [Piauí](Piauí "Piauí"){.wikilink}                                          SP     [São Paolo](São_Paolo "São Paolo"){.wikilink}
-  GO     [Goiás](Goiás "Goiás"){.wikilink}                                    PR     [Paraná](Paraná "Paraná"){.wikilink}                                       TO     [Tocantins](Tocantins "Tocantins"){.wikilink}
+  AC [Acre](Acre "Acre"){.wikilink} MA [Maranhão](Maranhão "Maranhão"){.wikilink} RJ [Rio de Janeiro](Rio_de_Janeiro "Rio de Janeiro"){.wikilink}
+  AL [Alagoas](Alagoas "Alagoas"){.wikilink} MG [Minas Gerais](Minas_Gerais "Minas Gerais"){.wikilink} RN [Rio Grande do Norte](Rio_Grande_do_Norte "Rio Grande do Norte"){.wikilink}
+  AM [Amazonas](Amazonas "Amazonas"){.wikilink} MS [Mato Grosso do Sul](Mato_Grosso_do_Sul "Mato Grosso do Sul"){.wikilink} RO [Rondônia](Rondônia "Rondônia"){.wikilink}
+  AP [Amapá](Amapá "Amapá"){.wikilink} MT [Mato Grosso](Mato_Grosso "Mato Grosso"){.wikilink} RR [Roraima](Roraima "Roraima"){.wikilink}
+  BA [Bahia](Bahia "Bahia"){.wikilink} PA [Pará](Pará "Pará"){.wikilink} RS [Rio Grande do Sul](Rio_Grande_do_Sul "Rio Grande do Sul"){.wikilink}
+  CE [Ceará](Ceará "Ceará"){.wikilink} PB [Paraíba](Paraíba "Paraíba"){.wikilink} SC [Santa Catarina](Santa_Catarina "Santa Catarina"){.wikilink}
+  DF [Distrito Federal](Distrito_Federal "Distrito Federal"){.wikilink} PE [Pernambuco](Pernambuco "Pernambuco"){.wikilink} SE [Sergipe](Sergipe "Sergipe"){.wikilink}
+  ES [Espírito Santo](Espírito_Santo "Espírito Santo"){.wikilink} PI [Piauí](Piauí "Piauí"){.wikilink} SP [São Paolo](São_Paolo "São Paolo"){.wikilink}
+  GO [Goiás](Goiás "Goiás"){.wikilink} PR [Paraná](Paraná "Paraná"){.wikilink} TO [Tocantins](Tocantins "Tocantins"){.wikilink}
 
 ## Border Crossings {#border_crossings}
 
@@ -172,7 +172,7 @@ If you are friendly and avoid drunk drives, along with avoid showing that you ha
 
 <div class="hw-exp-text">
 
-I was hitchhiking during 3 months in Brazil both alone and with friends, it was easy in the tourist states of Rio de Janeiro and Minas Gerais, in Parana I never waited more than 15 min\...the only time I got stuck was 40 km from Sao Paulo in not so nice area with prostitutes, it was gettting dark and the drivers scared so close to the city but finally one car brought me to the bus station in few km from where I took the bus. The people are quite friendly and helpful despite the paranoia around and the main difficulty in the beginning was my poor Portuguese and being guided many times towards the bus station instead the road I needed to hh :)
+I was hitchhiking during 3 months in Brazil both alone and with friends, it was easy in the tourist states of Rio de Janeiro and Minas Gerais, in Parana I never waited more than 15 min\...the only time I got stuck was 40 km from Sao Paulo in not so nice area with prostitutes, it was gettting dark and the drivers scared so close to the city but finally one car brought me to the bus station in few km from where I took the bus. The people are quite friendly and helpful despite the paranoia around and the main difficulty in the beginning was my poor Portuguese and being guided many times towards the bus station instead the road I needed to hh:)
 
 </div>
 </div>
@@ -182,7 +182,7 @@ I was hitchhiking during 3 months in Brazil both alone and with friends, it was 
 
 <div class="hw-exp-text">
 
-Something I learned as a woman hitchhiking through Brazil alone is that certain highways (I heard it was mostly on the BR 116, Rio-Salvador, for example) have women that are highway prostitutes that wait to be picked up on the side of the road. Traveling with truck drivers alone I also learned that many of them pick up hitchhikers that also become lovers, mostly locals from smaller towns who wait on the highways to leave town and go on an adventure. But it is usually easier to tell the difference between hitchhikers and women wanting rides for sex, and of course communication is important. I think it\'s important to know that these incidents are common because you understand where people are coming from when the subject arises. I never had problems with males drivers and truck drivers but I have definitely had them ask for sex, the program (\"not even with a condom?\" yuck\...), what not. I think being clear with drivers before is important and making sure you feel safe is important too. But again, I hitched almost 5000 km alone in Brazil, no problem, it is incredibly liberating and easy! Go adventure! :)
+Something I learned as a woman hitchhiking through Brazil alone is that certain highways (I heard it was mostly on the BR 116, Rio-Salvador, for example) have women that are highway prostitutes that wait to be picked up on the side of the road. Traveling with truck drivers alone I also learned that many of them pick up hitchhikers that also become lovers, mostly locals from smaller towns who wait on the highways to leave town and go on an adventure. But it is usually easier to tell the difference between hitchhikers and women wanting rides for sex, and of course communication is important. I think it\'s important to know that these incidents are common because you understand where people are coming from when the subject arises. I never had problems with males drivers and truck drivers but I have definitely had them ask for sex, the program (\"not even with a condom?\" yuck\...), what not. I think being clear with drivers before is important and making sure you feel safe is important too. But again, I hitched almost 5000 km alone in Brazil, no problem, it is incredibly liberating and easy! Go adventure!:)
 
 </div>
 </div>
@@ -192,7 +192,7 @@ Something I learned as a woman hitchhiking through Brazil alone is that certain 
 
 <div class="hw-exp-text">
 
-User \"[Miriam](User:Miriam "Miriam"){.wikilink} hitched around the south of Brazil for several weeks on her own in 2017 without running into major problems, met only super nice and friendly people, got rides easily and was never confused for a prostitute or treated without respect, as the above contributors sadly experienced. Two minor problems were: 1.) People automatically assuming hitchhikers are Argentinian and staying clear because of the rivalry between both countries (sadly). If you\'re a non-argentinian foreigner, consider carrying your country\'s flag! 2.) Lots and lots of traffic on giant, unstoppable highways. If possible, stick to nice and cozy interior roads which makes for amazing experiences on it\'s own! :)\"
+User \"[Miriam](User:Miriam "Miriam"){.wikilink} hitched around the south of Brazil for several weeks on her own in 2017 without running into major problems, met only super nice and friendly people, got rides easily and was never confused for a prostitute or treated without respect, as the above contributors sadly experienced. Two minor problems were: 1.) People automatically assuming hitchhikers are Argentinian and staying clear because of the rivalry between both countries (sadly). If you\'re a non-argentinian foreigner, consider carrying your country\'s flag! 2.) Lots and lots of traffic on giant, unstoppable highways. If possible, stick to nice and cozy interior roads which makes for amazing experiences on it\'s own!:)\"
 
 </div>
 </div>
@@ -224,7 +224,7 @@ My 2024 route: Oiapoque \> Macaba\> Belem (reached by ferry/barge)\> Picos \> Qu
 
 Average waiting time: 4.5 hours. I had so many long waits, many exceeding 10 hours, but I would also get a few lucky runs where I don\'t have to wait more than 15 mins. Gas station worked for me a few times but not often, Tax office and tolls I didn\'t luck out. Most were from me standing/walking on the road or entrance ramps. I averaged 250km a day. Pickups were 60% cars, 35% trucks, 4% Busses, 1% motorcycles.
 
-Longest ride: Standing at north side of Cacoal (Rondonia state), where i had been waiting for 2.5 hours and was ready to start walking to edge of town, when i looked up from sorting out my bag, and a truck had pulled up outside the gasoline 200m south from where i was hitching. I watched as a lady got out with her bags, closed the door and the truck pulled away. I thought this is my last attempt before I start walking, and stuck out my thumb. Unbelievably, the truck pulled up next to me. I hopped in, chatted about location he was going to in broken English and Google translator. I couldn\'t believe it, he was going to Boa Vista 2500km away. We travelled together for 5 days via the Br-319, eating barbeques, restaurant meals and drinking beers. I got very lucky with this ride.  on way back i got i only waited 1/2 hour to get lift from Boa Vista to Manaus.  The ferry ticket man did not charge me at Manaus, and i got a lift to Careiro within minutes after walking down street from ferry at Ponto da Banana.  At Careiro i waited over 20 hours to get a ride , so started walking, and first car picked me up.
+Longest ride: Standing at north side of Cacoal (Rondonia state), where i had been waiting for 2.5 hours and was ready to start walking to edge of town, when i looked up from sorting out my bag, and a truck had pulled up outside the gasoline 200m south from where i was hitching. I watched as a lady got out with her bags, closed the door and the truck pulled away. I thought this is my last attempt before I start walking, and stuck out my thumb. Unbelievably, the truck pulled up next to me. I hopped in, chatted about location he was going to in broken English and Google translator. I couldn\'t believe it, he was going to Boa Vista 2500km away. We travelled together for 5 days via the Br-319, eating barbeques, restaurant meals and drinking beers. I got very lucky with this ride.  on way back i got i only waited 1/2 hour to get lift from Boa Vista to Manaus.  The ferry ticket man did not charge me at Manaus, and i got a lift to Careiro within minutes after walking down street from ferry at Ponto da Banana.  At Careiro i waited over 20 hours to get a ride, so started walking, and first car picked me up.
 
 Most difficult places to hitch for me were: - in the far north. I was forewarned when coming from the border by drivers/locals, both in 2017 and 2024, that hitching in Brazil is very difficult and I should get a bus - 101 between Rio and Sao Paulo - north of Sao Paulo going towards Brazilia where i had 4 consecutive days of 40 km with majority of that walking. - South side of Vilhena (Rondonia) where I waited at a truck tax office for 12 hours using both sign at office door and thumbing at exit methods. I gave up and went to road where I finally got picked up by car in 1 hour that took me 10km to town. I then walked another 20km, through bushfire smoke several times, before I got picked up for a descent ride the next day. So I got 10km lift in 20hrs of attempted hitching.
 
@@ -248,15 +248,12 @@ i will update again in one month when i go through amazonica and iguazu/remainin
 
 <!-- -->
 
-- [nomad:Brazil](nomad:Brazil "nomad:Brazil"){.wikilink}
-- [trash:Brazil](trash:Brazil "trash:Brazil"){.wikilink}
+-
+-
 
 [\*](Category:Brazil "*"){.wikilink} [Category:South America](Category:South_America "Category:South America"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Brazil](https://hitchwiki.org/en/Brazil)  
+Source: [Brazil](https://hitchwiki.org/en/Brazil)
 License: CC-BY-SA-4.0

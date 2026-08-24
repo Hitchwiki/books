@@ -1,6 +1,6 @@
 # Offloading breads & patisseries,
 
-Today we found a new skip :
+Today we found a new skip:
 Two HUGE bags of croissants, Moroccan flat bread, pain au chocolates et cetera et cetera.
 Combined with our almost daily hauls at a new bakery haul point with incredible bread, we're now finding ourselves a little..flooded in bread.
 So, in particular for the moroccan bread & croissants, if anyone wants to come by and pick up bread..please please feel free. There's no way we can eat all of it..and, our stomachs may give out on us from so much bread as of late.

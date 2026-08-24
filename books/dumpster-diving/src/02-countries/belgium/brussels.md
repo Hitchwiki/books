@@ -12,9 +12,9 @@ A great place to go to get something for free is the [flea market](flea_market "
 
 In Brussels, a type of dumpster lock (with a triangular key) found at most gas stations and supermarkets can be opened using almost any big house key (use an old one in case it bends!).
 
-1.  Pry the key in between the pin on the right side
-2.  Push the outer end of the key to the left
-3.  Pull out the pin
+1. Pry the key in between the pin on the right side
+2. Push the outer end of the key to the left
+3. Pull out the pin
 
 ## Computing gear {#computing_gear}
 
@@ -74,14 +74,7 @@ Chaussee de Gand, in Molenbeek, looks a bit like it could be in the Middle East.
 
 - [Degustation de Bon Sens Flagey](https://www.facebook.com/DegustationDeBonSensBruxellesFlagey), is a bit like [Food Not Bombs](Food_Not_Bombs "Food Not Bombs"){.wikilink}
 
-[Hitch:Brussels](Hitch:Brussels "Hitch:Brussels"){.wikilink}
-
-[share:Brussels](share:Brussels "share:Brussels"){.wikilink} [hitch:Brussels](hitch:Brussels "hitch:Brussels"){.wikilink} [vegan:Brussels](vegan:Brussels "vegan:Brussels"){.wikilink} [nomad:Brussels](nomad:Brussels "nomad:Brussels"){.wikilink}
-
-
-
-
 ---
 
-Source: [Brussels](https://trashwiki.org/en/Brussels)  
+Source: [Brussels](https://trashwiki.org/en/Brussels)
 License: CC-BY-NC-SA-4.0

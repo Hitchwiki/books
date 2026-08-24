@@ -8,7 +8,7 @@ Namibia is a big but very sparsely populated country in Southern Africa, it\'s a
 
 ## Hitchhiking
 
-Hitchhiking is pretty common simply because the public transport network is not very efficient and many places are accessible almost exclusively by thumb or your own vehicle. Having that said many hitchhiking here actually often includes paying for the ride, or to quote one local [Keetmanshoop](Keetmanshoop "Keetmanshoop"){.wikilink} hitchhiker - *pretty often people are nice and don\'t ask me to pay, but normally they want a little compensation* . Being non-namibian might change the situation. So bear in mind that some drivers might expect money but a quick question such as \"is this lift for free\" clarifies things.
+Hitchhiking is pretty common simply because the public transport network is not very efficient and many places are accessible almost exclusively by thumb or your own vehicle. Having that said many hitchhiking here actually often includes paying for the ride, or to quote one local [Keetmanshoop](Keetmanshoop "Keetmanshoop"){.wikilink} hitchhiker - *pretty often people are nice and don\'t ask me to pay, but normally they want a little compensation*. Being non-namibian might change the situation. So bear in mind that some drivers might expect money but a quick question such as \"is this lift for free\" clarifies things.
 
 When hitchhiking in Namibia the distances are huge and towns as well as villages are generally small and very far in between which means that getting a short lift is very rare and a \"average\" lift is going to be something like 150-300 kilometers (depending on the road of course). Sometimes places are marked as a village on a map while actually having only 2 houses, especially in Southern Namibia.
 
@@ -94,10 +94,7 @@ If you don\'t feel secure with wilderness camping going to pretty much any lodge
 
 [Category:Africa](Category:Africa "Category:Africa"){.wikilink} [Category:Namibia](Category:Namibia "Category:Namibia"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Namibia](https://hitchwiki.org/en/Namibia)  
+Source: [Namibia](https://hitchwiki.org/en/Namibia)
 License: CC-BY-SA-4.0

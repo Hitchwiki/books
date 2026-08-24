@@ -21,14 +21,9 @@ Last but not least small street bins (wall hung round style) in touristic places
 - [Cluj-Napoca](Cluj-Napoca "Cluj-Napoca"){.wikilink}
 - [Sibiu](Sibiu "Sibiu"){.wikilink}
 
-[hitch:Romania](hitch:Romania "hitch:Romania"){.wikilink} [vegan:Romania](vegan:Romania "vegan:Romania"){.wikilink} [nomad:Romania](nomad:Romania "nomad:Romania"){.wikilink}
-
 [Category:Romania](Category:Romania "Category:Romania"){.wikilink}
-
-
-
 
 ---
 
-Source: [Romania](https://trashwiki.org/en/Romania)  
+Source: [Romania](https://trashwiki.org/en/Romania)
 License: CC-BY-NC-SA-4.0

@@ -9,10 +9,7 @@
 
 Saigon is covered by an extensive bus network, which reaches well into the suburbs. Most of the bus lines at least the ones closer to the city centre are available on Google Maps. You can get a paper map for free at Ben Thanh market.
 
-
-
-
 ---
 
-Source: [Ho Chi Minh City](https://hitchwiki.org/en/Ho_Chi_Minh_City)  
+Source: [Ho Chi Minh City](https://hitchwiki.org/en/Ho_Chi_Minh_City)
 License: CC-BY-SA-4.0

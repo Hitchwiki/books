@@ -80,7 +80,7 @@ All links in Swedish unless noted otherwise.
 
 ### General information {#general_information}
 
-- [Dumpster diving, en handbok](http://docs.google.com/file/d/0B5jIHjqBVwQET1FTaHh6VGxpYXc/edit?usp=sharing) - dumpster diving guide, a .pdf file available for download *(in Swedish)*
+- [Dumpster diving, en handbok](http://docs.google.com/file/d/0B5jIHjqBVwQET1FTaHh6VGxpYXc/edit?usp=sharing) - dumpster diving guide, a.pdf file available for download *(in Swedish)*
 - [Dumpster diving \| Freegan](http://picasaweb.google.com/sigurdas/DumpsterDivingFreegan#) - ongoing documentation of dumpster diving in Stockholm, pictures+notes *(in English)*
 - [Sopdykning, en praktisk guide](http://frigan.wordpress.com/2009/07/14/hur-man-skaffar-frimat-en-praktisk-guide) - a blog post, practical guide to dumpster diving
 - [Skräpmat: Troghetslagen](http://skrapmat.wordpress.com/2011/03/07/troghetslagen/) - an informative blog post on juridical, ethical and other aspects of dumpster diving in Sweden
@@ -121,12 +121,7 @@ All links in Swedish unless noted otherwise.
 - [skänkes.se](http://www.skänkes.se/)
 - [bjussa.se](http://www.bjussa.se/) - Give away or find free stuff
 
-[hitch:Sweden](hitch:Sweden "hitch:Sweden"){.wikilink}
-
-[share:Sweden](share:Sweden "share:Sweden"){.wikilink} [vegan:Sweden](vegan:Sweden "vegan:Sweden"){.wikilink} [nomad:Sweden](nomad:Sweden "nomad:Sweden"){.wikilink}
-
 [Category:Sweden](Category:Sweden "Category:Sweden"){.wikilink}
-
 
 ![2008 dd day 016.00.JPG](../../images/2008-dd-day-01600jpg.jpg)
 
@@ -136,8 +131,7 @@ All links in Swedish unless noted otherwise.
 
 *Grybai2.JPG — Sigurdas*
 
-
 ---
 
-Source: [Sweden](https://trashwiki.org/en/Sweden)  
+Source: [Sweden](https://trashwiki.org/en/Sweden)
 License: CC-BY-NC-SA-4.0

@@ -12,7 +12,7 @@ Fill out your [Couchsurfing profile](Couchsurfing_profile "Couchsurfing profile"
 - Type your destination into the search bar, then click **Surf** or hit **Enter**.
 - In this example we have used [Paris](Paris "Paris"){.wikilink}, France as an example.
 
-![Where would you like to go?](Where_would_you_like_to_go.PNG "Where would you like to go?") ![Where would you like to go?](Searching_for_paris.PNG "Where would you like to go?")
+![Where would you like to go?](Where_would_you_like_to_go.PNG "Where would you like to go?")![Where would you like to go?](Searching_for_paris.PNG "Where would you like to go?")
 
 ## Step 3: Find a place to stay {#step_3_find_a_place_to_stay}
 
@@ -61,10 +61,7 @@ Fill out your [Couchsurfing profile](Couchsurfing_profile "Couchsurfing profile"
 
 [Category:Tips](Category:Tips "Category:Tips"){.wikilink} [Category:Couchsurfing](Category:Couchsurfing "Category:Couchsurfing"){.wikilink}
 
-
-
-
 ---
 
-Source: [How to search for a couch on CouchSurfing](https://wiki.trustroots.org/en/How_to_search_for_a_couch_on_CouchSurfing)  
+Source: [How to search for a couch on CouchSurfing](https://wiki.trustroots.org/en/How_to_search_for_a_couch_on_CouchSurfing)
 License: CC-BY-SA-4.0

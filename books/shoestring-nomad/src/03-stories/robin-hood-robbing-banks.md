@@ -5,7 +5,7 @@ to read more:
 http://www.17-s.info/en/i-have-robbed-492000-euros-whom-most-rob-us-order-denounce-them-and-build-some-alternatives-society
 or to listen to:
 http://blip.tv/file/1280692/
-Enjoy and reassure yourself about mankind :)
+Enjoy and reassure yourself about mankind:)
 
 ---
 

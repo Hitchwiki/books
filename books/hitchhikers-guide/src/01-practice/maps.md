@@ -20,15 +20,15 @@ Originally published [here](https://tillwenke.github.io/2024/05/06/hitchhiking-w
 
 #### Our\'s
 
-- [maps.hitchwiki.org](https://maps.hitchwiki.org/) Hitchwiki\'s map to find hitchhiking spots and routes - collecting rides since 2006. Can be downloaded as .gpx file for offline use.
+- [maps.hitchwiki.org](https://maps.hitchwiki.org/) Hitchwiki\'s map to find hitchhiking spots and routes - collecting rides since 2006. Can be downloaded as.gpx file for offline use.
 
 ![Hitchwiki Maps interface](Hitchwiki_maps_june_2026.png "Hitchwiki Maps interface"){width="600"}
 
 #### Unaffiliated
 
-- [Hitchmap.com](Hitchmap.com "Hitchmap.com"){.wikilink} - Wordwide map of hitchhiking spots with waiting times and comments. Can be downloaded as .gpx file for offline use.
+- [Hitchmap.com](Hitchmap.com "Hitchmap.com"){.wikilink} - Wordwide map of hitchhiking spots with waiting times and comments. Can be downloaded as.gpx file for offline use.
 
-![Smartphone running OsmAnd with offline map data and imported location markers from [Hitchwiki Maps](:maps: "Hitchwiki Maps"){.wikilink} and campwild. Supermarkets = dumpsters\...](OsmAnd_with_hitchmap_und_campwild.jpg "Smartphone running OsmAnd with offline map data and imported location markers from Hitchwiki Maps and campwild. Supermarkets = dumpsters..."){width="200"}
+!Smartphone running OsmAnd with offline map data and imported location markers from [Hitchwiki Maps and campwild. Supermarkets = dumpsters\...](OsmAnd_with_hitchmap_und_campwild.jpg "Smartphone running OsmAnd with offline map data and imported location markers from Hitchwiki Maps and campwild. Supermarkets = dumpsters..."){width="200"}
 
 ### Standard maps {#standard_maps}
 
@@ -79,9 +79,9 @@ Nice people offering their home or a spot in the garden. The ones listed here pr
 
 The following maps can be used (at least) partially offline.
 
-[Hitchwiki Maps](https://maps.hitchwiki.org/) All spots can be downloaded as a .gpx file and imported/viewed in many map apps.
+[Hitchwiki Maps](https://maps.hitchwiki.org/) All spots can be downloaded as a.gpx file and imported/viewed in many map apps.
 
-[Hitchmap.com](Hitchmap.com "Hitchmap.com"){.wikilink} All spots can be downloaded as a .gpx file and imported/viewed in many map apps
+[Hitchmap.com](Hitchmap.com "Hitchmap.com"){.wikilink} All spots can be downloaded as a.gpx file and imported/viewed in many map apps
 
 [OpenStreetMap](http://www.openstreetmap.org/) based offline apps allow to pre-download necessary regions and then use for browsing / routing / search without internet connection.
 
@@ -97,7 +97,7 @@ The following maps can be used (at least) partially offline.
   - wiki voyage data, a non-commercial wiki-style travel guide
   - satellite view (selected as overlay map) can\'t be directly downloaded but will be cached and available for offline use
 
-[campwild.com](http://campwild.com) All spots for the selected countries can be downloaded as .gpx or .kml files for use in your map app.
+[campwild.com](http://campwild.com) All spots for the selected countries can be downloaded as.gpx or.kml files for use in your map app.
 
 There are a few ways to use [Hitchwiki maps and spots offline](http://hitchwiki.org/en/Hitchwiki:While_offline).
 
@@ -116,18 +116,18 @@ The following section contains maps for whole continents, series of country maps
 **Recommended**
 
 - The *Shell Euroatlas* is good for [Europe](Europe "Europe"){.wikilink}, however, it\'s difficult to find.
-- Collins Road Atlas: Europe 200 (1 : 1 000 000) is nice and has most petrol stations, even though it is a bit large (A3).
+- Collins Road Atlas: Europe 200 (1: 1 000 000) is nice and has most petrol stations, even though it is a bit large (A3).
 - The *Berlitz Europe* atlas includes petrol stations and has a ratio of 1:800 000, though many important cities are in the crease of the book and are difficult to read (e.g., Paris, Berlin, etc.).
 - A good map I\'ve found (it has petrol/service stations marked and it\'s really small and handy! just a little bit bigger than a lonely planet guide) is the 1:1.250.000 Atlante Stradale Europa edited by Istituto Geografico De Agostini (ISBN 88-511-0968-0), it\'s sold in italian book shops but can be found on amazon as well.
 - For Western, Northern and Southern Europe: *one specific edition* of the Marco Polo car map of [Europe](Europe "Europe"){.wikilink} is great, it doesn\'t contain too much useless stuff like indices or city maps, and shows petrol stations on highways! Unfortunately [guaka](User:guaka "guaka"){.wikilink}`<small>`{=html}^[site](http://guaka.org),\ [wikitalk](User_talk:guaka "wikitalk"){.wikilink}^`</small>`{=html} only found this one in [Slovakia](Slovakia "Slovakia"){.wikilink}. This map could also be found in [Germany](Germany "Germany"){.wikilink}, [Czech Republic](Czech_Republic "Czech Republic"){.wikilink} and [Poland](Poland "Poland"){.wikilink} - [Tom](User:Tmoon "Tom"){.wikilink} has a copy of both Czech and Polish editions (both editions exactly the same but with different front cover), and he bought these in 2006. They are still the best hitchhiking maps he\'s seen - hopefully the more modern editions are still as good. The cost was around 10 euro.
 - *Philip\'s compact atlas Europe* shows service stations in some countries, is pretty compact and was available for 7 euro at the New English Book Store in [Amsterdam](Amsterdam "Amsterdam"){.wikilink}, in June 2008.
-- *Falk Europa Transportatlas* (2006, ISBN 9789028723115 - [sample](http://s21.postimg.org/etj7n8yqd/falktransport.jpg)), European countries at 1 : 800 000 in an A4 ring binder. Features service stations. Legend in all European languages and traffic glossary in Europe\'s main languages. Be advised the atlas weighs significantly more than average: 1,5 kg. You could save about 300 gr if you remove the NL pages Landendocumentatie.
+- *Falk Europa Transportatlas* (2006, ISBN 9789028723115 - [sample](http://s21.postimg.org/etj7n8yqd/falktransport.jpg)), European countries at 1: 800 000 in an A4 ring binder. Features service stations. Legend in all European languages and traffic glossary in Europe\'s main languages. Be advised the atlas weighs significantly more than average: 1,5 kg. You could save about 300 gr if you remove the NL pages Landendocumentatie.
 
 ### Europe country map series {#europe_country_map_series}
 
 **Recommended**
 
-- The *Falk Länderkarte* series (in German, but can be understood by everyone) is brilliant for individual European countries, with a useful, clever and compact fold-out page system. It is easy to find but only inside of [Germany](Germany "Germany"){.wikilink} and neighbouring countries. The *Falk Reiseatlas Europa 1 : 800 000 / 1: 4 500 000* (ISBN 978-3-8279-0434-8) covers the whole Europe for a low price and includes the petrol stations indicated on seperate sides of the road. [Falk.de shop](http://shop.falk.de/falk/atlanten/europa-1800-000-falk-reiseatlas-deutschland_pid_812_17460.html)
+- The *Falk Länderkarte* series (in German, but can be understood by everyone) is brilliant for individual European countries, with a useful, clever and compact fold-out page system. It is easy to find but only inside of [Germany](Germany "Germany"){.wikilink} and neighbouring countries. The *Falk Reiseatlas Europa 1: 800 000 / 1: 4 500 000* (ISBN 978-3-8279-0434-8) covers the whole Europe for a low price and includes the petrol stations indicated on seperate sides of the road. [Falk.de shop](http://shop.falk.de/falk/atlanten/europa-1800-000-falk-reiseatlas-deutschland_pid_812_17460.html)
 - The Dutch ANWB has quite good European country maps for free (for its members, just ask in the shop some people at the cashpoint if they can take it for you), they also include the motorways to the country from and to the Netherlands.
 - The maps by *Marco Polo* are excellent for Europe. The 1:800,000 ratio version is the best (the name of this map changes in different countries). It is printed in [Germany](Germany "Germany"){.wikilink} but is available across the continent. Pay attention, the 1:2.000.000 version (ISBN 978-3-8297-3704-3) has no petrol/service stations marked!\
   There is an italian version of this map edit by Studio F.M.B Bologna and the 1:2.000.000 version has the same problem (ISBN 978-88-7775-232-1).
@@ -159,12 +159,12 @@ The following section contains maps for whole continents, series of country maps
 
 **Recommended**
 
-  Publisher        Name                                      Scale       Type      Price       City maps   ISBN   Comment
+  Publisher Name Scale Type Price City maps ISBN Comment
   ---------------- ----------------------------------------- ----------- --------- ----------- ----------- ------ ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ADAC             ReiseAtlas Deutschland Europa 2011/2012               book                  yes                Europe 1:4 500 000, city maps 1:20 000, lists all the German service stations on the highways. The Europe part is only useful for emergencies, it doesn\'t have any fuel stations. There might be other versions of this atlas without the names of fuel stations, check before.
-  ARAL             Straßen-Atlas Deutschland & Europa 2012   1:400 000   book      8.95 Euro   yes                Also contains maps for Austria, Switzerland 1:500 000, Belgium, Luxemburg and Netherlands 1:400 000. City maps 1:100 000, Europe map 1:4 000 000 \|- valign = \"top
-  Tank&Rast        Rasthof restaurants booklet               \-          folding               no          \-     Map of most of the country\'s Rasthof and the information about every one of them. Does only contain the ones belonging to the Tank&Rast corporation.
-  Insight Guides   Travel Map Germany                        1:500 000   folding               no                 Contains all service stations and rest areas, also some neighbouring cities (Zurich, Plsen, Strasbourg)
+  ADAC ReiseAtlas Deutschland Europa 2011/2012 book yes Europe 1:4 500 000, city maps 1:20 000, lists all the German service stations on the highways. The Europe part is only useful for emergencies, it doesn\'t have any fuel stations. There might be other versions of this atlas without the names of fuel stations, check before.
+  ARAL Straßen-Atlas Deutschland & Europa 2012 1:400 000 book 8.95 Euro yes Also contains maps for Austria, Switzerland 1:500 000, Belgium, Luxemburg and Netherlands 1:400 000. City maps 1:100 000, Europe map 1:4 000 000 \|- valign = \"top
+  Tank&Rast Rasthof restaurants booklet \- folding no \- Map of most of the country\'s Rasthof and the information about every one of them. Does only contain the ones belonging to the Tank&Rast corporation.
+  Insight Guides Travel Map Germany 1:500 000 folding no Contains all service stations and rest areas, also some neighbouring cities (Zurich, Plsen, Strasbourg)
 
 #### Luxemburg
 
@@ -202,14 +202,11 @@ In Taiwan one can navigate by power pole, using the [Taiwan Power Company grid](
 
 On all smartphones, there are mapping applications. Check [High-tech hitchhiking](High-tech_hitchhiking "High-tech hitchhiking"){.wikilink} for information about using your mobile phone and other devices on the road.
 
-For maps regarding dumpster diving etc. see: [trash:Maps](trash:Maps "trash:Maps"){.wikilink}.
+For maps regarding dumpster diving etc. see:.
 
 [Category:Equipment](Category:Equipment "Category:Equipment"){.wikilink}
 
-
-
-
 ---
 
-Source: [Maps](https://hitchwiki.org/en/Maps)  
+Source: [Maps](https://hitchwiki.org/en/Maps)
 License: CC-BY-SA-4.0

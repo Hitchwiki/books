@@ -21,12 +21,7 @@ There are several good [food markets](food_market "food market"){.wikilink} for 
 
 \- [http://recyclodrome.org/ recyclodrome](http://recyclodrome.org/_recyclodrome "http://recyclodrome.org/ recyclodrome"){.wikilink} - Emmaus La Croix Rouge Marseille - [http://veloutile.fr/ velo utile](http://veloutile.fr/_velo_utile "http://veloutile.fr/ velo utile"){.wikilink} - [http://www.ecoforum.fr/ ecoforum](http://www.ecoforum.fr/_ecoforum "http://www.ecoforum.fr/ ecoforum"){.wikilink}
 
-[hitch:Marseille](hitch:Marseille "hitch:Marseille"){.wikilink}
-
-
-
-
 ---
 
-Source: [Marseille](https://trashwiki.org/en/Marseille)  
+Source: [Marseille](https://trashwiki.org/en/Marseille)
 License: CC-BY-NC-SA-4.0

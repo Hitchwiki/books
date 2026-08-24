@@ -4,10 +4,7 @@ A **landfill**, also known as a dump (and historically as a midden), is a site f
 
 [Category:General info](Category:General_info "Category:General info"){.wikilink}
 
-
-
-
 ---
 
-Source: [Landfill](https://trashwiki.org/en/Landfill)  
+Source: [Landfill](https://trashwiki.org/en/Landfill)
 License: CC-BY-NC-SA-4.0

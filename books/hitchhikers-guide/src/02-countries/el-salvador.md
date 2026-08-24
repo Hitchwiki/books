@@ -66,14 +66,11 @@ I spent one month in El Salvador between february and march 2016 using mostly my
 - [Santa Anna](Santa_Anna_(El_Salvador) "Santa Anna"){.wikilink}
 - [San Miguel](San_Miguel_(El_Salvador) "San Miguel"){.wikilink}
 
-![A \"traffic jam\" on the roads of El Salvador](El_Salvador_traffic_jam.jpg "A "traffic jam" on the roads of El Salvador"){width="220"} [wikipedia:El Salvador](wikipedia:El_Salvador "wikipedia:El Salvador"){.wikilink}
+![A \"traffic jam\" on the roads of El Salvador](El_Salvador_traffic_jam.jpg "A "traffic jam" on the roads of El Salvador"){width="220"}
 
 [Category:El Salvador](Category:El_Salvador "Category:El Salvador"){.wikilink} [Category:Central America](Category:Central_America "Category:Central America"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [El Salvador](https://hitchwiki.org/en/El_Salvador)  
+Source: [El Salvador](https://hitchwiki.org/en/El_Salvador)
 License: CC-BY-SA-4.0

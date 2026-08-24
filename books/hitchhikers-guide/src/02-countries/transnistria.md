@@ -14,14 +14,9 @@ Also, keep in mind that according to Transnistrian rules you have to register at
 
 ## Personal Experiences {#personal_experiences}
 
-[Nomad:Transnistria](Nomad:Transnistria "Nomad:Transnistria"){.wikilink}
-
 [ ](Category:Moldova " "){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
-
-
-
 
 ---
 
-Source: [Transnistria](https://hitchwiki.org/en/Transnistria)  
+Source: [Transnistria](https://hitchwiki.org/en/Transnistria)
 License: CC-BY-SA-4.0

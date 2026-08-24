@@ -14,10 +14,7 @@ Public transport network in Prague is really good, you can get in reasonable tim
 
 At metro stations you can find maps of Prague with public transport, this can be useful, because the lines are changing (especially bus lines). You can easily find a connection online at IDOS - works for the entire CR or alternatively for Prague only: [DPP](http://spojeni.dpp.cz/ConnForm.aspx?cl=E5).
 
-
-
-
 ---
 
-Source: [Prague](https://hitchwiki.org/en/Prague)  
+Source: [Prague](https://hitchwiki.org/en/Prague)
 License: CC-BY-SA-4.0

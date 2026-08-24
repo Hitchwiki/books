@@ -12,7 +12,7 @@ Feel free to add your own record(s), but please do not make list longer than **f
 
 - **2777 km** (1736 miles), according to [Pavel Trcala](mailto:pavel@trcala.com), from [Czech Republic](Czech_Republic "Czech Republic"){.wikilink}. Time 28 November 1998 07:30 - 29 November 1998 06:30. The route: Miami to Chicago via Jacksonville (Florida), Savannah (Georgia), Columbia (South Carolina), Asheville (North Carolina), Knoxville (Tennessee), Lexington (Kentucky), Toledo (Ohio), South Bend (Indiana), and Harvey (Illinois). The route was done in five lifts.
 - **2750 km**, according to [Vladas Sapranavicius](http://www.vladas.com/), member of [Vilnius Hitch-hiking Club](VHHC "Vilnius Hitch-hiking Club"){.wikilink}. Time: 21 August 1996 22:00 -- 22 August 1996 22:00 [ViaMichelin](http://www.viamichelin.com/) gives as expected travel time for Almeria - Potsdam: 24 hours and 51 minutes. The route: Almeria (E) -- Murcia (E) -- Barcelona (E) -- Montpellier (F) -- Lyon (F) -- Frankfurt (D) -- Potsdam (D). 4 lifts (Almeria -- Montpellier; Montpellier -- Lyon; Lyon -- Salzgitter; Salzgitter -- Potsdam). The average speed (including waiting for the ride + a cup of beer in the restaurant): 115 km/h. The maximum speed: 170 km/h.
-- ![](Gbor-cut.jpg "Gbor-cut.jpg"){width="280"} **2318.4 km**, according to [Robert Prins](User:Prino "Robert Prins"){.wikilink}, hitchhiker from, at the time, the [Netherlands](Netherlands "Netherlands"){.wikilink}. It was done in 4 lifts through [Yugoslavia](Yugoslavia "Yugoslavia"){.wikilink}, [Austria](Austria "Austria"){.wikilink} and [Germany](Germany "Germany"){.wikilink} during 20.47 hours. The record was included on page 179 of the **UK** 1991 edition of the Guinness Book of Records. Full details of the four rides that led to this record can be found [here](https://prino.neocities.org/miscellaneous/prinos-24-hour-record.html).
+-![](Gbor-cut.jpg "Gbor-cut.jpg"){width="280"} **2318.4 km**, according to [Robert Prins](User:Prino "Robert Prins"){.wikilink}, hitchhiker from, at the time, the [Netherlands](Netherlands "Netherlands"){.wikilink}. It was done in 4 lifts through [Yugoslavia](Yugoslavia "Yugoslavia"){.wikilink}, [Austria](Austria "Austria"){.wikilink} and [Germany](Germany "Germany"){.wikilink} during 20.47 hours. The record was included on page 179 of the **UK** 1991 edition of the Guinness Book of Records. Full details of the four rides that led to this record can be found [here](https://prino.neocities.org/miscellaneous/prinos-24-hour-record.html).
 - **1700 km**[ Julian Hanowski](User:JulianSaarland " Julian Hanowski"){.wikilink} in august 2023 lost his Airplane in Madrid Barajas and wanted go get back home to Saarland as fast as possible because it was his grandpas 50 wedding. He walked out of the Barajas Airport going North and arrived in Losheim am See /Saarland near Luxemburg border arround afternoon one day later. He passed some hours from 1 am to 7 am in a random house in the middle of a france village where he got picked up. Unfortunatelly he came latefor the wedding.
 
 ## Lifetime hitchhiking {#lifetime_hitchhiking}
@@ -41,7 +41,7 @@ Feel free to add your own record(s), but please do not make list longer than **f
 
 ## The longest journey {#the_longest_journey}
 
-- **Benoit Grieu** has been hitch-hiking since 1979 and still hitchhiked every day until [he disappeared](http://beni.eurower.net/), [1](http://www.autostopmagellan.ro/benoit-grieu-de-timotei-rad/) , on his way to Nepal in 2011. During these years he covered about **1,500,000 km** not staying more than 3 months in one place.
+- **Benoit Grieu** has been hitch-hiking since 1979 and still hitchhiked every day until [he disappeared](http://beni.eurower.net/), [1](http://www.autostopmagellan.ro/benoit-grieu-de-timotei-rad/), on his way to Nepal in 2011. During these years he covered about **1,500,000 km** not staying more than 3 months in one place.
 - **Expedition "Autocolumbus"** by [PASL](PASL "PASL"){.wikilink} in 17 February 1992 -- July 1993. The trip started 4 hitchhikers: **Alexey Vorov, Mikhail Dutkevich, Kiril Baranov and Victor Grigor'ev**, but only Alexey and Mikhail finished the complete journey. The route was around the world through 25 countries in Europe, Asia, South and North America. The length of the route **\~83,000 km**.
 - In 2014 Stefan [Korn](User:Korn "Korn"){.wikilink} started a circumnavigation expedition. The trip took him 22 months, passing through 58 countries in 5 continents and covering a total distance of **108.895 km**. His expedition was documented in his travel blog [warmroads.de](https://warmroads.de/en/hitchhiking-around-the-world/).
 
@@ -53,7 +53,7 @@ Feel free to add your own record(s), but please do not make list longer than **f
 
 - **Benoit Grieu**, French hitch-hiker, has hitchhiked in about **170** countries.
 - **Vladimir Nesin** is famous for barefoot walking, and has been in 138 countries. In all of them he hitchhiked at least one time, excepting Mongolia, which he traversed completely on foot. This means he has hitchhiked in **137** countries, although in many of them only a little bit.
-- **Vladimir Sharlaev** from St. Petersburg has hitchhiked in 138 countries, if counting \"not officially recognized territories\" . We are not sure how many officially recognized nation-states that amounts to exactly, but it must be somewhere \"\'between 120 and 135\"\' countries.
+- **Vladimir Sharlaev** from St. Petersburg has hitchhiked in 138 countries, if counting \"not officially recognized territories\". We are not sure how many officially recognized nation-states that amounts to exactly, but it must be somewhere \"\'between 120 and 135\"\' countries.
 
 ## The largest deviation done by a driver {#the_largest_deviation_done_by_a_driver}
 
@@ -198,7 +198,7 @@ Round-trip
 
 Earlier entries, according to [Bernd Wechner](http://bernd.wechner.info/Hitchhiking/guinness.html)
 
-: 
+:
 
 <!-- -->
 
@@ -270,10 +270,7 @@ It would be great to add additional existing records:
 
 [Category:General info](Category:General_info "Category:General info"){.wikilink}
 
-
-
-
 ---
 
-Source: [Hitchhiking Records](https://hitchwiki.org/en/Hitchhiking_Records)  
+Source: [Hitchhiking Records](https://hitchwiki.org/en/Hitchhiking_Records)
 License: CC-BY-SA-4.0

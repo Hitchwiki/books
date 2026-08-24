@@ -47,10 +47,7 @@ Bashkortostan is a federal subject of [Russia](Russia "Russia"){.wikilink} and r
 
 [Category:Russia](Category:Russia "Category:Russia"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Bashkortostan](https://hitchwiki.org/en/Bashkortostan)  
+Source: [Bashkortostan](https://hitchwiki.org/en/Bashkortostan)
 License: CC-BY-SA-4.0

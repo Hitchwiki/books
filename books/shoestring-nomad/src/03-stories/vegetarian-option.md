@@ -1,6 +1,6 @@
 # Vegetarian option
 
-Hey! Now they're giving me a beautiful potato gratin... there should be food for everyone :)
+Hey! Now they're giving me a beautiful potato gratin... there should be food for everyone:)
 
 ---
 

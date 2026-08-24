@@ -2,7 +2,7 @@
 
 **Kosovo** is located in the heart of South East [Europe](Europe "Europe"){.wikilink}. Kosovo is situated between the 42° and 44° parallels of northern hemisphere and between the 20° and 22° meridians. Positioned in the centre of the Balkan Peninsula, it presents an important junction of the Median and Southern Europe, and the Adriatic and Black Sea. Kosovo\'s area is 10,908 km2 and is populated by over 2 million people.
 
-The main axis of the junction of northern and southern Balkan regions is comprised of the Ibër, Sitnica and Lepenc river valleys. This axis divides several roundabout valleys: near Mitrovica along the Ibër river passes the Adriatic highway which connects the Montenegrin coast, near Besiana (Podujeva) town; the Llapi and Toplica roads connect Kosovo with the Serbian city of Nish and with the interior part of Balkan Peninsula; nearby is the city of Prishtina and the Drenica valley which connects Drini i Bardhë (White Drini) with the shortest way to the Albanian coast. In the city of Ferizaj , the Morava e Binçës pathway is divided, which is then connected to the main river axes of the Morava and Vardar Rivers .
+The main axis of the junction of northern and southern Balkan regions is comprised of the Ibër, Sitnica and Lepenc river valleys. This axis divides several roundabout valleys: near Mitrovica along the Ibër river passes the Adriatic highway which connects the Montenegrin coast, near Besiana (Podujeva) town; the Llapi and Toplica roads connect Kosovo with the Serbian city of Nish and with the interior part of Balkan Peninsula; nearby is the city of Prishtina and the Drenica valley which connects Drini i Bardhë (White Drini) with the shortest way to the Albanian coast. In the city of Ferizaj, the Morava e Binçës pathway is divided, which is then connected to the main river axes of the Morava and Vardar Rivers.
 
 Kosovo borders [Montenegro](Montenegro "Montenegro"){.wikilink}, [Serbia](Serbia "Serbia"){.wikilink}, [Albania](Albania "Albania"){.wikilink}, and [Macedonia](Macedonia "Macedonia"){.wikilink}. It has a population of over two million people, predominantly ethnic Albanians, with smaller minorities of Serbs, Turks, Bosniacs and other ethnic groups. Prishtina is the capital and largest city.
 
@@ -166,16 +166,9 @@ We are working on making streetmaps of kosovo. you can help out! couchsurfing.or
 
 couchsurfing.com/group.html?gid=8608
 
-[wikivoyage:Kosovo](wikivoyage:Kosovo "wikivoyage:Kosovo"){.wikilink} [hitch:Kosovo](hitch:Kosovo "hitch:Kosovo"){.wikilink}
-
-[trash:Kosovo](trash:Kosovo "trash:Kosovo"){.wikilink} [nomad:Kosovo](nomad:Kosovo "nomad:Kosovo"){.wikilink}
-
 [Category:Europe](Category:Europe "Category:Europe"){.wikilink}
-
-
-
 
 ---
 
-Source: [Kosovo](https://wiki.trustroots.org/en/Kosovo)  
+Source: [Kosovo](https://wiki.trustroots.org/en/Kosovo)
 License: CC-BY-SA-4.0

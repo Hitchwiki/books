@@ -45,19 +45,13 @@ Short films about freegans and dumpster diving in Austria: \<videoflash\>PWROOeL
 - [freegan!me](http://freegan.me/) - A community for freegans all over the world
 - [willhaben.at - second hand selling platform, has also a free, give-away section](https://www.willhaben.at/iad/kaufen-und-verkaufen)
 
-[hitch:Austria](hitch:Austria "hitch:Austria"){.wikilink}
-
-[vegan:Austria](vegan:Austria "vegan:Austria"){.wikilink} [nomad:Austria](nomad:Austria "nomad:Austria"){.wikilink}
-
 [Category:Austria](Category:Austria "Category:Austria"){.wikilink}
-
 
 ![Containernin oesterreich.jpg](../../images/containernin-oesterreichjpg.jpg)
 
 *Containernin oesterreich.jpg — Sigurdas*
 
-
 ---
 
-Source: [Austria](https://trashwiki.org/en/Austria)  
+Source: [Austria](https://trashwiki.org/en/Austria)
 License: CC-BY-NC-SA-4.0

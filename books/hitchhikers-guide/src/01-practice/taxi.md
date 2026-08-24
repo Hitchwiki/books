@@ -10,10 +10,7 @@ Common mode of public transportation in many countries both within and between t
 
 [Category:General info](Category:General_info "Category:General info"){.wikilink}
 
-
-
-
 ---
 
-Source: [Taxi](https://hitchwiki.org/en/Taxi)  
+Source: [Taxi](https://hitchwiki.org/en/Taxi)
 License: CC-BY-SA-4.0

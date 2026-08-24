@@ -39,9 +39,9 @@ The New York freegans keep a pretty up to date dumpster directory on their site,
 
 ###### Known actual spots {#known_actual_spots}
 
-- Check out *Sunac* at 440 Union Ave. `<small>`{=html}(Last checked: ?)`</small>`{=html}
+- Check out *Sunac* at 440 Union Ave. `<small>`{=html}(Last checked:?)`</small>`{=html}
 - *Key Foods* on Prospect Ave Between 10th Ave and 11th Ave. Try around 11pm, dumpster in the back - easy to reach into. Best nights seems to be Monday, Wednesday, Friday. `<small>`{=html}(Last checked: July 2011)`</small>`{=html}
-- *Trader Joe\'s* (located on the corner of Court and Atlantic) regularly takes out their dumpsters at 11pm every night, give the workers time to take out the first two dumpsters before rushing to go through the trash. There are often many [divers](dumpster_diver "divers"){.wikilink} at this location. `<small>`{=html}(Last checked: ?)`</small>`{=html}
+- *Trader Joe\'s* (located on the corner of Court and Atlantic) regularly takes out their dumpsters at 11pm every night, give the workers time to take out the first two dumpsters before rushing to go through the trash. There are often many [divers](dumpster_diver "divers"){.wikilink} at this location. `<small>`{=html}(Last checked:?)`</small>`{=html}
 - `<small>`{=html}*add more?*`</small>`{=html}
 
 You can definitely find nice random stuff in the street. [guaka](User:Guaka "guaka"){.wikilink} found a nice skateboard (in 2006).
@@ -67,16 +67,9 @@ You can definitely find nice random stuff in the street. [guaka](User:Guaka "gua
 - [Freegan.info](http://freegan.info) - a NYC-based informational website for [freegans](freeganism "freegans"){.wikilink} and [dumpster divers](dumpster_diver "dumpster diver"){.wikilink}. They organize meetings, trash and wild food tours, repair workshops and free film nights around NYC. Some events are open to media with prior appointment.
 - [TV article](http://km42.spiegel.de/home/index.php?directid=4177) about dumpster diving in New York, found on German spiegel.de
 
-[hitch:New York City](hitch:New_York_City "hitch:New York City"){.wikilink}
-
-[vegan:New York City](vegan:New_York_City "vegan:New York City"){.wikilink} [nomad:New York City](nomad:New_York_City "nomad:New York City"){.wikilink}
-
 [Category:New York City](Category:New_York_City "Category:New York City"){.wikilink}
-
-
-
 
 ---
 
-Source: [New York City](https://trashwiki.org/en/New_York_City)  
+Source: [New York City](https://trashwiki.org/en/New_York_City)
 License: CC-BY-NC-SA-4.0

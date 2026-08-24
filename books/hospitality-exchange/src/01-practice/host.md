@@ -8,10 +8,7 @@ A host is a member of a [hospitality exchange](hospitality_exchange "hospitality
 
 [Category:Concepts](Category:Concepts "Category:Concepts"){.wikilink}
 
-
-
-
 ---
 
-Source: [Host](https://wiki.trustroots.org/en/Host)  
+Source: [Host](https://wiki.trustroots.org/en/Host)
 License: CC-BY-SA-4.0

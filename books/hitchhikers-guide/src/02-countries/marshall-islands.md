@@ -14,10 +14,7 @@ Hitchhikernick - Visited Majuro in October 2023 for a week. Average waiting time
 
 [Category:Oceania](Category:Oceania "Category:Oceania"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Marshall Islands](https://hitchwiki.org/en/Marshall_Islands)  
+Source: [Marshall Islands](https://hitchwiki.org/en/Marshall_Islands)
 License: CC-BY-SA-4.0

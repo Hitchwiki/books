@@ -4,17 +4,11 @@
 
 While Western countries produce overflow of [stuff](stuff "stuff"){.wikilink}, people in countries like Cambodia often live off [garbage](garbage "garbage"){.wikilink} dumps just to make living possible. Scavenging here is a chance to live, unlike the scavenging culture in the West where living off the trash is an optional alternative.
 
-[hitch:Cambodia](hitch:Cambodia "hitch:Cambodia"){.wikilink}
-
-[vegan:Cambodia](vegan:Cambodia "vegan:Cambodia"){.wikilink} [nomad:Cambodia](nomad:Cambodia "nomad:Cambodia"){.wikilink}
-
-
 ![The child in cambodia.JPG](../../images/the-child-in-cambodiajpg.jpg)
 
 *The child in cambodia.JPG — Sigurdas*
 
-
 ---
 
-Source: [Cambodia](https://trashwiki.org/en/Cambodia)  
+Source: [Cambodia](https://trashwiki.org/en/Cambodia)
 License: CC-BY-NC-SA-4.0

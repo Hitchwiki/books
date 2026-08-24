@@ -14,10 +14,7 @@ Hitchhikernick - visited in early october 2023 for 5 days. Transportation betwee
 
 [Category:Oceania](Category:Oceania "Category:Oceania"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Kiribati](https://hitchwiki.org/en/Kiribati)  
+Source: [Kiribati](https://hitchwiki.org/en/Kiribati)
 License: CC-BY-SA-4.0

@@ -12,14 +12,9 @@ These meetings are often created by one of the different [hitchhiking clubs](hit
 
 - In 2008, two French hitchhikers organized a big meeting in [Paris](Paris "Paris"){.wikilink}, called the [888](project_888 "888"){.wikilink}-Project. More than 150 hitchhikers met there on 8 august 2008. This project will be continued in 2009, ending up in the European hitchhiking week, called [789](789 "789"){.wikilink}.
 
-[trash:Meetings](trash:Meetings "trash:Meetings"){.wikilink}
-
 [Category:General info](Category:General_info "Category:General info"){.wikilink}
-
-
-
 
 ---
 
-Source: [Meetings](https://hitchwiki.org/en/Meetings)  
+Source: [Meetings](https://hitchwiki.org/en/Meetings)
 License: CC-BY-SA-4.0

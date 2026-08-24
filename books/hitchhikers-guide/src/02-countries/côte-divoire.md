@@ -16,10 +16,7 @@ Possibly not a good idea to hitch around until this is settled.
 
 [Category:Africa](Category:Africa "Category:Africa"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Côte d'Ivoire](https://hitchwiki.org/en/Côte_d'Ivoire)  
+Source: [Côte d'Ivoire](https://hitchwiki.org/en/Côte_d'Ivoire)
 License: CC-BY-SA-4.0

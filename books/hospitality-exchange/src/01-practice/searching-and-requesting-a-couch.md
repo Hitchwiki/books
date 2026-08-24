@@ -17,12 +17,12 @@ In advance: [Hosts](host "Hosts"){.wikilink} are naturally concerned about secur
 - Be specific about your intended arrival and departure dates and times - that helps the host to decide yes or no. (And they don\'t want to wait for you all day!)
 - If possible, send a request well in advance
 
-1.  In some cases, you will have to plan a month in advance. Others do not require that much time. Remember: some hosts in popular places receive more than ten requests each week!
+1. In some cases, you will have to plan a month in advance. Others do not require that much time. Remember: some hosts in popular places receive more than ten requests each week!
 
 - If requesting a last minute couch:
 
-1.  Check the last login time and place (potential host who just logged in from the other side of the world is very unlikely to host you)
-2.  Still read the profile carefully - being in a hurry is no excuse to be ignorant
+1. Check the last login time and place (potential host who just logged in from the other side of the world is very unlikely to host you)
+2. Still read the profile carefully - being in a hurry is no excuse to be ignorant
 
 - A few days before you get there, remind your host you\'ll be arriving soon.
 - If you have special needs or request (i. e. [allergies](allergies "allergies"){.wikilink}) mention them in advance.
@@ -35,7 +35,7 @@ In advance: [Hosts](host "Hosts"){.wikilink} are naturally concerned about secur
 - Ask about public transportation options. Can you get to the city center without riding with your host? Is there a good train or bus system near their home? Is there a reliable taxi service you can use? (If you are uncomfortable staying somewhere that has no public transport available, you may want to rethink your destination.)
 - Ask for needed information (phone number, adress, \...)
 
-1.  If possible, you could ask your host to meet you in advance at any certain place.
+1. If possible, you could ask your host to meet you in advance at any certain place.
 
 - Also look at tips about [Keeping in touch cheaply when travelling](Keeping_in_touch_cheaply_when_travelling "Keeping in touch cheaply when travelling"){.wikilink}
 
@@ -74,10 +74,7 @@ Stay at a hostel or look for a camping site. I. e. check out these sites:
 
 [Category:Travel](Category:Travel "Category:Travel"){.wikilink} [Category:Tips](Category:Tips "Category:Tips"){.wikilink} [Category:Couchsurfing](Category:Couchsurfing "Category:Couchsurfing"){.wikilink}
 
-
-
-
 ---
 
-Source: [Searching and requesting a couch](https://wiki.trustroots.org/en/Searching_and_requesting_a_couch)  
+Source: [Searching and requesting a couch](https://wiki.trustroots.org/en/Searching_and_requesting_a_couch)
 License: CC-BY-SA-4.0

@@ -4,7 +4,7 @@
 
 It can be a very useful skill and asset for nomads especially in certain conditions (wilderness, expensive places, unsafe food, etc) where is hard to get [good food](good_food "good food"){.wikilink} in an easy way, whether it may be [asking](asking "asking"){.wikilink}, [dumpster diving](dumpster_diving "dumpster diving"){.wikilink}, buying or [shoplifting](shoplifting "shoplifting"){.wikilink}.
 
-**It is as simply as it sounds! JUST DON\'T EAT! :)** Human body can run up to 1 and in certain cases even 3 months without introducing any source of ordinary food and energy. [Meditation](Meditation "Meditation"){.wikilink} and [exercises](exercises "exercises"){.wikilink} to canalize body energy like [yoga](yoga "yoga"){.wikilink}, Qi Gong, Tai Chi Chuan and similar might help a lot during your fasting time.
+**It is as simply as it sounds! JUST DON\'T EAT!:)** Human body can run up to 1 and in certain cases even 3 months without introducing any source of ordinary food and energy. [Meditation](Meditation "Meditation"){.wikilink} and [exercises](exercises "exercises"){.wikilink} to canalize body energy like [yoga](yoga "yoga"){.wikilink}, Qi Gong, Tai Chi Chuan and similar might help a lot during your fasting time.
 
 ## Skip a meal {#skip_a_meal}
 
@@ -16,10 +16,7 @@ In several kinds of diet fasting seriously (from 1 to 3 days to 1 week or longer
 
 [Category:Guides](Category:Guides "Category:Guides"){.wikilink} [Category:Food](Category:Food "Category:Food"){.wikilink}
 
-
-
-
 ---
 
-Source: [Fasting](https://nomadwiki.org/en/Fasting)  
+Source: [Fasting](https://nomadwiki.org/en/Fasting)
 License: CC-BY-SA-4.0

@@ -6,10 +6,7 @@ For more tips on toll station hitchhiking see article on [péage](péage "péage
 
 [Category:General info](Category:General_info "Category:General info"){.wikilink} [Category:Roads](Category:Roads "Category:Roads"){.wikilink}
 
-
-
-
 ---
 
-Source: [Toll station](https://hitchwiki.org/en/Toll_station)  
+Source: [Toll station](https://hitchwiki.org/en/Toll_station)
 License: CC-BY-SA-4.0

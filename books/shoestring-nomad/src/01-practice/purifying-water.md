@@ -23,10 +23,7 @@ Good, cheap and light commercial water filters are:
 
 [Category:Health](Category:Health "Category:Health"){.wikilink}
 
-
-
-
 ---
 
-Source: [Purifying water](https://nomadwiki.org/en/Purifying_water)  
+Source: [Purifying water](https://nomadwiki.org/en/Purifying_water)
 License: CC-BY-SA-4.0

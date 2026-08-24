@@ -4,12 +4,12 @@
 
 ## How to table dive {#how_to_table_dive}
 
-1.  Go anywhere where large quantities of [food](food "food"){.wikilink} are consumed. This could be a food court, a large restaurant, a mall, it doesn\'t matter as long as a lot of people are eating there. It helps to target an area which is rather discrete, if one wants to avoid alerting others. If not, try to do something like look at your phone or read a book do it doesn\'t look like you\'re loitering.
-2.  Keep an eye on where people are in their meals. Take note of people who are close to finishing their food, or look ready to leave.
-3.  At this point you can do one of two things:
-    1.  Hope they don\'t throw their food away, and if they don\'t, get it off the table quickly. If they don\'t,
-    2.  Approach them before they reach the trash and ask for their food. This might seem strange, but what\'s more strange is the idea of throwing away perfectly good food. Try not to be embarrassed if they politely (or impolitely) decline.
-4.  Sit down and enjoy your free food.
+1. Go anywhere where large quantities of [food](food "food"){.wikilink} are consumed. This could be a food court, a large restaurant, a mall, it doesn\'t matter as long as a lot of people are eating there. It helps to target an area which is rather discrete, if one wants to avoid alerting others. If not, try to do something like look at your phone or read a book do it doesn\'t look like you\'re loitering.
+2. Keep an eye on where people are in their meals. Take note of people who are close to finishing their food, or look ready to leave.
+3. At this point you can do one of two things:
+    1. Hope they don\'t throw their food away, and if they don\'t, get it off the table quickly. If they don\'t,
+    2. Approach them before they reach the trash and ask for their food. This might seem strange, but what\'s more strange is the idea of throwing away perfectly good food. Try not to be embarrassed if they politely (or impolitely) decline.
+4. Sit down and enjoy your free food.
 
 ## Tips
 
@@ -24,14 +24,9 @@
 - Be patient, but realistic; if everyone is eating their entire meals and throwing their food away, it might just be a bad day to table dive.
 - Keep cultural differences in mind; what may work in one country, may not work in another.
 
-[nomad:Table dive](nomad:Table_dive "nomad:Table dive"){.wikilink}
-
 [Category:General info](Category:General_info "Category:General info"){.wikilink}
-
-
-
 
 ---
 
-Source: [Table dive](https://trashwiki.org/en/Table_dive)  
+Source: [Table dive](https://trashwiki.org/en/Table_dive)
 License: CC-BY-NC-SA-4.0

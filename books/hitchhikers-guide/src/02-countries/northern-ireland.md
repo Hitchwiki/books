@@ -16,14 +16,9 @@ Hitchhiking is legal in Northern Ireland and no law forbids asking for a lift; o
 
 ## Personal Experiences {#personal_experiences}
 
-[trash:Northern Ireland](trash:Northern_Ireland "trash:Northern Ireland"){.wikilink}
-
 [Category:Northern Europe](Category:Northern_Europe "Category:Northern Europe"){.wikilink} [ ](Category:Northern_Ireland " "){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
-
-
-
 
 ---
 
-Source: [Northern Ireland](https://hitchwiki.org/en/Northern_Ireland)  
+Source: [Northern Ireland](https://hitchwiki.org/en/Northern_Ireland)
 License: CC-BY-SA-4.0

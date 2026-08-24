@@ -40,12 +40,7 @@ You can find a Pakistani restaurant (very good, self-service\...) with a pay-wha
 
 There is also the *Cafe Gagarin* that has local specialities with a free price policy model, additionally it is a center for anarchist/bike people. It is at [Garnisongasse 24, 1090 Wien](https://goo.gl/maps/SgbavgvYc2E2) and their website (in german) is [cafegagarin.at](http://cafegagarin.at/).
 
-[hitch:Vienna](hitch:Vienna "hitch:Vienna"){.wikilink} [nomad:Vienna](nomad:Vienna "nomad:Vienna"){.wikilink}
-
-
-
-
 ---
 
-Source: [Vienna](https://trashwiki.org/en/Vienna)  
+Source: [Vienna](https://trashwiki.org/en/Vienna)
 License: CC-BY-NC-SA-4.0

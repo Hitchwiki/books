@@ -16,10 +16,7 @@ The European Voluntary Service (EVS) provides young [Europeans](Europe "Europe")
 
 [Category:Volunteering](Category:Volunteering "Category:Volunteering"){.wikilink}
 
-
-
-
 ---
 
-Source: [International Voluntary Programmes](https://nomadwiki.org/en/International_Voluntary_Programmes)  
+Source: [International Voluntary Programmes](https://nomadwiki.org/en/International_Voluntary_Programmes)
 License: CC-BY-SA-4.0

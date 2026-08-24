@@ -81,10 +81,7 @@ Now I understand why in their culture they do not allow anyone to see their sist
 
 [Category:Middle East](Category:Middle_East "Category:Middle East"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Jordan](https://hitchwiki.org/en/Jordan)  
+Source: [Jordan](https://hitchwiki.org/en/Jordan)
 License: CC-BY-SA-4.0

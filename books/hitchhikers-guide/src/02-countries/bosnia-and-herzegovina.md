@@ -2,13 +2,13 @@
 
 ## Hitchhiking
 
-**Bosnia and Herzegovina** is generally good for hitchhiking as the people here are very warm and friendly. If you are from a western country, chances are good that the people you meet in the street will have friends or relatives living in your country (due to refugees who left Bosnia during the [war](:wikipedia:Bosnian_War "war"){.wikilink}). This makes for an easy conversation with locals (if you can communicate with them).
+**Bosnia and Herzegovina** is generally good for hitchhiking as the people here are very warm and friendly. If you are from a western country, chances are good that the people you meet in the street will have friends or relatives living in your country (due to refugees who left Bosnia during the war). This makes for an easy conversation with locals (if you can communicate with them).
 
 ![](Hitchhiking_from_Sarajevo_to_Tuzla_and_Zenica.JPG.jpg "Hitchhiking_from_Sarajevo_to_Tuzla_and_Zenica.JPG.jpg"){width="200"}
 
 Police won\'t give you any trouble here. In some places you may have to wait for quite some time, though. Indeed, Bosnia is quite poor and not so many people can afford traveling far away by car.
 
-The roads are not in such a good quality (you will notice some small wood bridges, and your speed average may not excess 60 km/hour on most of the roads\...), there is just one short highway in Bosnia and Herzegovina. But Bosnia is a beautiful country, so get in a truck and enjoy the landscape. :)
+The roads are not in such a good quality (you will notice some small wood bridges, and your speed average may not excess 60 km/hour on most of the roads\...), there is just one short highway in Bosnia and Herzegovina. But Bosnia is a beautiful country, so get in a truck and enjoy the landscape.:)
 
 Some car drivers will not understand the concept of hitchhiking, and private taxi is a major form of public transport. Therefore, make sure before you board a vehicle that the driver is not an informal taxi. Also make sure to keep an eye on the road - if the driver makes sudden turns or there are any other uncommon for usual driving changes in his behavior, it is likely that he is either a taxi driver or that he thinks he is doing good by bringing you to the local bus station. You therefore will have to be reiterative on stating that you travel exclusively by *autostop*.
 
@@ -55,10 +55,7 @@ Principle cities:
 
 [ ](Category:Bosnia_and_Herzegovina " "){.wikilink} [Category:Southern Europe](Category:Southern_Europe "Category:Southern Europe"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Bosnia and Herzegovina](https://hitchwiki.org/en/Bosnia_and_Herzegovina)  
+Source: [Bosnia and Herzegovina](https://hitchwiki.org/en/Bosnia_and_Herzegovina)
 License: CC-BY-SA-4.0

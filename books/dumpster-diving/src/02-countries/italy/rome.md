@@ -12,12 +12,7 @@
 
 - If you continue walking on Via Tiburtina, then on the other side of the street from *Tuodi* supermarket you can find some [pizza](pizza "pizza"){.wikilink} in the [container](container "container"){.wikilink} around ten o\'clock in the evening. Also around the same time you can find pizza on Scalo San Lorenzo. Just check the [dumpsters](dumpster "dumpster"){.wikilink} in front of pizzerias. `<small>`{=html}(Last checked: October 2015)`</small>`{=html}
 
-[hitch:Rome](hitch:Rome "hitch:Rome"){.wikilink}
-
-
-
-
 ---
 
-Source: [Rome](https://trashwiki.org/en/Rome)  
+Source: [Rome](https://trashwiki.org/en/Rome)
 License: CC-BY-NC-SA-4.0

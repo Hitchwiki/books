@@ -50,16 +50,16 @@ There is still no clear info about Uzbek-Kyrgyz border. After riots in Osh regio
 
 Kyrgyz cars have Rooms with a red stripe on the left, which depicts Kirghiz emblem. The first number indicates the letters Region - see table below
 
-  Letter   Province
+  Letter Province
   -------- --------------------------------------------------------
-  A        [Batken](Batken "Batken"){.wikilink}
-  B, E     [Bishkek](Bishkek "Bishkek"){.wikilink} (City Bishkek)
-  C, S     Chyi region (around Bishkek)
-  D        [Jalal-abad](Jalal-abad "Jalal-abad"){.wikilink}
-  I        [Issyk-kul](Issyk-kul_lake "Issyk-kul"){.wikilink}
-  N        [Naryn](Naryn "Naryn"){.wikilink}
-  O, Z     [Osh](Osh "Osh"){.wikilink}
-  T        [Talas](Talas "Talas"){.wikilink}
+  A [Batken](Batken "Batken"){.wikilink}
+  B, E [Bishkek](Bishkek "Bishkek"){.wikilink} (City Bishkek)
+  C, S Chyi region (around Bishkek)
+  D [Jalal-abad](Jalal-abad "Jalal-abad"){.wikilink}
+  I [Issyk-kul](Issyk-kul_lake "Issyk-kul"){.wikilink}
+  N [Naryn](Naryn "Naryn"){.wikilink}
+  O, Z [Osh](Osh "Osh"){.wikilink}
+  T [Talas](Talas "Talas"){.wikilink}
 
 MDV - Ministry of Internal Affairs, yellow numberplate KGS (and letter of region) - cars of foreign companies. Sometimes others are old Soviet numbers.
 
@@ -111,17 +111,14 @@ Personally I had a great time hitch hiking in KGZ all around the country with co
 
 <div class="hw-exp-text">
 
-Kyrgyzstan is super easy to get every where with your thumb as yeah public transportation are not so great, locals does it all the time, to work my way around payment as it is expected for ride , I learned the Russian sentence to say I don\'t have money than the driver could say yes or no to take me but they knew I would not pay if they took me, only time I had to pay in like 80 rides in 2and half weeks doing the whole country was maybe twice because I had forgotten to mention about no money. Yes I got a folk once drop me off to his family guesthouse and paid for that but not gonna be bitchy about it as he had gave me a huge ride and was super late. Like a lot of place in central Asia never any working seatbelt for some reason. Once I was about to do a huge detour to start getting towards Osh , picked up by highway workers telling me there was that new highway they had just builted and was cutting my road by like 400km and maybe 6 hours because of the mountains, plot twist this highway was so new that it was not on any maps yet and so after I got stuck for 4hours waiting I walk for 3 hours untill just when i was ready to call it for the night, a van , the only vehicle I had seen in maybe 6hours, stop for me, was quite happy to see that guy popping out of nowhere.
+Kyrgyzstan is super easy to get every where with your thumb as yeah public transportation are not so great, locals does it all the time, to work my way around payment as it is expected for ride, I learned the Russian sentence to say I don\'t have money than the driver could say yes or no to take me but they knew I would not pay if they took me, only time I had to pay in like 80 rides in 2and half weeks doing the whole country was maybe twice because I had forgotten to mention about no money. Yes I got a folk once drop me off to his family guesthouse and paid for that but not gonna be bitchy about it as he had gave me a huge ride and was super late. Like a lot of place in central Asia never any working seatbelt for some reason. Once I was about to do a huge detour to start getting towards Osh, picked up by highway workers telling me there was that new highway they had just builted and was cutting my road by like 400km and maybe 6 hours because of the mountains, plot twist this highway was so new that it was not on any maps yet and so after I got stuck for 4hours waiting I walk for 3 hours untill just when i was ready to call it for the night, a van, the only vehicle I had seen in maybe 6hours, stop for me, was quite happy to see that guy popping out of nowhere.
 
 </div>
 </div>
 
 [Category:Asia](Category:Asia "Category:Asia"){.wikilink} [Category:Central Asia](Category:Central_Asia "Category:Central Asia"){.wikilink} [Category:Kyrgyzstan](Category:Kyrgyzstan "Category:Kyrgyzstan"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Kyrgyzstan](https://hitchwiki.org/en/Kyrgyzstan)  
+Source: [Kyrgyzstan](https://hitchwiki.org/en/Kyrgyzstan)
 License: CC-BY-SA-4.0

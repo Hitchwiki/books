@@ -63,14 +63,9 @@ Had an easy time hitchiking from beach destinations (eg, Popoyo) - never had to 
 
 Image:Pickup. Nicaragua.jpg\|The usual way of traveling in Nicaragua Image:A hitch-hiker in Nicaragua.jpg\|A hitchhiker picked up by a pickup driver
 
-[wikipedia:Nicaragua](wikipedia:Nicaragua "wikipedia:Nicaragua"){.wikilink}
-
 [\*](Category:Nicaragua "*"){.wikilink} [Category:Central America](Category:Central_America "Category:Central America"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
-
-
-
 
 ---
 
-Source: [Nicaragua](https://hitchwiki.org/en/Nicaragua)  
+Source: [Nicaragua](https://hitchwiki.org/en/Nicaragua)
 License: CC-BY-SA-4.0

@@ -1,2 +1,4 @@
 # Wiki titles, slugs, or src-relative paths to leave out of this book.
 # You can also put <!-- editorial:omit --> in the chapter.
+Hitchhiking news and news archive
+01-practice/hitchhiking-news-and-news-archive.md

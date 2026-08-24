@@ -15,12 +15,9 @@ There are some places for nightlife / places to grab a cofffee during the day in
 - I reaaally like the place called Massolit \-- it is a vintage bookstore, also there is an option to have a coffee, and there is a tiny green courtyard with 3 tables (looks like a countryhouse garden)
 - Another cafe which I can recommend is Terv Presso (also in the downtown)
 
-(be aware that on Sunndays pubs and bars, as well as a lot of other places are closed) [trash:Budapest](trash:Budapest "trash:Budapest"){.wikilink}
-
-
-
+(be aware that on Sunndays pubs and bars, as well as a lot of other places are closed)
 
 ---
 
-Source: [Budapest](https://nomadwiki.org/en/Budapest)  
+Source: [Budapest](https://nomadwiki.org/en/Budapest)
 License: CC-BY-SA-4.0

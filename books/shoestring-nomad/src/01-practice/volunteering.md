@@ -16,7 +16,7 @@
 
 **FREE Membership:**
 
-[VolunteersBase.com](http://www.volunteersbase.com/) same concept as the sites mentioned above, the big difference is that is completely free (no fees, no memberships, no money). Volunteers can contact projects directly. It works with all sort of projects. If you like the idea please show your support by promoting, it is a new site and it has 280+ volunteering opportunities listed so far (03-2014). It will always be FREE or it will die trying :)
+[VolunteersBase.com](http://www.volunteersbase.com/) same concept as the sites mentioned above, the big difference is that is completely free (no fees, no memberships, no money). Volunteers can contact projects directly. It works with all sort of projects. If you like the idea please show your support by promoting, it is a new site and it has 280+ volunteering opportunities listed so far (03-2014). It will always be FREE or it will die trying:)
 
 [ThePoosh.org](http://www.thepoosh.org/) hospitality site for anyone, anywhere in the world wishing to participate in or start their own sustainable self-build project. It promotes the exchange of labor, knowledge, skills and community values and encourages sustainable self-build projects to offer food and accommodation for volunteer members. It\'s free.
 
@@ -70,10 +70,7 @@ This page from the Facebook group cannot be copied here: <https://www.facebook.c
 
 [Category:Volunteering](Category:Volunteering "Category:Volunteering"){.wikilink}
 
-
-
-
 ---
 
-Source: [Volunteering](https://nomadwiki.org/en/Volunteering)  
+Source: [Volunteering](https://nomadwiki.org/en/Volunteering)
 License: CC-BY-SA-4.0

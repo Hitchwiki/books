@@ -33,10 +33,7 @@ Entrance 99 on Culver Drive is close to Tustin Metrolink station.
 
 Entrance 94 on Alton Parkway is close to Irvine Transport Center.
 
-
-
-
 ---
 
-Source: [Los Angeles](https://hitchwiki.org/en/Los_Angeles)  
+Source: [Los Angeles](https://hitchwiki.org/en/Los_Angeles)
 License: CC-BY-SA-4.0

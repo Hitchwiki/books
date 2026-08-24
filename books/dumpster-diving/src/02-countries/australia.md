@@ -60,16 +60,9 @@ Some free (and legal!) public transport options are available in major Australia
 <center>
 </center>
 
-[hitch:Australia](hitch:Australia "hitch:Australia"){.wikilink}
-
-[share:Australia](share:Australia "share:Australia"){.wikilink} [vegan:Australia](vegan:Australia "vegan:Australia"){.wikilink} [nomad:Australia](nomad:Australia "nomad:Australia"){.wikilink}
-
 [Category:Australia](Category:Australia "Category:Australia"){.wikilink}
-
-
-
 
 ---
 
-Source: [Australia](https://trashwiki.org/en/Australia)  
+Source: [Australia](https://trashwiki.org/en/Australia)
 License: CC-BY-NC-SA-4.0

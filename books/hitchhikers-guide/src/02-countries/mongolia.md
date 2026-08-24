@@ -78,10 +78,7 @@ Most Mongolians, in the south, don\'t speak English, and only have the slightest
 
 [ ](Category:Mongolia " "){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Mongolia](https://hitchwiki.org/en/Mongolia)  
+Source: [Mongolia](https://hitchwiki.org/en/Mongolia)
 License: CC-BY-SA-4.0

@@ -4,12 +4,7 @@
 
 There are some [Free hot springs](Free_hot_springs "Free hot springs"){.wikilink} in Greece.
 
-[trash:Greece](trash:Greece "trash:Greece"){.wikilink} [couch:Greece](couch:Greece "couch:Greece"){.wikilink}
-
-
-
-
 ---
 
-Source: [Greece](https://nomadwiki.org/en/Greece)  
+Source: [Greece](https://nomadwiki.org/en/Greece)
 License: CC-BY-SA-4.0

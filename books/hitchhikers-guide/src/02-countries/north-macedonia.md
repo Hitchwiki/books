@@ -53,10 +53,7 @@ Nothing in Macedonian law makes hitchhiking (*автостоп*) an offence, and
 
 [ ](Category:North_Macedonia " "){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [North Macedonia](https://hitchwiki.org/en/North_Macedonia)  
+Source: [North Macedonia](https://hitchwiki.org/en/North_Macedonia)
 License: CC-BY-SA-4.0

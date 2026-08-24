@@ -5,7 +5,7 @@ After the chants around the circle; after the celebration for our unity with the
 It was late already and a silent, deep atmosphere welcomed us. In circle, people where talking about the future of the Rainbow http://en.wikipedia.org/wiki/Rainbow\_gathering.
 Where to hold it next year was the main question. But more important to me where the witness of what rainbow meant for some of the participant and where was it gonna go.
 I was in a Vision Council, where the decisions are taken after debate and speeches. the talking stick was going around: someone didn't really wanna go to Moldovia, but to Finland; others wanted to limit the use of internet to communicate location and general info to the participants; one girl crying was telling what meant Rainbow in her life...
-Finally, when only few members remained, the talking stick arrived to my side. I felt I had something to share. So , I explained.
+Finally, when only few members remained, the talking stick arrived to my side. I felt I had something to share. So, I explained.
 This is my first time here and I arrived only 2 days ago. Still i want to share my vision for the future of Rainbow. Even if we will always have to compromise with modernity, I believe we should trust human relationship more than technology. I believe we should have a lightfoot post in every Rainbow meeting so that people can write handwritten letters to leave in the box and others can pick them up and create new connections.
 So, I explained. Then questions rose: "Well, we will need a focalizer who has to take responsibility that all the letters will be delivered. And someone who will bring the letters to the next meeting..." and so on.
 No focalizer, no organization: only a box with some instructions, in a visible place.

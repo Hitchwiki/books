@@ -6,7 +6,7 @@
 
 ### Reudnitz
 
-- *Rewe* on Riebeckstraße 10-14: bins are located on the parking lot left-side of the building, with a ladder nicely assisting to jump the fence ;) `<small>`{=html}*(Last checked: May. 2015)*`</small>`{=html}
+- *Rewe* on Riebeckstraße 10-14: bins are located on the parking lot left-side of the building, with a ladder nicely assisting to jump the fence;) `<small>`{=html}*(Last checked: May. 2015)*`</small>`{=html}
 - *Penny* next to *Kaufland* on Täubchenweg has bins locked away in a small compound next to the delivery entrance, but it has been found open in the past. Note that pastry delivery is as early as 3:30. `<small>`{=html}*(Last checked: May. 2015)*`</small>`{=html}
 
 ### Paunsdorf
@@ -25,12 +25,7 @@
 
 - There is a [freeshop](freeshop "freeshop"){.wikilink} *Umsonstladen* in *[Giezser16](http://umsonstladen-leipzig.jimdo.com/)* (address: Gießerstraße 16). open mondays and thursdays, 3 to 8 pm.
 
-[share:Leipzig](share:Leipzig "share:Leipzig"){.wikilink} [hitch:Leipzig](hitch:Leipzig "hitch:Leipzig"){.wikilink} [vegan:Leipzig](vegan:Leipzig "vegan:Leipzig"){.wikilink} [nomad:Leipzig](nomad:Leipzig "nomad:Leipzig"){.wikilink}
-
-
-
-
 ---
 
-Source: [Leipzig](https://trashwiki.org/en/Leipzig)  
+Source: [Leipzig](https://trashwiki.org/en/Leipzig)
 License: CC-BY-NC-SA-4.0

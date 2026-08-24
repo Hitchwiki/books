@@ -1,6 +1,6 @@
 # unsustainable
 
-https://www.xkcd.com/1007/ :)
+https://www.xkcd.com/1007/:)
 
 ---
 

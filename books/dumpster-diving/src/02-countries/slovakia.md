@@ -21,16 +21,9 @@ If you find yourself lost in Slovakia, dumpster-diving will be less comfortable 
 - [Ružomberok](Ružomberok "Ružomberok"){.wikilink}
 - `<small>`{=html}edit to add more!`</small>`{=html}
 
-[hitch:Slovakia](hitch:Slovakia "hitch:Slovakia"){.wikilink}
-
-[vegan:Slovakia](vegan:Slovakia "vegan:Slovakia"){.wikilink} [nomad:Slovakia](nomad:Slovakia "nomad:Slovakia"){.wikilink}
-
 [Category:Slovakia](Category:Slovakia "Category:Slovakia"){.wikilink}
-
-
-
 
 ---
 
-Source: [Slovakia](https://trashwiki.org/en/Slovakia)  
+Source: [Slovakia](https://trashwiki.org/en/Slovakia)
 License: CC-BY-NC-SA-4.0

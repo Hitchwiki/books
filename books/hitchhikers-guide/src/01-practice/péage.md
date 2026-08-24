@@ -1,6 +1,6 @@
 # Péage
 
-![A typical *barrière de péage* in France](Peage.jpg "A typical barrière de péage in France"){width="300"} ![Derek hitchhiking at a *barrière de péage* near [Valence](Valence "Valence"){.wikilink}](Derek_hitching_at_p%C3%A9age.jpg "Derek hitchhiking at a barrière de péage near Valence"){width="300"} ![Clare rockin\' a péage in [Croatia](Croatia "Croatia"){.wikilink}](2008_sibenik_to_rijeka_croatia_claree.png "Clare rockin' a péage in Croatia"){width="300"} **Péage** is a French word for *[toll road](toll_road "toll road"){.wikilink}* in [France](France "France"){.wikilink} and other countries where French is spoken, such as [Morocco](Morocco "Morocco"){.wikilink}. Don\'t mix up the word with *autoroute* which means \"motorway\" in French and is not necessarily a toll road. Hitchhikers usually use this word as refering to [toll stations](toll_station "toll station"){.wikilink}.
+![A typical *barrière de péage* in France](Peage.jpg "A typical barrière de péage in France"){width="300"}![Derek hitchhiking at a *barrière de péage* near [Valence](Valence "Valence"){.wikilink}](Derek_hitching_at_p%C3%A9age.jpg "Derek hitchhiking at a barrière de péage near Valence"){width="300"}![Clare rockin\' a péage in [Croatia](Croatia "Croatia"){.wikilink}](2008_sibenik_to_rijeka_croatia_claree.png "Clare rockin' a péage in Croatia"){width="300"} **Péage** is a French word for *[toll road](toll_road "toll road"){.wikilink}* in [France](France "France"){.wikilink} and other countries where French is spoken, such as [Morocco](Morocco "Morocco"){.wikilink}. Don\'t mix up the word with *autoroute* which means \"motorway\" in French and is not necessarily a toll road. Hitchhikers usually use this word as refering to [toll stations](toll_station "toll station"){.wikilink}.
 
 In France, most of the motorways are toll roads which are the fastest way to hitch across the country. There are two types of toll stations on péages. First, there are big ones where all traffic has to stop to pay a fee (or to get a ticket) -- these are *barrières de péage* and usually they are excellent spots to get a long-distance ride. They are often located near big cities on the autoroute. Another type is a side barrier situated on all exits in the toll part of the motorway. On latter ones traffic is much smaller, therefore one can expect a longer waiting time, although sometimes congested toll stations (the first type) can be a difficult place to hitch from, too, as drivers have to pay a lot of attention to not cause any accidents. Then again, the more cars, the more possible rides, if you manage to show your [sign](signs "sign"){.wikilink} to as many people as possible. Often they will not stop in the péage, but indicate that they are going to pull over just after it.
 
@@ -19,10 +19,7 @@ While on a toll road, you can always try hitchhiking from one [petrol station](p
 
 [Category:General info](Category:General_info "Category:General info"){.wikilink}
 
-
-
-
 ---
 
-Source: [Péage](https://hitchwiki.org/en/Péage)  
+Source: [Péage](https://hitchwiki.org/en/Péage)
 License: CC-BY-SA-4.0

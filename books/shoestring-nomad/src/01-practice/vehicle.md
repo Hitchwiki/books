@@ -109,10 +109,7 @@ Suitable wild camping areas
 
 [Category:Transport](Category:Transport "Category:Transport"){.wikilink} [Category:Accommodation](Category:Accommodation "Category:Accommodation"){.wikilink}
 
-
-
-
 ---
 
-Source: [Vehicle](https://nomadwiki.org/en/Vehicle)  
+Source: [Vehicle](https://nomadwiki.org/en/Vehicle)
 License: CC-BY-SA-4.0

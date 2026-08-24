@@ -51,7 +51,7 @@ Armenian language is quite hard, both in pronunciation and vocabulary. As [Fedec
 - Anvchar? (anvaichar?) - For free?
 - Anooned incheh? (anoonait eenchaih?) - What\'s your name? (informal)
 - Inch e dzer anuny? (eenchaih dzer anoonaih?) - What\'s your name? (formal; or when asking someone older than you)
-- Vortegh e \... ? (vortaigh ai..?) - Where is ..?
+- Vortegh e \...? (vortaigh ai..?) - Where is..?
 - \...ka/chka? - Is/isn\'t there \....?
 - joor - water
 - hats - bread
@@ -142,10 +142,7 @@ People are friendly and we didn\'t have to pay for any rides so far, but the cou
 
 [\*](Category:Armenia "*"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Armenia](https://hitchwiki.org/en/Armenia)  
+Source: [Armenia](https://hitchwiki.org/en/Armenia)
 License: CC-BY-SA-4.0

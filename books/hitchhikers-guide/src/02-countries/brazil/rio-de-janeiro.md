@@ -14,16 +14,13 @@ Pedágio Viúva Graça. From *Terminal Rodoviário Coronel Américo Fontenelle* 
 
 Take the bus (he took it very close to Lapa, 2.75 reals, 30min+-) to Santa Cruz (just ask some people where to take the bus, easy as bonjour), get off at the last stop of BR-101 where there is a very big supermarket called Extra, walk 200 meters down the road where there is a petrol station.
 
-Another opinion : it is easier to get bus to Itaguay and get off in BR-101 before entering the town , it is less tricky than Santa Cruz where if you don\'t speak good Portuguese you can easily get lost.
+Another opinion: it is easier to get bus to Itaguay and get off in BR-101 before entering the town, it is less tricky than Santa Cruz where if you don\'t speak good Portuguese you can easily get lost.
 
 ### In [Itataia](Itataia "Itataia"){.wikilink} {#in_itataia}
 
 Hitching in the Itataia region in the northwest part of the state is very easy, it\'s got a community of Europeans that will pull up even if you don\'t ask.
 
-
-
-
 ---
 
-Source: [Rio de Janeiro](https://hitchwiki.org/en/Rio_de_Janeiro)  
+Source: [Rio de Janeiro](https://hitchwiki.org/en/Rio_de_Janeiro)
 License: CC-BY-SA-4.0

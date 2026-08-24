@@ -8,7 +8,7 @@ Please keep in mind that there is loads of unemployement, poverty and homelessne
 
 ## [Food markets](Food_markets "Food markets"){.wikilink} {#food_markets}
 
-In Lisbon, like in most towns in Portugal, there are many [vegetable markets](vegetable_market "vegetable market"){.wikilink} , where small vendors sell fruits and veggies that come directly from producers. They are usually open every day, until 1pm or 2pm.
+In Lisbon, like in most towns in Portugal, there are many [vegetable markets](vegetable_market "vegetable market"){.wikilink}, where small vendors sell fruits and veggies that come directly from producers. They are usually open every day, until 1pm or 2pm.
 
 It\'s good to pass some minutes before the closing stress, and ask vendors for things they won\'t sell (although some will tend to give you stuff that they are not even throwing away, out of charity). Good spots are Mercado da Ribeira, in Cais do Sodré, Mercado de Arroios, close to Arroios metro station, or Mercado de Benfica.
 
@@ -39,12 +39,7 @@ This is also true for the Pingo Doce cafes where left over food is often left on
 
 There is a flea market called \"Feira da Ladra\" every Tuesday and Saturday in Campo de Santa Clara, near the Santa Apolónia train and Metro station.
 
-[hitch:Lisbon](hitch:Lisbon "hitch:Lisbon"){.wikilink} [nomad:Lisbon](nomad:Lisbon "nomad:Lisbon"){.wikilink}
-
-
-
-
 ---
 
-Source: [Lisbon](https://trashwiki.org/en/Lisbon)  
+Source: [Lisbon](https://trashwiki.org/en/Lisbon)
 License: CC-BY-NC-SA-4.0

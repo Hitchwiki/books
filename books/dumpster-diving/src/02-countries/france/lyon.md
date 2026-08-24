@@ -130,15 +130,10 @@ Freeshop is located in \"La guillotiere\" (7th district) at *La Luttine, 91 rue 
 
 ## Other interesting places to check out {#other_interesting_places_to_check_out}
 
-- Infoshop \"La Luttine\": Every saturday 2pm-6pm. Check it out :) ([website](http://laluttine.free.fr/laluttine))
+- Infoshop \"La Luttine\": Every saturday 2pm-6pm. Check it out:) ([website](http://laluttine.free.fr/laluttine))
 - \"La Gryffe\" library: 5 rue Sébastien Gryphe Lyon 7e. Open Monday to Saturday from 2pm to 7pm.
-
-[hitch:Lyon](hitch:Lyon "hitch:Lyon"){.wikilink} [share:Lyon](share:Lyon "share:Lyon"){.wikilink} [nomad:Lyon](nomad:Lyon "nomad:Lyon"){.wikilink}
-
-
-
 
 ---
 
-Source: [Lyon](https://trashwiki.org/en/Lyon)  
+Source: [Lyon](https://trashwiki.org/en/Lyon)
 License: CC-BY-NC-SA-4.0

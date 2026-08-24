@@ -72,7 +72,7 @@ This article is very accurate in that it is possible to hitch hike from north to
 
 <div class="hw-exp-text">
 
-While being slightly put off by the above comments, I persisted in giving Laos a go. Managed to travel all the way from Huay Xai to Vientiane via hitch hiking (apart from one bus journey from Oudomxay to Pak Mong). Do be prepared to wait at least a couple of hours in some places though! A top tip would be keeping your eyes peeled for Chinese number plates (if you see a rather fancy car coming towards you, it\'s probably Chinese) - about 80% of my rides were with incredibly helpful Chinese visitors, many of whom also shared food, drinks & ciggies :)GO FOR IT!!!
+While being slightly put off by the above comments, I persisted in giving Laos a go. Managed to travel all the way from Huay Xai to Vientiane via hitch hiking (apart from one bus journey from Oudomxay to Pak Mong). Do be prepared to wait at least a couple of hours in some places though! A top tip would be keeping your eyes peeled for Chinese number plates (if you see a rather fancy car coming towards you, it\'s probably Chinese) - about 80% of my rides were with incredibly helpful Chinese visitors, many of whom also shared food, drinks & ciggies:)GO FOR IT!!!
 
 </div>
 </div>
@@ -159,10 +159,7 @@ The border crossing at Tonpheung is only open for locals.
 
 [Category:Asia](Category:Asia "Category:Asia"){.wikilink} [\*](Category:Laos "*"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Laos](https://hitchwiki.org/en/Laos)  
+Source: [Laos](https://hitchwiki.org/en/Laos)
 License: CC-BY-SA-4.0

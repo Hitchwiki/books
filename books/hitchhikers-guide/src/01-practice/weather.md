@@ -47,10 +47,7 @@ Be careful, because sometimes a wait of a few hours might be unavoidable, and du
 
 [Category:Practical info](Category:Practical_info "Category:Practical info"){.wikilink} [Category:General info](Category:General_info "Category:General info"){.wikilink}
 
-
-
-
 ---
 
-Source: [Weather](https://hitchwiki.org/en/Weather)  
+Source: [Weather](https://hitchwiki.org/en/Weather)
 License: CC-BY-SA-4.0

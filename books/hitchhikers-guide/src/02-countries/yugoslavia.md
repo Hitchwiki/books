@@ -12,10 +12,7 @@ Starting in 1991, the country broke up in [Slovenia](Slovenia "Slovenia"){.wikil
 
 [Category:Europe](Category:Europe "Category:Europe"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Yugoslavia](https://hitchwiki.org/en/Yugoslavia)  
+Source: [Yugoslavia](https://hitchwiki.org/en/Yugoslavia)
 License: CC-BY-SA-4.0

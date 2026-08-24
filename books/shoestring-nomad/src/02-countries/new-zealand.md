@@ -10,12 +10,7 @@ Now, once this is said, it is really understandable why New Zealand is so visite
 
 Although it is the dream of every NZ-traveler to see a kiwi, you would be very lucky if you see one elsewhere then on road boards, on the shops, on the banks, in the souvenir shops. If you want it so badly that you cannot come back without having seen one, go to Stewart Island also called Rakiura, otherwise you will have to stop dreaming. But no, don\'t give up your dreams godamm\'it, you will see one! On the other hand, you can easily find another type of kiwi, as it is how New Zealanders call themselves \"Hey I\'m Kiwi, nice to meet you. What about you?\". \"Oh what nice, me I\'m Sagittarius\" could then be a typical conversation.
 
-[hitch:New Zealand](hitch:New_Zealand "hitch:New Zealand"){.wikilink} [trash:New Zealand](trash:New_Zealand "trash:New Zealand"){.wikilink} [couch:New Zealand](couch:New_Zealand "couch:New Zealand"){.wikilink}
-
-
-
-
 ---
 
-Source: [New Zealand](https://nomadwiki.org/en/New_Zealand)  
+Source: [New Zealand](https://nomadwiki.org/en/New_Zealand)
 License: CC-BY-SA-4.0

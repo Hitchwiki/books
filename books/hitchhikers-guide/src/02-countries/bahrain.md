@@ -10,10 +10,7 @@
 
 [Category:Middle East](Category:Middle_East "Category:Middle East"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Bahrain](https://hitchwiki.org/en/Bahrain)  
+Source: [Bahrain](https://hitchwiki.org/en/Bahrain)
 License: CC-BY-SA-4.0

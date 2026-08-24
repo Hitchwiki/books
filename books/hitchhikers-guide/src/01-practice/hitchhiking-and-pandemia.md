@@ -192,10 +192,7 @@ Borders with Brazil are open. You need vaccination and PCR.
 
 [Category:General info](Category:General_info "Category:General info"){.wikilink}
 
-
-
-
 ---
 
-Source: [Hitchhiking and Pandemia](https://hitchwiki.org/en/Hitchhiking_and_Pandemia)  
+Source: [Hitchhiking and Pandemia](https://hitchwiki.org/en/Hitchhiking_and_Pandemia)
 License: CC-BY-SA-4.0

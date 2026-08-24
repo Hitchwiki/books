@@ -23,10 +23,7 @@
 
 [Category:General info](Category:General_info "Category:General info"){.wikilink}
 
-
-
-
 ---
 
-Source: [The Pros and Cons of Hitch Hiking](https://hitchwiki.org/en/The_Pros_and_Cons_of_Hitch_Hiking)  
+Source: [The Pros and Cons of Hitch Hiking](https://hitchwiki.org/en/The_Pros_and_Cons_of_Hitch_Hiking)
 License: CC-BY-SA-4.0

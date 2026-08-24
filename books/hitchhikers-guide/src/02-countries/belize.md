@@ -97,7 +97,7 @@ Image:Katja and Augustas\' ride in Belize.JPG\|[Katja and Augustas](Katja_and_Au
 
 <div class="hw-exp-text">
 
-[Levon](User:Lev-amatuni "Levon"){.wikilink} had an extremely good experience across all the country. Roads and vehicles are scarce in many parts of the country (one in 20 minutes max); however, they almost always stop, especially if this is not a busy road. Sometimes they would expect a small treat (like a bottle of beer) but never more than that. Many locals hitchhike in the back of the pickups too. The atmosphere is very safe (didn\'t hitchhike in Belize City, though). Again, a very positive experience in general. No signs/cardboards are needed. Just to underscore the level of \"hitchability\" - we hitched from and back to the airport right on time to fly back to Canada :)
+[Levon](User:Lev-amatuni "Levon"){.wikilink} had an extremely good experience across all the country. Roads and vehicles are scarce in many parts of the country (one in 20 minutes max); however, they almost always stop, especially if this is not a busy road. Sometimes they would expect a small treat (like a bottle of beer) but never more than that. Many locals hitchhike in the back of the pickups too. The atmosphere is very safe (didn\'t hitchhike in Belize City, though). Again, a very positive experience in general. No signs/cardboards are needed. Just to underscore the level of \"hitchability\" - we hitched from and back to the airport right on time to fly back to Canada:)
 
 </div>
 </div>
@@ -142,10 +142,7 @@ As I was leaving The police-woman from yesterday asked me if I learned not to tr
 
 [Category:Belize](Category:Belize "Category:Belize"){.wikilink} [Category:Central America](Category:Central_America "Category:Central America"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Belize](https://hitchwiki.org/en/Belize)  
+Source: [Belize](https://hitchwiki.org/en/Belize)
 License: CC-BY-SA-4.0

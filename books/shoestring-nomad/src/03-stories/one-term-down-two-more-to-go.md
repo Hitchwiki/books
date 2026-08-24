@@ -5,7 +5,7 @@ I have even been able to use some of knowlege to advise a friend of mine, Cat, w
 On a slightly brighter note, I have my first assessment to be completed over the xmas period, in which i am the counsel for the appellant in the court of appeal and am attempting to overturn the judgement of the previous court. Its all fictitious, obviously, but i am loving the opportunity to aruge a case, and what is more, i know i can prove the innocence of my client. It's an amazing feeling. I have worked to hard over the last few days and about half an hour ago i had a break through.
 The assessment involves me arguing 3 grounds on which my client is appealing. Although i had managed to nail the first two and-a-half, the last point seemed just beyond my reach. That is until i discovered that the piece of legislation under which my client is being prosecuted is incompatible with the human rights act and any attempt to prosecute him on the grounds stated would be in breech of his right to freedom of thought, conscience and religion. muhahahahaaaa!!
 I know that this probably doesn't make much sense but i have been working so hard on this over the last few days in an attempt to get it out of the way before new years and i am just feeling so pleased with myself that wanted to share my achievement with the world!
-I hope to see you all in a few weeks (i'l be coming to Amsterdam on the 28th) in the mean time i send long distance hugs and lashings of good energy to all! :D
+I hope to see you all in a few weeks (i'l be coming to Amsterdam on the 28th) in the mean time i send long distance hugs and lashings of good energy to all!:D
 
 ---
 

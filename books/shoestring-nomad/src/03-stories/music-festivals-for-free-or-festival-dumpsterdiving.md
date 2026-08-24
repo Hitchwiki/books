@@ -1,4 +1,4 @@
-# Music festivals for free   -or-   festival dumpsterdiving
+# Music festivals for free -or- festival dumpsterdiving
 
 I recently came back from Reading festival where I "volunteered".
 I noticed Shaun wrote something similar a little while back and thought I'd provide another, more legal and quite interesting option. I think some people here can find this info useful.

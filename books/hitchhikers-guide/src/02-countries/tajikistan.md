@@ -57,10 +57,7 @@ The situation at the borders changes frequently in this part of the world. Check
 
 [Category:Asia](Category:Asia "Category:Asia"){.wikilink} [Category:Central Asia](Category:Central_Asia "Category:Central Asia"){.wikilink} [\*](Category:Tajikistan "*"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Tajikistan](https://hitchwiki.org/en/Tajikistan)  
+Source: [Tajikistan](https://hitchwiki.org/en/Tajikistan)
 License: CC-BY-SA-4.0

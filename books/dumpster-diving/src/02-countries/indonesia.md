@@ -4,17 +4,11 @@
 
 While Western countries produce overflow of [stuff](stuff "stuff"){.wikilink}, people in countries like Indonesia often live off [garbage](garbage "garbage"){.wikilink} dumps just to make living possible. Scavenging here is a chance to live, unlike the scavenging culture in the West where living off the trash is an optional alternative.
 
-[hitch:Indonesia](hitch:Indonesia "hitch:Indonesia"){.wikilink}
-
-[vegan:Indonesia](vegan:Indonesia "vegan:Indonesia"){.wikilink} [nomad:Indonesia](nomad:Indonesia "nomad:Indonesia"){.wikilink}
-
-
 ![800px-Jakarta slumlife42.JPG](../../images/800px-jakarta-slumlife42jpg.jpg)
 
 *800px-Jakarta slumlife42.JPG — Sigurdas*
 
-
 ---
 
-Source: [Indonesia](https://trashwiki.org/en/Indonesia)  
+Source: [Indonesia](https://trashwiki.org/en/Indonesia)
 License: CC-BY-NC-SA-4.0

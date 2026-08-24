@@ -16,7 +16,7 @@ As A-roads, however, are a replacement for motorways in more rural areas, people
 
 If you\'re hitchhiking long distances and considering making a sign, in general people use the motorway names rather than the city names. For example, from [London](London "London"){.wikilink} to [Cornwall](South_West_England "Cornwall"){.wikilink} have a sign saying *M4*. But if you are hitching on a motorway with multiple cities (i.e. *M1*) it is an idea to use a sign with the city name (e.g. [Nottingham](Nottingham "Nottingham"){.wikilink}, [Sheffield](Sheffield "Sheffield"){.wikilink}).
 
-As a final note, rides are called lifts and trucks are called lorries :)
+As a final note, rides are called lifts and trucks are called lorries:)
 
 ## Legality of Hitchhiking {#legality_of_hitchhiking}
 
@@ -102,10 +102,7 @@ Your driver will also get a cabin with his ticket with four bunkbeds in it, so y
 
 [Category:United Kingdom](Category:United_Kingdom "Category:United Kingdom"){.wikilink} [Category:Northern Europe](Category:Northern_Europe "Category:Northern Europe"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [United Kingdom](https://hitchwiki.org/en/United_Kingdom)  
+Source: [United Kingdom](https://hitchwiki.org/en/United_Kingdom)
 License: CC-BY-SA-4.0

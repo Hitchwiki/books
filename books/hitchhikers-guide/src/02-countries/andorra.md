@@ -6,7 +6,7 @@ The official language is Catalan but basically everybody speaks Spanish, a lot o
 
 ## Hitchhiking
 
-There are few roads and no motorways. To hitchhike onward it is necessary only to go to the end of the town, and passers-by can direct you. Andorrans are used to hitchhikers, as many of the South American workers here hitch to work and back. However this means that sometimes there is a bit of competition for good spots to thumb. That being said, bus stops and parking bays are plentiful enough that you can simply walk further down the road. ![Street in Andorra.](Street_in_Andorra.jpg "Street in Andorra."){width="300"}
+There are few roads and no motorways. To hitchhike onward it is necessary only to go to the end of the town, and passers-by can direct you. Andorrans are used to hitchhikers, as many of the South American workers here hitch to work and back. However this means that sometimes there is a bit of competition for good spots to thumb. That being said, bus stops and parking bays are plentiful enough that you can simply walk further down the road.![Street in Andorra.](Street_in_Andorra.jpg "Street in Andorra."){width="300"}
 
 It is a very safe place. Some pickpocket might exist in the big crowds during winter season but it is very rare.
 
@@ -38,10 +38,7 @@ It\'s recommended to ask people at the petrol stations, gas is cheaper in Andorr
 
 [ ](Category:Andorra " "){.wikilink} [Category:Southern Europe](Category:Southern_Europe "Category:Southern Europe"){.wikilink} [Category:Cities](Category:Cities "Category:Cities"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Andorra](https://hitchwiki.org/en/Andorra)  
+Source: [Andorra](https://hitchwiki.org/en/Andorra)
 License: CC-BY-SA-4.0

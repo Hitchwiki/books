@@ -6,7 +6,7 @@ Many countries have no **laws** against taking [trash](trash "trash"){.wikilink}
 
 ### United Kingdom {#united_kingdom}
 
-In the United Kingdom, discarded property is still considered to legally belong to the individual or organization which disposed of it, and dumpster divers may be prosecuted under the [ Theft Act of 1968](Wikipedia:Theft_Act_1968 " Theft Act of 1968"){.wikilink} in England or Wales for \"Theft by Finding,\" or for common-law theft in Scotland.[^1]
+In the United Kingdom, discarded property is still considered to legally belong to the individual or organization which disposed of it, and dumpster divers may be prosecuted under the Theft Act of 1968 in England or Wales for \"Theft by Finding,\" or for common-law theft in Scotland.[^1]
 
 In [England](England "England"){.wikilink}, the police may also employ Section 1 of PACE (the Police and Criminal Evidence Act) to stop and search people who they have \"reasonable grounds\" to believe may be carrying, among other things, stolen goods or equipment to break and enter. In practice, this means that people carrying a bag at night who are deemed to look \"suspicious\" may be stopped and harassed by law enforcement. In these circumstances, the police have the power to compel a person to remain, to take their name and address and to search their bags and clothes.[^2] In the course of a personal search, however, a constable must inform the searched party of: their name and the station they are attached to; the object of the proposed search; their grounds for making the search; and the fact that the subject is entitled to a copy of the search. Failure to do so renders the search illegal.[^3]
 
@@ -14,9 +14,9 @@ Trespassing in the course of diving, unless done with aggravated intent or upon 
 
 ### United States {#united_states}
 
-The Supreme Court Case *[ California v. Greenwood](Wikipedia:California_v._Greenwood " California v. Greenwood"){.wikilink}* has established that by discarding possessions, private citizens of the US relinquish their rights to the property, and have no common law expectation of privacy regarding them. However, the same does not always hold true for corporations, and in 1983, a [Minnesota](Minnesota "Minnesota"){.wikilink} information diver was successfully sued in the *Tennant Company v. Advance Machine Company* for their recovery of customer lists and was forced to pay \$500,000 in damages.[^5] Individual cities may also establish ordinances banning scavenging, salvage or rummaging through trash.
+The Supreme Court Case ** has established that by discarding possessions, private citizens of the US relinquish their rights to the property, and have no common law expectation of privacy regarding them. However, the same does not always hold true for corporations, and in 1983, a [Minnesota](Minnesota "Minnesota"){.wikilink} information diver was successfully sued in the *Tennant Company v. Advance Machine Company* for their recovery of customer lists and was forced to pay \$500,000 in damages.[^5] Individual cities may also establish ordinances banning scavenging, salvage or rummaging through trash.
 
-In the United States, the Fourth Amendment protects individuals from warrant-less personal searches unless the police have reasonable cause to suspect they are armed and in the commission of a crime, in which case they may stop and frisk them for weapons as ruled in *[ Terry v. Ohio](Wikipedia:_Terry_v._Ohio " Terry v. Ohio"){.wikilink}.* Individuals may be compelled to state their name, address and birth date, but otherwise reserve their right to remain silent.
+In the United States, the Fourth Amendment protects individuals from warrant-less personal searches unless the police have reasonable cause to suspect they are armed and in the commission of a crime, in which case they may stop and frisk them for weapons as ruled in *.* Individuals may be compelled to state their name, address and birth date, but otherwise reserve their right to remain silent.
 
 ### Canada
 
@@ -56,8 +56,6 @@ Dumpster diving is not illegal. Though people might tell you it is, because they
 
 <references />
 
-[hitch:Laws](hitch:Laws "hitch:Laws"){.wikilink}
-
 [Category:General info](Category:General_info "Category:General info"){.wikilink} [Category:Dumpster diving](Category:Dumpster_diving "Category:Dumpster diving"){.wikilink}
 
 [^1]: \"Dumpster Diving.\" Wikipedia. <http://en.wikipedia.org/wiki/Dumpster_diving#Legal_status> Retrieved 22 July 2011.
@@ -76,10 +74,7 @@ Dumpster diving is not illegal. Though people might tell you it is, because they
 
 [^8]:
 
-
-
-
 ---
 
-Source: [Laws](https://trashwiki.org/en/Laws)  
+Source: [Laws](https://trashwiki.org/en/Laws)
 License: CC-BY-NC-SA-4.0

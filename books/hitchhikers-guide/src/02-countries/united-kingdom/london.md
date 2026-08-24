@@ -36,10 +36,7 @@ Take the train from *Victoria* to *Bromley South*. Then take bus 246 ([timetable
 
 Clacket Lane is an excellent place to hitch to Brighton (Westbound) or Dover (Eastbound) and also fairly good for most other directions as it\'s a busy station. Best thing is to stand outside the main doors into the station and ask everyone that comes out if they are going your way (\"excuse me, are you by any chance going to Brighton?\")
 
-
-
-
 ---
 
-Source: [London](https://hitchwiki.org/en/London)  
+Source: [London](https://hitchwiki.org/en/London)
 License: CC-BY-SA-4.0

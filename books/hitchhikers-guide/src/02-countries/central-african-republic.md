@@ -16,10 +16,7 @@ On top of that, armed gangs are common. Hitchhiking is not recommended here.
 
 [Category:Africa](Category:Africa "Category:Africa"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Central African Republic](https://hitchwiki.org/en/Central_African_Republic)  
+Source: [Central African Republic](https://hitchwiki.org/en/Central_African_Republic)
 License: CC-BY-SA-4.0

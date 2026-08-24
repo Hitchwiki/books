@@ -12,10 +12,7 @@
 
 By the way, if you go to Jalan Jaksa you should note that the nearest mc donalds (about 500 meters) from there has free internet, with computers that you can use (not just wifi, but actual computers for free use) even without buying anything and for as long as you wish.
 
-
-
-
 ---
 
-Source: [Jakarta](https://hitchwiki.org/en/Jakarta)  
+Source: [Jakarta](https://hitchwiki.org/en/Jakarta)
 License: CC-BY-SA-4.0

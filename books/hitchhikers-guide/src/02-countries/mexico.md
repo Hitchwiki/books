@@ -52,7 +52,7 @@ In some mid-sized cities like [Tampico](Tampico "Tampico"){.wikilink}, Oaxaca, a
 
 ## Safety
 
-It is even less recommendable than in other countries to take drugs or weapons with you, especially since after 2010 the Mexican government, backed by the US DEA who are actually present in Mexico (!!), have decided to crack down on drug and weapon trafficking. This has declined again since the following government of Peña Nieto seems to be more friendly towards the narcos. There still are numerous checkpoints all around the country, but in general it doesn\'t seem very likely that you will be checked and the soldiers hardly ever search all the way through a large back-pack, unless you answer their questions really bad. If the vehicle you\'re riding in does get stopped just stay calm, show your passport, say the magic words \"*turista*\" (\"tourist\") and \"*de paseo nada más*\" (\"just passing\"), and if they ask to see your stuff open you bag and show them that it\'s all clothes and stuff. Small quantities of marijuana are decriminalized and police officers can probably be convinced to overlook them with a small payment, although of course the Hitchwiki community endorses neither drug possession nor bribery. ;-) Be aware that knives are illegal as they are considered \"lethal weapons\" according to Mexican law and can theoretically be punished by up to five years of prison.
+It is even less recommendable than in other countries to take drugs or weapons with you, especially since after 2010 the Mexican government, backed by the US DEA who are actually present in Mexico (!!), have decided to crack down on drug and weapon trafficking. This has declined again since the following government of Peña Nieto seems to be more friendly towards the narcos. There still are numerous checkpoints all around the country, but in general it doesn\'t seem very likely that you will be checked and the soldiers hardly ever search all the way through a large back-pack, unless you answer their questions really bad. If the vehicle you\'re riding in does get stopped just stay calm, show your passport, say the magic words \"*turista*\" (\"tourist\") and \"*de paseo nada más*\" (\"just passing\"), and if they ask to see your stuff open you bag and show them that it\'s all clothes and stuff. Small quantities of marijuana are decriminalized and police officers can probably be convinced to overlook them with a small payment, although of course the Hitchwiki community endorses neither drug possession nor bribery.;-) Be aware that knives are illegal as they are considered \"lethal weapons\" according to Mexican law and can theoretically be punished by up to five years of prison.
 
 In the south, your drivers might ask you about your immigration status and advise you of immigration check points.
 
@@ -241,10 +241,7 @@ ANDALE! México remains my favorite place to catch a ride- starting in san diego
 
 [ ](Category:Mexico " "){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Mexico](https://hitchwiki.org/en/Mexico)  
+Source: [Mexico](https://hitchwiki.org/en/Mexico)
 License: CC-BY-SA-4.0

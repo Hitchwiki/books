@@ -20,10 +20,7 @@ As of 2009, travelling throughout the Puntland countryside would be non-advisabl
 
 [Category:Africa](Category:Africa "Category:Africa"){.wikilink} [Category:Eastern Africa](Category:Eastern_Africa "Category:Eastern Africa"){.wikilink} [Category:Somalia](Category:Somalia "Category:Somalia"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Puntland](https://hitchwiki.org/en/Puntland)  
+Source: [Puntland](https://hitchwiki.org/en/Puntland)
 License: CC-BY-SA-4.0

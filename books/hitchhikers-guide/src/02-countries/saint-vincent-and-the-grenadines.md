@@ -14,10 +14,7 @@ Hitching is easy in some parts of SV&G, especially the Grenadines. Thumb or wavi
 
 [Category:Island](Category:Island "Category:Island"){.wikilink} [Category:Caribbean](Category:Caribbean "Category:Caribbean"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Saint Vincent and the Grenadines](https://hitchwiki.org/en/Saint_Vincent_and_the_Grenadines)  
+Source: [Saint Vincent and the Grenadines](https://hitchwiki.org/en/Saint_Vincent_and_the_Grenadines)
 License: CC-BY-SA-4.0

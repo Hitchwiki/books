@@ -1,6 +1,6 @@
 # Slovenia
 
-**Slovenia** is a country in Central [Europe](Europe "Europe"){.wikilink}. ![Stirfry from Ljubljana market veggies](stirfry.jpeg "Stirfry from Ljubljana market veggies"){width="250"}
+**Slovenia** is a country in Central [Europe](Europe "Europe"){.wikilink}.![Stirfry from Ljubljana market veggies](stirfry.jpeg "Stirfry from Ljubljana market veggies"){width="250"}
 
 ## Dumpster diving {#dumpster_diving}
 
@@ -18,19 +18,13 @@ Slovenia has a law that forces [supermarkets](supermarket "supermarket"){.wikili
 - [Piran](Piran "Piran"){.wikilink}
 - `<small>`{=html}*add more?*`</small>`{=html}
 
-[hitch:Slovenia](hitch:Slovenia "hitch:Slovenia"){.wikilink}
-
-[vegan:Slovenia](vegan:Slovenia "vegan:Slovenia"){.wikilink} [nomad:Slovenia](nomad:Slovenia "nomad:Slovenia"){.wikilink}
-
 [Category:Slovenia](Category:Slovenia "Category:Slovenia"){.wikilink}
-
 
 ![stirfry.jpeg](../../images/stirfryjpeg.jpg)
 
 *stirfry.jpeg — Therobohobo*
 
-
 ---
 
-Source: [Slovenia](https://trashwiki.org/en/Slovenia)  
+Source: [Slovenia](https://trashwiki.org/en/Slovenia)
 License: CC-BY-NC-SA-4.0

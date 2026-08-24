@@ -54,7 +54,7 @@ Some useful phrases:
 - I don\'t know = Tidak tau
 - Do you speak english? = Cakap bahasa Inggris?
 - I know a bit of Malay = Saya tau sikit bahasa Melayu
-- Saya = I / me / mine ; Anda = You / yours
+- Saya = I / me / mine; Anda = You / yours
 - Hitchhiking = Tumpang (meaning exactly \"have a lift\" as Hitchhiking is not known in Malaysia)
 
 *Bahasa* means *language*, hence *bahasa Melayu* = *Malay language*, or *bahasa Inggris* = *English language*.\
@@ -95,10 +95,7 @@ User [Craig](User:Halt,_Stop!_Reudnitz_kommt. "Craig"){.wikilink} hitched along 
 
 [Category:Malaysia](Category:Malaysia "Category:Malaysia"){.wikilink} [Category:Asia](Category:Asia "Category:Asia"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Malaysia](https://hitchwiki.org/en/Malaysia)  
+Source: [Malaysia](https://hitchwiki.org/en/Malaysia)
 License: CC-BY-SA-4.0

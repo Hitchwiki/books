@@ -38,19 +38,15 @@ In Western Europe it\'s not legal to just put your tent anywhere. It\'s still ve
 
 ## More info {#more_info}
 
-- [Moneyless.org](:moneyless:go-camping "Moneyless.org"){.wikilink}
-
-[hitch:Camping](hitch:Camping "hitch:Camping"){.wikilink}
+- Moneyless.org
 
 [Category:Accommodation](Category:Accommodation "Category:Accommodation"){.wikilink}
-
 
 ![Itajuru20.jpg](../../images/itajuru20jpg.jpg)
 
 *Itajuru20.jpg — Fabrício Paixão da Rocha (CC BY 3.0)*
 
-
 ---
 
-Source: [Camping](https://nomadwiki.org/en/Camping)  
+Source: [Camping](https://nomadwiki.org/en/Camping)
 License: CC-BY-SA-4.0

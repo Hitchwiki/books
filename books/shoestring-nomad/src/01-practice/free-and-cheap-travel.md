@@ -2,7 +2,7 @@
 
 ## [Hitchhiking](Hitchhiking "Hitchhiking"){.wikilink}
 
-[Hitchwiki](:hitch: "Hitchwiki"){.wikilink} is a collaborative website for gathering information about hitchhiking and other ways of extremely cheap ways of transport. It is maintained by many active hitchhikersall around the world. We have information about how to hitch out of big cities, how to cover long distances,maps and many more tips.
+Hitchwiki is a collaborative website for gathering information about hitchhiking and other ways of extremely cheap ways of transport. It is maintained by many active hitchhikersall around the world. We have information about how to hitch out of big cities, how to cover long distances,maps and many more tips.
 
 ## [Walking](Walking "Walking"){.wikilink}
 
@@ -20,10 +20,7 @@ Take trains or public transportation without a valid ticket is easier than what 
 
 [Category:Transport](Category:Transport "Category:Transport"){.wikilink}
 
-
-
-
 ---
 
-Source: [Free and cheap travel](https://nomadwiki.org/en/Free_and_cheap_travel)  
+Source: [Free and cheap travel](https://nomadwiki.org/en/Free_and_cheap_travel)
 License: CC-BY-SA-4.0

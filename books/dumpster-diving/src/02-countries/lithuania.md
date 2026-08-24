@@ -37,19 +37,13 @@ Every last Saturday of the month [Food not bombs](Food_not_bombs "Food not bombs
 - [Nemokamas maistas](http://veganas.wordpress.com/2008/10/06/free-food/) & [Nemokamas maistas #2](http://gyventisamoningai.lt/2008/12/17/free-food-2/), two informative blog posts about freegans, dumpster diving and food waste in general *(in Lith.)*
 - \"Grynas\" [Article 1](http://grynas.delfi.lt/gyvenimas/fryganes-ispazintis-dziaugiuosi-issivadavusi-is-lietuvisko-kazmonespasakys-sindromo.d?id=58167750) and [article 2](http://grynas.delfi.lt/gyvenimas/fryganizmas-lietuvoje-kartais-konteineriuose-maisto-tiek-kad-neimanoma-panesti.d?id=61026089) are two great pieces on freeganism and dumpster diving, the latter has even a link to Trashwiki! *(in Lith.)*
 
-[hitch:Lithuania](hitch:Lithuania "hitch:Lithuania"){.wikilink}
-
-[vegan:Lithuania](vegan:Lithuania "vegan:Lithuania"){.wikilink} [nomad:Lithuania](nomad:Lithuania "nomad:Lithuania"){.wikilink}
-
 [Category:Lithuania](Category:Lithuania "Category:Lithuania"){.wikilink}
-
 
 ![2008-02-28-kaunas.jpg](../../images/2008-02-28-kaunasjpg.jpg)
 
 *2008-02-28-kaunas.jpg — LinasD*
 
-
 ---
 
-Source: [Lithuania](https://trashwiki.org/en/Lithuania)  
+Source: [Lithuania](https://trashwiki.org/en/Lithuania)
 License: CC-BY-NC-SA-4.0

@@ -18,10 +18,7 @@ There are landmines in the Tibesti mountains in the north of Chad. There is a hi
 
 [Category:Africa](Category:Africa "Category:Africa"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Chad](https://hitchwiki.org/en/Chad)  
+Source: [Chad](https://hitchwiki.org/en/Chad)
 License: CC-BY-SA-4.0

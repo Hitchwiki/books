@@ -124,7 +124,8 @@ THEMES: dict[str, dict] = {
         "measure": "40rem",
         "kicker": "Voedselactivisme uit Amsterdam",
         "logo": "dumpsterdam.png",
-        "logo_alt": "Dumpsterdam",
+        "logo_alt": "Trasher",
+        "logo_small": True,
         "cover_photo": {
             "commons": "An empty, clean container from a food retailer.jpg",
             "author": "PizzaToast",
@@ -136,16 +137,45 @@ THEMES: dict[str, dict] = {
             "wash": 96,
         },
     },
+    "geldloos": {
+        "motif": "gift",
+        "bg": "#eef4ea",
+        "fg": "#1c2818",
+        "muted": "#5a6b52",
+        "accent": "#3d6b3a",
+        "accent2": "#8b5a2b",
+        "rule": "#d5e0d0",
+        "cover_fg": "#eef4ea",
+        "cover_bg": "#1e2e1c",
+        "display": "Source Serif 4",
+        "display_file": "SourceSerif4-Semibold.ttf",
+        "body": "Source Serif 4",
+        "body_file": "SourceSerif4-Regular.ttf",
+        "body_bold": "SourceSerif4-Bold.ttf",
+        "fallback": "Georgia, Palatino, serif",
+        "measure": "36rem",
+        "kicker": "Leven met minder, of zonder",
+        "cover_photo": {
+            "commons": "Netherlands, Kaag en Braassem, Hoogmade, Piestpolders (2).jpg",
+            "author": "Vincent van Zeijst",
+            "license": "CC BY-SA 4.0",
+            "page": "https://commons.wikimedia.org/wiki/File:Netherlands,_Kaag_en_Braassem,_Hoogmade,_Piestpolders_(2).jpg",
+            "caption": "Allotment gardens in the Piest polder, Hoogmade",
+            "focus": (0.5, 0.42),
+            "pos": "center 38%",
+            "wash": 64,
+        },
+    },
     "hospitality-exchange": {
         "motif": "door",
-        "bg": "#fcfffe",
-        "fg": "#26302e",
-        "muted": "#45645f",
-        "accent": "#08766b",
-        "accent2": "#00a995",
-        "rule": "#c5ddd6",
-        "cover_fg": "#26302e",
-        "cover_bg": "#edf5f1",
+        "bg": "#faf7f2",
+        "fg": "#2a2724",
+        "muted": "#6a6158",
+        "accent": "#3f6f68",
+        "accent2": "#8b5e3c",
+        "rule": "#e4d9cc",
+        "cover_fg": "#faf7f2",
+        "cover_bg": "#2c2824",
         "display": "Source Serif 4",
         "display_file": "SourceSerif4-Semibold.ttf",
         "body": "Source Serif 4",
@@ -153,9 +183,7 @@ THEMES: dict[str, dict] = {
         "body_bold": "SourceSerif4-Bold.ttf",
         "fallback": "Georgia, Palatino, serif",
         "measure": "38rem",
-        "kicker": "From Trustroots Wiki",
-        "logo": "hospitality-exchange.png",
-        "logo_alt": "Trustroots",
+        "kicker": "A handbook of staying",
         "cover_photo": {
             "commons": "Namche Bazaar, Homestay, Nepal.jpg",
             "author": "Vyacheslav Argenberg",
@@ -164,39 +192,65 @@ THEMES: dict[str, dict] = {
             "caption": "Homestay kitchen, Namche Bazaar",
             "focus": (0.42, 0.38),
             "pos": "center 32%",
-            "wash": 70,
+            "wash": 88,
         },
     },
     "moneyless": {
-        "motif": "spare",
-        "bg": "#f7f7f5",
-        "fg": "#181818",
-        "muted": "#5c5c5c",
-        "accent": "#0ca6bb",
-        "accent2": "#076370",
-        "rule": "#ddddd8",
-        "cover_fg": "#f7f7f5",
-        "cover_bg": "#181818",
-        "display": "IBM Plex Sans",
-        "display_file": "IBMPlexSans-Bold.ttf",
-        "body": "IBM Plex Sans",
-        "body_file": "IBMPlexSans-Regular.ttf",
-        "body_bold": "IBMPlexSans-Bold.ttf",
-        "fallback": '"Helvetica Neue", Helvetica, Arial, sans-serif',
-        "measure": "34rem",
-        "kicker": "Life without money",
-        "logo": "moneyless.png",
-        "logo_alt": "Moneyless.org",
-        "logo_wide": True,
+        "motif": "gift",
+        "bg": "#f7f1e6",
+        "fg": "#2a1c14",
+        "muted": "#7a5e4a",
+        "accent": "#c4452d",
+        "accent2": "#5c3a1e",
+        "rule": "#e4d4c0",
+        "cover_fg": "#f7f1e6",
+        "cover_bg": "#3a2418",
+        "display": "Source Serif 4",
+        "display_file": "SourceSerif4-Semibold.ttf",
+        "body": "Source Serif 4",
+        "body_file": "SourceSerif4-Regular.ttf",
+        "body_bold": "SourceSerif4-Bold.ttf",
+        "fallback": "Georgia, Palatino, serif",
+        "measure": "36rem",
+        "kicker": "On living with less, or none",
         "cover_photo": {
-            "url": "https://moneyless.org/sites/moneyless.org/files/beautiful-sky-wheat.jpg",
-            "author": "moneyless.org",
-            "license": "CC BY-NC-SA 4.0",
-            "page": "https://moneyless.org/en/free-pictures",
-            "caption": "Wheat field, from the moneyless.org article Free pictures",
-            "focus": (0.5, 0.58),
-            "pos": "center 55%",
-            "wash": 118,
+            "commons": "Basket of tomatoes and peppers (556d293c-c060-43ee-bc99-636b82fa3969).jpg",
+            "author": "National Park Service",
+            "license": "Public domain",
+            "page": "https://commons.wikimedia.org/wiki/File:Basket_of_tomatoes_and_peppers_(556d293c-c060-43ee-bc99-636b82fa3969).jpg",
+            "caption": "Garden harvest of tomatoes and peppers, Lincoln Home National Historic Site",
+            "focus": (0.5, 0.38),
+            "pos": "center 32%",
+            "wash": 56,
+        },
+    },
+    "sin-dinero": {
+        "motif": "gift",
+        "bg": "#f8f0e4",
+        "fg": "#2c1a10",
+        "muted": "#8a6240",
+        "accent": "#c45c1a",
+        "accent2": "#6b3a18",
+        "rule": "#ead8c4",
+        "cover_fg": "#f8f0e4",
+        "cover_bg": "#4a220c",
+        "display": "Source Serif 4",
+        "display_file": "SourceSerif4-Semibold.ttf",
+        "body": "Source Serif 4",
+        "body_file": "SourceSerif4-Regular.ttf",
+        "body_bold": "SourceSerif4-Bold.ttf",
+        "fallback": "Georgia, Palatino, serif",
+        "measure": "36rem",
+        "kicker": "Vivir con menos, o sin nada",
+        "cover_photo": {
+            "commons": "Ambersweet oranges.jpg",
+            "author": "USDA Agricultural Research Service",
+            "license": "Public domain",
+            "page": "https://commons.wikimedia.org/wiki/File:Ambersweet_oranges.jpg",
+            "caption": "Ambersweet oranges",
+            "focus": (0.5, 0.42),
+            "pos": "center 38%",
+            "wash": 56,
         },
     },
     "shoestring-nomad": {
@@ -304,14 +358,6 @@ def cover_html(slug: str, meta: dict) -> str:
             f"</p>"
         )
     photo_class = " cover-has-photo" if t.get("cover_photo") else ""
-    credit = ""
-    photo = t.get("cover_photo") or {}
-    if photo:
-        who = photo.get("author") or ""
-        lic = photo.get("license") or ""
-        bit = " · ".join(p for p in (who, lic) if p)
-        if bit:
-            credit = f'\n  <p class="cover-photo-credit">Photo: {bit}</p>'
     return f"""<section class="cover-page{photo_class}" aria-label="Cover">
   {logo_html}
   <p class="cover-kicker">{t["kicker"]}</p>
@@ -319,10 +365,36 @@ def cover_html(slug: str, meta: dict) -> str:
     <h1 class="cover-title">{title}</h1>
     <p class="cover-sub">{sub}</p>
     <p class="cover-read"><a href="#TOC">Read the book</a></p>
-  </div>{credit}
+  </div>
   <p class="cover-foot">books.hitchwiki.org · {license_id}</p>
 </section>
 """
+
+
+def photo_credit_markdown(slug: str) -> str:
+    """Cover-photo attribution for the first interior page, not the cover."""
+    photo = (THEMES.get(slug) or {}).get("cover_photo") or {}
+    if not photo:
+        return ""
+    who = photo.get("author") or ""
+    lic = photo.get("license") or ""
+    page = photo.get("page") or ""
+    caption = photo.get("caption") or ""
+    if who and page:
+        who_bit = f'<a href="{page}">{who}</a>'
+    elif who:
+        who_bit = who
+    elif page:
+        who_bit = f'<a href="{page}">source</a>'
+    else:
+        who_bit = ""
+    parts = [p for p in (who_bit, lic) if p]
+    if not parts and not caption:
+        return ""
+    line = "Cover photograph: " + " · ".join(parts)
+    if caption:
+        line += f" — {caption}"
+    return f'<p class="photo-credit">{line}</p>\n'
 
 
 def _font_faces(t: dict, prefix: str) -> str:
@@ -400,23 +472,28 @@ body.book-SLUG .cover-page {
 }
 body.book-SLUG .cover-logo {
   background: #dcddcb;
-  padding: 0.3rem;
+  padding: 0.12rem;
 }
 """,
     "door": """
-body.book-SLUG .cover-page {
-  box-shadow: inset 0 0 0 14px var(--bg), inset 0 0 0 22px var(--accent2);
+body.book-SLUG .cover-title {
+  font-style: italic;
 }
-body.book-SLUG .cover-main { text-align: center; }
-body.book-SLUG .cover-sub { margin-left: auto; margin-right: auto; }
-body.book-SLUG .cover-kicker, body.book-SLUG .cover-foot,
-body.book-SLUG .cover-logo-wrap { text-align: center; }
+body.book-SLUG .cover-main { text-align: left; }
+body.book-SLUG .cover-kicker { letter-spacing: 0.18em; }
 """,
-    "spare": """
-body.book-SLUG .cover-page { justify-content: flex-end; }
-body.book-SLUG .cover-logo-wrap { position: relative; z-index: 1; margin-bottom: auto; }
-body.book-SLUG .cover-kicker { position: relative; }
-body.book-SLUG .cover-title { font-style: normal; font-weight: 700; font-size: 2.6rem; }
+    "gift": """
+body.book-SLUG .cover-title { font-style: normal; font-weight: 600; }
+body.book-SLUG .cover-main { text-align: left; }
+body.book-SLUG .cover-kicker { letter-spacing: 0.2em; }
+body.book-SLUG .cover-page::after {
+  content: "";
+  position: absolute;
+  left: 0; right: 0; bottom: 0;
+  height: 14px;
+  z-index: 3;
+  background: var(--accent);
+}
 """,
     "grid": """
 body.book-SLUG .cover-page {
@@ -431,8 +508,14 @@ body.book-SLUG .cover-title { font-style: italic; }
 def book_css(slug: str, *, font_prefix: str = "fonts/") -> str:
     t = THEMES[slug]
     italic = "italic" if slug in {"random-roads", "shoestring-nomad"} else "normal"
+    cover_italic = "italic" if slug in {"random-roads", "shoestring-nomad", "hospitality-exchange"} else italic
     extra = MOTIF_CSS[t["motif"]].replace("SLUG", slug)
-    logo_max = "16rem" if t.get("logo_wide") else "6.2rem"
+    if t.get("logo_small"):
+        logo_max, logo_max_h = "2.5rem", "2.5rem"
+    elif t.get("logo_wide"):
+        logo_max, logo_max_h = "16rem", "5.6rem"
+    else:
+        logo_max, logo_max_h = "6.2rem", "5.6rem"
     photo = t.get("cover_photo") or {}
     photo_css = ""
     if photo:
@@ -458,19 +541,15 @@ body.book-{slug} .cover-page.cover-has-photo::before {{
 body.book-{slug} .cover-has-photo .cover-kicker,
 body.book-{slug} .cover-has-photo .cover-main,
 body.book-{slug} .cover-has-photo .cover-foot,
-body.book-{slug} .cover-has-photo .cover-photo-credit,
 body.book-{slug} .cover-has-photo .cover-logo-wrap {{
   position: relative;
   z-index: 2;
 }}
-body.book-{slug} .cover-photo-credit {{
-  margin: 0 0 0.35rem;
-  font-size: 0.68rem;
-  letter-spacing: 0.04em;
-  text-transform: none;
-  opacity: 0.78;
-  position: relative;
-  z-index: 2;
+body.book-{slug} .photo-credit {{
+  margin: 2rem 0 2.5rem;
+  font-size: 0.88rem;
+  color: var(--muted);
+  max-width: 28rem;
 }}
 """
     drop = ""
@@ -542,6 +621,14 @@ body.book-{slug} nav#TOC {{
   background: var(--bg);
   -webkit-overflow-scrolling: touch;
 }}
+body.book-{slug} nav#TOC .toc-chrome {{
+  position: sticky;
+  top: 0;
+  z-index: 2;
+  background: var(--bg);
+  padding: 0 0 0.35rem;
+  margin: 0 0 0.15rem;
+}}
 body.book-{slug} nav#TOC .toc-title {{
   font-size: 1.15rem;
   margin: 0 0 0.4rem;
@@ -550,7 +637,7 @@ body.book-{slug} nav#TOC .toc-title {{
 body.book-{slug} nav#TOC .toc-filter {{
   width: 100%;
   box-sizing: border-box;
-  margin: 0.35rem 0 0.7rem;
+  margin: 0.35rem 0 0.45rem;
   padding: 0.4rem 0.55rem;
   border: 1px solid var(--rule);
   background: var(--bg);
@@ -561,6 +648,15 @@ body.book-{slug} nav#TOC .toc-empty {{
   color: var(--muted);
   margin: 0 0 0.6rem;
 }}
+body.book-{slug} nav#TOC .toc-parts {{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem 0.85rem;
+  margin: 0 0 0.35rem;
+  font-size: 0.88rem;
+  font-weight: 600;
+}}
+body.book-{slug} nav#TOC .toc-parts a {{ color: var(--accent); }}
 body.book-{slug} nav#TOC ul {{
   list-style: none;
   margin: 0;
@@ -732,7 +828,7 @@ body.book-{slug} .cover-logo-wrap {{
 }}
 body.book-{slug} .cover-logo {{
   display: block;
-  max-height: 5.6rem;
+  max-height: {logo_max_h};
   max-width: {logo_max};
   width: auto;
   height: auto;
@@ -751,7 +847,7 @@ body.book-{slug} .cover-title {{
   font-size: 3.4rem;
   margin: 0 0 0.6rem;
   color: inherit;
-  font-style: {italic};
+  font-style: {cover_italic};
 }}
 body.book-{slug} .cover-sub {{
   margin: 0;
@@ -830,14 +926,26 @@ body.catalog {{
 body.catalog h1 {{
   font-size: clamp(1.6rem, 3vw, 2.2rem);
   font-weight: 600;
-  margin: 0 0 0.4rem;
+  margin: 0 0 1.5rem;
   color: #6e3100;
 }}
 body.catalog .lede {{
-  max-width: 36rem;
   color: #76563c;
   line-height: 1.5;
-  margin-bottom: 1.5rem;
+  margin: 1.5rem 0 0;
+  white-space: nowrap;
+}}
+@media (max-width: 40rem) {{
+  body.catalog .lede {{ white-space: normal; }}
+}}
+body.catalog .lang + .lang {{
+  margin-top: 2.5rem;
+}}
+body.catalog .lang-label {{
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin: 0 0 1rem;
+  color: #6e3100;
 }}
 .grid {{
   display: grid;

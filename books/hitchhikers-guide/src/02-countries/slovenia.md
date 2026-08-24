@@ -52,7 +52,7 @@ For intercity busses check out Arriva, Nomago or Flixbus websites and <https://w
 
 **Border towns/ villages that might help:** AUSTRIA (Jesenice, Kranjska gora, Dravograd, Slovenj Gradec, Maribor), CROATIA (Brežice, Krško, Dobova, Piran, Črnomelj, Ptuj), HUNGARY (Murska Sobota, Lendava, Hodoš) and ITALY (Nova Gorica, Sežana, Koper, Bovec, Vipava)
 
-Crossing from Slovenia to Austria : Border crossing is a very luxurious hitching spot, as the traffic slows down to about 10km/h (because of the pay toll for Karavanke tunnel, when the road is busy) so the whole highway sees you clearly. There is also plenty of space for drivers to pick you up.
+Crossing from Slovenia to Austria: Border crossing is a very luxurious hitching spot, as the traffic slows down to about 10km/h (because of the pay toll for Karavanke tunnel, when the road is busy) so the whole highway sees you clearly. There is also plenty of space for drivers to pick you up.
 
 ## Useful information {#useful_information}
 
@@ -99,10 +99,7 @@ Hitchhiked east to west in summer 2023, everything and everybody was great excep
 
 [Category:Slovenia](Category:Slovenia "Category:Slovenia"){.wikilink} [Category:Southern Europe](Category:Southern_Europe "Category:Southern Europe"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Slovenia](https://hitchwiki.org/en/Slovenia)  
+Source: [Slovenia](https://hitchwiki.org/en/Slovenia)
 License: CC-BY-SA-4.0

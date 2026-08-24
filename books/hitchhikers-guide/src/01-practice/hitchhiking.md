@@ -2,7 +2,7 @@
 
 **Hitchhiking** (also called *lifting* or *thumbing* or, universally in several Languages around the world, *auto-stop* with different pronunciations) is a form of transport, in which the traveller tries to get a lift (a ride) from another traveller, usually a car or truck driver, for free.
 
-![Hitchhiking waiting times worldwide with uncertainties of estimation (2024) - based on data from [Hitchwiki Maps](https://maps.hitchwiki.org/)](Hitchhiking_worldwide_2024.png "Hitchhiking waiting times worldwide with uncertainties of estimation (2024) - based on data from Hitchwiki Maps") ![Hitchhiker in the UK](Img_l_1306483.jpg "Hitchhiker in the UK"){width="250"}
+![Hitchhiking waiting times worldwide with uncertainties of estimation (2024) - based on data from [Hitchwiki Maps](https://maps.hitchwiki.org/)](Hitchhiking_worldwide_2024.png "Hitchhiking waiting times worldwide with uncertainties of estimation (2024) - based on data from Hitchwiki Maps")![Hitchhiker in the UK](Img_l_1306483.jpg "Hitchhiker in the UK"){width="250"}
 
 Hitchhiking is a very common means of transport in most less affluent countries (although often a form of payment is expected). Hitchhiking is probably as old as the wheel and will probably exist as long as people need to move from one place to another.
 
@@ -30,10 +30,7 @@ Please check [Wikipedia\'s article for more encyclopaedic information about hitc
 
 [Category:General info](Category:General_info "Category:General info"){.wikilink}
 
-
-
-
 ---
 
-Source: [Hitchhiking](https://hitchwiki.org/en/Hitchhiking)  
+Source: [Hitchhiking](https://hitchwiki.org/en/Hitchhiking)
 License: CC-BY-SA-4.0

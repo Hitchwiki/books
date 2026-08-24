@@ -36,10 +36,7 @@ Europe is a diverse continent with some of the most industrialized nations withi
 
 [Category:Rural](Category:Rural "Category:Rural"){.wikilink} [Category:Europe](Category:Europe "Category:Europe"){.wikilink}
 
-
-
-
 ---
 
-Source: [Rural Hospitality Europe](https://wiki.trustroots.org/en/Rural_Hospitality_Europe)  
+Source: [Rural Hospitality Europe](https://wiki.trustroots.org/en/Rural_Hospitality_Europe)
 License: CC-BY-SA-4.0

@@ -12,7 +12,7 @@ There is a nice, really big REWE at Laimer Platz which separates it\'s trash usu
 
 ## Neuhausen & Schwabing {#neuhausen_schwabing}
 
-In Neuhausen and Schwabing there is a local dumpster diving group. If you are interested in joining, contact: bartoschrippstein (at) yahoo . de
+In Neuhausen and Schwabing there is a local dumpster diving group. If you are interested in joining, contact: bartoschrippstein (at) yahoo. de
 
 ## Map
 
@@ -24,12 +24,7 @@ In Neuhausen and Schwabing there is a local dumpster diving group. If you are in
 
 - See also containern.de for more information (in German)
 
-[hitch:Munich](hitch:Munich "hitch:Munich"){.wikilink} [vegan:Munich](vegan:Munich "vegan:Munich"){.wikilink} [nomad:Munich](nomad:Munich "nomad:Munich"){.wikilink}
-
-
-
-
 ---
 
-Source: [Munich](https://trashwiki.org/en/Munich)  
+Source: [Munich](https://trashwiki.org/en/Munich)
 License: CC-BY-NC-SA-4.0

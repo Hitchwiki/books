@@ -10,7 +10,7 @@ The only solution for this endangered society was to radically change theirs hab
 **And they did so:
 Instead of slash and burn based agriculture, they started to do forest gardening, which means to grow useful trees and bellow, low growing plants, thus, the whole island was turned into a giant garden. A really important decision was to slaughter all the pigs around 1600 AD. The islanders found out that it was more efficient to eat the crops feeding the pigs than to eat the animals. They also stated a strong birth control, the population growing very little during centuries.
 This is how the Tikopian community survived until now as a stable and peaceful society. Their agriculture is so sustainable that they could live like that thousands of years more in their highly productive and symbiotic island.
-Of course, some "little things" such as global warming are probably gonna break soon or late the equilibrium achieved by this society with it's natural environment but how cares about Tikopia ?**
+Of course, some "little things" such as global warming are probably gonna break soon or late the equilibrium achieved by this society with it's natural environment but how cares about Tikopia?**
 
 ---
 

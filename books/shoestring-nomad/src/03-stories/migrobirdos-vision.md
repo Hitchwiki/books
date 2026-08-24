@@ -4,7 +4,7 @@
 
 Here at the house we did not know about [Migrobirdo](http://migrobirdo.org) before, until we got news of last week's [events](http://casarobino.org/content/aris-so-long). So let's share some more information about this project. Migrobordo's idea was born in Tübingen, Germany. The [idea](http://people.tribe.net/e3cb5c8e-0c06-457e-bc00-a117212c0d05) was to set sail to South America to "create connections between people who are politically and artistically active, subsistence farmers and social institutions."
 
-In addition, the crew-members wanted to hold seminars, perform street entertainment sessions and to invite guests onto the boat, called Der Taube (The Pigeon). In doing this, the crew advocated radical skill-sharing: "Everybody is pupil and teacher at the same time. Equality and openness are most important." 
+In addition, the crew-members wanted to hold seminars, perform street entertainment sessions and to invite guests onto the boat, called Der Taube (The Pigeon). In doing this, the crew advocated radical skill-sharing: "Everybody is pupil and teacher at the same time. Equality and openness are most important."
 
 And in order to come to a world where such a practice of skill-sharing has become more normal, "we steadily have to reconsider our ways of thinking. Visions are necessary for this change, for ideas and creativity." By sailing through Europe towards South America, Der Taube wanted to help stimulate creative thinking in what type of world you want to live in. The boat as such is a means and a medium to openly show the principles the group stands for.
 

@@ -38,14 +38,11 @@ Buses are easy to ride for free, drivers don\'t generally care. It\'s polite to 
 
 A great central and accessible spot to wild camp is Stanley Park.
 
-Wild camping on the beach (Spanish Banks, Locarno or Jericho Beach) or on the grass nearby is possible, although Jericho Beach Park closes at night. Wonderful view of downtown Vancouver at night. You might see some tents already pitched there! Mosquitoes (tons of them) are a possibility, but it depends on the day : Vancouver is actually known for not having a lot of mosquitoes but we got unlucky.
+Wild camping on the beach (Spanish Banks, Locarno or Jericho Beach) or on the grass nearby is possible, although Jericho Beach Park closes at night. Wonderful view of downtown Vancouver at night. You might see some tents already pitched there! Mosquitoes (tons of them) are a possibility, but it depends on the day: Vancouver is actually known for not having a lot of mosquitoes but we got unlucky.
 
 The North Shore (suburbs of North Vancouver and West Vancouver) is another great option for wild camping. These suburbs have very low crime and a lot of green space. There\'s a lot of great hiking/exploring to be done on the North Shore as well, so it\'s a great place to chill if you\'re visiting Vancouver. Try the neighbourhoods, of Horseshoe Bay, Lighthouse Park, Lonsdale Quay, Lynn Valley, or Deep Cove
 
-
-
-
 ---
 
-Source: [Vancouver](https://hitchwiki.org/en/Vancouver)  
+Source: [Vancouver](https://hitchwiki.org/en/Vancouver)
 License: CC-BY-SA-4.0

@@ -10,16 +10,11 @@ There is also a perfect place to dumpster dive in the Tel Aviv new port, among a
 
 To get to the dumpster, search for the TLV club. Now turn around and you will see a popular caffe called \"Cacao\" - there will be a tiny dead-end alley on the right of this caffe, and in the end of the alley, on your left side, will be the door for the dumpster site. It\'s open 24/7, and it contains food and drinks from all the bars and caffes around, and from an event hall nearby. If you go there after midnight, you can usually find not only food thrown in bags, but also packed nicely in plastic containers, including fruits, vegetables, chocolates, rice and bread goods.
 
-Every week day at [The Carmel Market](http://goo.gl/maps/XHiK), around 19:00-20:00 (the closing time), they throw a lot of good fruits and vegetables to alley in the middle of the market, it stays there for about half an hour until the big yellow vehicle come and push it all away to the trash. on friday the closing is usually at around 17:00. [hitch:Tel Aviv](hitch:Tel_Aviv "hitch:Tel Aviv"){.wikilink}
-
-[vegan:Tel Aviv](vegan:Tel_Aviv "vegan:Tel Aviv"){.wikilink} [nomad:Tel Aviv](nomad:Tel_Aviv "nomad:Tel Aviv"){.wikilink}
+Every week day at [The Carmel Market](http://goo.gl/maps/XHiK), around 19:00-20:00 (the closing time), they throw a lot of good fruits and vegetables to alley in the middle of the market, it stays there for about half an hour until the big yellow vehicle come and push it all away to the trash. on friday the closing is usually at around 17:00.
 
 [Category:Israel](Category:Israel "Category:Israel"){.wikilink}
 
-
-
-
 ---
 
-Source: [Tel Aviv](https://trashwiki.org/en/Tel_Aviv)  
+Source: [Tel Aviv](https://trashwiki.org/en/Tel_Aviv)
 License: CC-BY-NC-SA-4.0

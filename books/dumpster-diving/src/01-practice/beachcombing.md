@@ -12,10 +12,7 @@ See also [article on Wikipedia](http://en.wikipedia.org/wiki/Beachcombing).
 
 [Category:General info](Category:General_info "Category:General info"){.wikilink}
 
-
-
-
 ---
 
-Source: [Beachcombing](https://trashwiki.org/en/Beachcombing)  
+Source: [Beachcombing](https://trashwiki.org/en/Beachcombing)
 License: CC-BY-NC-SA-4.0

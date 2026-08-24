@@ -105,6 +105,17 @@
     });
   });
 
+  toc.querySelectorAll(".toc-parts a").forEach(function (a) {
+    a.addEventListener("click", function () {
+      var part = a.getAttribute("data-part");
+      var d = part && toc.querySelector('details.toc-part[data-part="' + part + '"]');
+      if (d) {
+        d.open = true;
+        d.scrollIntoView({ block: "nearest" });
+      }
+    });
+  });
+
   var map = {};
   chapterLinks.forEach(function (a) {
     var id = (a.getAttribute("href") || "").replace(/^#/, "");

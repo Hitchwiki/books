@@ -13,14 +13,11 @@ In some parts of the world, standing on the shoulder of a motorway is forbidden.
 
 Image:Ramp_os_nahne.jpg\|Hard shoulder along an on-ramp in [Germany](Germany "Germany"){.wikilink} Image:Oldenzaal_ramp.jpg\|Hard shoulder along an on-ramp in the [Netherlands](Netherlands "Netherlands"){.wikilink} Image:Trud bulgaria.jpg\|Shoulder along a road in [Bulgaria](Bulgaria "Bulgaria"){.wikilink}
 
-[wikipedia:Shoulder (road)](wikipedia:Shoulder_(road) "wikipedia:Shoulder (road)"){.wikilink}
+ "wikipedia:Shoulder (road)"){.wikilink}
 
 [Category:General info](Category:General_info "Category:General info"){.wikilink} [Category:Roads](Category:Roads "Category:Roads"){.wikilink}
 
-
-
-
 ---
 
-Source: [Shoulder](https://hitchwiki.org/en/Shoulder)  
+Source: [Shoulder](https://hitchwiki.org/en/Shoulder)
 License: CC-BY-SA-4.0

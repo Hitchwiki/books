@@ -10,10 +10,7 @@
 
 [Category:North America](Category:North_America "Category:North America"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Bermuda](https://hitchwiki.org/en/Bermuda)  
+Source: [Bermuda](https://hitchwiki.org/en/Bermuda)
 License: CC-BY-SA-4.0

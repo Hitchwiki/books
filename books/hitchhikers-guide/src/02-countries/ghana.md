@@ -18,10 +18,7 @@ Like many countries in Africa, Ghana has a lot of police barriers and at times (
 
 [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Ghana](https://hitchwiki.org/en/Ghana)  
+Source: [Ghana](https://hitchwiki.org/en/Ghana)
 License: CC-BY-SA-4.0

@@ -15,10 +15,7 @@ While being a nomad is sometimes traveling alone, it often may mean traveling wi
 
 [Category:People](Category:People "Category:People"){.wikilink} [Category:Transport](Category:Transport "Category:Transport"){.wikilink}
 
-
-
-
 ---
 
-Source: [Traveling with children](https://nomadwiki.org/en/Traveling_with_children)  
+Source: [Traveling with children](https://nomadwiki.org/en/Traveling_with_children)
 License: CC-BY-SA-4.0

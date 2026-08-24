@@ -34,7 +34,7 @@ Take bus 11, leaving from the tourism office close to the casino, once in an hou
 
 Another possibility for leaving in the direction of Italy is bus TAM 100, which goes from [Nice](Nice "Nice"){.wikilink} to [Menton](Menton "Menton"){.wikilink} on the Italian border. The fare is 1.50 € regardless of the distance. It stops in Monaco at the Place des Armes.
 
-When you want to go further to italy \*DO NOT\* Stay at the peage there, it's almost everytime Full of italian border-Police and they will fine or warn you and they will tell you, Thats illegal in Italian to Autostop. The best solution is to use the petrol station right behind Monaco and ask to Drive further than Sanremo because it could be hard before. ( we waited more than 6 Hours and still got nothing, we had to walk there.. ) maybe you will be luckier but its your risk :/.
+When you want to go further to italy \*DO NOT\* Stay at the peage there, it's almost everytime Full of italian border-Police and they will fine or warn you and they will tell you, Thats illegal in Italian to Autostop. The best solution is to use the petrol station right behind Monaco and ask to Drive further than Sanremo because it could be hard before. ( we waited more than 6 Hours and still got nothing, we had to walk there.. ) maybe you will be luckier but its your risk:/.
 
 ### Circuit de Monaco {#circuit_de_monaco}
 
@@ -56,10 +56,7 @@ You can also walk from Monaco toward France, near the Route de la Plage Marquet 
 
 [Category:Europe](Category:Europe "Category:Europe"){.wikilink} [Category:France](Category:France "Category:France"){.wikilink} [Category:Cities](Category:Cities "Category:Cities"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Monaco](https://hitchwiki.org/en/Monaco)  
+Source: [Monaco](https://hitchwiki.org/en/Monaco)
 License: CC-BY-SA-4.0

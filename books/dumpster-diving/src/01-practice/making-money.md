@@ -54,17 +54,15 @@ Some materials bring higher prices. A useful site for learning what types of ele
 
 - [Money](Money "Money"){.wikilink}
 - [Coin](Coin "Coin"){.wikilink}
-- [Moneyless.org](:moneyless:how-make-money-dumpster-diving "Moneyless.org"){.wikilink}
+- Moneyless.org
 
 [Category:General info](Category:General_info "Category:General info"){.wikilink} [Category:Ideas](Category:Ideas "Category:Ideas"){.wikilink}
-
 
 ![Scheisegal20 sirla.jpg](../../images/scheisegal20-sirlajpg.jpg)
 
 *Scheisegal20 sirla.jpg — Absurdistaner*
 
-
 ---
 
-Source: [Making money](https://trashwiki.org/en/Making_money)  
+Source: [Making money](https://trashwiki.org/en/Making_money)
 License: CC-BY-NC-SA-4.0

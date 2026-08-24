@@ -35,10 +35,7 @@ If your personal hitch-hiking philosophy means not paying the truckers this fee,
 
 [Category:Africa](Category:Africa "Category:Africa"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Zambia](https://hitchwiki.org/en/Zambia)  
+Source: [Zambia](https://hitchwiki.org/en/Zambia)
 License: CC-BY-SA-4.0

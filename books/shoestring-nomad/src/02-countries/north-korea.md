@@ -16,14 +16,7 @@ However, you can actually go to North Korea; only independent travel to North Ko
 
 Country has limited slots for visitors and you can go only on specific important dates and always with an assigned tour agency.
 
-[Hitch:North Korea](Hitch:North_Korea "Hitch:North Korea"){.wikilink}
-
-[couch:North Korea](couch:North_Korea "couch:North Korea"){.wikilink}
-
-
-
-
 ---
 
-Source: [North Korea](https://nomadwiki.org/en/North_Korea)  
+Source: [North Korea](https://nomadwiki.org/en/North_Korea)
 License: CC-BY-SA-4.0

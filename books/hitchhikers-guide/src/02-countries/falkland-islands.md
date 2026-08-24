@@ -46,10 +46,7 @@ Not all the mines from the 1982 Falkland War have been cleared. It is absolutely
 
 [Category:United Kingdom](Category:United_Kingdom "Category:United Kingdom"){.wikilink} [Category:South America](Category:South_America "Category:South America"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Falkland Islands](https://hitchwiki.org/en/Falkland_Islands)  
+Source: [Falkland Islands](https://hitchwiki.org/en/Falkland_Islands)
 License: CC-BY-SA-4.0

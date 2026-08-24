@@ -16,7 +16,7 @@ Thus entered into my life Casa Robino, where I lived for the next 10 days. I onl
 "no no, it's ok. you can make your own password."
 "I can make one up?"
 "sometimes"
-"ok...  How about 'helicopter'?"
+"ok... How about 'helicopter'?"
 "...that's a very boring password. But I guess it is ok. "
 With that I heard a buzz, and the door unlocked. I made my way up 3 flights of stairs, and arrived to find an open door. Gingerly stepping in, I found a kitchen bustling with people. A girl (who later turned out to be Valentina) smiled at me as she walked by (though she did not stop): "hello helicopter!". I deposited my pack in the hallway and found a bustling kitchen with a few people stirring pots of lentils to reggae blasting from the stereo. I asked someone if robino was there, and was directed to the balcony where I found two men smoking home-rolled cigarettes.
 "are either of you robino?"

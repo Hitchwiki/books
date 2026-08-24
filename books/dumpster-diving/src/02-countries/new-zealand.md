@@ -20,16 +20,9 @@ As of May 2011, things seem to be getting better, as somebody arrested for dumps
 - [Freestuff](http://freestuff.co.nz/) where one can find free stuff and/or list items to give away.
 - [New Zealand food share map](https://www.google.com/maps/d/u/0/viewer?mid=zDmpvgICAwkk.kizpiFBt6ocg&hl=en&ie=UTF8&oe=UTF8&msa=0&ll=-41.310824,173.891602&spn=13.855902,15.380859&z=5&source=embed)
 
-[hitch:New Zealand](hitch:New_Zealand "hitch:New Zealand"){.wikilink}
-
-[share:New Zealand](share:New_Zealand "share:New Zealand"){.wikilink} [nomad:New Zealand](nomad:New_Zealand "nomad:New Zealand"){.wikilink} [vegan:New Zealand](vegan:New_Zealand "vegan:New Zealand"){.wikilink}
-
 [Category:New Zealand](Category:New_Zealand "Category:New Zealand"){.wikilink}
-
-
-
 
 ---
 
-Source: [New Zealand](https://trashwiki.org/en/New_Zealand)  
+Source: [New Zealand](https://trashwiki.org/en/New_Zealand)
 License: CC-BY-NC-SA-4.0

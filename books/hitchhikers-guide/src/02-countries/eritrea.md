@@ -16,10 +16,7 @@ There are landmines in all border regions of Eritrea, avoid crossing illegal!
 
 [Category:Eastern Africa](Category:Eastern_Africa "Category:Eastern Africa"){.wikilink} [Category:Africa](Category:Africa "Category:Africa"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Eritrea](https://hitchwiki.org/en/Eritrea)  
+Source: [Eritrea](https://hitchwiki.org/en/Eritrea)
 License: CC-BY-SA-4.0

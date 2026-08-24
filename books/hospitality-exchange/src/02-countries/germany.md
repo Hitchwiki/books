@@ -4,7 +4,7 @@
 
 ## Typically German?! {#typically_german}
 
-- The German Office of Foreign Affairs [\"Auswärtiges Amt\"](http://www.auswaertiges-amt.de) issued a [**Handbook for Germany** (pdf download)](http://www.handbuch-deutschland.de/download_en.html) with helpful information about German all-day life, organizational structure, history, almost everything you might wonder , available in 7 languages
+- The German Office of Foreign Affairs [\"Auswärtiges Amt\"](http://www.auswaertiges-amt.de) issued a [**Handbook for Germany** (pdf download)](http://www.handbuch-deutschland.de/download_en.html) with helpful information about German all-day life, organizational structure, history, almost everything you might wonder, available in 7 languages
 - A [***Deutschland* online magazine**](http://www.magazine-deutschland.de) in 11 languages
 - [**facts about Germany**](http://www.tatsachen-ueber-deutschland.de/en/) in 10 languages
 - and the [**Young Germany** online magazine](http://www.young-germany.de/index.php) in English. Definitely check this out!
@@ -30,7 +30,7 @@ Germany is divided into 16 States (See Map), capital is [Berlin](Berlin "Berlin"
 
 **06 [Hamburg (Free Hanseatic City)](Hamburg "Hamburg (Free Hanseatic City)"){.wikilink}**, [Hamburg](Hamburg "Hamburg"){.wikilink} (*(Freie und Hansestadt) Hamburg, Hamburg*)
 
-**07 [Hesse](Hesse "Hesse"){.wikilink}** , [Wiesbaden](Wiesbaden "Wiesbaden"){.wikilink} (*Hessen, Wiesbaden*)
+**07 [Hesse](Hesse "Hesse"){.wikilink}**, [Wiesbaden](Wiesbaden "Wiesbaden"){.wikilink} (*Hessen, Wiesbaden*)
 
 **08 [Mecklenburg-Western Pomerania](Mecklenburg-Western_Pomerania "Mecklenburg-Western Pomerania"){.wikilink}**, [Schwerin](Schwerin "Schwerin"){.wikilink} (*Mecklenburg-Vorpommern, Schwerin*)
 
@@ -164,7 +164,7 @@ If you are staying in Germany for a longer period of time, membership in a Germa
 
 ### Lost and stolen property {#lost_and_stolen_property}
 
-Thefts and burglaries must be reported immediately to the police (www.polizei.de). If an insurance claim is to be made, a certificate must be obtained to show that the stolen property has been reported. If you have lost a valuable item, try contacting the city\'s \"Fundgrube\" (Lost and Found). These exist in every German city and are often in the city hall or \"Rathaus\". See www.fundbuero24.de . The German Railway has its own lost property office known as the \"Fundbüro der Deutschen Bahn AG\". The same applies for most airports.
+Thefts and burglaries must be reported immediately to the police (www.polizei.de). If an insurance claim is to be made, a certificate must be obtained to show that the stolen property has been reported. If you have lost a valuable item, try contacting the city\'s \"Fundgrube\" (Lost and Found). These exist in every German city and are often in the city hall or \"Rathaus\". See www.fundbuero24.de. The German Railway has its own lost property office known as the \"Fundbüro der Deutschen Bahn AG\". The same applies for most airports.
 
 ### List of Emergency Numbers {#list_of_emergency_numbers}
 
@@ -172,25 +172,25 @@ Thefts and burglaries must be reported immediately to the police (www.polizei.de
 
 Fire Department, Rescue and Ambulance (\"Feuerwehr und Rettungsdienst\")
 
-: 
+:
 
 : **112** (toll-free, no area-code required)
 
 Police (\"Polizei\")
 
-: 
+:
 
 : **110** (toll-free, no area-code required)
 
 On-call Doctor (after hours, \"Ärztlicher Bereitschaftdienst\")
 
-: 
+:
 
 : 19292 (local numbers and availability may vary)
 
 Emergency Poison Hotline
 
-: 
+:
 
 : \(0761\) 192 40
 
@@ -198,13 +198,13 @@ Emergency Poison Hotline
 
 Fundbüro der Deutschen Bahn AG (German Railroad Lost and Found)
 
-: 
+:
 
 : \(01805\) 99 05 99
 
 Zentrales Fundbüro Berlin (Central Lost and Found of Berlin)
 
-: 
+:
 
 : \(030\) 69 95
 
@@ -212,31 +212,31 @@ Zentrales Fundbüro Berlin (Central Lost and Found of Berlin)
 
 Central number for all bank cards (EC), credit cards and cellular phones (with a German contract)
 
-: 
+:
 
 : 116116 (toll free within Germany); from abroad: 0049/116116
 
 American Express
 
-: 
+:
 
 : \(069\) 97 97 10 00
 
 Diner\'s Club
 
-: 
+:
 
 : \(05921\) 86 12 34
 
 Euro-MasterCard
 
-: 
+:
 
 : \(069\) 79 33 19 10
 
 VISA
 
-: 
+:
 
 : \(0800\) 81 49 100
 
@@ -244,13 +244,13 @@ VISA
 
 ADAC (Allg. Deutscher Automobil-Club)
 
-: 
+:
 
 : \(089\) 76760
 
 AvD (Automobilclub von Deutschland)
 
-: 
+:
 
 : \(069\) 66060
 
@@ -258,13 +258,13 @@ AvD (Automobilclub von Deutschland)
 
 Directory enquiries, national numbers
 
-: 
+:
 
 : 11842 or 11833
 
 Directory enquiries, international numbers
 
-: 
+:
 
 : 11834
 
@@ -278,14 +278,9 @@ A list of foreign embassies in Germany and of German representatives abroad can 
 
 ## Related Links: {#related_links}
 
-[trash:Germany](trash:Germany "trash:Germany"){.wikilink} [hitch:Germany](hitch:Germany "hitch:Germany"){.wikilink} [velo:Germany](velo:Germany "velo:Germany"){.wikilink} [nomad:Germany](nomad:Germany "nomad:Germany"){.wikilink}
-
 [Category:Europe](Category:Europe "Category:Europe"){.wikilink}
-
-
-
 
 ---
 
-Source: [Germany](https://wiki.trustroots.org/en/Germany)  
+Source: [Germany](https://wiki.trustroots.org/en/Germany)
 License: CC-BY-SA-4.0

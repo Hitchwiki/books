@@ -19,10 +19,7 @@ The trailer scene is linked to the new age traveller movement.
 
 [Category:Accommodation](Category:Accommodation "Category:Accommodation"){.wikilink}
 
-
-
-
 ---
 
-Source: [Wagenplatz](https://nomadwiki.org/en/Wagenplatz)  
+Source: [Wagenplatz](https://nomadwiki.org/en/Wagenplatz)
 License: CC-BY-SA-4.0

@@ -12,12 +12,7 @@ In winter Ukraine can get very cold, for example in January 2006, it hit −35 
 
 Make sure to check *Shipot*, a rainbow gathering style eveng at carpatian mountains in July every year. ([FB group](https://www.facebook.com/ShipotForever/).
 
-[trash:Ukraine](trash:Ukraine "trash:Ukraine"){.wikilink} [hitch:Ukraine](hitch:Ukraine "hitch:Ukraine"){.wikilink} [couch:Ukraine](couch:Ukraine "couch:Ukraine"){.wikilink}
-
-
-
-
 ---
 
-Source: [Ukraine](https://nomadwiki.org/en/Ukraine)  
+Source: [Ukraine](https://nomadwiki.org/en/Ukraine)
 License: CC-BY-SA-4.0

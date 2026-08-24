@@ -67,10 +67,7 @@ Entring the country i was forced to show a ticket back to my own country, and a 
 
 [Category:Central America](Category:Central_America "Category:Central America"){.wikilink} [ ](Category:Panama " "){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Panama](https://hitchwiki.org/en/Panama)  
+Source: [Panama](https://hitchwiki.org/en/Panama)
 License: CC-BY-SA-4.0

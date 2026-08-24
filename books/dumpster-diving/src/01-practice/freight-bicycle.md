@@ -16,7 +16,7 @@ Common usages include:
 - warehouse inventory transportation
 - mail (The UK post office operates a fleet of 33,000 bicycles, mainly the \"Pashley\" *MailStar*)
 
-Because of the strong economic advantageous realizable by widespread proliferation of freight bicycles, [Oxfam](:share:Oxfam "Oxfam"){.wikilink} has designed the OxTrike and established local production at community workshops in non-industrialized countries for use in non-industrialized countries worldwide. Dangdang, China's biggest online bookseller, uses 30 bicycle courier companies in 12 cities to deliver goods and collect payments.
+Because of the strong economic advantageous realizable by widespread proliferation of freight bicycles, has designed the OxTrike and established local production at community workshops in non-industrialized countries for use in non-industrialized countries worldwide. Dangdang, China's biggest online bookseller, uses 30 bicycle courier companies in 12 cities to deliver goods and collect payments.
 
 ## External links {#external_links}
 
@@ -39,13 +39,11 @@ Media Coverage:
 
 [Category:General info](Category:General_info "Category:General info"){.wikilink}
 
-
 ![Workcycles-bakfiets-medium.jpg](../../images/workcycles-bakfiets-mediumjpg.jpg)
 
 *Workcycles-bakfiets-medium.jpg — Sigurdas*
 
-
 ---
 
-Source: [Freight bicycle](https://trashwiki.org/en/Freight_bicycle)  
+Source: [Freight bicycle](https://trashwiki.org/en/Freight_bicycle)
 License: CC-BY-NC-SA-4.0

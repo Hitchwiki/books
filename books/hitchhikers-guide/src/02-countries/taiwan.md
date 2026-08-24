@@ -28,7 +28,7 @@ It might be useful to have a motorcycle helmet with you, when hitchhiking, as it
 
 Taiwan\'s official language is Mandarin Chinese, and everyone under about 70 speaks it fluently (Taiwanese, a related language, is widespread but declining in use among young people, especially in the north and major cities). English is mandatory in schools, and most Taiwanese people under 40 will know some, but only a minority of them speak it confidently and well.
 
-If you are an English speaker you will find that many people are eager to practice while they drive you around. On the other hand, many others are unable or reluctant to try speaking it , so knowing some Mandarin helps a lot.
+If you are an English speaker you will find that many people are eager to practice while they drive you around. On the other hand, many others are unable or reluctant to try speaking it, so knowing some Mandarin helps a lot.
 
 Very often people will make an effort to communicate with the few English words they know, or even call an English-speaking friend to talk with you on the phone. Nonetheless, it\'s a good idea learn some basic Chinese or ask a Chinese-speaking friend to create a [hitchhiking letter](hitchhiking_letter "hitchhiking letter"){.wikilink} for you. This is a tremendously good method.
 
@@ -79,10 +79,7 @@ Taiwan is quite a developed country, as you will see when first entering Taipei.
 
 [Category:Asia](Category:Asia "Category:Asia"){.wikilink} [Category:Taiwan](Category:Taiwan "Category:Taiwan"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Taiwan](https://hitchwiki.org/en/Taiwan)  
+Source: [Taiwan](https://hitchwiki.org/en/Taiwan)
 License: CC-BY-SA-4.0

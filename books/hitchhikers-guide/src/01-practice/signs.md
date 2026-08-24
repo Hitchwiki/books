@@ -121,7 +121,7 @@ Buy a pad of plain A4 paper, and use it inside a waterproof, dust-proof transpar
 
 If you have access to a computer with a printer, you can make a quality hitch sign easily then. Since most languages read horizontally, set the page orientation to be landscape but with a size twice long as a normal A4 sheet. For a place name no longer than 9 letters, you can set the font size from 200 to 500 points to fully utilise the page size in one line; longer place names can be wrapped into two lines. Using a tiled printing software, you can print the long page to two sheets. Cut off the short tiling margin of one sheet and glue two sheets together, find a cardboard of same size and use four paper clips to pin the paper onto it, a lightweight wind-resistant hitch sign is ready to use. You don\'t need a waterproof sign, if you don\'t hitch in the rain or underwater. The plastic bag idea in previous tips will reduce contrast and introduce reflectivity. In case of that it rains, just wrap your hitch sign with the cling film from kitchen and it will work fine.
 
-![[EliasExplores](User:EliasExplores "EliasExplores"){.wikilink} proudly showing his sign to get to Irun. ](HitchhikingSignIrun.png "EliasExplores proudly showing his sign to get to Irun. "){width="200"} ![Even this can work great](Smileycardboard.jpg "Even this can work great"){width="200"} ![Some more examples](Signs.JPG "Some more examples"){width="200"}
+![[EliasExplores](User:EliasExplores "EliasExplores"){.wikilink} proudly showing his sign to get to Irun. ](HitchhikingSignIrun.png "EliasExplores proudly showing his sign to get to Irun. "){width="200"}![Even this can work great](Smileycardboard.jpg "Even this can work great"){width="200"}![Some more examples](Signs.JPG "Some more examples"){width="200"}
 
 #### Use scavenged materials {#use_scavenged_materials}
 
@@ -224,10 +224,7 @@ I, [Dr.Keith](User:Dr.Keith "Dr.Keith"){.wikilink} developed the technique for u
 
 [Category:Equipment](Category:Equipment "Category:Equipment"){.wikilink} [Category:Signs](Category:Signs "Category:Signs"){.wikilink}
 
-
-
-
 ---
 
-Source: [Signs](https://hitchwiki.org/en/Signs)  
+Source: [Signs](https://hitchwiki.org/en/Signs)
 License: CC-BY-SA-4.0

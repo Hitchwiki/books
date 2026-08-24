@@ -34,10 +34,7 @@ The medical supply is far below western standards, stay clean and healthy!
 
 [Category:Africa](Category:Africa "Category:Africa"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Malawi](https://hitchwiki.org/en/Malawi)  
+Source: [Malawi](https://hitchwiki.org/en/Malawi)
 License: CC-BY-SA-4.0

@@ -18,10 +18,7 @@ The independence was unbloody, but it\'s very possible that the old conflict wit
 
 [Category:Northern Africa](Category:Northern_Africa "Category:Northern Africa"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [South Sudan](https://hitchwiki.org/en/South_Sudan)  
+Source: [South Sudan](https://hitchwiki.org/en/South_Sudan)
 License: CC-BY-SA-4.0

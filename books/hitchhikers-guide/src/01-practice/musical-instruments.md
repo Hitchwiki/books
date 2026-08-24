@@ -35,10 +35,7 @@ The basic idea is to breath in and out of the holes, sometimes in chords and oth
 
 [Category:General_info](Category:General_info "Category:General_info"){.wikilink}
 
-
-
-
 ---
 
-Source: [Musical instruments](https://hitchwiki.org/en/Musical_instruments)  
+Source: [Musical instruments](https://hitchwiki.org/en/Musical_instruments)
 License: CC-BY-SA-4.0

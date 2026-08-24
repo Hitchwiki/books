@@ -33,7 +33,7 @@ More information on the [English channel](English_channel "English channel"){.wi
 
 England is not a great country for using public transport without paying, pretty much impossible on buses as with very few exceptions you purchase a ticket from the driver, and hard on trams. For short hops on local trains, it\'s possible, and from stations without a ticket office, where one is expected to buy a ticket on board the train, it\'s often possible to simply look out of the window or pay attention to a book, and the conductor won\'t bother you. The same is just as possible from a station with a ticket office, however, if caught the penalty ranges from from being expected to pay a higher fare, to being fined £20 or more, and to having your details taken and risking a criminal record; and you should weigh up the risk against the cost of paying the fare. Be also warned about stations where you need to a ticket to get off the platform, stations such as at [Cambridge](Cambridge "Cambridge"){.wikilink} and at [London](London "London"){.wikilink} King\'s Cross.
 
-Nationalrail website will offer fares at four times discount in advance one or two weeks . It is possible to buy discounted tickets on most lines via nationalrail.co.uk up until 6pm the day before travel. Much cheaper is megabus or nationalexpress - in advance two or three weeks, although cheap tickets can also be bought on day of travel via their websites for many routes.
+Nationalrail website will offer fares at four times discount in advance one or two weeks. It is possible to buy discounted tickets on most lines via nationalrail.co.uk up until 6pm the day before travel. Much cheaper is megabus or nationalexpress - in advance two or three weeks, although cheap tickets can also be bought on day of travel via their websites for many routes.
 
 ## Personal Experiences {#personal_experiences}
 
@@ -41,14 +41,9 @@ Nationalrail website will offer fares at four times discount in advance one or t
 
 A rather extensive [overview on hitching in England](http://www.chooseachallenge.com/hitch/bristol-jailbreak/about/faq/) is offered on the website of \"Bristol Jailbreak\"
 
-[trash:England](trash:England "trash:England"){.wikilink}
-
 [Category:Ferries](Category:Ferries "Category:Ferries"){.wikilink} [Category:England](Category:England "Category:England"){.wikilink} [Category:Northern Europe](Category:Northern_Europe "Category:Northern Europe"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
-
-
-
 
 ---
 
-Source: [England](https://hitchwiki.org/en/England)  
+Source: [England](https://hitchwiki.org/en/England)
 License: CC-BY-SA-4.0

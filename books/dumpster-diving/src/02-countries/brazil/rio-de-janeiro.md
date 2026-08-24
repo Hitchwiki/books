@@ -8,12 +8,7 @@
 
 *Waste Land* (2010) is a social documentary based around the lives of garbage pickers in Rio de Janeiro as a man by the name of Vik Muniz creates [art](art "art"){.wikilink} out of [recycled material](recycling "recycled material"){.wikilink}. [Watch trailer here](http://www.wastelandmovie.com/) (alternative link: [watch on YouTube](https://www.youtube.com/watch?v=QUAavzJsTBw)).
 
-[hitch:Rio de Janeiro](hitch:Rio_de_Janeiro "hitch:Rio de Janeiro"){.wikilink} [vegan:Rio de Janeiro](vegan:Rio_de_Janeiro "vegan:Rio de Janeiro"){.wikilink}
-
-
-
-
 ---
 
-Source: [Rio de Janeiro](https://trashwiki.org/en/Rio_de_Janeiro)  
+Source: [Rio de Janeiro](https://trashwiki.org/en/Rio_de_Janeiro)
 License: CC-BY-NC-SA-4.0

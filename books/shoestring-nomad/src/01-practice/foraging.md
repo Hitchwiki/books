@@ -4,13 +4,11 @@
 
 [Category:Food](Category:Food "Category:Food"){.wikilink}
 
-
 ![Vaccinium corymbosum3.jpg](../../images/vaccinium-corymbosum3jpg.jpg)
 
 *Vaccinium corymbosum3.jpg — Tiia Monto (CC BY-SA 3.0)*
 
-
 ---
 
-Source: [Foraging](https://nomadwiki.org/en/Foraging)  
+Source: [Foraging](https://nomadwiki.org/en/Foraging)
 License: CC-BY-SA-4.0

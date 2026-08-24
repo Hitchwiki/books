@@ -18,12 +18,7 @@
 
 `--`[`Blanky`](User:Blanky "Blanky"){.wikilink}` (`[`talk`](User_talk:Blanky "talk"){.wikilink}`) 20:41, 1 September 2015 (CEST)`
 
-[vegan:Auckland](vegan:Auckland "vegan:Auckland"){.wikilink} [nomad:Auckland](nomad:Auckland "nomad:Auckland"){.wikilink}
-
-
-
-
 ---
 
-Source: [Auckland](https://trashwiki.org/en/Auckland)  
+Source: [Auckland](https://trashwiki.org/en/Auckland)
 License: CC-BY-NC-SA-4.0

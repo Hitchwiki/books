@@ -23,10 +23,7 @@ Hospitality exchange networks require a bit more planning, but are **very** valu
 
 [Category:General info](Category:General_info "Category:General info"){.wikilink}
 
-
-
-
 ---
 
-Source: [Online Resources](https://hitchwiki.org/en/Online_Resources)  
+Source: [Online Resources](https://hitchwiki.org/en/Online_Resources)
 License: CC-BY-SA-4.0

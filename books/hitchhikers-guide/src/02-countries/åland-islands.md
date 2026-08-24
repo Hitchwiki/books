@@ -22,19 +22,14 @@ The common way to get to Åland is by ferry. There are big ferries from [Sweden]
 
 From Turku, you can also try to hitch-hike via the archipelago. You can get a map of the archipelago and the ferries at the tourist info in Turku.
 
-1.  North: Hummelvik − Kumlinge, Brändö − Osnäs
-2.  South: Långnäs − Sottunga − Galtby
+1. North: Hummelvik − Kumlinge, Brändö − Osnäs
+2. South: Långnäs − Sottunga − Galtby
 
 ## Personal Experiences {#personal_experiences}
 
-[trash:Åland_Islands](trash:Åland_Islands "trash:Åland_Islands"){.wikilink} [trash:Åland Islands](trash:Åland_Islands "trash:Åland Islands"){.wikilink}
-
 [Category:Island](Category:Island "Category:Island"){.wikilink} [Category:Finland](Category:Finland "Category:Finland"){.wikilink} [Category:Northern Europe](Category:Northern_Europe "Category:Northern Europe"){.wikilink} [Category:Ferries](Category:Ferries "Category:Ferries"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
-
-
-
 
 ---
 
-Source: [Åland Islands](https://hitchwiki.org/en/Åland_Islands)  
+Source: [Åland Islands](https://hitchwiki.org/en/Åland_Islands)
 License: CC-BY-SA-4.0

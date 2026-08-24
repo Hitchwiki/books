@@ -253,23 +253,12 @@ def paint(slug: str, meta: dict) -> Image.Image:
         y_title = 1360
         kicker_y = 1220
     elif motif == "door":
-        d.rectangle([0, 0, W, 70], fill=hex_rgb(t["bg"]))
-        d.rectangle([0, H - 70, W, H], fill=hex_rgb(t["bg"]))
-        d.rectangle([0, 70, W, 92], fill=accent2)
-        d.rectangle([0, H - 92, W, H - 70], fill=accent2)
-        logo_x = -1
-        logo_y = 140
-        logo_h = 300
         y_title = 1420
         kicker_y = 1280
-    elif motif == "spare":
-        display = load_font(t["display_file"], 88)
-        logo_w = 1100
-        logo_h = 220
-        logo_x = 110
-        logo_y = 160
-        y_title = 1480
-        kicker_y = 1340
+    elif motif == "gift":
+        d.rectangle([0, H - 36, W, H], fill=hex_rgb(t["accent"]))
+        y_title = 1420
+        kicker_y = 1280
     elif motif == "grid":
         d.rectangle([0, 0, W, 70], fill=hex_rgb("#ffdc18"))
         d.rectangle([0, H - 70, W, H], fill=hex_rgb("#ffdc18"))
@@ -278,6 +267,9 @@ def paint(slug: str, meta: dict) -> Image.Image:
         logo_y = 120
         y_title = 1400
         kicker_y = 1260
+
+    if t.get("logo_small"):
+        logo_h, logo_w = 96, 96
 
     paste_logo(img, slug, x=logo_x, y=logo_y, max_h=logo_h, max_w=logo_w)
 
@@ -293,10 +285,6 @@ def paint(slug: str, meta: dict) -> Image.Image:
             y += 12
             d.text((110, y), line, font=small, fill=fg)
             y += 48
-    credit = photo_meta.get("author") or ""
-    lic = photo_meta.get("license") or ""
-    if credit or lic:
-        d.text((110, H - 190), f"Photo: {' · '.join(p for p in (credit, lic) if p)}", font=tiny, fill=fg)
     d.text((110, H - 140), f"books.hitchwiki.org  ·  {license_id}", font=tiny, fill=fg)
     return img
 

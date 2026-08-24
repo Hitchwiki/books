@@ -20,10 +20,7 @@ Be prepared for some rain showers.
 
 [Category:Oceania](Category:Oceania "Category:Oceania"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Tonga](https://hitchwiki.org/en/Tonga)  
+Source: [Tonga](https://hitchwiki.org/en/Tonga)
 License: CC-BY-SA-4.0

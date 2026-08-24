@@ -3,9 +3,9 @@
 #### Our own projects {#our_own_projects}
 
 - [Trustroots](Trustroots "Trustroots"){.wikilink}[1](https://www.trustroots.org/)
-- [Hitchwiki](:hitch: "Hitchwiki"){.wikilink}
-- [Trashwiki](:trash: "Trashwiki"){.wikilink}
-- [Nomadwiki](:nomad: "Nomadwiki"){.wikilink}
+- Hitchwiki
+- Trashwiki
+- Nomadwiki
 
 #### Hospex friends {#hospex_friends}
 
@@ -52,10 +52,7 @@ might be interesting to check out
 
 [Category:Hospitality exchange networks](Category:Hospitality_exchange_networks "Category:Hospitality exchange networks"){.wikilink}
 
-
-
-
 ---
 
-Source: [List of projects related to Hospitality Exchange](https://wiki.trustroots.org/en/List_of_projects_related_to_Hospitality_Exchange)  
+Source: [List of projects related to Hospitality Exchange](https://wiki.trustroots.org/en/List_of_projects_related_to_Hospitality_Exchange)
 License: CC-BY-SA-4.0

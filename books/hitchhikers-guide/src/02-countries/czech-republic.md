@@ -61,7 +61,7 @@ Czech is a Slavic language.
 
 <div class="hw-exp-text">
 
-Czechia is a great country for hitchhike. I did Breclav - Brno - Olomouc - Snežka - Kolin - Most - Karlove Vary - Prague - Trebič - Telč - Česke Budjeovice - Linz itinerary and the only place where I stucked was around Olomouc, mostly because it was Sunday early morning and 40 degrees outside. :) People stop pretty fast every time, you do not wait more than 5-10 minutes. Every place is a good place for hitching. People are relaxed to stop even in small highway entrances - love them! :) Moreover, they will extend their ride to take you to the right place! Amazing! Overall experience is 4 or 4.5 out of 5.
+Czechia is a great country for hitchhike. I did Breclav - Brno - Olomouc - Snežka - Kolin - Most - Karlove Vary - Prague - Trebič - Telč - Česke Budjeovice - Linz itinerary and the only place where I stucked was around Olomouc, mostly because it was Sunday early morning and 40 degrees outside.:) People stop pretty fast every time, you do not wait more than 5-10 minutes. Every place is a good place for hitching. People are relaxed to stop even in small highway entrances - love them!:) Moreover, they will extend their ride to take you to the right place! Amazing! Overall experience is 4 or 4.5 out of 5.
 
 </div>
 </div>
@@ -75,10 +75,7 @@ On normal roads I get usually lift in about ten minutes even though I look male 
 
 [Category:Czech Republic](Category:Czech_Republic "Category:Czech Republic"){.wikilink} [Category:Eastern Europe](Category:Eastern_Europe "Category:Eastern Europe"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Czech Republic](https://hitchwiki.org/en/Czech_Republic)  
+Source: [Czech Republic](https://hitchwiki.org/en/Czech_Republic)
 License: CC-BY-SA-4.0

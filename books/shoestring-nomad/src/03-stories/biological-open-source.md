@@ -10,7 +10,7 @@ by JACK KLOPPENBURG
 The law locks up the man or woman
 Who steals the goose from off the common
 But leaves the greater villain loose
-Who steals the common from off the goose . . .
+Who steals the common from off the goose...
 And geese will still a common lack
 Till they go and steal it back.
 (Anon., English, c. 1821, quoted in Boyle 2008, 42)

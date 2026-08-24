@@ -2,7 +2,7 @@
 
 **Related websites**:
 
-- [Hitchwiki](:hitch: "Hitchwiki"){.wikilink} can be considered the spiritual mother of [this project](Project:About "this project"){.wikilink}.
+- Hitchwiki can be considered the spiritual mother of [this project](Project:About "this project"){.wikilink}.
 - [umsonst-oekonomie.de.vu](http://autoorganisation.org/mediawiki/index.php/Anders_Leben/Anders_wirtschaften/Umsonstökonomie)
 - the former Upcycling.org (contents preserved in [Autoorganisations-Wiki](http://autoorganisation.org/mediawiki/index.php/Portal:Upcycling) now)
 - European TV project and campaign Taste the Waste [1](http://www.tastethewaste.com)
@@ -21,10 +21,7 @@
 
 [Category:General info](Category:General_info "Category:General info"){.wikilink}
 
-
-
-
 ---
 
-Source: [Related websites](https://trashwiki.org/en/Related_websites)  
+Source: [Related websites](https://trashwiki.org/en/Related_websites)
 License: CC-BY-NC-SA-4.0

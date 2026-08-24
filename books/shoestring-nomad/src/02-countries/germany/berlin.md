@@ -14,12 +14,7 @@ If you want to do it for free and anonymously, you go to AIDS Hilfe in Charlotte
 - [Free Advice Berlin](https://www.facebook.com/groups/719264084796021/) FB group
 - [Free Your Stuff](https://www.facebook.com/groups/freeyourstuff/) FB group for stuff people give away
 
-[hitch:Berlin](hitch:Berlin "hitch:Berlin"){.wikilink} [trash:Berlin](trash:Berlin "trash:Berlin"){.wikilink} [velo:Berlin](velo:Berlin "velo:Berlin"){.wikilink} [couch:Berlin](couch:Berlin "couch:Berlin"){.wikilink} [cash:Berlin](cash:Berlin "cash:Berlin"){.wikilink}
-
-
-
-
 ---
 
-Source: [Berlin](https://nomadwiki.org/en/Berlin)  
+Source: [Berlin](https://nomadwiki.org/en/Berlin)
 License: CC-BY-SA-4.0

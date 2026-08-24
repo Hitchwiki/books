@@ -28,10 +28,7 @@ French Guiana is an overseas department, so the French *code de la route* applie
 
 [Category:France](Category:France "Category:France"){.wikilink} [Category:French Guiana](Category:French_Guiana "Category:French Guiana"){.wikilink} [Category:Overseas departments and territories of France](Category:Overseas_departments_and_territories_of_France "Category:Overseas departments and territories of France"){.wikilink} [Category:South America](Category:South_America "Category:South America"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [French Guiana](https://hitchwiki.org/en/French_Guiana)  
+Source: [French Guiana](https://hitchwiki.org/en/French_Guiana)
 License: CC-BY-SA-4.0

@@ -17,11 +17,11 @@ The nature of the Thai people makes Thailand a really good country to use a [hit
 [z-z-z88](User:z-z-z88 "z-z-z88"){.wikilink} ([talk](User_talk:z-z-z88 "talk"){.wikilink}) used a hitchhiking letter and it helped him a lot. Others report that they are being constantly driven to the bus stations. Although spoken Thai is understood in [Laos](Laos "Laos"){.wikilink}, Lao people had a lot of difficulties reading Thai.
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------
-  ผมเดินทางด้วยเงินจำนวนเล็กน้อยเพื่อเป็นค่าอาหารและที่พักราคาถูก ผมจึงโบกรถเพื่อเดินทาง ขอผมติดรถไปทางเดียวกับคุณด้วยได้ไหมครับ คุณจะส่งผมข้างหน้าที่ไหนก็ได้ที่สะดวก แล้วผมจะโบกรถต่อไปเอง   I am hitchhiking. I travel with small money only for food and cheap hostel. When your car turn off the road, drop me off and I find another car.
-  ไม่เป็นไรครับ ผมไม่ต้องการความช่วยเหลืออะไรตอนนี้ ขอบคุณครับ                                                                                                        I\'m fine, do not need help, thank you.
-  ไปใกล้ๆ ก็ได้ครับ ระยะทางสั้นๆ ก็จะช่วยได้มาก                                                                                                                     Small ride for few kilometers is ok
-  ส่งผมลงตรงนี้ด้วยครับ                                                                                                                                         Drop me off here please.
-  ผมขอตั้งเต้นท์พักค้างคืนที่นี่ได้ไหม                                                                                                                                 Can I put my tent here?
+  ผมเดินทางด้วยเงินจำนวนเล็กน้อยเพื่อเป็นค่าอาหารและที่พักราคาถูก ผมจึงโบกรถเพื่อเดินทาง ขอผมติดรถไปทางเดียวกับคุณด้วยได้ไหมครับ คุณจะส่งผมข้างหน้าที่ไหนก็ได้ที่สะดวก แล้วผมจะโบกรถต่อไปเอง I am hitchhiking. I travel with small money only for food and cheap hostel. When your car turn off the road, drop me off and I find another car.
+  ไม่เป็นไรครับ ผมไม่ต้องการความช่วยเหลืออะไรตอนนี้ ขอบคุณครับ I\'m fine, do not need help, thank you.
+  ไปใกล้ๆ ก็ได้ครับ ระยะทางสั้นๆ ก็จะช่วยได้มาก Small ride for few kilometers is ok
+  ส่งผมลงตรงนี้ด้วยครับ Drop me off here please.
+  ผมขอตั้งเต้นท์พักค้างคืนที่นี่ได้ไหม Can I put my tent here?
   -------------------------------------------------------------------------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------
 
 Thai people may not understand the meaning of a hitchhiker with their thumb out. An American ex-pat told [MolotovMocktail](User:MolotovMocktail "MolotovMocktail"){.wikilink} to use the motion that Thais use to hail taxis when hitchhiking. To do this, hold your hand out with your palm facing the ground and make a downward-patting motion.
@@ -71,10 +71,7 @@ Pls add info
 
 [Category:Asia](Category:Asia "Category:Asia"){.wikilink} [\*](Category:Thailand "*"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Thailand](https://hitchwiki.org/en/Thailand)  
+Source: [Thailand](https://hitchwiki.org/en/Thailand)
 License: CC-BY-SA-4.0

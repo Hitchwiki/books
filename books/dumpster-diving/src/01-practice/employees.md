@@ -8,10 +8,7 @@ Some can be pure evil, though. For example, in [2008](2008 "2008"){.wikilink} em
 
 [Category:Dumpster diving](Category:Dumpster_diving "Category:Dumpster diving"){.wikilink}
 
-
-
-
 ---
 
-Source: [Employees](https://trashwiki.org/en/Employees)  
+Source: [Employees](https://trashwiki.org/en/Employees)
 License: CC-BY-NC-SA-4.0

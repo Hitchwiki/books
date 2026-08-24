@@ -78,7 +78,7 @@ The following is a list of all the major border crossings between Argentina and 
 
 ***Paso Pérez Rosales*** on a Ruta with no number, from Puerto Frías in Argentina in Rio Negro province. Nearest Argentinian town of size is called Llao Llao, near [Bariloche](Bariloche "Bariloche"){.wikilink}. You\'ll have to take several seasonal ferries in both Argentina and Chile to get here. The nearest town of size on the Chilean side is called Peulla in Region X de Los Lagos. This border is not visible on Google Maps, only on Open Street Maps. Please let us know if you accomplished this masterpiece.
 
-***Paso Futaleufú*** on the Ruta 259. Crosses from Chubut province to Region X de Los Lagos. The distance between the two immigration offices is less than 1km. This is a major tourist hot spot, so if the border isn\'t closed, it should be fairly hitchable. To get out futaleufu, you need to be patient : there is not a lot of trafic. Walk out of the town until a bridge : cross it. Just after it there is a bus station : good place to wait espacially if it\'s raining.
+***Paso Futaleufú*** on the Ruta 259. Crosses from Chubut province to Region X de Los Lagos. The distance between the two immigration offices is less than 1km. This is a major tourist hot spot, so if the border isn\'t closed, it should be fairly hitchable. To get out futaleufu, you need to be patient: there is not a lot of trafic. Walk out of the town until a bridge: cross it. Just after it there is a bus station: good place to wait espacially if it\'s raining.
 
 ***Paso Rio Encuentro*** on the Ruta 44. Crosses from Chubut province to Region X de Los Lagos. The Argentinian side has a town named Carrenleufú and the Chilean has one named Alto Palena. Let us know if you crossed here.
 
@@ -289,10 +289,7 @@ Chile was lovely. Almost no waiting time, a lot of people how offered me food/dr
 
 [ ](Category:Chile " "){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Chile](https://hitchwiki.org/en/Chile)  
+Source: [Chile](https://hitchwiki.org/en/Chile)
 License: CC-BY-SA-4.0

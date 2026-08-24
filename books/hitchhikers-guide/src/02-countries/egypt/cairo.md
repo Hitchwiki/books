@@ -6,10 +6,7 @@
 
 When the [Academy of Free Travel](Academy_of_Free_Travel "Academy of Free Travel"){.wikilink} established a hitchhiking base in Cairo in Winter 2008/09, they did not hitchhike from the city itself, as it is too sprawling. Equipped with a schedule of cheap trains (for which one must go directly to the train, for ticket booths will not sell to foreigners), they traveled by rail to nearby locales and hitched from there.
 
-
-
-
 ---
 
-Source: [Cairo](https://hitchwiki.org/en/Cairo)  
+Source: [Cairo](https://hitchwiki.org/en/Cairo)
 License: CC-BY-SA-4.0

@@ -13,10 +13,7 @@ Immediately across the bridge is Marin County, which is mostly a rich suburban a
 
 ### Going Northeast {#going_northeast}
 
-
-
-
 ---
 
-Source: [Bay Area](https://hitchwiki.org/en/Bay_Area)  
+Source: [Bay Area](https://hitchwiki.org/en/Bay_Area)
 License: CC-BY-SA-4.0

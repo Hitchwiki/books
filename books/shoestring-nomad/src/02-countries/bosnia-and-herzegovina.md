@@ -10,12 +10,7 @@ In the war houses were often rigged with mines as their owners fled during the w
 
 Read more from [Wikipedia](http://en.wikipedia.org/wiki/Land_mine_contamination_in_Bosnia_and_Herzegovina) or from [BH MAC](http://www.bhmac.org/en/).
 
-[hitch:Bosnia and Herzegovina](hitch:Bosnia_and_Herzegovina "hitch:Bosnia and Herzegovina"){.wikilink} [trash:Bosnia and Herzegovina](trash:Bosnia_and_Herzegovina "trash:Bosnia and Herzegovina"){.wikilink} [wikivoyage:Bosnia and Herzegovina](wikivoyage:Bosnia_and_Herzegovina "wikivoyage:Bosnia and Herzegovina"){.wikilink} [couch:Bosnia and Herzegovina](couch:Bosnia_and_Herzegovina "couch:Bosnia and Herzegovina"){.wikilink}
-
-
-
-
 ---
 
-Source: [Bosnia and Herzegovina](https://nomadwiki.org/en/Bosnia_and_Herzegovina)  
+Source: [Bosnia and Herzegovina](https://nomadwiki.org/en/Bosnia_and_Herzegovina)
 License: CC-BY-SA-4.0

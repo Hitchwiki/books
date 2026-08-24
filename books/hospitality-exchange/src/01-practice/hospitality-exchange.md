@@ -67,7 +67,7 @@ Some networks offer specialised hospitality services. There are at least 15 (spe
 - [The Affordable Travel Club](The_Affordable_Travel_Club "The Affordable Travel Club"){.wikilink} [1](https://affordabletravelclub.net/) Hospitality Exchange Club with 2000 members worldwide for people 40+
 - [Lesbian and Gay Hospitality Exchange International](Lesbian_and_Gay_Hospitality_Exchange_International "Lesbian and Gay Hospitality Exchange International"){.wikilink} [2](http://www.lghei.org/);
 - [Warm Showers](Warm_Showers "Warm Showers"){.wikilink} - Hospitality network towards touring cyclists;
-- Dachgeber[3](http://dachgeber.de/) - Hospitality network towards touring cyclists in Germany with about 3000 members. (See our German article [Dachgeber](:de:Dachgeber "Dachgeber"){.wikilink}.)
+- Dachgeber[3](http://dachgeber.de/) - Hospitality network towards touring cyclists in Germany with about 3000 members. (See our German article.)
 - [Pasporta Servo](Pasporta_Servo "Pasporta Servo"){.wikilink}[4](http://www.tejo.org/eo/ps_lingv_en/) - for [Esperanto](Esperanto "Esperanto"){.wikilink} speakers;
 - [WWOOF](WWOOF "WWOOF"){.wikilink}[5](http://www.wwoof.org/) - \"Worldwide Opportunities on Organic Farms\", help on the property is exchanged for food, accommodation, education and cultural interaction;
 - HelpX[6](http://www.helpx.net/) - \"Help Exchange\", help is exchanged for food, accommodation, experience and cultural interaction;
@@ -80,16 +80,11 @@ Some networks offer specialised hospitality services. There are at least 15 (spe
 
 - [Article on www.wikivoyage.org](http://en.wikivoyage.org/wiki/Hospitality_exchange)
 
-[hitch:Hospitality exchange](hitch:Hospitality_exchange "hitch:Hospitality exchange"){.wikilink} [nomad:Hospitality exchange](nomad:Hospitality_exchange "nomad:Hospitality exchange"){.wikilink}
-
 [Category:Hospitality exchange networks](Category:Hospitality_exchange_networks "Category:Hospitality exchange networks"){.wikilink} [Category:Concepts](Category:Concepts "Category:Concepts"){.wikilink}
 
 [^1]: [HospEx - Hospitality Exchange Networks Overview](http://www.hospitalityguide.net/)
 
-
-
-
 ---
 
-Source: [Hospitality exchange](https://wiki.trustroots.org/en/Hospitality_exchange)  
+Source: [Hospitality exchange](https://wiki.trustroots.org/en/Hospitality_exchange)
 License: CC-BY-SA-4.0

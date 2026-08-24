@@ -20,12 +20,7 @@ In the main, touristic square of the old town (*staromestke namesti*) there is a
 
 If you stand on one leg on an advertisement panel playing your instrument, police may come astonished and ask you (after what are you doing so and why..) to come down, check your documents and kindly ask you not to do it anymore.
 
-[hitch:Prague](hitch:Prague "hitch:Prague"){.wikilink} [trash:Prague](trash:Prague "trash:Prague"){.wikilink}
-
-
-
-
 ---
 
-Source: [Prague](https://nomadwiki.org/en/Prague)  
+Source: [Prague](https://nomadwiki.org/en/Prague)
 License: CC-BY-SA-4.0

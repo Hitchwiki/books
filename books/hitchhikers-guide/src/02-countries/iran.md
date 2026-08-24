@@ -6,7 +6,7 @@
 
 Some hitchhikers on their way to [India](India "India"){.wikilink} even decide to stay in Iran instead.
 
-![Hitchhiker [Fran](User:Fran "Fran"){.wikilink} waiting for a ride in Iran.](Shiraz.jpg "Hitchhiker Fran waiting for a ride in Iran."){width="250"} ![](Hitchhiking_in_Iran.jpg "Hitchhiking_in_Iran.jpg"){width="270"}
+![Hitchhiker [Fran](User:Fran "Fran"){.wikilink} waiting for a ride in Iran.](Shiraz.jpg "Hitchhiker Fran waiting for a ride in Iran."){width="250"}![](Hitchhiking_in_Iran.jpg "Hitchhiking_in_Iran.jpg"){width="270"}
 
 Hitchhiking is done in Iran by waving one\'s arm at an oncoming car, or by dribbling one of your hands. Do not gesture with your thumb up as in the West, because this is an obscene gesture in Persian culture.\
 `<b>`{=html}NOTE:`</b>`{=html} *In 2017 I hitched with the thumb, because several iranian hitchers told me to do so, they were doing the same. Also I noticed many times that locals gave me the thumb as a positive gesture, for example when taking selfies.*
@@ -140,7 +140,7 @@ Not many people are \"stuck in old conventions\" anymore, after some time you\'l
 
 The best place ever to hitch-hike in Iran are pay-tolls. Right after every pay-toll, there is a large bay where drivers going a long distance often stop to put money in boxes to bless their journey. As you can talk without hurry to the drivers, and explain you are a hitch-hiker, it is very easy to catch a long-distance ride.
 
-Example : direct ride Mashhad to Tehran (900km) in less than 10 minutes !
+Example: direct ride Mashhad to Tehran (900km) in less than 10 minutes!
 
 </div>
 </div>
@@ -204,14 +204,11 @@ I noticed some different things while hitchhiking in Iran. Firstly, (as a guy), 
 
 <!-- -->
 
-- User [TheNomadFamily](User:TheNomadFamily "TheNomadFamily"){.wikilink} wrote a guide in English about Hitchhiking in Iran; sharing experiences, tips and info he gathered after hitching 3 months around the country : [Hitchhiking in Iran](https://www.thenomadfamily.org/hitchhiking-in-iran/)
+- User [TheNomadFamily](User:TheNomadFamily "TheNomadFamily"){.wikilink} wrote a guide in English about Hitchhiking in Iran; sharing experiences, tips and info he gathered after hitching 3 months around the country: [Hitchhiking in Iran](https://www.thenomadfamily.org/hitchhiking-in-iran/)
 
 [Category:Iran](Category:Iran "Category:Iran"){.wikilink} [Category:Southern Asia](Category:Southern_Asia "Category:Southern Asia"){.wikilink} [Category:East Route from North Cape to Cape of Good Hope](Category:East_Route_from_North_Cape_to_Cape_of_Good_Hope "Category:East Route from North Cape to Cape of Good Hope"){.wikilink} [Category:E80](Category:E80 "Category:E80"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Iran](https://hitchwiki.org/en/Iran)  
+Source: [Iran](https://hitchwiki.org/en/Iran)
 License: CC-BY-SA-4.0

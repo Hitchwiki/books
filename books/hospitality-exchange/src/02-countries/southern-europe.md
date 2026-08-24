@@ -24,16 +24,9 @@ Autonomic Regions:
 - [Gibraltar](Gibraltar "Gibraltar"){.wikilink}
 - [Vatican](Vatican "Vatican"){.wikilink}
 
-[hitch:Southern Europe](hitch:Southern_Europe "hitch:Southern Europe"){.wikilink} [trash:Southern Europe](trash:Southern_Europe "trash:Southern Europe"){.wikilink}
-
-[nomad:Southern Europe](nomad:Southern_Europe "nomad:Southern Europe"){.wikilink}
-
 [Category:Europe](Category:Europe "Category:Europe"){.wikilink}
-
-
-
 
 ---
 
-Source: [Southern Europe](https://wiki.trustroots.org/en/Southern_Europe)  
+Source: [Southern Europe](https://wiki.trustroots.org/en/Southern_Europe)
 License: CC-BY-SA-4.0

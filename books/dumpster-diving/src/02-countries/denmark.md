@@ -16,7 +16,7 @@ Shop keepers tend to vary greatly in their acceptance of dumpster divers, some d
 
 ### Why was this item thrown out, it is still good for another *x* days/months/years\... {#why_was_this_item_thrown_out_it_is_still_good_for_another_x_daysmonthsyears...}
 
-![Dumpster diving for sushi in Copenhagen.](2011.08_CPH_trash_or_food.JPEG "Dumpster diving for sushi in Copenhagen."){width="240"} ![Lots of candy in Copenhagen.](Candy_in_copenhagen.JPG "Lots of candy in Copenhagen."){width="240"} Generally, if something gets dirty or (partly) damaged in some way or another, like a bottle of wine in a box breaks and spills red wine over the other bottles, all the the latter ones will either be drunk by the staff after work or tossed in the trash depending on how loyal/honest/stupid they are.
+![Dumpster diving for sushi in Copenhagen.](2011.08_CPH_trash_or_food.JPEG "Dumpster diving for sushi in Copenhagen."){width="240"}![Lots of candy in Copenhagen.](Candy_in_copenhagen.JPG "Lots of candy in Copenhagen."){width="240"} Generally, if something gets dirty or (partly) damaged in some way or another, like a bottle of wine in a box breaks and spills red wine over the other bottles, all the the latter ones will either be drunk by the staff after work or tossed in the trash depending on how loyal/honest/stupid they are.
 
 Don\'t abuse this fact however - surely, you can go into the store during the day and damage some produce or its package and then at night collect it from the [trash](trash "trash"){.wikilink} the same night, but if you get caught, you might get charged with fraud which is a very serious offence in Denmark! Besides, you don\'t have to do that as there are enough clumsy people and enough stuff thrown away. You shouldn\'t get picky, it\'s more fun and more challenging to make something of whatever you find than obviously breaking the law!
 
@@ -40,12 +40,7 @@ Since a lot of food that would normally end up in the dumpsters, is redirected t
 - [Lorry.dk TV article](http://lorry.dk/moduler/nyheder/showregvideo.asp?dato=30-01-2009&cID=1&vId=466788)
 - [Metro Denmark article](http://www.e-pages.dk/metroxpressdk/483/)
 
-[hitch:Denmark](hitch:Denmark "hitch:Denmark"){.wikilink}
-
-[nomad:Denmark](nomad:Denmark "nomad:Denmark"){.wikilink}
-
 [Category:Denmark](Category:Denmark "Category:Denmark"){.wikilink}
-
 
 ![2011.08 CPH trashdigger vegan.JPG](../../images/201108-cph-trashdigger-veganjpg.jpg)
 
@@ -55,8 +50,7 @@ Since a lot of food that would normally end up in the dumpsters, is redirected t
 
 *2011.08 CPH trash or food.JPEG — Sigurdas*
 
-
 ---
 
-Source: [Denmark](https://trashwiki.org/en/Denmark)  
+Source: [Denmark](https://trashwiki.org/en/Denmark)
 License: CC-BY-NC-SA-4.0

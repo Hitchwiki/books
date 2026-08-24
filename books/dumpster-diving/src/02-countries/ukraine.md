@@ -8,14 +8,9 @@ The **Ukraine** is a big country in Eastern Europe. [Dumpster diving](Dumpster_d
 - [Lviv](Lviv "Lviv"){.wikilink}
 - [Odessa](Odessa "Odessa"){.wikilink}
 
-[hitch:Ukraine](hitch:Ukraine "hitch:Ukraine"){.wikilink} [vegan:Ukraine](vegan:Ukraine "vegan:Ukraine"){.wikilink} [nomad:Ukraine](nomad:Ukraine "nomad:Ukraine"){.wikilink}
-
 [Category:Ukraine](Category:Ukraine "Category:Ukraine"){.wikilink}
-
-
-
 
 ---
 
-Source: [Ukraine](https://trashwiki.org/en/Ukraine)  
+Source: [Ukraine](https://trashwiki.org/en/Ukraine)
 License: CC-BY-NC-SA-4.0

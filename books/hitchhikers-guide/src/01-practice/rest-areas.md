@@ -97,12 +97,7 @@ In most states of the United States there are no petrol stations at rest areas. 
 </div>
 </div>
 
-[wikipedia:Rest_area](wikipedia:Rest_area "wikipedia:Rest_area"){.wikilink}
-
-
-
-
 ---
 
-Source: [Rest areas](https://hitchwiki.org/en/Rest_areas)  
+Source: [Rest areas](https://hitchwiki.org/en/Rest_areas)
 License: CC-BY-SA-4.0

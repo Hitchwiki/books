@@ -17,10 +17,7 @@ Feel free to add your own discoveries as well!
 
 [Category:General info](Category:General_info "Category:General info"){.wikilink}
 
-
-
-
 ---
 
-Source: [Urban foraging](https://trashwiki.org/en/Urban_foraging)  
+Source: [Urban foraging](https://trashwiki.org/en/Urban_foraging)
 License: CC-BY-NC-SA-4.0

@@ -1,50 +1,44 @@
 # Design
 
-Visual identity for this book, taken from Moneyless.org (and the sibling Drupal sites).
+Visual identity for this book is a generic handbook of living with less — warm clay paper, a garden harvest, serif type. It is **not** moneyless.org branding.
 
-## Sites
+moneyless.org is a **source** of chapters (see [README](README.md) and front matter), not the cover or chrome. The cyan MONEYLESS wordmark stays in `assets/logos/` unused.
+
+## Sites (content only)
 
 | Site | Role |
 | --- | --- |
-| [moneyless.org](https://moneyless.org/) | English |
-| [geldloos.nl](https://geldloos.nl/) | Dutch (same theme) |
-| [sindinero.net](https://sindinero.net/) | Spanish (same theme) |
+| [moneyless.org](https://moneyless.org/) | English chapters |
+
+Sister editions: [Geldloos](../geldloos/) (Dutch, geldloos.nl) and [Sin Dinero](../sin-dinero/) (Spanish, sindinero.net).
 
 ## Logo
 
-Header: **MONEY** + cyan **LESS** + `.org`, tagline “A rich life without money”. The O is a dollar-sign target.
-
-- Live: `https://moneyless.org/sites/moneyless.org/files/moneyless-logo-transparent_0_0.png`
-- Theme file: `/sites/all/themes/moneyless/images/moneyless-logo-blue.png` (cyan wordmark)
-- Local: `assets/logos/moneyless.png`
-
-Transparent PNG — sit it on black or the teal field so white type reads.
+None on the cover or catalog card. No cyan wordmark, no dollar-sign O, no black field cloned from the Drupal header.
 
 ## Colors
 
-From the moneyless Drupal theme (inline + aggregated CSS):
+Inspired by soil, copper, and a kitchen-garden haul — not sampled from the moneyless Drupal CSS (`#0ca6bb` cyan on `#181818`):
 
 | Token | Hex | Use |
 | --- | --- | --- |
-| Cyan | `#0ca6bb` | Brand, links |
-| Cyan bright | `#42d0e3` / `#3cccd8` | Logo “LESS”, hover |
-| Deep teal | `#076370` | Headings |
-| Ink | `#181818` | Text |
-| Paper | `#f7f7f5` | Page |
-| Gold | `#fceeaf` / `#F2F9B0` | Soft highlight |
-| Brown | `#8c2e0b` | Occasional |
-| Green | `#47c965` | UI flash |
-
-Not a generic red “no money” mark. The live site is teal/cyan on light (header logo on dark).
+| Paper | `#f7f1e6` | Page |
+| Ink | `#2a1c14` | Text |
+| Muted | `#7a5e4a` | Secondary |
+| Tomato copper | `#c4452d` | Links, cover bar |
+| Tobacco | `#5c3a1e` | Headings |
+| Cover field | `#3a2418` | Photo scrim |
+| Cover type | `#f7f1e6` | Title on the photo |
+| Rule | `#e4d4c0` | Lines |
 
 ## Type
 
-**IBM Plex Sans** / **IBM Plex Serif** — close to the site’s clean grotesque, readable in a book.
+**Source Serif 4** throughout so it reads as a book, not the site’s grotesque.
 
 ## Applied
 
-Black wash over a wheat field from the source site, cyan wordmark; body on light grey with teal links.
+Garden-harvest photograph, dark umber fade, cream title, copper bar. Catalog kicker is “On living with less, or none.”
 
 ## Cover photo
 
-Wheat field published on [moneyless.org](https://moneyless.org/en/free-pictures) (`beautiful-sky-wheat.jpg`). Same [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) as this book.
+[Basket of tomatoes and peppers](https://commons.wikimedia.org/wiki/File:Basket_of_tomatoes_and_peppers_(556d293c-c060-43ee-bc99-636b82fa3969).jpg) — National Park Service / Lincoln Home National Historic Site, public domain. The wheat field from moneyless.org stays in the *Free pictures* chapter only.

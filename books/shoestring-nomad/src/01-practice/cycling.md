@@ -16,7 +16,7 @@ Keep in mind that \'national roads\' (like the ones we have in [Europe](Europe "
 
 Before you leave for a long trip, it is good to know your bike, to know its limits, to know which tool sizes you need to fix it, and so on. Start to make some small trip, repair it yourself, have fun before the real adventure and troubles begins!
 
-Anyway, do not forget to leave with a reparation set and to have good breaks, the rest is only decoration ;). On the way you can find plenty of people ready to help you!
+Anyway, do not forget to leave with a reparation set and to have good breaks, the rest is only decoration;). On the way you can find plenty of people ready to help you!
 
 ## Reparation kit {#reparation_kit}
 
@@ -37,7 +37,7 @@ In 1886, [Thomas Stevens](http://en.wikipedia.org/wiki/Thomas_Stevens_%28cyclist
 
 You have to first define what type of travel you like! It is nice to make some small trips trying all sort of different combinations to know what is best for you. Once you know what you like, how many kilograms you can carry, your budget, the amount of kilometers per day, sleeping in a [tent](tent "tent"){.wikilink} or hostels, etc. then you can see what fits you best.
 
-With a **race bike** you will be very fast (\>15-20km/h) and can cover a lot of distance each day but you cannot carry a lot of weight because the wheels are too weak. You will need a trailer to have more stuff and cycling outside roads in good/average state is often annoying (flat tyres, wheel breaks, and so on). A **mountain bike** will allow you to do some crazy stuff on the dirt roads, but is much more tiring in the long run. **Electric bikes** are really cool as long as you find electricity to keep them charged :). **Recumbent bikes** are awesome energy-wise, as the go really fast using less energy, but they are more dangerous and not really done to cycle uphill. **Tandems** are a lot of fun, but require a bit of practice. If you take a tandem, make sure you take the second seat so that you don\'t have to pedal when the first one is not looking.
+With a **race bike** you will be very fast (\>15-20km/h) and can cover a lot of distance each day but you cannot carry a lot of weight because the wheels are too weak. You will need a trailer to have more stuff and cycling outside roads in good/average state is often annoying (flat tyres, wheel breaks, and so on). A **mountain bike** will allow you to do some crazy stuff on the dirt roads, but is much more tiring in the long run. **Electric bikes** are really cool as long as you find electricity to keep them charged:). **Recumbent bikes** are awesome energy-wise, as the go really fast using less energy, but they are more dangerous and not really done to cycle uphill. **Tandems** are a lot of fun, but require a bit of practice. If you take a tandem, make sure you take the second seat so that you don\'t have to pedal when the first one is not looking.
 
 ## Find your route {#find_your_route}
 
@@ -46,7 +46,7 @@ With a **race bike** you will be very fast (\>15-20km/h) and can cover a lot of 
 
 ## Find a bike when travelling {#find_a_bike_when_travelling}
 
-When you are travelling without a bike, sometimes you miss so much to ride on a bike, to feel the air flowing through your hair, to smell the breeze! Here are some ideas on how to find a cheap or free bike when travelling :
+When you are travelling without a bike, sometimes you miss so much to ride on a bike, to feel the air flowing through your hair, to smell the breeze! Here are some ideas on how to find a cheap or free bike when travelling:
 
 - Check those websites: [BikeSharing](http://www.bike-sharing.org/) [bikesurf.org](http://www.bikesurf.org/) [borrowmybike.org](http://www.borrowmybike.org/) [spinlister](https://www.spinlister.com/).
 - Find local discussion/forum page on [hospitality network](Hospitality_exchange "hospitality network"){.wikilink} for example, and ask if somebody can borrow a bike.
@@ -56,10 +56,7 @@ When you are travelling without a bike, sometimes you miss so much to ride on a 
 
 [Category:Transport](Category:Transport "Category:Transport"){.wikilink}
 
-
-
-
 ---
 
-Source: [Cycling](https://nomadwiki.org/en/Cycling)  
+Source: [Cycling](https://nomadwiki.org/en/Cycling)
 License: CC-BY-SA-4.0

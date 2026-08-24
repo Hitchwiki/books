@@ -16,17 +16,17 @@ Kosovo replaced its road traffic law in 2024, and the one to read is [Law No. 08
 
 ## Number plates {#number_plates}
 
-Nowadays, most of cars have new RKS number plates. They look like EU number plates, with \'RKS\' on the blue strip on the left side. They are followed by a single number which can tell you about city which the car is from. ![](Kosovo_license_plate_codes.svg "Kosovo_license_plate_codes.svg"){width="200"}
+Nowadays, most of cars have new RKS number plates. They look like EU number plates, with \'RKS\' on the blue strip on the left side. They are followed by a single number which can tell you about city which the car is from.![](Kosovo_license_plate_codes.svg "Kosovo_license_plate_codes.svg"){width="200"}
 
-  Code   Districts
+  Code Districts
   ------ -----------------------------------------------
-  01     [Prishtina](Prishtina "Prishtina"){.wikilink}
-  02     [Mitrovica](Mitrovica "Mitrovica"){.wikilink}
-  03     [Peja](Peja "Peja"){.wikilink}
-  04     [Prizren](Prizren "Prizren"){.wikilink}
-  05     [Ferizaj](Ferizaj "Ferizaj"){.wikilink}
-  06     [Gjilan](Gjilan "Gjilan"){.wikilink}
-  07     [Gjakova](Gjakova "Gjakova"){.wikilink}
+  01 [Prishtina](Prishtina "Prishtina"){.wikilink}
+  02 [Mitrovica](Mitrovica "Mitrovica"){.wikilink}
+  03 [Peja](Peja "Peja"){.wikilink}
+  04 [Prizren](Prizren "Prizren"){.wikilink}
+  05 [Ferizaj](Ferizaj "Ferizaj"){.wikilink}
+  06 [Gjilan](Gjilan "Gjilan"){.wikilink}
+  07 [Gjakova](Gjakova "Gjakova"){.wikilink}
 
 ## Border crossing {#border_crossing}
 
@@ -77,10 +77,7 @@ Albanian is the most commonly spoken language. Older people usually speak Serbia
 
 [Category:Europe](Category:Europe "Category:Europe"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Kosovo](https://hitchwiki.org/en/Kosovo)  
+Source: [Kosovo](https://hitchwiki.org/en/Kosovo)
 License: CC-BY-SA-4.0

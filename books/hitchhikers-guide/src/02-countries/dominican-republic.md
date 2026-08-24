@@ -20,10 +20,10 @@ If you don\'t say \"una bola\", many people will just try to find a public or pr
 
 ## How to hitchhike in DR {#how_to_hitchhike_in_dr}
 
-1.  . Stand by the side of the road.
-2.  . Lift up your arm if a car or moto arrives.
-3.  . If the driver stops, say \"una bola\" to him and your destination.
-4.  . If it\'s a motorcycle, only get on from the left side. On the right side, there is a hot exhaust pipe. Be careful. If you touch the exhaust pipe with your leg, you will get a Dominican tattoo, a lasting burn injury.
+1.. Stand by the side of the road.
+2.. Lift up your arm if a car or moto arrives.
+3.. If the driver stops, say \"una bola\" to him and your destination.
+4.. If it\'s a motorcycle, only get on from the left side. On the right side, there is a hot exhaust pipe. Be careful. If you touch the exhaust pipe with your leg, you will get a Dominican tattoo, a lasting burn injury.
 
 ## Alternative: Cheap and crowded \"guaguas\" {#alternative_cheap_and_crowded_guaguas}
 
@@ -41,8 +41,8 @@ Many people with empty space in the car will pick up hitchhikers. As a white per
 
 ## How to find the perfect hitchhiking spot {#how_to_find_the_perfect_hitchhiking_spot}
 
-1.  . Walk along the road until you find shadow.
-2.  . Look out for a bus station. Bus stations are commonly used hitching spots and waiting spots for people who try to move to a different place in DR. Bus stations are directly at the side of the road and often in the shadow of some palm trees or buildings. There are these kind of perfect spots all over the country. The buses who are passing by and shouting out their destination, tell you if you stand at the right road. And if you are unlucky hitchhiking, you can still take the next bus or public guagua.
+1.. Walk along the road until you find shadow.
+2.. Look out for a bus station. Bus stations are commonly used hitching spots and waiting spots for people who try to move to a different place in DR. Bus stations are directly at the side of the road and often in the shadow of some palm trees or buildings. There are these kind of perfect spots all over the country. The buses who are passing by and shouting out their destination, tell you if you stand at the right road. And if you are unlucky hitchhiking, you can still take the next bus or public guagua.
 
 In the middle of the day, its possible to wait longer, as less people are driving long distance when it\'s really hot, and as it\'s also not too comfortable waiting in the sun (at least in the hot season), morning or evening hitches are recommendable.
 
@@ -111,10 +111,7 @@ We hitchhiked a lot during our trip to the DR, mostly in the mountainous area in
 
 [Category:Island](Category:Island "Category:Island"){.wikilink} [Category:Caribbean](Category:Caribbean "Category:Caribbean"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Dominican Republic](https://hitchwiki.org/en/Dominican_Republic)  
+Source: [Dominican Republic](https://hitchwiki.org/en/Dominican_Republic)
 License: CC-BY-SA-4.0

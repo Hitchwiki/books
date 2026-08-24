@@ -12,13 +12,13 @@ Hospitality Club was founded by Veit Kühne in 2000[^2] with the help of friends
 
 ## Functioning
 
-Membership in the organization is free and is obtained simply by registering on the website. The core activity of the organization is exchange of accommodation. Acting as a host, a member offers the possibility of accommodation at his leisure. As a guest, a traveler may find possible hosts and contact them through the website. No money is involved --- guests and hosts do not pay each other. ![Entrance to the HC camp in [Monnai](Monnai "Monnai"){.wikilink}, [France](France "France"){.wikilink}. Banner reads: *hospitality throughout the world*](HC_monnai_2005_banner.jpg "Entrance to the HC camp in Monnai, France. Banner reads: hospitality throughout the world") The duration of the stay, whether food is provided for free, for a fee or not at all, and all other conditions are agreed on beforehand to the convenience of both parties.
+Membership in the organization is free and is obtained simply by registering on the website. The core activity of the organization is exchange of accommodation. Acting as a host, a member offers the possibility of accommodation at his leisure. As a guest, a traveler may find possible hosts and contact them through the website. No money is involved --- guests and hosts do not pay each other.![Entrance to the HC camp in [Monnai](Monnai "Monnai"){.wikilink}, [France](France "France"){.wikilink}. Banner reads: *hospitality throughout the world*](HC_monnai_2005_banner.jpg "Entrance to the HC camp in Monnai, France. Banner reads: hospitality throughout the world") The duration of the stay, whether food is provided for free, for a fee or not at all, and all other conditions are agreed on beforehand to the convenience of both parties.
 
 After meeting, the host and guest may comment about each other. This provides a means to establish [reputation](Online_reputation "reputation"){.wikilink} which is the main security measure. Users have to provide their real identity, which is screened by volunteers, and protected against changes.
 
 Apart from accommodation, members exchange other forms of hospitality, such as guiding visitors or providing travel-related advice. There are also [wiki](wiki "wiki"){.wikilink}-like *Travel Guide* sections and forums where members may seek partners for travels, hitchhiking etc.
 
-Volunteers within the club often arrange meetings or camps which are events that last several days that bring people together. ![User Growth, July 2000 - April 2006. Data since December 2004 sampled daily. Data prior to Dec 2004 based on approximations published by the Hospitality Club.](Hospitalityclub_Usercount_log_latest.png "User Growth, July 2000 - April 2006. Data since December 2004 sampled daily. Data prior to Dec 2004 based on approximations published by the Hospitality Club.")
+Volunteers within the club often arrange meetings or camps which are events that last several days that bring people together.![User Growth, July 2000 - April 2006. Data since December 2004 sampled daily. Data prior to Dec 2004 based on approximations published by the Hospitality Club.](Hospitalityclub_Usercount_log_latest.png "User Growth, July 2000 - April 2006. Data since December 2004 sampled daily. Data prior to Dec 2004 based on approximations published by the Hospitality Club.")
 
 ## Organization and policies {#organization_and_policies}
 
@@ -35,7 +35,7 @@ As a result of a disagreement between Veit Kühne and active Hospitality Club vo
 ## External links {#external_links}
 
 - [Hospitality Club website](http://www.hospitalityclub.org/)
-- [Hospitality exchange organisation grows to 100,000 members](n:Hospitality_exchange_organisation_grows_to_100,000_members "Hospitality exchange organisation grows to 100,000 members"){.wikilink} at Wikinews
+- at Wikinews
 
 ### References
 
@@ -65,10 +65,7 @@ As a result of a disagreement between Veit Kühne and active Hospitality Club vo
 
 [^11]:
 
-
-
-
 ---
 
-Source: [Hospitality Club](https://wiki.trustroots.org/en/Hospitality_Club)  
+Source: [Hospitality Club](https://wiki.trustroots.org/en/Hospitality_Club)
 License: CC-BY-SA-4.0

@@ -10,10 +10,7 @@
 
 [Category:Africa](Category:Africa "Category:Africa"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Equatorial Guinea](https://hitchwiki.org/en/Equatorial_Guinea)  
+Source: [Equatorial Guinea](https://hitchwiki.org/en/Equatorial_Guinea)
 License: CC-BY-SA-4.0

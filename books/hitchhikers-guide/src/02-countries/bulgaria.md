@@ -30,7 +30,7 @@ Bulgaria is probably the most corrupt country in the EU, and you are most likely
 
 ### [Turkey](Turkey "Turkey"){.wikilink}
 
-- When going towards Turkey , the most used border checkpoint is the [Kapitan Andreevo-Kapıkule border crossing](Kapitan_Andreevo-Kapıkule_border_crossing "Kapitan Andreevo-Kapıkule border crossing"){.wikilink}.
+- When going towards Turkey, the most used border checkpoint is the [Kapitan Andreevo-Kapıkule border crossing](Kapitan_Andreevo-Kapıkule_border_crossing "Kapitan Andreevo-Kapıkule border crossing"){.wikilink}.
 
 <!-- -->
 
@@ -41,7 +41,7 @@ Bulgaria is probably the most corrupt country in the EU, and you are most likely
 ### [Romania](Romania "Romania"){.wikilink}
 
 - [Ruse-Giurgiu border crossing](Ruse-Giurgiu_border_crossing "Ruse-Giurgiu border crossing"){.wikilink}, the main border crossing and the route used by trucks.
-- [Calafat-Vidin border crossing](Calafat-Vidin_border_crossing "Calafat-Vidin border crossing"){.wikilink}, a lesser-used border crossing .
+- [Calafat-Vidin border crossing](Calafat-Vidin_border_crossing "Calafat-Vidin border crossing"){.wikilink}, a lesser-used border crossing.
 - [Durankulak-Vama Veche](Durankulak-Vama_Veche_border_crossing "Durankulak-Vama Veche"){.wikilink}, along the Black Sea, the least-used border crossing where waiting times can be long.
 
 ### [Serbia](Serbia "Serbia"){.wikilink}
@@ -114,10 +114,7 @@ Pls add info
 
 [ ](Category:Bulgaria " "){.wikilink} [Category:Eastern Europe](Category:Eastern_Europe "Category:Eastern Europe"){.wikilink} [Category:East Route from North Cape to Cape of Good Hope](Category:East_Route_from_North_Cape_to_Cape_of_Good_Hope "Category:East Route from North Cape to Cape of Good Hope"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Bulgaria](https://hitchwiki.org/en/Bulgaria)  
+Source: [Bulgaria](https://hitchwiki.org/en/Bulgaria)
 License: CC-BY-SA-4.0

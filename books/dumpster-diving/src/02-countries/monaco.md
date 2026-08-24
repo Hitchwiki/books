@@ -8,12 +8,7 @@ You can find plenty of good sandwiches, bread, pastries, deserts at the bakery \
 
 There is a farmer\'s market at the \"place de la condamine\" every morning so there should be lots of waste every day after its closure.
 
-[hitch:Monaco](hitch:Monaco "hitch:Monaco"){.wikilink} [nomad:Monaco](nomad:Monaco "nomad:Monaco"){.wikilink}
-
-
-
-
 ---
 
-Source: [Monaco](https://trashwiki.org/en/Monaco)  
+Source: [Monaco](https://trashwiki.org/en/Monaco)
 License: CC-BY-NC-SA-4.0

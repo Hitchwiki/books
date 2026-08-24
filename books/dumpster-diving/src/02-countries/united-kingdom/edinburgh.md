@@ -58,12 +58,7 @@ See <http://climatecamp.org.uk> more info.
 
 - <https://wiki.thingsandstuff.org/Edinburgh> - listing for city info and resources
 
-[hitch:Edinburgh](hitch:Edinburgh "hitch:Edinburgh"){.wikilink} [nomad:Edinburgh](nomad:Edinburgh "nomad:Edinburgh"){.wikilink}
-
-
-
-
 ---
 
-Source: [Edinburgh](https://trashwiki.org/en/Edinburgh)  
+Source: [Edinburgh](https://trashwiki.org/en/Edinburgh)
 License: CC-BY-NC-SA-4.0

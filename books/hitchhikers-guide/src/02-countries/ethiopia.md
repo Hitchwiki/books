@@ -85,15 +85,12 @@ in October 2018, [TheLoneBaker](User:TheLoneBaker "TheLoneBaker"){.wikilink} hit
 
 ## Links
 
-- [My time in Ethiopia](:digi:article763.html "My time in Ethiopia"){.wikilink}, August 19, 2005 by Hologram
+- My time in Ethiopia, August 19, 2005 by Hologram
 - \[<http://en.wikivoyage.org/wiki/Ethiopia>*Ethiopia* at Wikivoyage\]
 
 [Category:Africa](Category:Africa "Category:Africa"){.wikilink} [Category:Eastern Africa](Category:Eastern_Africa "Category:Eastern Africa"){.wikilink} [Category:Ethiopia](Category:Ethiopia "Category:Ethiopia"){.wikilink} [Category:East Route from North Cape to Cape of Good Hope](Category:East_Route_from_North_Cape_to_Cape_of_Good_Hope "Category:East Route from North Cape to Cape of Good Hope"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Ethiopia](https://hitchwiki.org/en/Ethiopia)  
+Source: [Ethiopia](https://hitchwiki.org/en/Ethiopia)
 License: CC-BY-SA-4.0

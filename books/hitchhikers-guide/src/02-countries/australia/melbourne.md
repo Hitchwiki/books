@@ -53,10 +53,7 @@ Just make sure the station you want to get off at is a station you can travel to
 
 It is possible to find hidden bush places to wild camp in Studley Park, and along Merri Creek or Yarra River. Also there are many bush you can sleep in, and get covered from the wind on the beach on south of Melbourne. Be aware camping in these areas is probably not permitted by the council, but travelers and homeless do sometimes camp in those areas.
 
-
-
-
 ---
 
-Source: [Melbourne](https://hitchwiki.org/en/Melbourne)  
+Source: [Melbourne](https://hitchwiki.org/en/Melbourne)
 License: CC-BY-SA-4.0

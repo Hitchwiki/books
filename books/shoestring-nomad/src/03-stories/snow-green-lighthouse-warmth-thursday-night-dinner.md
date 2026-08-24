@@ -1,4 +1,4 @@
-# SNOW! , green lighthouse warmth, thursday night dinner
+# SNOW!, green lighthouse warmth, thursday night dinner
 
 First - as usual - thursday night casa dinner..we're not really sure if it's dying, but even if so, it would be good good good to see you all..
 Last night was the before-everyone-leaves-let's-get-together party at the green lighthouse. We brought tarte-aux-sucre (that had became scrambled in delivery but so so so good!) and chocolate mint cookies. Because we hadn't had enough sugar that day with a chocolate courgette cake, jams, and gallons of chai..uhhhh

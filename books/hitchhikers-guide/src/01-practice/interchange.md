@@ -18,10 +18,7 @@ Interchanges where this phenomenon might be in place are:
 
 [Category:General info](Category:General_info "Category:General info"){.wikilink}
 
-
-
-
 ---
 
-Source: [Interchange](https://hitchwiki.org/en/Interchange)  
+Source: [Interchange](https://hitchwiki.org/en/Interchange)
 License: CC-BY-SA-4.0

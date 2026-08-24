@@ -80,10 +80,7 @@ Free wireless and Apple demo computers with limited internet access at Apple Sto
 
 [Category:Spain](Category:Spain "Category:Spain"){.wikilink} [Category:E15](Category:E15 "Category:E15"){.wikilink} [Category:E9](Category:E9 "Category:E9"){.wikilink} [Category:E90](Category:E90 "Category:E90"){.wikilink} [Category:Cities](Category:Cities "Category:Cities"){.wikilink}
 
-
-
-
 ---
 
-Source: [Barcelona](https://hitchwiki.org/en/Barcelona)  
+Source: [Barcelona](https://hitchwiki.org/en/Barcelona)
 License: CC-BY-SA-4.0

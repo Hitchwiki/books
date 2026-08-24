@@ -100,14 +100,9 @@ www.travelersfortravelers.com
 
 www.tripping.com
 
-[hitch:Accommodation](hitch:Accommodation "hitch:Accommodation"){.wikilink}
-
 [Category:Accommodation](Category:Accommodation "Category:Accommodation"){.wikilink}
-
-
-
 
 ---
 
-Source: [Accommodation](https://nomadwiki.org/en/Accommodation)  
+Source: [Accommodation](https://nomadwiki.org/en/Accommodation)
 License: CC-BY-SA-4.0

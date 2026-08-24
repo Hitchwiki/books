@@ -9,16 +9,9 @@ Places:
 - [Riga](Riga "Riga"){.wikilink}
 - `<small>`{=html}add more?`</small>`{=html}
 
-[hitch:Latvia](hitch:Latvia "hitch:Latvia"){.wikilink}
-
-[nomad:Latvia](nomad:Latvia "nomad:Latvia"){.wikilink}
-
 [Category:Latvia](Category:Latvia "Category:Latvia"){.wikilink}
-
-
-
 
 ---
 
-Source: [Latvia](https://trashwiki.org/en/Latvia)  
+Source: [Latvia](https://trashwiki.org/en/Latvia)
 License: CC-BY-NC-SA-4.0

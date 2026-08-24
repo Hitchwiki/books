@@ -34,10 +34,7 @@ The best option is the \'pilgrim buses\' often free of charge. These buses that 
 
 [Category:China](Category:China "Category:China"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Tibet](https://hitchwiki.org/en/Tibet)  
+Source: [Tibet](https://hitchwiki.org/en/Tibet)
 License: CC-BY-SA-4.0

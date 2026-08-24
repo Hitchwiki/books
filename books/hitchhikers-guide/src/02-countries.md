@@ -6,4 +6,4 @@ Laws, habits, and roads change at borders. These country chapters are orientatio
 
 A few city chapters sit under the country they belong to, capital and main cities first. Named on-ramps and GPS pins stay on [maps.hitchwiki.org](https://maps.hitchwiki.org/). Use the live map when you are actually going.
 
-The order is geographic, not A–Z: Europe first, then Asia, Africa, the Americas, Oceania.
+The order is geographic, not A–Z: Europe first, then North America, the rest of the Americas, Asia, Africa, Oceania.

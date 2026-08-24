@@ -14,10 +14,7 @@
 
 [Category:Africa](Category:Africa "Category:Africa"){.wikilink} [Category:Lesotho](Category:Lesotho "Category:Lesotho"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Lesotho](https://hitchwiki.org/en/Lesotho)  
+Source: [Lesotho](https://hitchwiki.org/en/Lesotho)
 License: CC-BY-SA-4.0

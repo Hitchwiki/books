@@ -12,10 +12,7 @@
 
 [Category:General info](Category:General_info "Category:General info"){.wikilink}
 
-
-
-
 ---
 
-Source: [AVP Free Encyclopedia](https://hitchwiki.org/en/AVP_Free_Encyclopedia)  
+Source: [AVP Free Encyclopedia](https://hitchwiki.org/en/AVP_Free_Encyclopedia)
 License: CC-BY-SA-4.0

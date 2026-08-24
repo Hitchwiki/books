@@ -14,12 +14,7 @@ In 2011 the local government of Budapest made dumpster diving in the 8th distric
 
 Video \"Hunting Vegetables\": \<videoflash\>i_FHdGSgqs4\|250\|200\</videoflash\>
 
-[hitch:Budapest](hitch:Budapest "hitch:Budapest"){.wikilink} [vegan:Budapest](vegan:Budapest "vegan:Budapest"){.wikilink} [nomad:Budapest](nomad:Budapest "nomad:Budapest"){.wikilink}
-
-
-
-
 ---
 
-Source: [Budapest](https://trashwiki.org/en/Budapest)  
+Source: [Budapest](https://trashwiki.org/en/Budapest)
 License: CC-BY-NC-SA-4.0

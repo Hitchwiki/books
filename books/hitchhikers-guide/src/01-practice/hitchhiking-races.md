@@ -164,10 +164,7 @@ Hitchhiking races become popular thing among university students, especially in 
 
 [Category:General info](Category:General_info "Category:General info"){.wikilink} [Category:Contests](Category:Contests "Category:Contests"){.wikilink}
 
-
-
-
 ---
 
-Source: [Hitchhiking races](https://hitchwiki.org/en/Hitchhiking_races)  
+Source: [Hitchhiking races](https://hitchwiki.org/en/Hitchhiking_races)
 License: CC-BY-SA-4.0

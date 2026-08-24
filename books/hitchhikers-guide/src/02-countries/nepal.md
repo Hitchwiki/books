@@ -18,10 +18,7 @@ Pls add info
 
 [Category:Asia](Category:Asia "Category:Asia"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Nepal](https://hitchwiki.org/en/Nepal)  
+Source: [Nepal](https://hitchwiki.org/en/Nepal)
 License: CC-BY-SA-4.0

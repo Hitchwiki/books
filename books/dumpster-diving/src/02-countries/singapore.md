@@ -16,16 +16,11 @@ The majority of Singaporeans live in blocks of flats. There are centralised tras
 
 ## Freecycle
 
-The Singapore [Freecycle](Freecycle "Freecycle"){.wikilink} mailing list can be found [here](http://groups.yahoo.com/group/SgFreecycle). Yahoo Groups membership is required to view and post messages. [hitch:Singapore](hitch:Singapore "hitch:Singapore"){.wikilink}
-
-[vegan:Singapore](vegan:Singapore "vegan:Singapore"){.wikilink} [nomad:Singapore](nomad:Singapore "nomad:Singapore"){.wikilink}
+The Singapore [Freecycle](Freecycle "Freecycle"){.wikilink} mailing list can be found [here](http://groups.yahoo.com/group/SgFreecycle). Yahoo Groups membership is required to view and post messages.
 
 [Category:Singapore](Category:Singapore "Category:Singapore"){.wikilink} [Category:Asia](Category:Asia "Category:Asia"){.wikilink}
 
-
-
-
 ---
 
-Source: [Singapore](https://trashwiki.org/en/Singapore)  
+Source: [Singapore](https://trashwiki.org/en/Singapore)
 License: CC-BY-NC-SA-4.0

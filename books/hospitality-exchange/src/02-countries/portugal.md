@@ -194,8 +194,6 @@ Member of the European Union since 1986, Portugal enjoys a healthy economic grow
 
 ## Trivia
 
-[hitch:Portugal](hitch:Portugal "hitch:Portugal"){.wikilink}
-
 Following its heyday as a world power during the 15th and 16th centuries, Portugal lost much of its wealth and status with the destruction of Lisbon in a 1755 earthquake, occupation during the Napoleonic Wars, and the independence in 1822 of Brazil as a colony. A 1910 revolution deposed the monarchy; for most of the next six decades, repressive governments ran the country. In 1974, a left-wing military coup installed broad democratic reforms. The following year, Portugal granted independence to all of its African colonies. Portugal is a founding member of NATO and entered the EC (now the EU) in 1986.
 
 Portugal has become a diversified and increasingly service-based economy since joining the European Community in 1986. Over the past decade, successive governments have privatized many state-controlled firms and liberalized key areas of the economy, including the financial and telecommunications sectors. The country qualified for the European Monetary Union (EMU) in 1998 and began circulating the euro on 1 January 2002 along with 11 other EU member economies. Economic growth had been above the EU average for much of the past decade, but fell back in 2001-05. GDP per capita stands at two-thirds that of the Big Four EU economies. A poor educational system, in particular, has been an obstacle to greater productivity and growth. Portugal has been increasingly overshadowed by lower-cost producers in Central Europe and Asia as a target for foreign direct investment. The government faces tough choices in its attempts to boost Portugal\'s economic competitiveness while keeping the budget deficit within the eurozone\'s 3%-of-GDP ceiling.
@@ -210,14 +208,9 @@ Portugal does not recognize Spanish sovereignty over the territory of Olivenza b
 
 This data was collected on <https://www.cia.gov/cia/publications/factbook/geos/po.html>
 
-[trash:Portugal](trash:Portugal "trash:Portugal"){.wikilink} [nomad:Portugal](nomad:Portugal "nomad:Portugal"){.wikilink}
-
 [Category:Portugal](Category:Portugal "Category:Portugal"){.wikilink} [Category:Europe](Category:Europe "Category:Europe"){.wikilink}
-
-
-
 
 ---
 
-Source: [Portugal](https://wiki.trustroots.org/en/Portugal)  
+Source: [Portugal](https://wiki.trustroots.org/en/Portugal)
 License: CC-BY-SA-4.0

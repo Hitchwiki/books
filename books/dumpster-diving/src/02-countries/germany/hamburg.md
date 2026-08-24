@@ -12,14 +12,7 @@ Arrive around 10pm (Mondays and Thursdays) at *Rote Flora* squated social centre
 
 - Strictly speaking it\'s not really [dumpster diving](dumpster_diving "dumpster diving"){.wikilink} but if you\'re stuck around Altona district, the *Reformhaus Engelhardt* in \"Mercado\" shopping centre is offering bread and spread freebies for tasting. Along with the bar (find it under escalators on the opposite side) which provides free bar snacks when it\'s not too busy, free dates from a taster on the sweet stand, and a free Internet terminal, it makes \"Mercado\" well worth a visit! `<small>`{=html}*(Last checked: Jan.2010)*`</small>`{=html}
 
-[hitch:Hamburg](hitch:Hamburg "hitch:Hamburg"){.wikilink}
-
-[nomad:Hamburg](nomad:Hamburg "nomad:Hamburg"){.wikilink} [vegan:Hamburg](vegan:Hamburg "vegan:Hamburg"){.wikilink}
-
-
-
-
 ---
 
-Source: [Hamburg](https://trashwiki.org/en/Hamburg)  
+Source: [Hamburg](https://trashwiki.org/en/Hamburg)
 License: CC-BY-NC-SA-4.0

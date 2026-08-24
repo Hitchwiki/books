@@ -30,10 +30,7 @@ In 2021 [Quarim](User:Quarim "Quarim"){.wikilink} hitchhiked with his three year
 
 [Category:General info](Category:General_info "Category:General info"){.wikilink}
 
-
-
-
 ---
 
-Source: [Hitchhiking with children](https://hitchwiki.org/en/Hitchhiking_with_children)  
+Source: [Hitchhiking with children](https://hitchwiki.org/en/Hitchhiking_with_children)
 License: CC-BY-SA-4.0

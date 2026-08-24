@@ -22,12 +22,7 @@ A good site to find out about good routes is unfortunately only in Finnish, but 
 - [Truck drivers offering rides on FB group](https://www.facebook.com/groups/451156288330710/)
 - [Finterest.fi](http://finterest.fi/) - interactive map of Finland (e.g. free campings and fireplaces)
 
-[trash:Finland](trash:Finland "trash:Finland"){.wikilink} [couch:Finland](couch:Finland "couch:Finland"){.wikilink} [cash:Finland](cash:Finland "cash:Finland"){.wikilink}
-
-
-
-
 ---
 
-Source: [Finland](https://nomadwiki.org/en/Finland)  
+Source: [Finland](https://nomadwiki.org/en/Finland)
 License: CC-BY-SA-4.0

@@ -1,7 +1,7 @@
 # "SchonCasa" Project Berlin
 
 http://berlin.projectvolunteering.net/
-"We plan this ultimate dynamic-stable place to be self-sustained eventually. First we want to live there, but at the same time there will be space for travelers to sleep, but also and more excitingly to meet, share passions and activities! We hope to provide space for all peaceful, and independent initiative, a place where any traveler can feel at home. It seems that we found our place :
+"We plan this ultimate dynamic-stable place to be self-sustained eventually. First we want to live there, but at the same time there will be space for travelers to sleep, but also and more excitingly to meet, share passions and activities! We hope to provide space for all peaceful, and independent initiative, a place where any traveler can feel at home. It seems that we found our place:
 http://berlin.projectvolunteering.net/where
 Starting Febr. 1st 2009 we are living in Schönhauser Allee 146 in a 5 room 140sqm apartment.
 The building dates from 1914 so we have high ceilings and big rooms.

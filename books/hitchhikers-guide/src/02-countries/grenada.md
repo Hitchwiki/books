@@ -22,10 +22,7 @@ Every morning, there is a radio program on VHF for the yacht. If you find a radi
 
 [Category:Island](Category:Island "Category:Island"){.wikilink} [Category:Caribbean](Category:Caribbean "Category:Caribbean"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Grenada](https://hitchwiki.org/en/Grenada)  
+Source: [Grenada](https://hitchwiki.org/en/Grenada)
 License: CC-BY-SA-4.0

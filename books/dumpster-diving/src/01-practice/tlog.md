@@ -18,10 +18,7 @@ Some basic TLogs have been listed on the [Ten Katestraat](Ten_Katestraat "Ten Ka
 
 [Category:General info](Category:General_info "Category:General info"){.wikilink}
 
-
-
-
 ---
 
-Source: [TLog](https://trashwiki.org/en/TLog)  
+Source: [TLog](https://trashwiki.org/en/TLog)
 License: CC-BY-NC-SA-4.0

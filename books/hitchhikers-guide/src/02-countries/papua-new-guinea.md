@@ -63,10 +63,7 @@ This country does not compare to any other place on this planet. It stole a bit 
 
 [Category:Oceania](Category:Oceania "Category:Oceania"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Papua New Guinea](https://hitchwiki.org/en/Papua_New_Guinea)  
+Source: [Papua New Guinea](https://hitchwiki.org/en/Papua_New_Guinea)
 License: CC-BY-SA-4.0

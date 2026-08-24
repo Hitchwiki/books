@@ -19,16 +19,9 @@ In some cities every district has certain days few times a year when people can 
 
 2\) There are some people who come early in the morning and sit on each bunch of thrownaway thing, and - look how tricky it can get in Hungary! - they are *selling* them to you. It is not recommended to try to take anything from there without paying. It is also possible to get stuff for free from them if you can arrange it with them.
 
-[hitch:Hungary](hitch:Hungary "hitch:Hungary"){.wikilink}
-
-[nomad:Hungary](nomad:Hungary "nomad:Hungary"){.wikilink}
-
 [Category:Hungary](Category:Hungary "Category:Hungary"){.wikilink}
-
-
-
 
 ---
 
-Source: [Hungary](https://trashwiki.org/en/Hungary)  
+Source: [Hungary](https://trashwiki.org/en/Hungary)
 License: CC-BY-NC-SA-4.0

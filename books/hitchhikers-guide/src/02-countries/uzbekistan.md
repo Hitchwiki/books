@@ -26,7 +26,7 @@ I didn\'t experiance the border checks as very strickt. They all asked me to pla
 
 You need to register at UVViOG if you stay longer than 3 days. If you stay in a hostel or hotel they will do it for you. If you stay in a home, they can go to the police station and register you for one month at the cost of \$ 20. Otherwise it cost around 5 dollar pr night if you do it cheap. Officially you need your registration when you leave the country again. But reports from many travellers say that they didn\'t check. For a safy case get atleast one or two registrations. Apparently if you get caught without registration, the fine can be more than €700. If you want to play it safe, get one every day. A little less lafe, one every 3 days (one can misunderstand the 72 hour thing, understanding that you only have to register every 72 hours). And to play it messy and unstrucktured just get a few here and there.
 
-Edit by Hitch-hiker Nalddo : registration is automatic and free when you stay at any licensed hotel / guesthouse and consists of a small piece of paper with your name, passport number, dates of check-in and check-out and stamp of the hotel. Theoretically you may have to show a registration slip for every night spent in Uzbekistan when you leave the country (possibly) or at road checkpoints (unlikely). However it appears than the procedure is now fairly relax for foreigners on a tourist visa and registration slips are almost never checked (in 2011-2012).
+Edit by Hitch-hiker Nalddo: registration is automatic and free when you stay at any licensed hotel / guesthouse and consists of a small piece of paper with your name, passport number, dates of check-in and check-out and stamp of the hotel. Theoretically you may have to show a registration slip for every night spent in Uzbekistan when you leave the country (possibly) or at road checkpoints (unlikely). However it appears than the procedure is now fairly relax for foreigners on a tourist visa and registration slips are almost never checked (in 2011-2012).
 
 ## Danger
 
@@ -36,22 +36,22 @@ There can be landmines in the border regions to [Tajikistan](Tajikistan "Tajikis
 
 ![](Car_with_Uzebk_license_plate.jpg "Car_with_Uzebk_license_plate.jpg"){width="350"} The Uzbek number plate is white and begins with two numbers, which gives you a clue about the region the car is registered in.
 
-  Number   Province
+  Number Province
   -------- --------------------------------------------------------------------
-  01-09    [Tashkent](Tashkent "Tashkent"){.wikilink} (City Toshkent)
-  10-19    [Tashkent](Tashkent "Tashkent"){.wikilink} (Province Tashkent)
-  20-24    [Sirdaryo](Sirdaryo "Sirdaryo"){.wikilink}
-  25-29    [Jizzax](Jizzax "Jizzax"){.wikilink}
-  30-39    [Samarqand](Samarkand "Samarqand"){.wikilink}
-  40-49    [Fergana](Fergana "Fergana"){.wikilink}
-  50-59    [Provinz Namangan](Provinz_Namangan "Provinz Namangan"){.wikilink}
-  60-69    [Andijon](Andijon "Andijon"){.wikilink}
-  70-74    [Qarshi](Qarshi "Qarshi"){.wikilink}
-  75-79    [Termez](Termez "Termez"){.wikilink}
-  80-84    [Bukhara](Bukhara "Bukhara"){.wikilink}
-  85-89    [Navoiy](Navoiy "Navoiy"){.wikilink}
-  90-94    [Urgench](Urgench "Urgench"){.wikilink}
-  95-99    [Nukus](Nukus "Nukus"){.wikilink}
+  01-09 [Tashkent](Tashkent "Tashkent"){.wikilink} (City Toshkent)
+  10-19 [Tashkent](Tashkent "Tashkent"){.wikilink} (Province Tashkent)
+  20-24 [Sirdaryo](Sirdaryo "Sirdaryo"){.wikilink}
+  25-29 [Jizzax](Jizzax "Jizzax"){.wikilink}
+  30-39 [Samarqand](Samarkand "Samarqand"){.wikilink}
+  40-49 [Fergana](Fergana "Fergana"){.wikilink}
+  50-59 [Provinz Namangan](Provinz_Namangan "Provinz Namangan"){.wikilink}
+  60-69 [Andijon](Andijon "Andijon"){.wikilink}
+  70-74 [Qarshi](Qarshi "Qarshi"){.wikilink}
+  75-79 [Termez](Termez "Termez"){.wikilink}
+  80-84 [Bukhara](Bukhara "Bukhara"){.wikilink}
+  85-89 [Navoiy](Navoiy "Navoiy"){.wikilink}
+  90-94 [Urgench](Urgench "Urgench"){.wikilink}
+  95-99 [Nukus](Nukus "Nukus"){.wikilink}
 
 ## Border Crossing {#border_crossing_1}
 
@@ -89,10 +89,7 @@ Kharasho - good
 
 [Category:Central Asia](Category:Central_Asia "Category:Central Asia"){.wikilink} [Category:Asia](Category:Asia "Category:Asia"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Uzbekistan](https://hitchwiki.org/en/Uzbekistan)  
+Source: [Uzbekistan](https://hitchwiki.org/en/Uzbekistan)
 License: CC-BY-SA-4.0

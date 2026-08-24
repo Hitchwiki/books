@@ -18,10 +18,7 @@ Pls add info
 
 [Category:Brunei](Category:Brunei "Category:Brunei"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Brunei](https://hitchwiki.org/en/Brunei)  
+Source: [Brunei](https://hitchwiki.org/en/Brunei)
 License: CC-BY-SA-4.0

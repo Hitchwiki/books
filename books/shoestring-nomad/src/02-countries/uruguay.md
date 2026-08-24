@@ -28,12 +28,7 @@ More than half of Uruguay\'s population is concentrated in the capital of [Monte
 
 - Uruguay has a warm temperate [climate](https://en.wikipedia.org/wiki/Climate_of_Uruguay) with almost unknown freezing temperatures.
 
-[Hitch:Uruguay](Hitch:Uruguay "Hitch:Uruguay"){.wikilink} [Trash:Uruguay](Trash:Uruguay "Trash:Uruguay"){.wikilink} [trash:Uruguay](trash:Uruguay "trash:Uruguay"){.wikilink} [couch:Uruguay](couch:Uruguay "couch:Uruguay"){.wikilink}
-
-
-
-
 ---
 
-Source: [Uruguay](https://nomadwiki.org/en/Uruguay)  
+Source: [Uruguay](https://nomadwiki.org/en/Uruguay)
 License: CC-BY-SA-4.0

@@ -74,10 +74,7 @@ Check, double check and triple check the security situation in any area of the C
 
 [Category:Africa](Category:Africa "Category:Africa"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Democratic Republic of the Congo](https://hitchwiki.org/en/Democratic_Republic_of_the_Congo)  
+Source: [Democratic Republic of the Congo](https://hitchwiki.org/en/Democratic_Republic_of_the_Congo)
 License: CC-BY-SA-4.0

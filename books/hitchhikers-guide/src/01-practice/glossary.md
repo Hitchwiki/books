@@ -12,10 +12,7 @@ See also [Phrasebook](Phrasebook "Phrasebook"){.wikilink}
 
 [Category:General info](Category:General_info "Category:General info"){.wikilink}
 
-
-
-
 ---
 
-Source: [Glossary](https://hitchwiki.org/en/Glossary)  
+Source: [Glossary](https://hitchwiki.org/en/Glossary)
 License: CC-BY-SA-4.0

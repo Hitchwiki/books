@@ -25,6 +25,7 @@ from titles import (
     city_part,
     country_slug_for_city,
 )
+from wiki_links import strip_interwiki_markdown, strip_interwiki_wikitext
 
 FILE_RE = re.compile(r"\[\[\s*(?:File|Image|file|image)\s*:\s*([^|\]]+)", re.I)
 NS = {"mw": "http://www.mediawiki.org/xml/export-0.11/"}
@@ -213,6 +214,7 @@ def resolve_page(title: str, pages: dict[str, str]) -> tuple[str, str] | None:
 
 def wikitext_to_markdown(wikitext: str, *, strip_spots: bool = False) -> str:
     wikitext = strip_templates(wikitext)
+    wikitext = strip_interwiki_wikitext(wikitext)
     if strip_spots:
         wikitext = strip_spot_sections(wikitext)
     try:
@@ -225,7 +227,7 @@ def wikitext_to_markdown(wikitext: str, *, strip_spots: bool = False) -> str:
             check=False,
         )
         if proc.returncode == 0 and proc.stdout.strip():
-            return proc.stdout
+            return strip_interwiki_markdown(proc.stdout)
     except (FileNotFoundError, subprocess.TimeoutExpired):
         pass
     text = re.sub(r"\{\{[^}]+\}\}", "", wikitext)
@@ -233,7 +235,7 @@ def wikitext_to_markdown(wikitext: str, *, strip_spots: bool = False) -> str:
     text = re.sub(r"\[\[([^\]]+)\]\]", r"\1", text)
     text = re.sub(r"'''(.+?)'''", r"**\1**", text)
     text = re.sub(r"''(.+?)''", r"*\1*", text)
-    return text
+    return strip_interwiki_markdown(text)
 
 
 def collect_titles(wiki: str, cfg: dict) -> tuple[list[str], list[str]]:
@@ -339,6 +341,20 @@ def fetch_page_images(
     return "\n".join(md_extra)
 
 
+def chapter_dest(book: Path, part: str, slug: str) -> Path:
+    """Keep an editorial move: if this slug already lives in another part, write there."""
+    default = book / "src" / part / f"{slug}.md"
+    if default.exists():
+        return default
+    src = book / "src"
+    if not src.exists():
+        return default
+    matches = [p for p in src.rglob(f"{slug}.md") if p.is_file()]
+    if len(matches) == 1:
+        return matches[0]
+    return default
+
+
 def write_chapter(
     book: Path,
     part: str,
@@ -351,7 +367,7 @@ def write_chapter(
     strip_spots: bool = False,
     notice: str = "",
 ) -> str:
-    dest = book / "src" / part / f"{slugify(title)}.md"
+    dest = chapter_dest(book, part, slugify(title))
     md = wikitext_to_markdown(body, strip_spots=strip_spots)
     if strip_spots and len(re.sub(r"\s+", " ", md).strip()) < 280:
         md = (
@@ -445,7 +461,7 @@ def fetch_wiki(
                     f"(hitchhiking, dumpster diving, or hospitality exchange). "
                     f"See the live wiki: {cfg['origin']}{title.replace(' ', '_')}\n"
                 )
-            dest = book / "src" / part / f"{slug}.md"
+            dest = chapter_dest(book, part, slug)
             extra_md = (
                 ""
                 if skip_images

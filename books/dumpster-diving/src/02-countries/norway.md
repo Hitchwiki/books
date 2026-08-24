@@ -1,6 +1,6 @@
 # Norway
 
-**Norway** is an affluent country in Scandinavia. The dumpsters are full, especially of fresh fruits and veggies (mostly exotic like mangos avocados and bananas, tonnes of them but also of any other, from tomatoes to strawberries, blueberries, anything your appetite and taste may want) .
+**Norway** is an affluent country in Scandinavia. The dumpsters are full, especially of fresh fruits and veggies (mostly exotic like mangos avocados and bananas, tonnes of them but also of any other, from tomatoes to strawberries, blueberries, anything your appetite and taste may want).
 
 [Dumpster diving](Dumpster_diving "Dumpster diving"){.wikilink} isn\'t commonly known in Norway. The winters in Norway can be really cold (which means a good \"fridge\" for dumpstered food). Check [Wintertime diving](Wintertime_diving "Wintertime diving"){.wikilink} for tips on how to dive in the winter/cold.
 
@@ -20,19 +20,13 @@ Same as in the rest of Scandinavia you can collect plastic bottles and cans, tak
 
 - [frigan.no](http://www.frigan.no) has info on freeganism in Norway, and a [forum](http://forum.frigan.no) for freegans.
 
-[hitch:Norway](hitch:Norway "hitch:Norway"){.wikilink}
-
-[nomad:Norway](nomad:Norway "nomad:Norway"){.wikilink}
-
 [Category:Norway](Category:Norway "Category:Norway"){.wikilink}
-
 
 ![Trashbooze.jpg](../../images/trashboozejpg.jpg)
 
 *Trashbooze.jpg — Astikain*
 
-
 ---
 
-Source: [Norway](https://trashwiki.org/en/Norway)  
+Source: [Norway](https://trashwiki.org/en/Norway)
 License: CC-BY-NC-SA-4.0

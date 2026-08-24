@@ -16,13 +16,11 @@
 
 [Category:Camping](Category:Camping "Category:Camping"){.wikilink} [Category:Gear](Category:Gear "Category:Gear"){.wikilink} [Category:Accommodation](Category:Accommodation "Category:Accommodation"){.wikilink}
 
-
 ![Tents1.jpg](../../images/tents1jpg.jpg)
 
 *Tents1.jpg — Sujay Kulkarni (Public domain)*
 
-
 ---
 
-Source: [Camping gear](https://nomadwiki.org/en/Camping_gear)  
+Source: [Camping gear](https://nomadwiki.org/en/Camping_gear)
 License: CC-BY-SA-4.0

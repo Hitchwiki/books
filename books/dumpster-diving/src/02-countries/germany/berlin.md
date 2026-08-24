@@ -34,18 +34,18 @@ It\'s a little market but the sellers are really kind if asked nicely. Every Thu
 
 x=not possible red=hard yellow=manageable green=easy
 
-  label   store        protection                    quantity   day of clearance   opening hours   annotation
+  label store protection quantity day of clearance opening hours annotation
   ------- ------------ ----------------------------- ---------- ------------------ --------------- ---------------------------------------------------------------------------------
-  A       DM           cage                                                                        
-  B       Viverte      cage + chain                                                                
-  C       Aldi         cage                                                                        
-  D       Allnatura    cage                          1          Tu                                 if you walk on the grassland, the light won\'t turn on
-  E       BioCompany   free                          4          Th                                 
-  F       Netto        chain                         1                                             if you come from the back an climb under the handrail, the light won\'t turn on
-  G       Edeka        free                          2          Tu                                 
-  H       Nahkauf      chain                         1          Tu                                 
-  I       NP           three-square hollow scraper                                                 
-  J       Nahkauf      cage                                                                        
+  A DM cage
+  B Viverte cage + chain
+  C Aldi cage
+  D Allnatura cage 1 Tu if you walk on the grassland, the light won\'t turn on
+  E BioCompany free 4 Th
+  F Netto chain 1 if you come from the back an climb under the handrail, the light won\'t turn on
+  G Edeka free 2 Tu
+  H Nahkauf chain 1 Tu
+  I NP three-square hollow scraper
+  J Nahkauf cage
 
 ### Supermarkets
 
@@ -73,7 +73,7 @@ Some good spots are:
 
 <!-- -->
 
-- Edeka - Kottbusser Damm 80. Don\'t confuse it with the Edeka Bio Markt on the down the road! Really easy access to their bins. Go to the customer parking in the back yard. There is a fence around the dumpsters, door was locked, but on the left side, behind some bushes the fence is much lower and easy to hop over. This is a great source for food, so leave it as you found it so that they don\'t put a bigger fence ! `<small>`{=html}(Last checked: May 2017)`</small>`{=html}
+- Edeka - Kottbusser Damm 80. Don\'t confuse it with the Edeka Bio Markt on the down the road! Really easy access to their bins. Go to the customer parking in the back yard. There is a fence around the dumpsters, door was locked, but on the left side, behind some bushes the fence is much lower and easy to hop over. This is a great source for food, so leave it as you found it so that they don\'t put a bigger fence! `<small>`{=html}(Last checked: May 2017)`</small>`{=html}
 
 <!-- -->
 
@@ -85,7 +85,7 @@ Some good spots are:
 
 <!-- -->
 
-- Netto - Most Netto\'s that aren\'t inside a shopping mall have a easy accesible green dumsper and often your also lucky that the grey one ins\'t closed of with a triangle key !?! In general there\'s a big light above it that flashes on when you move under it, so no flashlight is mostly no problem. Just check google.maps for your closest netto ;) `<small>`{=html}(Last checked: March 2011)`</small>`{=html}
+- Netto - Most Netto\'s that aren\'t inside a shopping mall have a easy accesible green dumsper and often your also lucky that the grey one ins\'t closed of with a triangle key!?! In general there\'s a big light above it that flashes on when you move under it, so no flashlight is mostly no problem. Just check google.maps for your closest netto;) `<small>`{=html}(Last checked: March 2011)`</small>`{=html}
 
 <!-- -->
 
@@ -97,7 +97,7 @@ Note: be careful of the red loading gate by the office, located by the crates an
 
 <!-- -->
 
-- NORMA Skalitzer Straße 141, Kreuzberg. The bins are on the Reichenbergerstrasse side. Sometimes a bit messy, the employees don\'t like dumpsterdivers very much, go when it\'s closed. :)
+- NORMA Skalitzer Straße 141, Kreuzberg. The bins are on the Reichenbergerstrasse side. Sometimes a bit messy, the employees don\'t like dumpsterdivers very much, go when it\'s closed.:)
 
 <!-- -->
 
@@ -135,7 +135,7 @@ Occasionaly, some successful freegans able to fix regular appointments for picki
 
 ## Non-food Items {#non_food_items}
 
-Berlin trash sorting is very special. Lately a large part of the apartment buildings in Berlin have gotten special bins for people to put useful things. These are called [Orange Box](http://2.bp.blogspot.com/__nV910p9qFY/TDcZmJOQpFI/AAAAAAAAAD4/atHJ2gCbnnA/s1600/bsr+orange+box.jpg)es, and they are orange colored. It\'s like having free shops everywhere! :) The kinds of stuff that can go in this bin range from [clothes](clothes "clothes"){.wikilink}, [electronics](electronics "electronics"){.wikilink}, [furniture](furniture "furniture"){.wikilink} and other household things. Basically anything useful that people throw away tends to be in those bins. The most awesome kinds of stuff has been found there, including functionable laptops, typewriters, tennis rackets, sheepskins, printers, different clothes and shoes, paints. These bins get emptied every two weeks so check your local area to get an idea of the best days to go. Also some areas are likely to have more orange bins than others, depending on how rich they are. So far, Pankow, Prenzlauer Berg and Friedrichshain seem to have pretty good quality stuff. The area between Ubahn Osloer Strasse and Ubahn Gesundbrunnen is quite poor and not really worth dumpstering. It\'s sort of a good thing cause people don\'t waste so much around there. The best times to go diving for this kinds of stuff is between working hours/days cause that is when less people are around/at home seeing you. Best streets are the ones not on main roads because there are less people walking by.
+Berlin trash sorting is very special. Lately a large part of the apartment buildings in Berlin have gotten special bins for people to put useful things. These are called [Orange Box](http://2.bp.blogspot.com/__nV910p9qFY/TDcZmJOQpFI/AAAAAAAAAD4/atHJ2gCbnnA/s1600/bsr+orange+box.jpg)es, and they are orange colored. It\'s like having free shops everywhere!:) The kinds of stuff that can go in this bin range from [clothes](clothes "clothes"){.wikilink}, [electronics](electronics "electronics"){.wikilink}, [furniture](furniture "furniture"){.wikilink} and other household things. Basically anything useful that people throw away tends to be in those bins. The most awesome kinds of stuff has been found there, including functionable laptops, typewriters, tennis rackets, sheepskins, printers, different clothes and shoes, paints. These bins get emptied every two weeks so check your local area to get an idea of the best days to go. Also some areas are likely to have more orange bins than others, depending on how rich they are. So far, Pankow, Prenzlauer Berg and Friedrichshain seem to have pretty good quality stuff. The area between Ubahn Osloer Strasse and Ubahn Gesundbrunnen is quite poor and not really worth dumpstering. It\'s sort of a good thing cause people don\'t waste so much around there. The best times to go diving for this kinds of stuff is between working hours/days cause that is when less people are around/at home seeing you. Best streets are the ones not on main roads because there are less people walking by.
 
 To access these bins, you have to either get into courtyards or to get into bin cages. There are several ways to do that. Obviously, the best is when the doors are unlocked and you can just go in. But if they are not, you can do the following:
 
@@ -143,7 +143,7 @@ Jump inside the cage if possible.
 
 Cages that have a handle on the inside: If they are really locked with a key that turns all the way then it\'s unlikely you can open it by these methods. But if the lock is one that just needs the handle to be pressed down, put your hand or some fingers through the bars and press the handle from the inside. Sometimes this handle is one that you can turn instead of pressing. If it\'s too hard to do that, and you have a pen knife with you or some metal object like a spoon handle, you can use that by putting it in between the door and the cage at the place where the lock is, and push the lock (to make the same effect that happens when the handle is pressed). Sometimes that is easier because the inside handle is out of reach.
 
-Courtyards: A courtyard might have several building doors that it can be accessed from. So if one is hard to open or in a main street where lots of people pass you might want to try the others. For example on a corner of a building, there are two entrances usually on the different intersecting streets. (IMPORTANT: Once inside the building, you usually have to get out of it to get to the courtyard. There will be another door, the one leading to the courtyard. Sometimes this door will open from inside the building but the handle on the other side will not open it. For this you should put something to keep the door from closing whilst you are dumpstering or you might get locked inside the courtyard. One time this happened and there was a particularly nasty old lady who told diver [Smaua](User:Smaua "Smaua"){.wikilink} to get out the same way she came in. ALWAYS check that you can get back out easily. :) These doors can be also carded sometimes but not always so it\'s easier to not let them close!
+Courtyards: A courtyard might have several building doors that it can be accessed from. So if one is hard to open or in a main street where lots of people pass you might want to try the others. For example on a corner of a building, there are two entrances usually on the different intersecting streets. (IMPORTANT: Once inside the building, you usually have to get out of it to get to the courtyard. There will be another door, the one leading to the courtyard. Sometimes this door will open from inside the building but the handle on the other side will not open it. For this you should put something to keep the door from closing whilst you are dumpstering or you might get locked inside the courtyard. One time this happened and there was a particularly nasty old lady who told diver [Smaua](User:Smaua "Smaua"){.wikilink} to get out the same way she came in. ALWAYS check that you can get back out easily.:) These doors can be also carded sometimes but not always so it\'s easier to not let them close!
 
 Carding: To get into courtyards, you can card most building doors, go through the building and reach the courtyard. Especially the old Berlin buildings with big heavy wooden doors. But new doors work too, and gates also. The doors are not locked by turning the key all the way but just by the handle release, just like the bin cages. To easily open them, you need something like a plastic card. Bendy but not too bendy. The longer the better cause it has to go in quite a bit. Old folders can be used to make a nice shape. Also tupperware lids. The material has to be thin enough to get in between the door and the lock. The shape of the material should be rounded off at one side so that it\'s easy to turn and slide around. Something shaped like [this](http://3.bp.blogspot.com/-MM-hwKAS-RA/TuoVBKD7y7I/AAAAAAAABEo/NYUY9D_E6eQ/s1600/IMG_0001.jpg) black piece of material works well. Feel free to experiment and edit this info.
 
@@ -178,14 +178,7 @@ There\'s a wide collection of websites for offering free stuff:
 - Check also the global [DumpsterMap.org](http://www.dumpstermap.org)
 - And [FallingFruit.org/Dumpsters](http://www.fallingfruit.org/?z=11&y=52.48612&x=13.42445&m=true&t=toner-lite&l=false&locale=en&f=853,1628,852,837,845,1385,839,2,843,735,533,838,836,2705,846,660,562,1439,1485,2709,2710,1479,2712,821,2085,2702,2703,2704,2715,2716,2718,2720,2721,2722,2739,2755,2757,2758,2759,2760,2761,2770,2771,2779,2780,2781,2782,2783,2784,2785,2786,2787,2788,2789,2791,2792,2793,2794,2795,2796,2797,2798,2799,2800,2801,2802,2803,2804,2805,2806,2807,2808,2809,2810,2812,2813,2814,2815,2816,2829,2830,2948,2949,2950,2951,2952,2953,2954,2955,2956,2957,2958,2959,2960,2961,2962,2963,2964,2965,2967,2968,2969,2970,2971,2972,2973,2974,2975,2988,2989,2990,2998,2999,3000,3001&c=forager,freegan)
 
-[hitch:Berlin](hitch:Berlin "hitch:Berlin"){.wikilink}
-
-[vegan:Berlin](vegan:Berlin "vegan:Berlin"){.wikilink} [nomad:Berlin](nomad:Berlin "nomad:Berlin"){.wikilink}
-
-
-
-
 ---
 
-Source: [Berlin](https://trashwiki.org/en/Berlin)  
+Source: [Berlin](https://trashwiki.org/en/Berlin)
 License: CC-BY-NC-SA-4.0

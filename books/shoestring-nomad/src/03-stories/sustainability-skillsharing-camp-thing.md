@@ -1,7 +1,7 @@
 # Sustainability skillsharing camp thing
 
 Howdy folks!
-Just got this in the mail, and thought maybe some here would be interested :)
+Just got this in the mail, and thought maybe some here would be interested:)
 --------------------------
 Dear everybody,
 in the name of the whole organisation team, I want to invite you all to the great upcoming event of Skill Sharing Camp in the Traumschule from 31st of March till 10th of April. You will find the official flyer in the attachment (please do send it to everybody who could be interested, as we wish to have an international camp).

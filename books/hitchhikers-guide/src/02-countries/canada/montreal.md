@@ -19,10 +19,7 @@ Overton Corners (US), 6 km south of the village of Lacolle, is a small crossing 
 
 Other alternatives include Rouses Point, N.Y. and a crossing that links Hemmingford, Quebec and Mooers, N.Y. Both are a bit off the beaten path, but you can get a lift on US-11 back to I-87 pretty easily and you\'re well on your way. All of these places can easily be found on a map.
 
-
-
-
 ---
 
-Source: [Montreal](https://hitchwiki.org/en/Montreal)  
+Source: [Montreal](https://hitchwiki.org/en/Montreal)
 License: CC-BY-SA-4.0

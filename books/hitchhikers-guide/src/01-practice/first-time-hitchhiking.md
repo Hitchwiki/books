@@ -22,10 +22,10 @@ You want to try hitchhiking but never find the courage to do so? Here is an atte
 
 ### [Mental preparation](Mental_health "Mental preparation"){.wikilink} {#mental_preparation}
 
-1.  Have you ever hitchhiked at all? What experience do you have that resembles hitchhiking most?
-2.  If not, what prevented you from not doing it?
-3.  What makes you want to hitchhike?
-4.  How do you imagine you first hitchhiking day? What distance would it be? Between where and where? Where would you try to start from? Who would pick you up? Let your imagination run!
+1. Have you ever hitchhiked at all? What experience do you have that resembles hitchhiking most?
+2. If not, what prevented you from not doing it?
+3. What makes you want to hitchhike?
+4. How do you imagine you first hitchhiking day? What distance would it be? Between where and where? Where would you try to start from? Who would pick you up? Let your imagination run!
 
 ## Join (more or less) organized events {#join_more_or_less_organized_events}
 
@@ -47,10 +47,7 @@ It can be a good idea to participate in [charity hitchhiking events](hitchhiking
 
 [Category:General info](Category:General_info "Category:General info"){.wikilink}
 
-
-
-
 ---
 
-Source: [First time hitchhiking](https://hitchwiki.org/en/First_time_hitchhiking)  
+Source: [First time hitchhiking](https://hitchwiki.org/en/First_time_hitchhiking)
 License: CC-BY-SA-4.0

@@ -153,10 +153,7 @@ Etc <https://www.tsunagujapan.com/o-gui-eating-challenges-in-tokyo/>
 
 [Category:Cities](Category:Cities "Category:Cities"){.wikilink} [Category:Japan](Category:Japan "Category:Japan"){.wikilink}
 
-
-
-
 ---
 
-Source: [Tokyo](https://hitchwiki.org/en/Tokyo)  
+Source: [Tokyo](https://hitchwiki.org/en/Tokyo)
 License: CC-BY-SA-4.0

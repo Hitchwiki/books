@@ -278,10 +278,7 @@ in 2024 i started off in Cobija, where i camped the night next to a military bas
 
 [Category:South America](Category:South_America "Category:South America"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Bolivia](https://hitchwiki.org/en/Bolivia)  
+Source: [Bolivia](https://hitchwiki.org/en/Bolivia)
 License: CC-BY-SA-4.0

@@ -59,10 +59,7 @@ Understanding basics of russian is a plus. Most of people will understand \"ав
 
 [Category:Asia](Category:Asia "Category:Asia"){.wikilink} [Category:Central Asia](Category:Central_Asia "Category:Central Asia"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Turkmenistan](https://hitchwiki.org/en/Turkmenistan)  
+Source: [Turkmenistan](https://hitchwiki.org/en/Turkmenistan)
 License: CC-BY-SA-4.0

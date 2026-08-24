@@ -36,10 +36,7 @@ Intentional communities come in myriad different shapes, sizes, and scenarios. F
 
 [Category:Accommodation](Category:Accommodation "Category:Accommodation"){.wikilink}
 
-
-
-
 ---
 
-Source: [Intentional communities](https://nomadwiki.org/en/Intentional_communities)  
+Source: [Intentional communities](https://nomadwiki.org/en/Intentional_communities)
 License: CC-BY-SA-4.0

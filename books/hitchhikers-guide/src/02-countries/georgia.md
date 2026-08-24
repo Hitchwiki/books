@@ -6,7 +6,7 @@
 
 ## Hitchhiking
 
-![ Hitchhiking in Georgia.](Georgia.jpeg " Hitchhiking in Georgia."){width="250"} ![](RSHitchhiking.jpg "RSHitchhiking.jpg"){width="270"}
+![ Hitchhiking in Georgia.](Georgia.jpeg " Hitchhiking in Georgia."){width="250"}![](RSHitchhiking.jpg "RSHitchhiking.jpg"){width="270"}
 
 Hitching in Georgia is easy most of the time! Short waits and very friendly people. Road conditions in some places are quite bad so it can take some time but in most of cases there are renovated roads. Spots are very easy to find, just head in the right direction and you will find a suitable place to stand. Sometimes if luck isn\'t on your side though and you may have to wait for a while and the only cars who will stop for you are *marshrutkas* (microbuses) which expect payment. But remain patient! Eventually someone will stop for you.
 
@@ -65,17 +65,14 @@ hitchhiked here for 10 days in July 2018.  Entered from Turkey and camped at Ba
 
 <div class="hw-exp-text">
 
-Georgia is one the easiest place to hitch a ride just got to be ready for some crazy driving and no working seatbelt , do like the local and pray each time you pass a church who knows maybe that why I made it, Hitch almost the whole country with friend Cocoline , on the way to Mestia not on the highway, many ride never wait more than 10 min, got a police escort of 4 different car from department to department, last officer stopped a car for us, that driver don\'t know where he wanted to go but sure wanted to get there fast , was doing 100-120km/h in 30 km/h zone in the mountains breaking last second before turns , ofcours no seat belt was keeping my teeth clench just in case , but eh made alive , the Cigi was real good when we got off .
+Georgia is one the easiest place to hitch a ride just got to be ready for some crazy driving and no working seatbelt, do like the local and pray each time you pass a church who knows maybe that why I made it, Hitch almost the whole country with friend Cocoline, on the way to Mestia not on the highway, many ride never wait more than 10 min, got a police escort of 4 different car from department to department, last officer stopped a car for us, that driver don\'t know where he wanted to go but sure wanted to get there fast, was doing 100-120km/h in 30 km/h zone in the mountains breaking last second before turns, ofcours no seat belt was keeping my teeth clench just in case, but eh made alive, the Cigi was real good when we got off.
 
 </div>
 </div>
 
 [Category:Middle East](Category:Middle_East "Category:Middle East"){.wikilink} [\*](Category:Georgia "*"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Georgia](https://hitchwiki.org/en/Georgia)  
+Source: [Georgia](https://hitchwiki.org/en/Georgia)
 License: CC-BY-SA-4.0

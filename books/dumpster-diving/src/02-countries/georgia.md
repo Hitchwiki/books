@@ -10,16 +10,11 @@ Eventhough it is not real easy to find thrash, the best address is probably the 
 
 In big cities containers are not bad and people care less about it, once again: mind the police, they are not used to westerners behaviours (cloth, bagpack, hair cut,\...). Trainstations/restaurants are usually good spots.
 
-[hitch:Georgia (country)](hitch:Georgia_(country) "hitch:Georgia (country)"){.wikilink}
-
-[hitch:Georgia](hitch:Georgia "hitch:Georgia"){.wikilink} [nomad:Georgia](nomad:Georgia "nomad:Georgia"){.wikilink}
+ "hitch:Georgia (country)"){.wikilink}
 
 [Category:Georgia](Category:Georgia "Category:Georgia"){.wikilink}
 
-
-
-
 ---
 
-Source: [Georgia](https://trashwiki.org/en/Georgia)  
+Source: [Georgia](https://trashwiki.org/en/Georgia)
 License: CC-BY-NC-SA-4.0

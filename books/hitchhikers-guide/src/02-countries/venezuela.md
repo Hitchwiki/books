@@ -103,10 +103,7 @@ Image:Changing hitched trucks in Venezuela.jpg\|Hitchhiker [Augustas](Katja_and_
 
 [Category:Venezuela](Category:Venezuela "Category:Venezuela"){.wikilink} [Category:South America](Category:South_America "Category:South America"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Venezuela](https://hitchwiki.org/en/Venezuela)  
+Source: [Venezuela](https://hitchwiki.org/en/Venezuela)
 License: CC-BY-SA-4.0

@@ -9,14 +9,7 @@
 - [Fez](Fez "Fez"){.wikilink}
 - `<small>`{=html}add more!`</small>`{=html}
 
-[hitch:Morocco](hitch:Morocco "hitch:Morocco"){.wikilink}
-
-[nomad:Morocco](nomad:Morocco "nomad:Morocco"){.wikilink} [vegan:Morocco](vegan:Morocco "vegan:Morocco"){.wikilink}
-
-
-
-
 ---
 
-Source: [Morocco](https://trashwiki.org/en/Morocco)  
+Source: [Morocco](https://trashwiki.org/en/Morocco)
 License: CC-BY-NC-SA-4.0

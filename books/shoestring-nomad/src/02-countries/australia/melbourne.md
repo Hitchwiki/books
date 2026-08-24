@@ -15,12 +15,7 @@ Melbourne has a lot of underground and rooftops bars that you will not find with
 - **[Penguin Island](http://www.penguins.org.au).** If you are ready to give a bit of money away, you can see several hundreds of penguins coming out in a few minutes of the sea at nightfall on Phillip Island. Costs probably more than AUS\$20.
 - **The [Great Ocean Road](Great_Ocean_Road "Great Ocean Road"){.wikilink}** offers spectacular views of the seaside that you unfortunately will have to share with the thousands of tourists that come there every year.
 
-[trash:Melbourne](trash:Melbourne "trash:Melbourne"){.wikilink} [couch:Melbourne](couch:Melbourne "couch:Melbourne"){.wikilink}
-
-
-
-
 ---
 
-Source: [Melbourne](https://nomadwiki.org/en/Melbourne)  
+Source: [Melbourne](https://nomadwiki.org/en/Melbourne)
 License: CC-BY-SA-4.0

@@ -12,7 +12,7 @@ To limit the amount of clothes you take with you; use layers. In the morning you
 
 Obviously there is a difference between hitching in [Spain](Spain "Spain"){.wikilink} in the summer and in [Scandinavia](Scandinavia "Scandinavia"){.wikilink} during wintertime. Nevertheless, it is often smart to buy some good outdoor stuff. It is light and dries very fast. There is nothing worse than wet jeans or cotton-shirt if it\'s below 10 °C. Plus, you can wash it and it dries fast. Outdoor wear differs a lot in the degree it adopts smelliness. You can wear some for days without smelling, others stink after two hours hiking.
 
-Hitchhiking is an outdoor sport and it pays off to wear good shoes. They might not be best for dancing when you reach your destination, but it is important while walking along the road. At times you might need to cross rocky areas, puddles, mud, snow etc. Sometimes you have to be quick and step off the road due to big trucks etc. ![Warm clothes can save your life - [Amylin](User:Amylin "Amylin"){.wikilink} hitching to [Riga](Riga "Riga"){.wikilink} in the snow](Parnu-riga.jpg "Warm clothes can save your life - Amylin hitching to Riga in the snow"){width="200"}
+Hitchhiking is an outdoor sport and it pays off to wear good shoes. They might not be best for dancing when you reach your destination, but it is important while walking along the road. At times you might need to cross rocky areas, puddles, mud, snow etc. Sometimes you have to be quick and step off the road due to big trucks etc.![Warm clothes can save your life - [Amylin](User:Amylin "Amylin"){.wikilink} hitching to [Riga](Riga "Riga"){.wikilink} in the snow](Parnu-riga.jpg "Warm clothes can save your life - Amylin hitching to Riga in the snow"){width="200"}
 
 Avoid dark or military clothes, they do not create a lot of [trustfulness](trust "trust"){.wikilink}. Looking too much like a colorful hippie will possibly scare other drivers off. Take off your hat (unless it\'s a really funny one), don\'t wear gloves, open your jacket, even though you might freeze. Also helpful are t-shirts that identify you with something, be it a country, a football team or a band - [Zenit](User:Zenit "Zenit"){.wikilink} has been picked up because of his \"Switzerland\" t-shirt more than once.
 
@@ -50,10 +50,7 @@ If you\'ve been waiting a long time it might be good to do something funny, like
 
 [Category:Practical info](Category:Practical_info "Category:Practical info"){.wikilink}
 
-
-
-
 ---
 
-Source: [Appearance](https://hitchwiki.org/en/Appearance)  
+Source: [Appearance](https://hitchwiki.org/en/Appearance)
 License: CC-BY-SA-4.0

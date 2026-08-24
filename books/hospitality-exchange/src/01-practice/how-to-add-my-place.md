@@ -18,10 +18,7 @@ Templates are nice as they save a lot of work and make similar pages look the sa
 
 [Category:Help](Category:Help "Category:Help"){.wikilink}
 
-
-
-
 ---
 
-Source: [How to add my place](https://wiki.trustroots.org/en/How_to_add_my_place)  
+Source: [How to add my place](https://wiki.trustroots.org/en/How_to_add_my_place)
 License: CC-BY-SA-4.0

@@ -11,10 +11,7 @@ Some ideas:
 
 [Category:General info](Category:General_info "Category:General info"){.wikilink}
 
-
-
-
 ---
 
-Source: [Precycling](https://trashwiki.org/en/Precycling)  
+Source: [Precycling](https://trashwiki.org/en/Precycling)
 License: CC-BY-NC-SA-4.0

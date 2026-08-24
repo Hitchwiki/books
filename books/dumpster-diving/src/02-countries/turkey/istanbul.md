@@ -20,10 +20,7 @@ You can find a list of the street markets, sorted by weekday, [here](http://www.
 
 *Kasımpaşa Pazarı (Kasımpaşa Market)*: Every Friday, open 10 - \~6pm. This market is a bit more expensive than Tarlabaşı but better in a way. This market has for example King Oyster Mushrooms which is really tasty. **Location:** *Hakim Sokak + Tahtakadı Sokak + Yeni Yol Ara Sokak* streets.
 
-
-
-
 ---
 
-Source: [Istanbul](https://trashwiki.org/en/Istanbul)  
+Source: [Istanbul](https://trashwiki.org/en/Istanbul)
 License: CC-BY-NC-SA-4.0

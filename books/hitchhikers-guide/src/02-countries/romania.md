@@ -38,7 +38,7 @@ Most of the other roads are in poor condition, the European routes being the bes
 
 ## Number plates {#number_plates}
 
-The first two letters of the number plates show you in which of the 42 \[sic\] counties the car was registered, which might be useful when talking to people at gas stations or resting areas. Red letters mean it\'s a temporally registered vehicle, green means electric. Further information can be found in the excellent [wikipedia article](https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Romania). ![Romanian license plate codes](Romanian_license_plate_codes.png "Romanian license plate codes")
+The first two letters of the number plates show you in which of the 42 \[sic\] counties the car was registered, which might be useful when talking to people at gas stations or resting areas. Red letters mean it\'s a temporally registered vehicle, green means electric. Further information can be found in the excellent [wikipedia article](https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Romania).![Romanian license plate codes](Romanian_license_plate_codes.png "Romanian license plate codes")
 
 ## Border crossings {#border_crossings}
 
@@ -85,10 +85,7 @@ In total I spent around three months in Romania. I hitchhiked from Bucharest to 
 
 [ ](Category:Romania " "){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Romania](https://hitchwiki.org/en/Romania)  
+Source: [Romania](https://hitchwiki.org/en/Romania)
 License: CC-BY-SA-4.0

@@ -6,7 +6,7 @@ Each book has **its own license**. There is no repo-wide content license. Script
 
 | [![CC BY-SA 4.0](assets/cc-by-sa-4.0.png)](https://creativecommons.org/licenses/by-sa/4.0/) | [![CC BY-NC-SA 4.0](assets/cc-by-nc-sa-4.0.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/) |
 | --- | --- |
-| Hitchwiki, Trustroots Wiki, Nomadwiki | Trashwiki, Random Roads, Dumpsterdam, Moneyless |
+| Hitchwiki, Trustroots Wiki, Nomadwiki | Trashwiki, Random Roads, Dumpsterdam, Geldloos, Moneyless, Sin Dinero |
 
 | Book | License | Sources |
 | --- | --- | --- |
@@ -14,8 +14,10 @@ Each book has **its own license**. There is no repo-wide content license. Script
 | [Dumpster Diving](books/dumpster-diving/) | [![CC BY-NC-SA 4.0](assets/cc-by-nc-sa-4.0.png)](books/dumpster-diving/LICENSE) | Trashwiki |
 | [Random Roads](books/random-roads/) | [![CC BY-NC-SA 4.0](assets/cc-by-nc-sa-4.0.png)](books/random-roads/LICENSE) | randomroads.org |
 | [Dumpsterdam](books/dumpsterdam/) | [![CC BY-NC-SA 4.0](assets/cc-by-nc-sa-4.0.png)](books/dumpsterdam/LICENSE) | dumpsterdam.nl |
+| [Geldloos](books/geldloos/) | [![CC BY-NC-SA 4.0](assets/cc-by-nc-sa-4.0.png)](books/geldloos/LICENSE) | geldloos.nl |
 | [Hospitality Exchange](books/hospitality-exchange/) | [![CC BY-SA 4.0](assets/cc-by-sa-4.0.png)](books/hospitality-exchange/LICENSE) | Trustroots Wiki and related |
-| [Moneyless](books/moneyless/) | [![CC BY-NC-SA 4.0](assets/cc-by-nc-sa-4.0.png)](books/moneyless/LICENSE) | moneyless.org, geldloos.nl, sindinero.net |
+| [Moneyless](books/moneyless/) | [![CC BY-NC-SA 4.0](assets/cc-by-nc-sa-4.0.png)](books/moneyless/LICENSE) | moneyless.org |
+| [Sin Dinero](books/sin-dinero/) | [![CC BY-NC-SA 4.0](assets/cc-by-nc-sa-4.0.png)](books/sin-dinero/LICENSE) | sindinero.net |
 | [Shoestring Nomad](books/shoestring-nomad/) | [![CC BY-SA 4.0](assets/cc-by-sa-4.0.png)](books/shoestring-nomad/LICENSE) | Nomadwiki, Casa Robino |
 
 See [SOURCES.md](SOURCES.md) for adjacent sites, permission notes, and titles wanted later (philosophy / free software / abundance / AI / wikis). See [EDITORIAL.md](EDITORIAL.md) for how to edit chapters so wiki updates do not wipe them. See [PUBLISH.md](PUBLISH.md) for print and stores (KDP, Lulu, Ingram, D2D, itch.io, Internet Archive). NC-SA stays off paid stores.

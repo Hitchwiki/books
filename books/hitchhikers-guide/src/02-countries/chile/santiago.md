@@ -93,10 +93,7 @@ In the **[United States](United_States_of_America "United States"){.wikilink}**:
 
 - [Santiago (Iowa)](Santiago_(Iowa) "Santiago (Iowa)"){.wikilink}, a city in [Iowa](Iowa "Iowa"){.wikilink}
 
-
-
-
 ---
 
-Source: [Santiago](https://hitchwiki.org/en/Santiago)  
+Source: [Santiago](https://hitchwiki.org/en/Santiago)
 License: CC-BY-SA-4.0

@@ -33,7 +33,7 @@ Hitchhiking in Lebanon is tricky and uncommon but doable. I was Hitchhiking with
 <div class="hw-experience">
 <div class="hw-exp-text">
 
-As said before, lebanese are not used to see people hitchhike. They will often think that you\'re trying to stop a taxi or a minibus, even with a sign. However, me (F) and my friend (M) had no problem beeing picked up everywhere we hitchikked, even in remote areas, we never waited more than half and hour :) One day, a minibus even stopped for us in Beirut, and took us to our destination (Jbeil) for free. Lebanese are all very welcoming and they generally speak good english. Lebanon is small as well, so it\'s quite easy to find a car that will cross almost the all country ;) Be careful with the taxis, some of them (very few) don\'t have this red plate. We got a ride to Chtoura from Beirut and understood half way that our driver was working for a travel agency\... When we asked him to stop, he dropped us in the middle of the highway and asked for money. After that, we were always asking people, even if they had a normal white plate\... Except for that, the overall experience was very nice!
+As said before, lebanese are not used to see people hitchhike. They will often think that you\'re trying to stop a taxi or a minibus, even with a sign. However, me (F) and my friend (M) had no problem beeing picked up everywhere we hitchikked, even in remote areas, we never waited more than half and hour:) One day, a minibus even stopped for us in Beirut, and took us to our destination (Jbeil) for free. Lebanese are all very welcoming and they generally speak good english. Lebanon is small as well, so it\'s quite easy to find a car that will cross almost the all country;) Be careful with the taxis, some of them (very few) don\'t have this red plate. We got a ride to Chtoura from Beirut and understood half way that our driver was working for a travel agency\... When we asked him to stop, he dropped us in the middle of the highway and asked for money. After that, we were always asking people, even if they had a normal white plate\... Except for that, the overall experience was very nice!
 
 </div>
 </div>
@@ -48,10 +48,7 @@ Hitchhiking in the mountains and near/towards the beach might be quite easy, whi
 
 [Category:Middle East](Category:Middle_East "Category:Middle East"){.wikilink} [Category:Lebanon](Category:Lebanon "Category:Lebanon"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Lebanon](https://hitchwiki.org/en/Lebanon)  
+Source: [Lebanon](https://hitchwiki.org/en/Lebanon)
 License: CC-BY-SA-4.0

@@ -6,7 +6,7 @@
 
 ### Food-Sharing-CPH {#food_sharing_cph}
 
-A grassroots initiative with the goal of organizing redistribution, meaning unconditional sharing, of food waste. We believe that this waste is public property and should be shared in a non-exclusive and non-commercial way. Our initiative is building upon the already existing initiative Foodsharing Germany. It has so far been successful with saving tons and tons of food waste and making it possible for more and more people to involve themselves actively in the issues of wasteflow. Visit their [Website](http://www.foodsharingcph.org/) for more info about the events (twice weekly as for July 2017) and to sign up as a volunteer ;)
+A grassroots initiative with the goal of organizing redistribution, meaning unconditional sharing, of food waste. We believe that this waste is public property and should be shared in a non-exclusive and non-commercial way. Our initiative is building upon the already existing initiative Foodsharing Germany. It has so far been successful with saving tons and tons of food waste and making it possible for more and more people to involve themselves actively in the issues of wasteflow. Visit their [Website](http://www.foodsharingcph.org/) for more info about the events (twice weekly as for July 2017) and to sign up as a volunteer;)
 
 ## Supper sharing {#supper_sharing}
 
@@ -32,16 +32,9 @@ Facebook: [Flydende By-Floating City of Copenhagen](http://www.facebook.com/grou
 
 <File:2012.07> eurotrip Copenhagen II 09.jpg\|One of the boats that was built by Floating City guys. <File:2012.07> eurotrip Copenhagen II 07.jpg\|Freeshop in Floating City.
 
-[hitch:Copenhagen](hitch:Copenhagen "hitch:Copenhagen"){.wikilink}
-
-[nomad:Copenhagen](nomad:Copenhagen "nomad:Copenhagen"){.wikilink}
-
 [Category:Copenhagen](Category:Copenhagen "Category:Copenhagen"){.wikilink}
-
-
-
 
 ---
 
-Source: [Copenhagen](https://trashwiki.org/en/Copenhagen)  
+Source: [Copenhagen](https://trashwiki.org/en/Copenhagen)
 License: CC-BY-NC-SA-4.0

@@ -4,10 +4,7 @@
 
 This book does not reprint named ramps, dumpsters, hostels, or other pins. They go out of date. Follow the note above to the live map or wiki.
 
-
-
-
 ---
 
-Source: [Johannesburg](https://hitchwiki.org/en/Johannesburg)  
+Source: [Johannesburg](https://hitchwiki.org/en/Johannesburg)
 License: CC-BY-SA-4.0

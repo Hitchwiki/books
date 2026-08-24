@@ -16,10 +16,7 @@ The best places to hitch out of cities are gas stations along the main road and 
 
 [Category:Africa](Category:Africa "Category:Africa"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Angola](https://hitchwiki.org/en/Angola)  
+Source: [Angola](https://hitchwiki.org/en/Angola)
 License: CC-BY-SA-4.0

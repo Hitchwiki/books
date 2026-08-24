@@ -32,10 +32,7 @@ Once you have stayed with a person, or met another trustrooter in some other way
 
 [Category:Tips](Category:Tips "Category:Tips"){.wikilink}
 
-
-
-
 ---
 
-Source: [How To Create A Good Profile](https://wiki.trustroots.org/en/How_To_Create_A_Good_Profile)  
+Source: [How To Create A Good Profile](https://wiki.trustroots.org/en/How_To_Create_A_Good_Profile)
 License: CC-BY-SA-4.0

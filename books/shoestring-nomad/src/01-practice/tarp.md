@@ -22,10 +22,7 @@ The most basic way is the A-frame. You ridge your paracord between two trees, to
 
 [Category:Accommodation](Category:Accommodation "Category:Accommodation"){.wikilink}
 
-
-
-
 ---
 
-Source: [Tarp](https://nomadwiki.org/en/Tarp)  
+Source: [Tarp](https://nomadwiki.org/en/Tarp)
 License: CC-BY-SA-4.0

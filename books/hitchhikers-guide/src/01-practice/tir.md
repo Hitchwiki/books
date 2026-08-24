@@ -4,10 +4,7 @@ The **Convention on International Transport of Goods Under Cover of TIR Carnets*
 
 [Category:General info](Category:General_info "Category:General info"){.wikilink}
 
-
-
-
 ---
 
-Source: [TIR](https://hitchwiki.org/en/TIR)  
+Source: [TIR](https://hitchwiki.org/en/TIR)
 License: CC-BY-SA-4.0

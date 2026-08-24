@@ -4,7 +4,7 @@
 
 \[[australia.png\|thumb\|right\|400px\|Hitchhiking waiting times in Australia with uncertainties of estimation (2024) - based on data from [Hitchwiki Maps](https://maps.hitchwiki.org/)](File:Hitchhiking)
 
-In the coastal and "high"-density areas of Australia, from about [Adelaide](Adelaide "Adelaide"){.wikilink} to [Brisbane](Brisbane "Brisbane"){.wikilink}/[Cairns](Cairns "Cairns"){.wikilink}, hitching is much the same as anywhere else in Western culture. Road lanes are wide with very often large emergency stopping lanes, so finding a good stop is not very difficult. I looped the entire country in 2016 with just 1\$ starting from Melbourne and including smaller towns passed Sydney ; Brisbane; Cairns; Darwin; Broome; Perth- a single ride from 254 km Perth side of Norseman (last town West before Nullambor) potentially to Sydney but I got dropped at the turn off for Melbourne Because distances are so huge, people are used to driving several hundred kilometers and you will find drivers quite often offering to make huge detours to take you somewhere.
+In the coastal and "high"-density areas of Australia, from about [Adelaide](Adelaide "Adelaide"){.wikilink} to [Brisbane](Brisbane "Brisbane"){.wikilink}/[Cairns](Cairns "Cairns"){.wikilink}, hitching is much the same as anywhere else in Western culture. Road lanes are wide with very often large emergency stopping lanes, so finding a good stop is not very difficult. I looped the entire country in 2016 with just 1\$ starting from Melbourne and including smaller towns passed Sydney; Brisbane; Cairns; Darwin; Broome; Perth- a single ride from 254 km Perth side of Norseman (last town West before Nullambor) potentially to Sydney but I got dropped at the turn off for Melbourne Because distances are so huge, people are used to driving several hundred kilometers and you will find drivers quite often offering to make huge detours to take you somewhere.
 
 ## Legality of Hitchhiking {#legality_of_hitchhiking}
 
@@ -27,7 +27,7 @@ While hitchhiking may be legal in many areas, safety should be the utmost priori
 
 : \(1\) A person shall not, while on a carriageway or median strip
 
-  : \(a\) solicit contributions, employment or a ride from an occupant of a vehicle \[\...\]
+: \(a\) solicit contributions, employment or a ride from an occupant of a vehicle \[\...\]
 
 The carriageway is here defined as following: \"carriageway\" means a portion of a road that is improved, designed or ordinarily used for vehicular traffic, and includes the shoulders, and areas, including embayments, at the side or centre of the carriageway, used for the stopping or parking of vehicles \[\...\]
 
@@ -87,7 +87,7 @@ In the eastern states (QLD, NSW, VIC, SA) more than the west (WA & NT), recent c
 
 ### For a ride {#for_a_ride}
 
-[Train hopping](Train_hopping "Train hopping"){.wikilink} is also still possible in Australia although this is an option to consider with extreme care. The three day journey from Mt Isa to the coast on the coal trains (pick up a Beanbag, a tarp and a shade cloth from the Op-shop in town, few things beat spending the night on a pile of coal at 20km/h under the desert stars :) The cargo train across the Nullarbor, a trip of a lifetime, certainly one of those life-changing adventures.
+[Train hopping](Train_hopping "Train hopping"){.wikilink} is also still possible in Australia although this is an option to consider with extreme care. The three day journey from Mt Isa to the coast on the coal trains (pick up a Beanbag, a tarp and a shade cloth from the Op-shop in town, few things beat spending the night on a pile of coal at 20km/h under the desert stars:) The cargo train across the Nullarbor, a trip of a lifetime, certainly one of those life-changing adventures.
 
 However, don\'t be stupid and jump off when the trains are moving too quickly. One hitchhiker had the terrible experience of seeing a teenager jump off a train which came from Brisbane to the Sunshine Coast in Queensland and that did not end up well. That boy lost his life simply to save the cost of a short trip. What a waste.
 
@@ -95,7 +95,7 @@ If you do jump onto rail services just make sure you use some common sense.
 
 ### For water {#for_water}
 
-First, make sure you have enough water (3 liters/day/person). Remember that you can survive more than a month without food but that you will die without water in a few days. But if you get really stuck for water, you can still survive ;) First stop moving to keep your energy and relax as much as you can. Find a spot with shadow next to the road and as soon as you hear a car coming from either direction stand up and show you are here. Destination doesn\'t matter, you just need to reach the first town. You can even have a "help" sign and look as innocent/unarmed/helpless/etc as you can, but mostly cars will stop or at least slow down.
+First, make sure you have enough water (3 liters/day/person). Remember that you can survive more than a month without food but that you will die without water in a few days. But if you get really stuck for water, you can still survive;) First stop moving to keep your energy and relax as much as you can. Find a spot with shadow next to the road and as soon as you hear a car coming from either direction stand up and show you are here. Destination doesn\'t matter, you just need to reach the first town. You can even have a "help" sign and look as innocent/unarmed/helpless/etc as you can, but mostly cars will stop or at least slow down.
 
 ### For a place to stay or for food {#for_a_place_to_stay_or_for_food}
 
@@ -195,10 +195,7 @@ Easy peasy to camp, just make sure you have a tent to stop the creepy crawlies a
 
 [Category:Australia](Category:Australia "Category:Australia"){.wikilink} [Category:Oceania](Category:Oceania "Category:Oceania"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Australia](https://hitchwiki.org/en/Australia)  
+Source: [Australia](https://hitchwiki.org/en/Australia)
 License: CC-BY-SA-4.0

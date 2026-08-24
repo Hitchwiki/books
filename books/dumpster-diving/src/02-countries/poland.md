@@ -22,16 +22,9 @@
 
 *\" I have hitchhiked just few days around Poland but from my experiences Poland is great country for dumpster diving. Many supermarkets have open dumpsters so you can simply come and take whatever you want. For sure you shouldn´t be hungry in this country*\" - Kral vsech mori, July 2017
 
-[hitch:Poland](hitch:Poland "hitch:Poland"){.wikilink}
-
-[vegan:Poland](vegan:Poland "vegan:Poland"){.wikilink} [nomad:Poland](nomad:Poland "nomad:Poland"){.wikilink}
-
 [Category:Poland](Category:Poland "Category:Poland"){.wikilink}
-
-
-
 
 ---
 
-Source: [Poland](https://trashwiki.org/en/Poland)  
+Source: [Poland](https://trashwiki.org/en/Poland)
 License: CC-BY-NC-SA-4.0

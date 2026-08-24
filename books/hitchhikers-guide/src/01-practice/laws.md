@@ -8,10 +8,7 @@ See also [the list of places in where you have to be more careful](:Category:Ill
 
 [Category:General info](Category:General_info "Category:General info"){.wikilink}
 
-
-
-
 ---
 
-Source: [Laws](https://hitchwiki.org/en/Laws)  
+Source: [Laws](https://hitchwiki.org/en/Laws)
 License: CC-BY-SA-4.0

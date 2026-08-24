@@ -1,6 +1,6 @@
 # Waste
 
-![Common rubbish in a bin bag.](800px-Common_rubbish.jpg "Common rubbish in a bin bag."){width="200"} ![A [Dumpster](Dumpster "Dumpster"){.wikilink} full of waste awaiting disposal.](Dumpster_in_Groningen.JPG "A Dumpster full of waste awaiting disposal."){width="200"}
+![Common rubbish in a bin bag.](800px-Common_rubbish.jpg "Common rubbish in a bin bag."){width="200"}![A [Dumpster](Dumpster "Dumpster"){.wikilink} full of waste awaiting disposal.](Dumpster_in_Groningen.JPG "A Dumpster full of waste awaiting disposal."){width="200"}
 
 **Waste** is an unwanted or undesired material or substance. It is also referred to as **rubbish**, **trash**, **garbage**, or **junk** depending upon the type of material and the regional terminology. In living organisms, waste relates to unwanted substances or toxins that are expelled from them.
 
@@ -16,7 +16,7 @@ As a nation, Americans generate more waste than any other nation in the world wi
 
 ## Environmental impact {#environmental_impact}
 
-![A dumped seat illegally littered on private property.](800px-Dumped.JPG "A dumped seat illegally littered on private property.") ![Marine debris on the [Hawaiian](Hawaii "Hawaii"){.wikilink} coast.](Marine_debris_on_Hawaiian_coast.jpg "Marine debris on the Hawaiian coast.") Many different types of waste have negative impacts upon the wider environment.
+![A dumped seat illegally littered on private property.](800px-Dumped.JPG "A dumped seat illegally littered on private property.")![Marine debris on the [Hawaiian](Hawaii "Hawaii"){.wikilink} coast.](Marine_debris_on_Hawaiian_coast.jpg "Marine debris on the Hawaiian coast.") Many different types of waste have negative impacts upon the wider environment.
 
 Waste pollution is considered a serious threat by many and can broadly be defined as any pollution associated with waste and waste management practices[^3]. Typical materials that are found in household waste which have specific environmental impacts with them include biodegradable wastes, batteries, aerosols, oils, acids and fluorescent tubes.
 
@@ -46,7 +46,7 @@ Although most of this waste is recyclable, very few of it makes it to a recyclin
 
 ## Definitions
 
-The European Union defines waste as an object the holder discards, intends to discard or is required to discard is waste under the Waste Framework Directive (European Directive 75/442/EC as amended). ![Schematic illustration of the EU Legal definition of waste.](742px-European_legal_definition_of_waste.png "Schematic illustration of the EU Legal definition of waste."){width="300"} *Once a substance or object has become waste, it will remain waste until it has been fully recovered and no longer poses a potential threat to the environment or to human health.\"*[^9]\'\'
+The European Union defines waste as an object the holder discards, intends to discard or is required to discard is waste under the Waste Framework Directive (European Directive 75/442/EC as amended).![Schematic illustration of the EU Legal definition of waste.](742px-European_legal_definition_of_waste.png "Schematic illustration of the EU Legal definition of waste."){width="300"} *Once a substance or object has become waste, it will remain waste until it has been fully recovered and no longer poses a potential threat to the environment or to human health.\"*[^9]\'\'
 
 The UK\'s Environmental Protection Act 1990 indicated waste includes any substance which constitutes a scrap material, an effluent or other unwanted surplus arising from the application of any process or any substance or article which requires to be disposed of which has been broken, worn out, contaminated or otherwise spoiled; this is supplemented with anything which is discarded otherwise dealt with as if it were waste shall be presumed to be waste unless the contrary is proved. This definition was amended by the Waste Management Licensing Regulations 1994 defining waste as:\[havok\] for ever.
 
@@ -97,7 +97,6 @@ Education and awareness in the area of waste and waste management is increasingl
 
 [^10]: [Waste explained](http://www.ciwm.co.uk/pma/1384) CIWM
 
-
 ![800px-Common rubbish.jpg](../../images/800px-common-rubbishjpg.jpg)
 
 *800px-Common rubbish.jpg — Sigurdas*
@@ -110,8 +109,7 @@ Education and awareness in the area of waste and waste management is increasingl
 
 *800px-Dumped.JPG — Sigurdas*
 
-
 ---
 
-Source: [Waste](https://trashwiki.org/en/Waste)  
+Source: [Waste](https://trashwiki.org/en/Waste)
 License: CC-BY-NC-SA-4.0

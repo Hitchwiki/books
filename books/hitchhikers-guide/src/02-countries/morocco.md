@@ -110,17 +110,14 @@ The Hitch is LCD's largest fundraising event and hitching the 1600km or 1000 mil
 
 <div class="hw-exp-text">
 
-Surprisingly I the first one to wright about a past experience about hitchhiking in Morocco here ,surprising as it is so easy, if you got a backpack clean cut or not , locals will pick you up for sure , usually about 5 minutes waiting time At the end of my very first day in the country a man invited me for dinner and to sleep at his house for the night. If you see the police on the road you can ask them to help you catch a ride , if the police stop a driver they are oblige to take you , if they going the right way ofcours, me and Lyzard got an empty coach bus all to our self from Casablanca to Rabat thanks to the police , Also got a lady pick me and Lyzard from Agadir to Casablanca about 500km ,waiting 5min ,cool lady at some point she was lighting a cigarette making a videocall to family driving with her knee and doing 170km/h on the highway, wow good times
+Surprisingly I the first one to wright about a past experience about hitchhiking in Morocco here,surprising as it is so easy, if you got a backpack clean cut or not, locals will pick you up for sure, usually about 5 minutes waiting time At the end of my very first day in the country a man invited me for dinner and to sleep at his house for the night. If you see the police on the road you can ask them to help you catch a ride, if the police stop a driver they are oblige to take you, if they going the right way ofcours, me and Lyzard got an empty coach bus all to our self from Casablanca to Rabat thanks to the police, Also got a lady pick me and Lyzard from Agadir to Casablanca about 500km,waiting 5min,cool lady at some point she was lighting a cigarette making a videocall to family driving with her knee and doing 170km/h on the highway, wow good times
 
 </div>
 </div>
 
 [Category:Northern Africa](Category:Northern_Africa "Category:Northern Africa"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Morocco](https://hitchwiki.org/en/Morocco)  
+Source: [Morocco](https://hitchwiki.org/en/Morocco)
 License: CC-BY-SA-4.0

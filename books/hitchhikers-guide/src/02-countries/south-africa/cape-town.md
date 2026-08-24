@@ -4,10 +4,7 @@
 
 This book does not reprint named ramps, dumpsters, hostels, or other pins. They go out of date. Follow the note above to the live map or wiki.
 
-
-
-
 ---
 
-Source: [Cape Town](https://hitchwiki.org/en/Cape_Town)  
+Source: [Cape Town](https://hitchwiki.org/en/Cape_Town)
 License: CC-BY-SA-4.0

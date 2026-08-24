@@ -18,10 +18,7 @@ Camping not the easiest as familys own most of the land and people everywhere, t
 
 [Category:Oceania](Category:Oceania "Category:Oceania"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Federated States of Micronesia](https://hitchwiki.org/en/Federated_States_of_Micronesia)  
+Source: [Federated States of Micronesia](https://hitchwiki.org/en/Federated_States_of_Micronesia)
 License: CC-BY-SA-4.0

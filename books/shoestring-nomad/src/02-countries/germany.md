@@ -10,9 +10,6 @@ Most toilets on the service stations are maintained by [Sanifair](Sanifair "Sani
 
 There are showers in most *Raststätte* and *Autohof* service stations on and near the autobahn. Prices are between 2 euro and 5 euro.
 
-[trash:Germany](trash:Germany "trash:Germany"){.wikilink}
-
-
 ![Station multimedia Allemagne 2006.jpg](../../images/station-multimedia-allemagne-2006jpg.jpg)
 
 *Station multimedia Allemagne 2006.jpg — nicowien (CC BY-SA 3.0)*
@@ -21,8 +18,7 @@ There are showers in most *Raststätte* and *Autohof* service stations on and ne
 
 *TelefonzelleFrankfurt060422.jpg — JuergenG (CC BY-SA 3.0)*
 
-
 ---
 
-Source: [Germany](https://nomadwiki.org/en/Germany)  
+Source: [Germany](https://nomadwiki.org/en/Germany)
 License: CC-BY-SA-4.0

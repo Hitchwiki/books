@@ -13,7 +13,7 @@ Most countries have laws about what is required from you to enter with a pet. If
 - try to make your dog accustomed with hitchhiking when he/she is still young
 - make sure your dog is not afraid of cars before you hitch with him/her for the first time
 - don\'t forget your dog\'s passport and papers
-- make sure your dog feels comfortable and safe in every moment of your journey, for example, don\'t forget he/she also wants to pee after sitting a while in a car ;)
+- make sure your dog feels comfortable and safe in every moment of your journey, for example, don\'t forget he/she also wants to pee after sitting a while in a car;)
 - flea and heartworm preventative is important also
 - keep in mind that dogs cannot go as long as humans without water - take more water than you think you will need as you might need to pour it on them if they get too hot.
 - putting your dog on a feeding schedule may be difficult on the road but is worth it and helps prevent \'accidents\'
@@ -27,7 +27,7 @@ Most countries have laws about what is required from you to enter with a pet. If
 
 <!-- -->
 
-- *`<small>`{=html}add more info? :)`</small>`{=html}*
+- *`<small>`{=html}add more info?:)`</small>`{=html}*
 
 ### Advices for Dogs {#advices_for_dogs}
 
@@ -44,14 +44,11 @@ Most countries have laws about what is required from you to enter with a pet. If
 - always be polite to other humans and dogs that are already in a car
 - inform your fellow human you are hitchhiking with about your intentions to flirt with a dog that happens to be in the same car
 - make sure not to get motion sickness!
-- *`<small>`{=html}add more info? :)`</small>`{=html}*
+- *`<small>`{=html}add more info?:)`</small>`{=html}*
 
 [Category:General info](Category:General_info "Category:General info"){.wikilink}
 
-
-
-
 ---
 
-Source: [Dog Hitchhiking](https://hitchwiki.org/en/Dog_Hitchhiking)  
+Source: [Dog Hitchhiking](https://hitchwiki.org/en/Dog_Hitchhiking)
 License: CC-BY-SA-4.0

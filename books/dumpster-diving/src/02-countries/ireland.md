@@ -9,16 +9,9 @@
 - [Drogheda](Drogheda "Drogheda"){.wikilink}
 - `<small>`{=html}*add more?*`</small>`{=html}
 
-[hitch:Ireland](hitch:Ireland "hitch:Ireland"){.wikilink}
-
-[nomad:Ireland](nomad:Ireland "nomad:Ireland"){.wikilink} [vegan:Ireland](vegan:Ireland "vegan:Ireland"){.wikilink}
-
 [Category:Ireland](Category:Ireland "Category:Ireland"){.wikilink}
-
-
-
 
 ---
 
-Source: [Ireland](https://trashwiki.org/en/Ireland)  
+Source: [Ireland](https://trashwiki.org/en/Ireland)
 License: CC-BY-NC-SA-4.0

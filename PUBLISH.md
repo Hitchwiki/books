@@ -13,7 +13,7 @@ Canonical free EPUB/PDF stays on the catalog site. Paid channels are convenience
 | [The Hitchhiker's Guide to Hitchhiking](books/hitchhikers-guide/) | CC-BY-SA-4.0 (Hitchwiki) | yes | yes |
 | [Hospitality Exchange](books/hospitality-exchange/) | CC-BY-SA-4.0 (Trustroots Wiki + related) | yes, after the rights scrub below | yes, same scrub |
 | [Shoestring Nomad](books/shoestring-nomad/) | CC-BY-SA-4.0 (Nomadwiki; Casa Robino 3.0) | yes | yes |
-| Dumpster Diving, Random Roads, Dumpsterdam, Moneyless | CC-BY-NC-SA | **no** | yes |
+| Dumpster Diving, Random Roads, Dumpsterdam, Geldloos, Moneyless, Sin Dinero | CC-BY-NC-SA | **no** | yes |
 
 Casa Robino BY-SA 3.0 can be adapted into a BY-SA 4.0 edition. hospitalityguide.net CC-BY can sit in Hospitality Exchange. Do not mix BY-SA and NC-SA into one listing or one work.
 

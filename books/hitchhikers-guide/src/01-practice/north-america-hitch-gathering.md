@@ -109,7 +109,7 @@ Check for example:
 
 - Website (Your Name, Jeremie, [George](User:gjemmott "George"){.wikilink}, Robin, \... [content for north american hitch gathering website](content_for_north_american_hitch_gathering_website "content for north american hitch gathering website"){.wikilink})
 - E-mail list (Robin? Northamericahitchgathering@lists.freeactive.net? na.hitch@\...? Might as well set it up now, as long as that won\'t make it harder to integrate later?)
-- Poster, web poster (your name) Amylin! :)
+- Poster, web poster (your name) Amylin!:)
 - Video media, ie. shorts, promotion stuff, etc (your name) Lily?
 - Catch lines, phrases: The Road is Zen, The Road is True, etc. Possible idea is gather near Naropa university, the first buddhist accredited university in america, and place the Buddhist/Zen theme on the promotion.
 
@@ -148,7 +148,7 @@ Criteria:
 
 Ariana says: *Are you looking for someplace to camp or just to gather close to town? A great place to gather that\'s public and close to town is Chautauqua park. In most parts of Boulder, you\'ll be able to find great open space, public parks, and great open cafes. As for camping, just head west from wherever and within half an hour, you\'ll be able to find great camping places.*
 
-Another vote for Chautauqua park from my friend, who also says that a group camping there for one evening would likely not be disturbed. I ([George](User:gjemmott "George"){.wikilink}) will check it out around June 10 and maybe try camping there :).
+Another vote for Chautauqua park from my friend, who also says that a group camping there for one evening would likely not be disturbed. I ([George](User:gjemmott "George"){.wikilink}) will check it out around June 10 and maybe try camping there:).
 
 \'\'I (Mike L. from Denver) recommend Boulder Central Park, where the bandshell is, at Broadway and Canyon. HOWEVER, an all-nighter in Boulder might be a problem. In fact there was a civil disobedience occurring in Boulder over their prohibitions of camping:
 
@@ -156,7 +156,7 @@ Another vote for Chautauqua park from my friend, who also says that a group camp
 
 It ended at least a couple weeks before June 15.
 
-I imagine that the definition of \"camping\" is probably a bit loose and at the discretion of the arresting officer :(\'\'
+I imagine that the definition of \"camping\" is probably a bit loose and at the discretion of the arresting officer:(\'\'
 
 **Denver**
 
@@ -190,10 +190,7 @@ The active development of this project is open to anyone. Edit and update this p
 
 [General info](Category:General_info "General info"){.wikilink} [Category:North America](Category:North_America "Category:North America"){.wikilink} [Category:Hitchgathering](Category:Hitchgathering "Category:Hitchgathering"){.wikilink}
 
-
-
-
 ---
 
-Source: [North America Hitch Gathering](https://hitchwiki.org/en/North_America_Hitch_Gathering)  
+Source: [North America Hitch Gathering](https://hitchwiki.org/en/North_America_Hitch_Gathering)
 License: CC-BY-SA-4.0

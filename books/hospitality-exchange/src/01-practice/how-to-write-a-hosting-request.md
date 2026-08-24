@@ -4,7 +4,7 @@
 
 Some [hosts](host "host"){.wikilink} ask that you write requests with a lot of personalized comments about them and their profile. Some even include a codeword that you have to find to prove that you read their profile. Others don\'t mind that you copy and paste a request to all selected hosts so you can spend more time travelling than writing requests without even knowing which couches are available when you need one. It is important to read the hosts\' profiles carefully to determine how personalized they want requests to be.
 
-Before posting a public request to local groups or forums , make sure to check the guidelines and that there is not another sub-forum specifically for that purpose. Some popular cities name such a sub-forum as \"Last minute Requests\".
+Before posting a public request to local groups or forums, make sure to check the guidelines and that there is not another sub-forum specifically for that purpose. Some popular cities name such a sub-forum as \"Last minute Requests\".
 
 ## Official tips for writing a request on hospitality exchange networks {#official_tips_for_writing_a_request_on_hospitality_exchange_networks}
 
@@ -18,14 +18,14 @@ Most networks have their own [FAQ](https://en.wikipedia.org/wiki/Faq), make sure
 
 (Note: This is a wiki, so all pages can be edited at any time, so don\'t expect word-by-word translations!)
 
-- ![](1VQT.jpg "1VQT.jpg"){width="30"} [Comment rédiger une requête de canapé](Comment_rédiger_une_requête_de_canapé "Comment rédiger une requête de canapé"){.wikilink}
-- ![](Flag_of_Italy.png "Flag_of_Italy.png"){width="30"} [Come scrivere una richiesta di ospitalità](Come_scrivere_una_richiesta_di_ospitalità "Come scrivere una richiesta di ospitalità"){.wikilink}
-- ![](Flag_of_Germany.png "Flag_of_Germany.png"){width="30"} [Wie man einen Host anschreibt](Wie_man_einen_Host_anschreibt "Wie man einen Host anschreibt"){.wikilink} <http://oldcswiki.couchwiki.org/en/Wie_man_eine_CouchAnfrage_schreibt.html>
+-![](1VQT.jpg "1VQT.jpg"){width="30"} [Comment rédiger une requête de canapé](Comment_rédiger_une_requête_de_canapé "Comment rédiger une requête de canapé"){.wikilink}
+-![](Flag_of_Italy.png "Flag_of_Italy.png"){width="30"} [Come scrivere una richiesta di ospitalità](Come_scrivere_una_richiesta_di_ospitalità "Come scrivere una richiesta di ospitalità"){.wikilink}
+-![](Flag_of_Germany.png "Flag_of_Germany.png"){width="30"} [Wie man einen Host anschreibt](Wie_man_einen_Host_anschreibt "Wie man einen Host anschreibt"){.wikilink} <http://oldcswiki.couchwiki.org/en/Wie_man_eine_CouchAnfrage_schreibt.html>
 
 ## Saying hello {#saying_hello}
 
 - **Read their profiles**!: This will help you better predict the quality of your experience. Also read to see if they have special rules/requirements, e.g. bringing a sleeping bag, no smoking, dates when they are unavailable, limits on numbers of people they can host, needs a donation towards food, or for electricity, or internet, or help in home and family, or is it a shared house or a flat.
-- **See if you are compatible**. Look for a host with similar interests. If you only like museums and your host only likes drinking, there could be a personality clash :).
+- **See if you are compatible**. Look for a host with similar interests. If you only like museums and your host only likes drinking, there could be a personality clash:).
 - Some hosts want to know why you want to surf *their* couch and not just *any* couch. When you try to answer this question in your request, you should realize that you are interested in the *host* more than just their *couch*. Each host is different. So until there\'s a field to specify request personalization requirements, just read the profiles carefully.
 - **Try to contact newer & less busy hosts** to increase your chances. Busy hosts in popular cities can get up to 10 or more requests every day
 - Realize that some hosts get fewer couch requests simply because **they live outside of their main city limits** \"proper\", but they still happen to live very close to the main attractions. Be sure to use the \"Within \_\_\_ kilometers/miles\" of a city when you do a couch search. Often, these hosts are more willing to take surfers simply because they get less requests. You can also just search the region instead of the city, when traveling in more sparse areas.
@@ -45,7 +45,7 @@ Most networks have their own [FAQ](https://en.wikipedia.org/wiki/Faq), make sure
 - Be aware that **people may write dates in different formats**. The dates \"8/9 to 8/11\" could mean 2 days or 2 months, depending on the culture. Instead, use expanded, clear date formats such as: \"9-August to 11-August\" to avoid confusion. This will make it easy for the host to decide quickly if they can have you surf or not.
 - **Don\'t rush.** If you need a couch by tomorrow, you are making it hard for yourself. Try to send requests 1-4 weeks before.
 - Realize that **many hosts will have a hard time accepting couch requests more than a few weeks in advance**, due to unpredictable schedules. Many hosts have a \"sweet spot\" of about 1-2 weeks beforehand. Asking to be hosted months in advance can make a host feel more like a hotel reservation system than a personal residence.
-- Don\'t feel bad about asking more than one host at the same time \-- this is not a dating game anyway and also you are not even sure all hosts will respond or even get your request . Mention the range of days you will be in their town and perhaps that you hope to only stay one day per host. Then narrow it down from any positive responses you receive after all.
+- Don\'t feel bad about asking more than one host at the same time \-- this is not a dating game anyway and also you are not even sure all hosts will respond or even get your request. Mention the range of days you will be in their town and perhaps that you hope to only stay one day per host. Then narrow it down from any positive responses you receive after all.
 - In the Arrival and Departure fields of the request form, enter the approximate or exact dates of your whole visit to a place, even though you only intend to stay with a single host for part of that time. Then in the body of your request, ask the host to let you know which dates within that range are available.
 
 ## Are you for real? {#are_you_for_real}
@@ -54,7 +54,7 @@ Most networks have their own [FAQ](https://en.wikipedia.org/wiki/Faq), make sure
 - Write about what you want to do in the place you are wanting to visit.
 - Don\'t make any demands, but don\'t be obsequious or give fake compliments either. You will get the most from a visit by adapting to and experiencing what\'s different about the place. Share what you can and accept what is offered.
 - Some networks have specific features that allow member [verification](verification "verification"){.wikilink} that you might want to consider.
-  - The [verification](:cs:verification.html "verification"){.wikilink} on Couchsurfing is a bit tricky as it merely means that someone\'s credit card was used and that there\'s an address where someone was able to receive a postcard. Being a level 3 fully verified member might help increase your chance of the host accepting you, but it might also decrease your chances with other hosts who are sceptical of the verification process.
+  - The verification on Couchsurfing is a bit tricky as it merely means that someone\'s credit card was used and that there\'s an address where someone was able to receive a postcard. Being a level 3 fully verified member might help increase your chance of the host accepting you, but it might also decrease your chances with other hosts who are sceptical of the verification process.
   - A better attempt is the member based [verification at BeWelcome](https://www.bewelcome.org/wiki/verification), which is only done in person. Members can verify each other\'s ID cards or passports.
 
 ## Traveling with friends {#traveling_with_friends}
@@ -75,10 +75,7 @@ Remember, read the host profiles carefully and follow any instructions they incl
 
 [Category:Tips](Category:Tips "Category:Tips"){.wikilink}
 
-
-
-
 ---
 
-Source: [How to write a hosting request](https://wiki.trustroots.org/en/How_to_write_a_hosting_request)  
+Source: [How to write a hosting request](https://wiki.trustroots.org/en/How_to_write_a_hosting_request)
 License: CC-BY-SA-4.0

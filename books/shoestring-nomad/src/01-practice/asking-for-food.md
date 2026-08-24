@@ -14,10 +14,7 @@ The situation can be really awkward and strange from the emotional point of view
 
 [Category:Guides](Category:Guides "Category:Guides"){.wikilink} [Category:Food](Category:Food "Category:Food"){.wikilink}
 
-
-
-
 ---
 
-Source: [Asking for food](https://nomadwiki.org/en/Asking_for_food)  
+Source: [Asking for food](https://nomadwiki.org/en/Asking_for_food)
 License: CC-BY-SA-4.0

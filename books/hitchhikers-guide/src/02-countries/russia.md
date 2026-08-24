@@ -32,13 +32,13 @@ In spite of the country\'s size, there are very few roads, there is little ambig
 
 ### Visa and hitchhiking through Russia in 2026 (MUST READ) {#visa_and_hitchhiking_through_russia_in_2026_must_read}
 
-So many people do this error so I ([CavalierRustique](User:CavalierRustique "CavalierRustique"){.wikilink}) want to clarify the situation for people that want to join Kazakhstan from Georgia through Russia. **DONT\'T GET A E-VISA**. You cannot cross the border from Russia to Kazakhstan with a e-visa. There is a list of available checkpoint to leave Russia with an e-visa and Kazakhstan border is not part of it. If I\'m not mistaken, it is the same for China because Sofiane Sehili, french biker, has encountered this problem and has been arrested because he tried to cross the border illegally. What you can do is : 1- still get a e-visa and travel from Georgia to Mongolia but it is a very long way. Also a cool route, but I am unsure it\'s gonna be fun because the visa will expire very fast for that route. 2- get a transit visa. Problem is that it\'s only for three days which is impossible to have when hitchhiking. However, you can try to ask some people at the russian visa center in Tbilissi if they van take you all the way to Kazakhstan. I think it\'s a good alternative. Otherwise just take a train honestly. 3- get a tourisic visa. It is however impossible to get one in Georgia (and Kazakhstan actually) and in most of the countries where you\'re not resident. Personally I asked my visa back in France before starting the trip. I had one momth in Russia and took the time to visit it properly.
+So many people do this error so I ([CavalierRustique](User:CavalierRustique "CavalierRustique"){.wikilink}) want to clarify the situation for people that want to join Kazakhstan from Georgia through Russia. **DONT\'T GET A E-VISA**. You cannot cross the border from Russia to Kazakhstan with a e-visa. There is a list of available checkpoint to leave Russia with an e-visa and Kazakhstan border is not part of it. If I\'m not mistaken, it is the same for China because Sofiane Sehili, french biker, has encountered this problem and has been arrested because he tried to cross the border illegally. What you can do is: 1- still get a e-visa and travel from Georgia to Mongolia but it is a very long way. Also a cool route, but I am unsure it\'s gonna be fun because the visa will expire very fast for that route. 2- get a transit visa. Problem is that it\'s only for three days which is impossible to have when hitchhiking. However, you can try to ask some people at the russian visa center in Tbilissi if they van take you all the way to Kazakhstan. I think it\'s a good alternative. Otherwise just take a train honestly. 3- get a tourisic visa. It is however impossible to get one in Georgia (and Kazakhstan actually) and in most of the countries where you\'re not resident. Personally I asked my visa back in France before starting the trip. I had one momth in Russia and took the time to visit it properly.
 
 ### Maps
 
 Including gas stations, DPS stations, even traffic lights along main roads. The atlas also includes city maps and maps of Ukraine, Belarus, Moldova and the Baltic states as well. Price is 377 RUB (July 2009).
 
-November, 1st 2009 there were 22 cities: Астрахань, Барнаул, Бийск, Екатеринбург, Иркутск, Казань, Кемерово ,Красноярск ,Курган, Нижневартовск, Нижний Новгород, Новокузнецк, Новосибирск, Одесса, Омск, Пермь, Самара, Тольятти, Томск, Тюмень, Уфа, Челябинск. U can use on-line version or download installer and use maps off-line.
+November, 1st 2009 there were 22 cities: Астрахань, Барнаул, Бийск, Екатеринбург, Иркутск, Казань, Кемерово,Красноярск,Курган, Нижневартовск, Нижний Новгород, Новокузнецк, Новосибирск, Одесса, Омск, Пермь, Самара, Тольятти, Томск, Тюмень, Уфа, Челябинск. U can use on-line version or download installer and use maps off-line.
 
 A popular alternative is CoMaps (or Organic Maps, or Maps.ME) as they work offline. The map data is from OpenStreetMap project and is especially detailed in regards to smaller paths (think hiking).
 
@@ -52,7 +52,7 @@ Level of speaking English is rather low especially among people older than 40 an
 
 ## Safety
 
-![[Sigurdas](User:Sigurdas "Sigurdas"){.wikilink} hitch-hiking towards [Murmansk](Murmansk "Murmansk"){.wikilink} from [St. Petersburg](St._Petersburg "St. Petersburg"){.wikilink}. Winter 2001.](2001_Hitch-hiking_in_Russia.jpg "Sigurdas hitch-hiking towards Murmansk from St. Petersburg. Winter 2001."){width="280"} In spite of popular belief about the dangers of Russia, and perceived problems with the police, as a hitch hiker you will more than likely have no problems in the country. Police will usually not bother you at all, especially when they know you are a foreigner (except at the border - that is another matter). You should also avoid drunk people and people who look aпgressive or look like \"[gopniks](:wiki:ru:гопник "gopniks"){.wikilink}\". and as long as you take the usual precautions, you will not find yourself in danger from any person - the cold however, in winter time, is a much bigger issue. Being offered copious amounts of alcohol can also be a problem!
+![[Sigurdas](User:Sigurdas "Sigurdas"){.wikilink} hitch-hiking towards [Murmansk](Murmansk "Murmansk"){.wikilink} from [St. Petersburg](St._Petersburg "St. Petersburg"){.wikilink}. Winter 2001.](2001_Hitch-hiking_in_Russia.jpg "Sigurdas hitch-hiking towards Murmansk from St. Petersburg. Winter 2001."){width="280"} In spite of popular belief about the dangers of Russia, and perceived problems with the police, as a hitch hiker you will more than likely have no problems in the country. Police will usually not bother you at all, especially when they know you are a foreigner (except at the border - that is another matter). You should also avoid drunk people and people who look aпgressive or look like \"gopniks\". and as long as you take the usual precautions, you will not find yourself in danger from any person - the cold however, in winter time, is a much bigger issue. Being offered copious amounts of alcohol can also be a problem!
 
 Some consider Russian roads are not among the safest on Earth; this might or might not be true. The concentrartion of dashing driving is higher than in Europe. Many drivers and their passengers do not fasten their belts outside cities, but you always may do it for yourself.
 
@@ -155,7 +155,7 @@ I entered Russia during war with Ukraine and drone attacks. I entered with a tou
 
 I entered at the border between Georgia and Russia, just before Vladikavkaz. I was kind of stressed about how it is going to be. Everything was perfect. Russian soldiers laughed with me and even took a picture all together. My backpack was not even checked, same for phone, and I had no questions at all except where I wanted to go. Italian guy entered the same border two weeks after me and had all the opposite so I guess it depends of the day lol.
 
-Hitchhiking during the war is very changeable experience. In Ossetia and more generally in the Caucasus, it is very easy to get rides. Really. People are just so nice ! I hitchhiked all the way from the border to Rostov-on-Don. I was taken by a police officer, I crossed several military checkpoints with no problems (I was clear on my intentions, I ask them if I can do this). I literally asked a military officer in a checkpoint if they could find a car for me and he accepted. In Rostov, howeve, I waited the longest time since I am travelling by hitchhiking : 8 hours. **There are some important gas problems especially close to Ukraine.**. Of course it is not your problem as hitchhiker but I can assure you ir changes so much the psychology of the people. It means people wait maybe one hour just to fill car with gas, and when they go they don\'t want to stop again. I also tried asking for rides directly when cars were waiing in the queue but literally mo one wanted to take me. Kind of weird situation. Maybe I wasn\'t lucky. Because I was stretch on the visa and my priority was seeing friends in Moscow and Saint Petersbourg, I ended up taking a night ttain (please do it, it is a great experience!).
+Hitchhiking during the war is very changeable experience. In Ossetia and more generally in the Caucasus, it is very easy to get rides. Really. People are just so nice! I hitchhiked all the way from the border to Rostov-on-Don. I was taken by a police officer, I crossed several military checkpoints with no problems (I was clear on my intentions, I ask them if I can do this). I literally asked a military officer in a checkpoint if they could find a car for me and he accepted. In Rostov, howeve, I waited the longest time since I am travelling by hitchhiking: 8 hours. **There are some important gas problems especially close to Ukraine.**. Of course it is not your problem as hitchhiker but I can assure you ir changes so much the psychology of the people. It means people wait maybe one hour just to fill car with gas, and when they go they don\'t want to stop again. I also tried asking for rides directly when cars were waiing in the queue but literally mo one wanted to take me. Kind of weird situation. Maybe I wasn\'t lucky. Because I was stretch on the visa and my priority was seeing friends in Moscow and Saint Petersbourg, I ended up taking a night ttain (please do it, it is a great experience!).
 
 </div>
 </div>
@@ -173,7 +173,7 @@ Got into difficult situation when driver went to service station to get breakfas
 
 I got a ride through the night to moscow from Chechnya, by chechnians, in severe winter conditions, weaving in and out of cars at 100mph, with snow drifts on the highway. i witnessed a lada spinout on a snowy highway between moscow and latvia.  i regularly saw wolf-skin being sold at stalls on side of highway. Russia really is a wild place 🤪
 
-i obtained my visa in Hong Kong (UK nationals can get it here due to 6 months visitor visa waiver arrangement-need to be greater than 90 days to be classed as a resident in Russia\'s eyes, at the time mine was issued), and got it processed same-day for 100£ (50£ for next day), but i needed it urgently as it was christmas holidays the next day. didnt require accomodation, insurance or onwards travel proof.  i could only speak two words, Spasibo and Nazdrovya (sic) !!!
+i obtained my visa in Hong Kong (UK nationals can get it here due to 6 months visitor visa waiver arrangement-need to be greater than 90 days to be classed as a resident in Russia\'s eyes, at the time mine was issued), and got it processed same-day for 100£ (50£ for next day), but i needed it urgently as it was christmas holidays the next day. didnt require accomodation, insurance or onwards travel proof.  i could only speak two words, Spasibo and Nazdrovya (sic)!!!
 
 </div>
 </div>
@@ -185,15 +185,12 @@ i obtained my visa in Hong Kong (UK nationals can get it here due to 6 months vi
 - [Russian backpacker & hitchhiker\'s forum](http://www.bpclub.ru/index.php)
 - [Academy of Free Travel, Moscow based hitchhiking club](http://avp.travel.ru/)
 - [Livejournal \'Vpiska\' community](http://vpiska.livejournal.com), mostly but speakers are also welcome
-- [Russian](http://ru_autostop.livejournal.com) hitchhiking communities. , but you can ask questions and get replies in
+- [Russian](http://ru_autostop.livejournal.com) hitchhiking communities., but you can ask questions and get replies in
 - [Hitchhiking in the Russian far east](http://takemeeast.blogspot.com/search/label/russia)
 
 [ ](Category:Russia " "){.wikilink} [Category:Eastern Europe](Category:Eastern_Europe "Category:Eastern Europe"){.wikilink} [Category:Asia](Category:Asia "Category:Asia"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Russia](https://hitchwiki.org/en/Russia)  
+Source: [Russia](https://hitchwiki.org/en/Russia)
 License: CC-BY-SA-4.0

@@ -33,10 +33,7 @@ There are checkpoints when entering and leaving most of the cities. Furthermore 
 
 [Category:Northern Africa](Category:Northern_Africa "Category:Northern Africa"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Libya](https://hitchwiki.org/en/Libya)  
+Source: [Libya](https://hitchwiki.org/en/Libya)
 License: CC-BY-SA-4.0

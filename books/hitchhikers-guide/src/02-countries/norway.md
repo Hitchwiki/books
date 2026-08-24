@@ -95,7 +95,7 @@ Norwegian law does not regulate hitchhiking (*haiking*); it regulates who may be
 
 ### License plates {#license_plates}
 
-There is a coding for areas: the two first letters identify the region in which the vehicle is first registered, but as the plates migrate with the vehicle and Norwegians travel pretty much all around the country, it\'s not something hitchhikers rely on. See also [List of codes on Wikipedia](:wikipedia:Vehicle_registration_plates_of_Norway#Prefixes_and_sequence_numbers "List of codes on Wikipedia"){.wikilink}
+There is a coding for areas: the two first letters identify the region in which the vehicle is first registered, but as the plates migrate with the vehicle and Norwegians travel pretty much all around the country, it\'s not something hitchhikers rely on. See also List of codes on Wikipedia
 
 Vehicles with Norwegian **green license plates do not have back seats**. So if you are not traveling alone, hitching a ride with such a vehicle is of little use. Some vans have a double bench for passengers in front, but except for those, green plates means seating for one passenger only. Even if it is a vehicle that had back seats when it left the factory, they will have been removed upon importation to Norway. This is done for tax reasons. Vehicles affected by this include **almost all pick-up trucks *including* 4-door models**, and some minivans and SUVs. Also some old station wagons.
 
@@ -259,7 +259,7 @@ consider a complete day (with as much light hours as possible) for [Oslo](Oslo "
 
 **Distances** - Note: By car, not including waiting time and change of rides:
 
-- Oslo - Bergen : ca. 7 hours
+- Oslo - Bergen: ca. 7 hours
 - Oslo - Trondheim: ca. 7 hours
 - Oslo - Kristiandsand: ca. 4 hours
 - Oslo - Stavanger: ca. 7 hours
@@ -270,7 +270,7 @@ consider a complete day (with as much light hours as possible) for [Oslo](Oslo "
 - Trondheim - Tromsø: 15 hours
 - Most southern point of Norway(Lindesnes) - northern point (Nordkapp): ca. 1 day, 8 hours.
 
-Hope that\'s of any help :)
+Hope that\'s of any help:)
 
 ## Useful Language Bits {#useful_language_bits}
 
@@ -304,7 +304,7 @@ Additionally, the consonant J and the combination GJ is pronounced the same way 
 
 <div class="hw-exp-text">
 
-Hitchhiked all the Norway from far North to South in 20 days (Alta-Stavanger-Oslo). I would divide Norway in two *countries* - North and South (let\'s assume Mosjoen is an imaginary *border*). People in the North are very nice and friendly, you do not wait for a ride much (1-30min), and it is mostly Norwegians who give you a ride. You go south, it is getting more and more difficult, especially around the Oslo-Stavanger-Trondheim triangle. You can get a ride after 5 min, but also after 2 hours (Rjukan was the most terrible experience). Not more than 10% of Norwegians will pick you up in the south - they are afraid, not that happy with the immigrants, and that makes them very untrustworthy towards any foreign face. A bunch of German tourists gave me a ride, Dutch, guest workers, etc. If I have to grade my experience - North 3.5 out of 5, South 2 out of 5. Oh yes, one more important thing. In the North, people could stop anywhere, but better at bus stops. In the South, you MUST be at the designated stop as people really got hectic about it. :)
+Hitchhiked all the Norway from far North to South in 20 days (Alta-Stavanger-Oslo). I would divide Norway in two *countries* - North and South (let\'s assume Mosjoen is an imaginary *border*). People in the North are very nice and friendly, you do not wait for a ride much (1-30min), and it is mostly Norwegians who give you a ride. You go south, it is getting more and more difficult, especially around the Oslo-Stavanger-Trondheim triangle. You can get a ride after 5 min, but also after 2 hours (Rjukan was the most terrible experience). Not more than 10% of Norwegians will pick you up in the south - they are afraid, not that happy with the immigrants, and that makes them very untrustworthy towards any foreign face. A bunch of German tourists gave me a ride, Dutch, guest workers, etc. If I have to grade my experience - North 3.5 out of 5, South 2 out of 5. Oh yes, one more important thing. In the North, people could stop anywhere, but better at bus stops. In the South, you MUST be at the designated stop as people really got hectic about it.:)
 
 </div>
 </div>
@@ -315,10 +315,7 @@ Hitchhiked all the Norway from far North to South in 20 days (Alta-Stavanger-Osl
 
 [E6](Category:E6 "E6"){.wikilink} [Category:Norway](Category:Norway "Category:Norway"){.wikilink} [Category:Northern Europe](Category:Northern_Europe "Category:Northern Europe"){.wikilink} [Category:East Route from North Cape to Cape of Good Hope](Category:East_Route_from_North_Cape_to_Cape_of_Good_Hope "Category:East Route from North Cape to Cape of Good Hope"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Norway](https://hitchwiki.org/en/Norway)  
+Source: [Norway](https://hitchwiki.org/en/Norway)
 License: CC-BY-SA-4.0

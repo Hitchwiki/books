@@ -32,14 +32,11 @@ Don\'t drink alcohol or consume drugs while hitchhiking.
 - Sunstrokes can occur if one can\'t take shelter in the shades.
 - Through sweating your body looses water and minerals. It\'s a good idea to drink a lot of water to compensate for dehydration. Don\'t forget to restore your mineral levels, too. Always keep in mind to obtain some water while in town centres in summers and especially when traversing arid territory, though, as good hitchhiking spots usually tend to be in the middle of nowhere and you really cannot know how long it will take that sweet, air-conditioned car to arrive.
 
-Also don\'t overestimate these issues. Truck drivers have to deal with diesel fumes most of the time. [trash:Health](trash:Health "trash:Health"){.wikilink}
+Also don\'t overestimate these issues. Truck drivers have to deal with diesel fumes most of the time.
 
 [Category:General info](Category:General_info "Category:General info"){.wikilink} [Category:Health](Category:Health "Category:Health"){.wikilink}
 
-
-
-
 ---
 
-Source: [Health](https://hitchwiki.org/en/Health)  
+Source: [Health](https://hitchwiki.org/en/Health)
 License: CC-BY-SA-4.0

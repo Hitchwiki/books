@@ -1,6 +1,6 @@
 # Mauritius
 
-\'\'\'\'\'\' is an island nation off the southeast coast of the [African](Africa "African"){.wikilink} continent in the southwest Indian Ocean, about 900 kilometres east of [Madagascar](Madagascar "Madagascar"){.wikilink}. ![](Mauritius_Ostküste.jpg "Mauritius_Ostküste.jpg"){width="400"}
+\'\'\'\'\'\' is an island nation off the southeast coast of the [African](Africa "African"){.wikilink} continent in the southwest Indian Ocean, about 900 kilometres east of [Madagascar](Madagascar "Madagascar"){.wikilink}.![](Mauritius_Ostküste.jpg "Mauritius_Ostküste.jpg"){width="400"}
 
 # Hitchhiking
 
@@ -30,10 +30,7 @@ Hitchhiking a sailing boat is a good to way to get to and out of Mauritius. The 
 
 [Category:Eastern Africa](Category:Eastern_Africa "Category:Eastern Africa"){.wikilink} [Category:Africa](Category:Africa "Category:Africa"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Mauritius](https://hitchwiki.org/en/Mauritius)  
+Source: [Mauritius](https://hitchwiki.org/en/Mauritius)
 License: CC-BY-SA-4.0

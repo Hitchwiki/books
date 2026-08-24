@@ -22,10 +22,7 @@ People may recommend against hitchhiking or camping around urban areas like Nass
 
 [Category:Island](Category:Island "Category:Island"){.wikilink} [Category:Caribbean](Category:Caribbean "Category:Caribbean"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Bahamas](https://hitchwiki.org/en/Bahamas)  
+Source: [Bahamas](https://hitchwiki.org/en/Bahamas)
 License: CC-BY-SA-4.0

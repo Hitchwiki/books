@@ -2,7 +2,7 @@
 
 **Kazakhstan** (also spelled **Kazakstan**) is a country in [Central Asia](Central_Asia "Central Asia"){.wikilink}.
 
-![[Korn](User:Korn "Korn"){.wikilink} making friends with kazakh police](Polizei_in_Kasachstan.jpg "Korn making friends with kazakh police"){width="350"} ![](RS_Marta_Kazakhstan.jpg "RS_Marta_Kazakhstan.jpg"){width="270"}
+![[Korn](User:Korn "Korn"){.wikilink} making friends with kazakh police](Polizei_in_Kasachstan.jpg "Korn making friends with kazakh police"){width="350"}![](RS_Marta_Kazakhstan.jpg "RS_Marta_Kazakhstan.jpg"){width="270"}
 
 ## Hitchhiking
 
@@ -76,10 +76,7 @@ Some Beeline SIM-cards a bit expensive but no need any ID(2010). SMS 0,05USD. Mo
 
 [Category:Asia](Category:Asia "Category:Asia"){.wikilink} [Category:Central Asia](Category:Central_Asia "Category:Central Asia"){.wikilink} [\*](Category:Kazakhstan "*"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Kazakhstan](https://hitchwiki.org/en/Kazakhstan)  
+Source: [Kazakhstan](https://hitchwiki.org/en/Kazakhstan)
 License: CC-BY-SA-4.0

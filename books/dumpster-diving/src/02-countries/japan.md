@@ -38,7 +38,7 @@ Japanese people get rid of things by leaving them on the streets for garbageman 
 
 - [Tokyo](Tokyo "Tokyo"){.wikilink}
 - [Osaka](Osaka "Osaka"){.wikilink}
-- ..
+-..
 
 ## Links
 
@@ -46,19 +46,13 @@ Japanese people get rid of things by leaving them on the streets for garbageman 
 - [Sharemo - a social sharing service for exchanging goods](http://www.enigmo.co.jp/business/sharemo_e.html)
 - [Eat More Trash: Dumpster Diving in Japan](http://www.seekjapan.jp/article/1726/Eat+More+Trash:+Dumpster+Diving+in+Japan)
 
-[hitch:Japan](hitch:Japan "hitch:Japan"){.wikilink}
-
-[nomad:Japan](nomad:Japan "nomad:Japan"){.wikilink}
-
 [Category:Japan](Category:Japan "Category:Japan"){.wikilink} [Category:Asia](Category:Asia "Category:Asia"){.wikilink}
-
 
 ![Japan backlot trash.jpg‎](../../images/japan-backlot-trashjpg.jpg)
 
 *Japan backlot trash.jpg‎ — Sigurdas*
 
-
 ---
 
-Source: [Japan](https://trashwiki.org/en/Japan)  
+Source: [Japan](https://trashwiki.org/en/Japan)
 License: CC-BY-NC-SA-4.0

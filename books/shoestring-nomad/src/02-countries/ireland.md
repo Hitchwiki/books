@@ -4,12 +4,7 @@
 
 - [Ireland's 10 best parks](http://www.irishtimes.com/life-and-style/travel/ireland-s-10-best-parks-for-adventure-and-activity-1.2617470) for adventure and activity.
 
-[trash:Ireland](trash:Ireland "trash:Ireland"){.wikilink} [couch:Ireland](couch:Ireland "couch:Ireland"){.wikilink} [cash:Ireland](cash:Ireland "cash:Ireland"){.wikilink}
-
-
-
-
 ---
 
-Source: [Ireland](https://nomadwiki.org/en/Ireland)  
+Source: [Ireland](https://nomadwiki.org/en/Ireland)
 License: CC-BY-SA-4.0

@@ -29,11 +29,11 @@ make all
 
 Allowlists live in `scripts/titles.py` and Drupal skip-types in `scripts/compile_drupal_sql.py`.
 
-**Book shape (Hitchwiki, Trashwiki, Nomadwiki):** generic practice first (`01-practice`), then a geo section (`02-countries`, Europe-first by region, curated cities nested under the matching country with capitals and the main cities first), then original outlook (`04-outlook`) that sends people out to try it and to edit the live wiki. Shoestring Nomad parks Casa Robino stories in `03-stories`, after countries and before outlook, so the close is still last.
+**Book shape (Hitchwiki, Trashwiki, Nomadwiki):** generic practice first (`01-practice`), then a geo section (`02-countries`, Europe first, then North America and the rest of the Americas, then other regions; curated cities nested under the matching country with capitals and the main cities first), then original outlook (`04-outlook`) that sends people out to try it and to edit the live wiki. Hitchhikers Guide parks online resources in `03-resources`, after countries and before outlook. Dumpster Diving parks related websites in the same slot. Shoestring Nomad parks Casa Robino stories in `03-stories`, after countries and before outlook, so the close is still last.
 
 **Use:** evergreen how-to; country overviews; Drupal stories/tips; locked originals (front matter, part intros, outlook, history commentary, software described-not-dumped, granted forewords). A curated city set is optional and must strip pin lists.
 
-**Do not use:** `User:`/`Talk:`/`File:`/`Template:` chrome; continent hubs as empty chapters; named ramps/dumpsters/hostels/GPS; supermarket brand pages; shoplifting; member PII; CS.com / Couchers brand; WikiLeaks reprint; software source; Drupal polls/ads/forums; Random Roads third-party book reviews; Nomadwiki pages that belong in another book (stub + pointer); NC text in a BY-SA book.
+**Do not use:** `User:`/`Talk:`/`File:`/`Template:` chrome; continent hubs as empty chapters; named ramps/dumpsters/hostels/GPS; supermarket brand pages; shoplifting; member PII; CS.com / Couchers brand; WikiLeaks reprint; software source; Drupal polls/ads/forums; Random Roads third-party book reviews; Nomadwiki pages that belong in another book (stub + pointer); NC text in a BY-SA book; wiki news/news-archive pages (stale the day they are compiled); interwiki sister links (`hitch:`, `trash:`, `nomad:`, `wikipedia:`, and the rest — they do not resolve in the book).
 
 Hospitality Exchange is an **explicit title list**, not the whole Trustroots dump. Change `titles.py` for every future fetch; use `omit.txt` for this edition only.
 

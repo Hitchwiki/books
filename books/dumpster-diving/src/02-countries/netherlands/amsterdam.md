@@ -34,7 +34,7 @@ See also [the addresses](http://www.hollandsemarkten.nl/markten/?nav_id=1.1&g_id
 
 ## Garbage
 
-![ Picking \"trash\" in Amsterdam.](2012.06_eurotrip_Amsterdam_trash.jpg " Picking "trash" in Amsterdam."){width="300"} ![ \"Trash\" in Amsterdam. Choose your furniture, for free!](2012.06_eurotrip_Amsterdam_trash2.jpg " "Trash" in Amsterdam. Choose your furniture, for free!"){width="300"} Each neighborhood has a specific day when it is allowed to put discarded bulky items and other similar [garbage](garbage "garbage"){.wikilink} out on the street. People put out literally everything, from huge [furniture](furniture "furniture"){.wikilink} to ovens and all sorts of devices and other handy things meant for the household which means it is possible to gather enough of furniture for an appartment with some luck. Best time to search is in the evenings, especially in areas that are being renovated. You\'ll also find that there are people who are actually collecting [stuff](stuff "stuff"){.wikilink} so that they could sell it later on in someplace elsewhere. According to some, best areas to do discarded stuff picking are *Pijp* and *Oud-Zuid*. General information about trash in Amsterdam can be found [here](http://opera.amsterdam.asp4all.nl/afval).
+![ Picking \"trash\" in Amsterdam.](2012.06_eurotrip_Amsterdam_trash.jpg " Picking "trash" in Amsterdam."){width="300"}![ \"Trash\" in Amsterdam. Choose your furniture, for free!](2012.06_eurotrip_Amsterdam_trash2.jpg " "Trash" in Amsterdam. Choose your furniture, for free!"){width="300"} Each neighborhood has a specific day when it is allowed to put discarded bulky items and other similar [garbage](garbage "garbage"){.wikilink} out on the street. People put out literally everything, from huge [furniture](furniture "furniture"){.wikilink} to ovens and all sorts of devices and other handy things meant for the household which means it is possible to gather enough of furniture for an appartment with some luck. Best time to search is in the evenings, especially in areas that are being renovated. You\'ll also find that there are people who are actually collecting [stuff](stuff "stuff"){.wikilink} so that they could sell it later on in someplace elsewhere. According to some, best areas to do discarded stuff picking are *Pijp* and *Oud-Zuid*. General information about trash in Amsterdam can be found [here](http://opera.amsterdam.asp4all.nl/afval).
 
 Good trash days are (all maps in Dutch, although they display color-coded areas with a list of trash days below *note: links need updating due to restructuring of city-councils*):
 
@@ -149,16 +149,9 @@ Another directory and portable application is [Boskoi](http://www.boskoi.org/).
 
 - [Dumpster diving guide at Casa Robino](http://casarobino.org/2011/03/dumpster-diving).
 
-[hitch:Amsterdam](hitch:Amsterdam "hitch:Amsterdam"){.wikilink}
-
-[share:Amsterdam](share:Amsterdam "share:Amsterdam"){.wikilink} [vegan:Amsterdam](vegan:Amsterdam "vegan:Amsterdam"){.wikilink} [nomad:Amsterdam](nomad:Amsterdam "nomad:Amsterdam"){.wikilink}
-
 [Category:Amsterdam](Category:Amsterdam "Category:Amsterdam"){.wikilink}
-
-
-
 
 ---
 
-Source: [Amsterdam](https://trashwiki.org/en/Amsterdam)  
+Source: [Amsterdam](https://trashwiki.org/en/Amsterdam)
 License: CC-BY-NC-SA-4.0

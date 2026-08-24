@@ -76,6 +76,14 @@ body.book-shoestring-nomad nav#TOC {
   background: var(--bg);
   -webkit-overflow-scrolling: touch;
 }
+body.book-shoestring-nomad nav#TOC .toc-chrome {
+  position: sticky;
+  top: 0;
+  z-index: 2;
+  background: var(--bg);
+  padding: 0 0 0.35rem;
+  margin: 0 0 0.15rem;
+}
 body.book-shoestring-nomad nav#TOC .toc-title {
   font-size: 1.15rem;
   margin: 0 0 0.4rem;
@@ -84,7 +92,7 @@ body.book-shoestring-nomad nav#TOC .toc-title {
 body.book-shoestring-nomad nav#TOC .toc-filter {
   width: 100%;
   box-sizing: border-box;
-  margin: 0.35rem 0 0.7rem;
+  margin: 0.35rem 0 0.45rem;
   padding: 0.4rem 0.55rem;
   border: 1px solid var(--rule);
   background: var(--bg);
@@ -95,6 +103,15 @@ body.book-shoestring-nomad nav#TOC .toc-empty {
   color: var(--muted);
   margin: 0 0 0.6rem;
 }
+body.book-shoestring-nomad nav#TOC .toc-parts {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem 0.85rem;
+  margin: 0 0 0.35rem;
+  font-size: 0.88rem;
+  font-weight: 600;
+}
+body.book-shoestring-nomad nav#TOC .toc-parts a { color: var(--accent); }
 body.book-shoestring-nomad nav#TOC ul {
   list-style: none;
   margin: 0;
@@ -325,19 +342,15 @@ body.book-shoestring-nomad .cover-page.cover-has-photo::before {
 body.book-shoestring-nomad .cover-has-photo .cover-kicker,
 body.book-shoestring-nomad .cover-has-photo .cover-main,
 body.book-shoestring-nomad .cover-has-photo .cover-foot,
-body.book-shoestring-nomad .cover-has-photo .cover-photo-credit,
 body.book-shoestring-nomad .cover-has-photo .cover-logo-wrap {
   position: relative;
   z-index: 2;
 }
-body.book-shoestring-nomad .cover-photo-credit {
-  margin: 0 0 0.35rem;
-  font-size: 0.68rem;
-  letter-spacing: 0.04em;
-  text-transform: none;
-  opacity: 0.78;
-  position: relative;
-  z-index: 2;
+body.book-shoestring-nomad .photo-credit {
+  margin: 2rem 0 2.5rem;
+  font-size: 0.88rem;
+  color: var(--muted);
+  max-width: 28rem;
 }
 
 @media print {

@@ -20,12 +20,7 @@ Montreal is a very bum-friendly city. There are many food and clothing banks tha
 
 [Garbage Finds](http://garbagefinds.com/) - A blog about scavenging in Montreal
 
-[hitch:Montreal](hitch:Montreal "hitch:Montreal"){.wikilink} [nomad:Montreal](nomad:Montreal "nomad:Montreal"){.wikilink}
-
-
-
-
 ---
 
-Source: [Montreal](https://trashwiki.org/en/Montreal)  
+Source: [Montreal](https://trashwiki.org/en/Montreal)
 License: CC-BY-NC-SA-4.0

@@ -10,10 +10,7 @@ In [Barcelona](Barcelona "Barcelona"){.wikilink}, [Spain](Spain "Spain"){.wikili
 
 [Category:General info](Category:General_info "Category:General info"){.wikilink}
 
-
-
-
 ---
 
-Source: [Hard rubbish](https://trashwiki.org/en/Hard_rubbish)  
+Source: [Hard rubbish](https://trashwiki.org/en/Hard_rubbish)
 License: CC-BY-NC-SA-4.0

@@ -140,8 +140,8 @@ Sub-regions used here are ones adopted by the EU and used by \'London\'s Poverty
 
 Unfortunately, Kingston is so overrun with chain shops that they all seem to be connected with some underground waste disposal scheme hidden in the depths of the carparks, however, on a good day there are still a few places there. There are two markets still run amongst the commercial madness:
 
-1.  *Monday market* (next to the leisure centre) that mostly sells clothes but there is some gleaning of fruit to be done around lunchtime when the stalls pack up.
-2.  *Food market*, held daily in the main market square. These pack up around 4 in winter and five or half five in summer, a lot of fruit and veg is left on the floor and the rest is in big dumpsters around the back of the stalls. Sometimes there is cheese too. Get there quick though, because this is the fist place the rubbish collectors go on their rounds! `<small>`{=html}*(Last checked: Dec.2011)* `</small>`{=html}
+1. *Monday market* (next to the leisure centre) that mostly sells clothes but there is some gleaning of fruit to be done around lunchtime when the stalls pack up.
+2. *Food market*, held daily in the main market square. These pack up around 4 in winter and five or half five in summer, a lot of fruit and veg is left on the floor and the rest is in big dumpsters around the back of the stalls. Sometimes there is cheese too. Get there quick though, because this is the fist place the rubbish collectors go on their rounds! `<small>`{=html}*(Last checked: Dec.2011)* `</small>`{=html}
 
 - `<small>`{=html}*add a place?*`</small>`{=html}
 
@@ -202,15 +202,15 @@ Address: 780 Bath Rd, Hounslow, Greater London TW5 9SL Location of the bins: Rou
 
 ### Chiswick
 
-- *Marks and Spencer* on Chiswick High road. Sundays are good. `<small>`{=html}*(Last checked: ?)* `</small>`{=html}
-- *As Nature Intended*, next to Chiswick Police Station. On Sundays they close slightly later (around 8.30). `<small>`{=html}*(Last checked: ?)* `</small>`{=html}
-- Bins (check all of them) behind the fruit and veg stall opposite the methodist church at the T junction between Dukes Avenue and Chiswick High Road. These also have pastries from the nearby bakery. `<small>`{=html}*(Last checked: ?)* `</small>`{=html}
-- Any of the cafes. Check *Turnham Green* too. Sometimes *Mortimer and Bennet* have a couple of bags of bread and things on Sundays. `<small>`{=html}*(Last checked: ?)* `</small>`{=html}
+- *Marks and Spencer* on Chiswick High road. Sundays are good. `<small>`{=html}*(Last checked:?)* `</small>`{=html}
+- *As Nature Intended*, next to Chiswick Police Station. On Sundays they close slightly later (around 8.30). `<small>`{=html}*(Last checked:?)* `</small>`{=html}
+- Bins (check all of them) behind the fruit and veg stall opposite the methodist church at the T junction between Dukes Avenue and Chiswick High Road. These also have pastries from the nearby bakery. `<small>`{=html}*(Last checked:?)* `</small>`{=html}
+- Any of the cafes. Check *Turnham Green* too. Sometimes *Mortimer and Bennet* have a couple of bags of bread and things on Sundays. `<small>`{=html}*(Last checked:?)* `</small>`{=html}
 - `<small>`{=html}*add a place?*`</small>`{=html}
 
 ### Hammersmith
 
-- *Marks and Spencer* on Kings Street. Beware of the blue dye though. `<small>`{=html}*(Last checked: ?)* `</small>`{=html}
+- *Marks and Spencer* on Kings Street. Beware of the blue dye though. `<small>`{=html}*(Last checked:?)* `</small>`{=html}
 - `<small>`{=html}*add a place?*`</small>`{=html}
 
 ### Kensington and Chelsea {#kensington_and_chelsea}
@@ -232,12 +232,7 @@ Address: 780 Bath Rd, Hounslow, Greater London TW5 9SL Location of the bins: Rou
 - *Waitrose* near Nesham st.. Beware of the rotating spikes bar on the other side of the bike rack, it is possible to climb down the gate instead. People have been caught by security guards before, be quiet and look out for traffic and passers by. `<small>`{=html}*(Last checked: March 2012)* `</small>`{=html}
 - `<small>`{=html}*add a place?*`</small>`{=html}
 
-[hitch:London](hitch:London "hitch:London"){.wikilink} [nomad:London](nomad:London "nomad:London"){.wikilink}
-
-
-
-
 ---
 
-Source: [London](https://trashwiki.org/en/London)  
+Source: [London](https://trashwiki.org/en/London)
 License: CC-BY-NC-SA-4.0

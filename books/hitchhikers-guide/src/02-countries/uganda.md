@@ -24,10 +24,7 @@ Many roads, especially around the UN depot in Entebbe and close to the borders o
 
 [Category:Eastern Africa](Category:Eastern_Africa "Category:Eastern Africa"){.wikilink} [Category:Africa](Category:Africa "Category:Africa"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Uganda](https://hitchwiki.org/en/Uganda)  
+Source: [Uganda](https://hitchwiki.org/en/Uganda)
 License: CC-BY-SA-4.0

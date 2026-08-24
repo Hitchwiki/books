@@ -43,10 +43,7 @@ Read the small print of the insurance contract very well so you know when they w
 
 [Category:General info](Category:General_info "Category:General info"){.wikilink}
 
-
-
-
 ---
 
-Source: [Insurance](https://hitchwiki.org/en/Insurance)  
+Source: [Insurance](https://hitchwiki.org/en/Insurance)
 License: CC-BY-SA-4.0

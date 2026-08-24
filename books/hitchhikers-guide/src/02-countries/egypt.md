@@ -75,10 +75,7 @@ After getting the exit stamp, you need to board a vehicle once again as they wil
 
 [Category:Northern Africa](Category:Northern_Africa "Category:Northern Africa"){.wikilink} [Category:Egypt](Category:Egypt "Category:Egypt"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Egypt](https://hitchwiki.org/en/Egypt)  
+Source: [Egypt](https://hitchwiki.org/en/Egypt)
 License: CC-BY-SA-4.0

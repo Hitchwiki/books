@@ -40,19 +40,13 @@ The Netherlands seems to be quite good for getting things for free; as most bank
 - [Haal gratis af](http://www.haalgratisaf.nl) (in Dutch)
 - [Bulletin board at Starpagina](http://gratis.startpagina.nl/prikbord) (in Dutch)
 
-[hitch:Netherlands](hitch:Netherlands "hitch:Netherlands"){.wikilink}
-
-[share:Netherlands](share:Netherlands "share:Netherlands"){.wikilink} [vegan:Netherlands](vegan:Netherlands "vegan:Netherlands"){.wikilink} [nomad:Netherlands](nomad:Netherlands "nomad:Netherlands"){.wikilink}
-
 [Category:Netherlands](Category:Netherlands "Category:Netherlands"){.wikilink}
-
 
 ![Freegan rotterdam.jpg](../../images/freegan-rotterdamjpg.jpg)
 
 *Freegan rotterdam.jpg — Sigurdas*
 
-
 ---
 
-Source: [Netherlands](https://trashwiki.org/en/Netherlands)  
+Source: [Netherlands](https://trashwiki.org/en/Netherlands)
 License: CC-BY-NC-SA-4.0

@@ -20,12 +20,7 @@
 
 - Crownpoint retail, Denton. M&S have a metal container, Tesco store inside, small bag of sandwhiches from Boots and police called `<small>`{=html}*(Last checked: June 2011)*`</small>`{=html}
 
-[hitch:Manchester](hitch:Manchester "hitch:Manchester"){.wikilink} [nomad:Manchester](nomad:Manchester "nomad:Manchester"){.wikilink}
-
-
-
-
 ---
 
-Source: [Manchester](https://trashwiki.org/en/Manchester)  
+Source: [Manchester](https://trashwiki.org/en/Manchester)
 License: CC-BY-NC-SA-4.0

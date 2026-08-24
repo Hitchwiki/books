@@ -22,10 +22,7 @@ Something that works in most of West Africa; if someone is hesistant about takin
 
 [Category:Africa](Category:Africa "Category:Africa"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [The Gambia](https://hitchwiki.org/en/The_Gambia)  
+Source: [The Gambia](https://hitchwiki.org/en/The_Gambia)
 License: CC-BY-SA-4.0

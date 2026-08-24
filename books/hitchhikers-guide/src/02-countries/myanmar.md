@@ -108,10 +108,7 @@ traveled from Mandalay to Kawthaung over 28 days in January 2020 with partner. T
 
 [Category:Asia](Category:Asia "Category:Asia"){.wikilink} [\*](Category:Myanmar "*"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink}
 
-
-
-
 ---
 
-Source: [Myanmar](https://hitchwiki.org/en/Myanmar)  
+Source: [Myanmar](https://hitchwiki.org/en/Myanmar)
 License: CC-BY-SA-4.0

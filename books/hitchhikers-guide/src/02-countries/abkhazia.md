@@ -60,10 +60,7 @@ Entering Abkhazia is illegal according to Georgian law. That\'s why travelling f
 
 [Category:Asia](Category:Asia "Category:Asia"){.wikilink} [Category:Abkhazia](Category:Abkhazia "Category:Abkhazia"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Abkhazia](https://hitchwiki.org/en/Abkhazia)  
+Source: [Abkhazia](https://hitchwiki.org/en/Abkhazia)
 License: CC-BY-SA-4.0

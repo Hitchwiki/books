@@ -8,17 +8,15 @@ Some trash compactors are left unlocked; others must be forcibly opened or disas
 
 - Can someone please post some info about accessing food inside compactors that are kind of connected to the buildings? You can\'t see the place where the food goes in because that is inside the building. Seems there is nowhere to open them easily from the outside. Or maybe need special tools/tricks?? Any info is appreciated!
 
-[here](http://dumpsterdiversparadise.com/the_compactor.html) it seems there is no way to do it, but i would love for someone to prove them wrong : an idea might be cutting the power cables to make the things unusable and maybe with time they would get normal bins..anyone tried?
+[here](http://dumpsterdiversparadise.com/the_compactor.html) it seems there is no way to do it, but i would love for someone to prove them wrong: an idea might be cutting the power cables to make the things unusable and maybe with time they would get normal bins..anyone tried?
 
 [Category:General info](Category:General_info "Category:General info"){.wikilink}
-
 
 ![Compactor.jpg](../../images/compactorjpg.jpg)
 
 *Compactor.jpg — Sigurdas*
 
-
 ---
 
-Source: [Compactor](https://trashwiki.org/en/Compactor)  
+Source: [Compactor](https://trashwiki.org/en/Compactor)
 License: CC-BY-NC-SA-4.0

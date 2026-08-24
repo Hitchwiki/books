@@ -21,7 +21,7 @@ Train to Papakura and then caught the bus to Drury which is a few minutes down t
 
 I actually now think this is the best option, as it saves you a few bucks and you have to sit on a train for an hour otherwise anyway. You\'ll likely be dropped in Papakura.
 
-1.  Walk to the end of Hobson Street, where it crosses Pitt Street. Cross the road to where there is a left only turning lane onto the motorway. Stand on the pavement about 3-4 meters away from the lights. The cars almost always have to stop here before going onto the motorway. I\'ve used this spot twice and it only took 20 minutes each time.
+1. Walk to the end of Hobson Street, where it crosses Pitt Street. Cross the road to where there is a left only turning lane onto the motorway. Stand on the pavement about 3-4 meters away from the lights. The cars almost always have to stop here before going onto the motorway. I\'ve used this spot twice and it only took 20 minutes each time.
 
 EDIT on 21/06/2021: the author must have meant that you should stand at the Pitt street, right at the left lane that is turning to the motorway.
 
@@ -35,10 +35,7 @@ There are some BAD SPOTS to get rides from in Auckland. So you may wish to avoid
 
 **Hobson Street** - although it looks like a good spot, it\'s better to walk to the intersection with Pitt Street as above. I think there\'s too much traffic for people to safely stop. I actually spoke to some guys who waited 6 hours here without getting a lift.
 
-
-
-
 ---
 
-Source: [Auckland](https://hitchwiki.org/en/Auckland)  
+Source: [Auckland](https://hitchwiki.org/en/Auckland)
 License: CC-BY-SA-4.0

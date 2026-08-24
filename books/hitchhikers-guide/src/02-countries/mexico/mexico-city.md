@@ -7,10 +7,7 @@
 
 The metro of Mexico is a great way to get around for small money open until midnight. Minibuses (combis) are 2.50 for the first 5km, 3 Pesos 5-12km and 4 Pesos above.
 
-
-
-
 ---
 
-Source: [Mexico City](https://hitchwiki.org/en/Mexico_City)  
+Source: [Mexico City](https://hitchwiki.org/en/Mexico_City)
 License: CC-BY-SA-4.0

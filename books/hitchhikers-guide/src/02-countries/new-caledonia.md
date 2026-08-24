@@ -38,10 +38,7 @@ Most likely you will arrive by plane or by boat in [Nouméa](Nouméa "Nouméa"){
 
 [Category:Island](Category:Island "Category:Island"){.wikilink} [Category:France](Category:France "Category:France"){.wikilink} [Category:Oceania](Category:Oceania "Category:Oceania"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [New Caledonia](https://hitchwiki.org/en/New_Caledonia)  
+Source: [New Caledonia](https://hitchwiki.org/en/New_Caledonia)
 License: CC-BY-SA-4.0

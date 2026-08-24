@@ -1,10 +1,10 @@
 <!-- editorial:lock -->
 
-# Part III — Your turn
+# Part IV — Your turn
 
 You have enough. The first ride is not a round-the-world expedition. It is a stretch of road, a place a car can stop, and a hand in the air.
 
-The practice pages exist so you waste less time on a bad shoulder. The country and city pages exist so a border or a ring road does not surprise you. None of that replaces the five minutes of standing there looking slightly ridiculous.
+The practice pages exist so you waste less time on a bad shoulder. The country and city pages exist so a border or a ring road does not surprise you. The resource pages exist so you can find the live map and the rest of the network. None of that replaces the five minutes of standing there looking slightly ridiculous.
 
 People will pass. That is the job. Someone will stop. That is also the job. You get in, say where you are going, and the day turns into a conversation you could not have bought.
 

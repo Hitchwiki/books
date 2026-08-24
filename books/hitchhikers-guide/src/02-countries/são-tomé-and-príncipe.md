@@ -10,10 +10,7 @@
 
 [Category:Africa](Category:Africa "Category:Africa"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [São Tomé and Príncipe](https://hitchwiki.org/en/São_Tomé_and_Príncipe)  
+Source: [São Tomé and Príncipe](https://hitchwiki.org/en/São_Tomé_and_Príncipe)
 License: CC-BY-SA-4.0

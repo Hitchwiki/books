@@ -23,7 +23,7 @@ Stopping at most junctions is possible. An exception for this consists of the fe
 
 Some roads like 85, 70, are partly highway which mean you better ask or check before whether there is but station/ place you can stop due there are a lot of interchanges. In Israel is really common to use maps navigators apps (as Wase, google maps). So often drivers don\'t really know if they exctly goes through your destination. If you have smartphone, and you have specific destination- you better should check and even download the map, than you can see whats your hitch hike possibilities, sometime if it close enough in rural areas drivers will make detour for you as well. If in general the driver way is on your way (for exmple if you need to go to Kiryat Shmona from jerusalem and the driver go to Tiberias) you can get up to the car, and than ask politely if you can check by the driver Wase, or your google maps, where is the best junction for you to get down. Remember, always better not stand inside a city. For example- if the driver go through 90 road- I will get down in Zemach junction, becouse it\'s big rural junction. If he goes through 6 road I will get down in Tishbi Junction, just after Yokneam, from the same reason.It\'s also good to download the map becouse it\'s reduce stress, you feel that you know where you go..
 
-![Tmoon hitching to Eilat](Israel_338.jpg "Tmoon hitching to Eilat"){width="220"} ![](11321_499048026803109_1658388395_n.jpg "11321_499048026803109_1658388395_n.jpg"){width="200"}
+![Tmoon hitching to Eilat](Israel_338.jpg "Tmoon hitching to Eilat"){width="220"}![](11321_499048026803109_1658388395_n.jpg "11321_499048026803109_1658388395_n.jpg"){width="200"}
 
 The most usual way to start an hitchhiking journey is to take a bus out of town, to a junction in your direction. Almost every junction has a hitchhiking spot (the famous *[Trempiyada](Trempiyada "Trempiyada"){.wikilink}*), or at least a bus station where drivers can stop. Many drivers stop in such a place simply to drop or pick up people, not for picking you up - approaching them can still pay off well though, as often they will pick you up anyway. [guaka](User:Guaka "guaka"){.wikilink}\'s wild guesstimate is about 20% of the time, definitely worth the walk, the gesture and the smile.
 
@@ -114,24 +114,19 @@ Israel currently run 3 border terminals with [Jordan](Jordan "Jordan"){.wikilink
 
 1# In northern Israel, next to [Beit She\'an](Beit_She'an "Beit She'an"){.wikilink}, you can cross in the \"Jordan River\"/\"Sheikh Hussein\" border crossing, from which it is quite straight forward if you continue onwards to Amman.
 
-My partner and I (French and Chilean) hitchhiked across this border in April 2019. It is not allowed to walk across the border ! So you have 2 options : - you can take the shuttle bus across the noman\'s land (its costs 5 shekels/person) - you can hitchhike a car just before the border but be aware that there are not so many cars going through. We saw only 2 cars driving from Israel to Jordan in 3 hours on a monday afternoon! Cars must stop at the border entrance so it was easy to ask directly the driver to give us a ride. It looked like there was a bit more traffic on the other way from Jordan to Israel. Normally we should have pay 107 shekels (102+5) to leave the country but it appeared to be a bit cheaper as a group : we paid 311 for 3 persons (104 shekels/person). The Israeli custom officers did not ask any questions and did not open our backpacks. On the Jordan side, we did not pay nothing for the visa as we already paid online our Jordanian Pass and showed it printed. #lemondesurlepouce
+My partner and I (French and Chilean) hitchhiked across this border in April 2019. It is not allowed to walk across the border! So you have 2 options: - you can take the shuttle bus across the noman\'s land (its costs 5 shekels/person) - you can hitchhike a car just before the border but be aware that there are not so many cars going through. We saw only 2 cars driving from Israel to Jordan in 3 hours on a monday afternoon! Cars must stop at the border entrance so it was easy to ask directly the driver to give us a ride. It looked like there was a bit more traffic on the other way from Jordan to Israel. Normally we should have pay 107 shekels (102+5) to leave the country but it appeared to be a bit cheaper as a group: we paid 311 for 3 persons (104 shekels/person). The Israeli custom officers did not ask any questions and did not open our backpacks. On the Jordan side, we did not pay nothing for the visa as we already paid online our Jordanian Pass and showed it printed. #lemondesurlepouce
 
 2# In central Israel, in the West Bank, \"Allenby\"/\"King Hussein\" border crossing, separating [Jordan](Jordan "Jordan"){.wikilink} from the Israel/West Bank. The border crossing is jointly operated by Israel (for international or Israeli passengers) and the Palestinian Authority (for Palestinian passengers). This is also the most direct border crossing from [Amman](Amman "Amman"){.wikilink} to [Jerusalem](Jerusalem "Jerusalem"){.wikilink}. Crossing into Israel/West Bank require no special visa. Crossing into Jordan requires obtaining a Jordanian visa in advance, as such are not issued in the border crossing.
 
 3# In the south, 3km north of [Eilat](Eilat "Eilat"){.wikilink}, you can cross at the Arava crossing (*Yitzchak Rabin terminal*) which separates [Eilat](Eilat "Eilat"){.wikilink} from [Aqaba](Aqaba "Aqaba"){.wikilink}.
 
-This is only landborder Israel/Jordan that you can cross by walking ! At this landborder, the Jordanian visa is free of charge ! You will just have to pay the exit fees of Israel (107 shekels) ..at least for French and Chilean citizens So if you are in a budget, you should consider crossing in Eilat as it is the cheapest option ! #lemondesurlepouce
+This is only landborder Israel/Jordan that you can cross by walking! At this landborder, the Jordanian visa is free of charge! You will just have to pay the exit fees of Israel (107 shekels)..at least for French and Chilean citizens So if you are in a budget, you should consider crossing in Eilat as it is the cheapest option! #lemondesurlepouce
 
 ## Personal Experiences {#personal_experiences}
 
-[He:ישראל](He:ישראל "He:ישראל"){.wikilink}
-
 [Category:Israel](Category:Israel "Category:Israel"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
-
-
-
 
 ---
 
-Source: [Israel](https://hitchwiki.org/en/Israel)  
+Source: [Israel](https://hitchwiki.org/en/Israel)
 License: CC-BY-SA-4.0

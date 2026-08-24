@@ -46,10 +46,7 @@ While entering **Moldova**, you could face some problems when you entered from U
 
 [ ](Category:Moldova " "){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Moldova](https://hitchwiki.org/en/Moldova)  
+Source: [Moldova](https://hitchwiki.org/en/Moldova)
 License: CC-BY-SA-4.0

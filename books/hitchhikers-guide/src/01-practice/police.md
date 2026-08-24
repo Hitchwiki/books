@@ -14,10 +14,7 @@ Some hitchhikers complain that their identifications are asked by the police whi
 
 [Category:General info](Category:General_info "Category:General info"){.wikilink}
 
-
-
-
 ---
 
-Source: [Police](https://hitchwiki.org/en/Police)  
+Source: [Police](https://hitchwiki.org/en/Police)
 License: CC-BY-SA-4.0

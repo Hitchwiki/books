@@ -71,10 +71,7 @@ You will find many beaches on Prince islands, but many of them are privatised. Y
 
 Büyükada island wild camping - you can get by paid ferry there (Kadıköy, Bostancı or Kartal). Be aware that the forests are sometimes closed due to wild fires and the police might be even more strict if you\'re caught camping (not to mention the danger to yourself if there ever was a fire). You can camp on the top of the island between Aya Yorgi Manastırı and the communication tower. You will have some shade from the trees and a nice wind (at least during summer). You can take one of the small buses to get closer from the ferry. BA-2 is the one that will get you the closest but is stops at 9 pm, otherwise you can take the BA-5 that runs until 11-12 pm. Be aware that you should not drink water tape on the islands. OGM (nature protection) may bother if you stay late in the morning, but you should not get fined, turkish or foreigner.
 
-
-
-
 ---
 
-Source: [Istanbul](https://hitchwiki.org/en/Istanbul)  
+Source: [Istanbul](https://hitchwiki.org/en/Istanbul)
 License: CC-BY-SA-4.0

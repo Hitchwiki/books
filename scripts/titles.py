@@ -1,8 +1,9 @@
 """Wiki allowlists: how-to + countries + a curated city set (no pin gazetteers).
 
 Hitchwiki / Trashwiki / Nomadwiki books are shaped as:
-practice (generic how-to) → places (Europe first, then other regions; each
-country, then its main cities) → outlook
+practice (generic how-to) → places (Europe first, then North America and
+the rest of the Americas, then other regions; each country, then its main
+cities) → optional extras (`03-resources`, `03-stories`) → outlook
 (original close: go do this, keep the wiki alive). Part intros and outlook
 chapters are locked originals, not wiki fetches.
 
@@ -27,6 +28,9 @@ WIKIS = {
         "part_country": "02-countries",
         "part_city": "03-cities",
         "skip_title_prefixes": ("User:", "Talk:", "File:", "Template:", "Category:", "Hitchwiki:"),
+        "skip_titles": (
+            "Hitchhiking news and news archive",
+        ),
     },
     "trashwiki": {
         "api": "https://trashwiki.org/api.php",
@@ -78,6 +82,7 @@ WIKIS = {
             "Tasmania",
             "Victoria",
             "Western Australia",
+            "News and events",
         ),
     },
     "nomadwiki": {
@@ -186,7 +191,7 @@ DRUPAL_SITES = {
     "moneyless-nl": {
         "base": "https://geldloos.nl",
         "list_paths": ["/"],
-        "book": "moneyless",
+        "book": "geldloos",
         "lang": "nl",
         "article_path_re": r"^/[a-z0-9][a-z0-9-]+$",
         "max_list_pages": 8,
@@ -195,7 +200,7 @@ DRUPAL_SITES = {
     "moneyless-es": {
         "base": "https://sindinero.net",
         "list_paths": ["/"],
-        "book": "moneyless",
+        "book": "sin-dinero",
         "lang": "es",
         "article_path_re": r"^/[a-z0-9][a-z0-9-]+$",
         "max_list_pages": 8,
@@ -477,9 +482,9 @@ def city_part(wiki: str, city_title: str) -> str:
     return f"{cfg['part_country']}/{country}"
 
 
-# Travel order, not A–Z. Europe first, then overland toward Asia, then
-# Africa, the Americas, Oceania. Within a country, CITY_RANK puts capitals
-# and the main cities first.
+# Travel order, not A–Z. Europe first, then North America and the rest of
+# the Americas, then Asia, Africa, Oceania. Within a country, CITY_RANK
+# puts capitals and the main cities first.
 COUNTRY_SLUG_ALIASES = {
     "united-states": "united-states-of-america",
     "georgia-country": "georgia",
@@ -553,6 +558,74 @@ GEO_REGIONS: list[tuple[str, str, tuple[str, ...]]] = [
             "russia",
             "tatarstan",
             "bashkortostan",
+        ),
+    ),
+    (
+        "north-america",
+        "North America",
+        (
+            "canada",
+            "united-states-of-america",
+            "mexico",
+            "bermuda",
+        ),
+    ),
+    (
+        "central-america",
+        "Central America and the Caribbean",
+        (
+            "guatemala",
+            "belize",
+            "el-salvador",
+            "honduras",
+            "nicaragua",
+            "costa-rica",
+            "panama",
+            "cuba",
+            "jamaica",
+            "haiti",
+            "dominican-republic",
+            "puerto-rico",
+            "bahamas",
+            "turks-and-caicos",
+            "cayman-islands",
+            "antigua-and-barbuda",
+            "saint-kitts-and-nevis",
+            "guadeloupe",
+            "dominica",
+            "martinique",
+            "saint-lucia",
+            "saint-barthélemy",
+            "saint-vincent-and-the-grenadines",
+            "barbados",
+            "grenada",
+            "trinidad-and-tobago",
+            "curaçao",
+            "aruba",
+            "united-states-virgin-islands",
+            "british-virgin-islands",
+            "anguilla",
+            "montserrat",
+        ),
+    ),
+    (
+        "south-america",
+        "South America",
+        (
+            "colombia",
+            "venezuela",
+            "guyana",
+            "suriname",
+            "french-guiana",
+            "ecuador",
+            "peru",
+            "bolivia",
+            "brazil",
+            "paraguay",
+            "chile",
+            "argentina",
+            "uruguay",
+            "falkland-islands",
         ),
     ),
     (
@@ -674,74 +747,6 @@ GEO_REGIONS: list[tuple[str, str, tuple[str, ...]]] = [
             "mauritius",
             "seychelles",
             "comoros",
-        ),
-    ),
-    (
-        "north-america",
-        "North America",
-        (
-            "canada",
-            "united-states-of-america",
-            "mexico",
-            "bermuda",
-        ),
-    ),
-    (
-        "central-america",
-        "Central America and the Caribbean",
-        (
-            "guatemala",
-            "belize",
-            "el-salvador",
-            "honduras",
-            "nicaragua",
-            "costa-rica",
-            "panama",
-            "cuba",
-            "jamaica",
-            "haiti",
-            "dominican-republic",
-            "puerto-rico",
-            "bahamas",
-            "turks-and-caicos",
-            "cayman-islands",
-            "antigua-and-barbuda",
-            "saint-kitts-and-nevis",
-            "guadeloupe",
-            "dominica",
-            "martinique",
-            "saint-lucia",
-            "saint-barthélemy",
-            "saint-vincent-and-the-grenadines",
-            "barbados",
-            "grenada",
-            "trinidad-and-tobago",
-            "curaçao",
-            "aruba",
-            "united-states-virgin-islands",
-            "british-virgin-islands",
-            "anguilla",
-            "montserrat",
-        ),
-    ),
-    (
-        "south-america",
-        "South America",
-        (
-            "colombia",
-            "venezuela",
-            "guyana",
-            "suriname",
-            "french-guiana",
-            "ecuador",
-            "peru",
-            "bolivia",
-            "brazil",
-            "paraguay",
-            "chile",
-            "argentina",
-            "uruguay",
-            "falkland-islands",
         ),
     ),
     (
@@ -887,7 +892,7 @@ def city_rank(slug: str) -> int:
 
 
 def geo_src_key(rel: Path) -> tuple:
-    """Sort key for src-relative paths: practice, then geo (Europe first), then the rest."""
+    """Sort key for src-relative paths: practice, then geo (Europe, then North America), then the rest."""
     parts = Path(rel).parts
     top = parts[0]
     m = re.match(r"^(\d{2})", top)

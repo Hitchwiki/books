@@ -4,10 +4,7 @@
 
 This book does not reprint named ramps, dumpsters, hostels, or other pins. They go out of date. Follow the note above to the live map or wiki.
 
-
-
-
 ---
 
-Source: [Lisbon](https://hitchwiki.org/en/Lisbon)  
+Source: [Lisbon](https://hitchwiki.org/en/Lisbon)
 License: CC-BY-SA-4.0

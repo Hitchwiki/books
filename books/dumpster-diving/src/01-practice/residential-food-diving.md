@@ -18,12 +18,9 @@ When looking at expiration dates, a diver should look for caches which all appea
 
 [Category:Dumpster diving](Category:Dumpster_diving "Category:Dumpster diving"){.wikilink}
 
-[^1]: \" How to Dive for Food in Non-Commercial Dumpsters . \" I Love Garbage. <http://lovegarbage.tumblr.com/post/4332652518/some-fresh-dumpster-snacks-from-the-latest-round> Retrieved 22 July 2011.
-
-
-
+[^1]: \" How to Dive for Food in Non-Commercial Dumpsters. \" I Love Garbage. <http://lovegarbage.tumblr.com/post/4332652518/some-fresh-dumpster-snacks-from-the-latest-round> Retrieved 22 July 2011.
 
 ---
 
-Source: [Residential Food Diving](https://trashwiki.org/en/Residential_Food_Diving)  
+Source: [Residential Food Diving](https://trashwiki.org/en/Residential_Food_Diving)
 License: CC-BY-NC-SA-4.0

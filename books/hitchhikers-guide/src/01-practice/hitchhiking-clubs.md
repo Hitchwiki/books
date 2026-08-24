@@ -51,7 +51,7 @@
 ### [Greece](Greece "Greece"){.wikilink}
 
 - [Facebook groop](https://www.facebook.com/groups/sharetheride/) for ride-sharing since 2009
-- [facebook groop](https://www.facebook.com/groups/1705738889675469/?ref=br_rs) for ride-sharing , but it\'s used only for the island [Crete](Crete "Crete"){.wikilink}
+- [facebook groop](https://www.facebook.com/groups/1705738889675469/?ref=br_rs) for ride-sharing, but it\'s used only for the island [Crete](Crete "Crete"){.wikilink}
 
 ### [Hungary](Hungary "Hungary"){.wikilink}
 
@@ -123,10 +123,7 @@
 
 [Category:General info](Category:General_info "Category:General info"){.wikilink} [Category:Clubs](Category:Clubs "Category:Clubs"){.wikilink} [Category:Organizations](Category:Organizations "Category:Organizations"){.wikilink}
 
-
-
-
 ---
 
-Source: [Hitchhiking clubs](https://hitchwiki.org/en/Hitchhiking_clubs)  
+Source: [Hitchhiking clubs](https://hitchwiki.org/en/Hitchhiking_clubs)
 License: CC-BY-SA-4.0

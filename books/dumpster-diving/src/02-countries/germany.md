@@ -64,20 +64,13 @@ All websites are in German unless otherwise noted.
 - [The Good Food - Waste Supermarkt](http://www.the-good-food.de/)
 - [German Dumpster Page](http://www.dumpstern.de)
 - [German Dumpster Messageboard](http://www.containern.de)
-- [ohnegeld.net: Tipps zum Containern](:ohnegeld:containern-tipps "ohnegeld.net: Tipps zum Containern"){.wikilink}
+- ohnegeld.net: Tipps zum Containern
 - [ebay-kleinanzeigen second-hand selling plattform, also has a donate-section](https://www.ebay-kleinanzeigen.de/)
 - [quoka - second-hand selling plattform, also has a donate-section](https://www.quoka.de/)
 
-[hitch:Germany](hitch:Germany "hitch:Germany"){.wikilink}
-
-[share:Germany](share:Germany "share:Germany"){.wikilink} [vegan:Germany](vegan:Germany "vegan:Germany"){.wikilink} [nomad:Germany](nomad:Germany "nomad:Germany"){.wikilink}
-
 [Category:Germany](Category:Germany "Category:Germany"){.wikilink}
-
-
-
 
 ---
 
-Source: [Germany](https://trashwiki.org/en/Germany)  
+Source: [Germany](https://trashwiki.org/en/Germany)
 License: CC-BY-NC-SA-4.0

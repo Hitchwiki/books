@@ -64,10 +64,7 @@ Also make sure you try out the beer. Belgians have the most and best types of be
 
 [Category:Belgium](Category:Belgium "Category:Belgium"){.wikilink} [Category:Western Europe](Category:Western_Europe "Category:Western Europe"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Belgium](https://hitchwiki.org/en/Belgium)  
+Source: [Belgium](https://hitchwiki.org/en/Belgium)
 License: CC-BY-SA-4.0

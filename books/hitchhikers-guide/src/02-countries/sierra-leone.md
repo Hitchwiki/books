@@ -16,10 +16,7 @@ Since the end of the civil war in 2002 the situation has drastically improved an
 
 [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Sierra Leone](https://hitchwiki.org/en/Sierra_Leone)  
+Source: [Sierra Leone](https://hitchwiki.org/en/Sierra_Leone)
 License: CC-BY-SA-4.0

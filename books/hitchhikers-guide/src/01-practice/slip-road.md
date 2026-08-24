@@ -8,10 +8,7 @@
 
 [Category:General info](Category:General_info "Category:General info"){.wikilink}
 
-
-
-
 ---
 
-Source: [Slip road](https://hitchwiki.org/en/Slip_road)  
+Source: [Slip road](https://hitchwiki.org/en/Slip_road)
 License: CC-BY-SA-4.0

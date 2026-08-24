@@ -20,10 +20,7 @@ Gustavia is the best place to hitch onto boats.
 
 [Category:Island](Category:Island "Category:Island"){.wikilink} [Category:Island](Category:Island "Category:Island"){.wikilink} [Category:Caribbean](Category:Caribbean "Category:Caribbean"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Saint Barthélemy](https://hitchwiki.org/en/Saint_Barthélemy)  
+Source: [Saint Barthélemy](https://hitchwiki.org/en/Saint_Barthélemy)
 License: CC-BY-SA-4.0

@@ -48,7 +48,7 @@ So if you plan to hitchhike in Guatemala, expect a mix of free rides and low-cos
 
 Additional Tip: As of 2024, the standard bus fare in Guatemala is Q10 per hour. You can use this as a rough guideline for calculating a fair contribution when riding with someone.
 
-![DESCRIPTION](MototaxiMiniCentralamerica.jpeg "DESCRIPTION"){width="240"} ![DESCRIPTION](ColectivoCentralamerica.jpeg "DESCRIPTION"){width="240"} ![DESCRIPTION](Chickenbuscentralamerica.jpg "DESCRIPTION"){width="240"} ![DESCRIPTION](MinibusCentralamerica.jpg "DESCRIPTION"){width="240"}
+![DESCRIPTION](MototaxiMiniCentralamerica.jpeg "DESCRIPTION"){width="240"}![DESCRIPTION](ColectivoCentralamerica.jpeg "DESCRIPTION"){width="240"}![DESCRIPTION](Chickenbuscentralamerica.jpg "DESCRIPTION"){width="240"}![DESCRIPTION](MinibusCentralamerica.jpg "DESCRIPTION"){width="240"}
 
 ## Cities
 
@@ -219,16 +219,9 @@ Only good experiences - please give a few quetzales for gas if/where you can. Hi
 
 There are of course many ways to get to Guatemala. The way you choose to go depends on where you want to travel. One of the most thrilling ways is by sailboat. You can find many sailing vessels in the Rio Dulce area. The more experience you have the cheaper your fare is. My ride was free and the experience was beyond what I ever expected.
 
-[wikipedia:Guatemala](wikipedia:Guatemala "wikipedia:Guatemala"){.wikilink}
-
-[trash:Guatemala](trash:Guatemala "trash:Guatemala"){.wikilink}
-
 [Category:Central America](Category:Central_America "Category:Central America"){.wikilink} [\*](Category:Guatemala "*"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
-
-
-
 
 ---
 
-Source: [Guatemala](https://hitchwiki.org/en/Guatemala)  
+Source: [Guatemala](https://hitchwiki.org/en/Guatemala)
 License: CC-BY-SA-4.0

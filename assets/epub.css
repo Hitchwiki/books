@@ -11,11 +11,17 @@ body.book-random-roads h1, body.book-random-roads h2 { font-family: Georgia, "Ti
 body.book-dumpsterdam { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; color: #111111; }
 body.book-dumpsterdam h1, body.book-dumpsterdam h2 { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; }
 
-body.book-hospitality-exchange { font-family: Georgia, Palatino, serif; color: #26302e; }
+body.book-geldloos { font-family: Georgia, Palatino, serif; color: #1c2818; }
+body.book-geldloos h1, body.book-geldloos h2 { font-family: Georgia, Palatino, serif; }
+
+body.book-hospitality-exchange { font-family: Georgia, Palatino, serif; color: #2a2724; }
 body.book-hospitality-exchange h1, body.book-hospitality-exchange h2 { font-family: Georgia, Palatino, serif; }
 
-body.book-moneyless { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; color: #181818; }
-body.book-moneyless h1, body.book-moneyless h2 { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; }
+body.book-moneyless { font-family: Georgia, Palatino, serif; color: #2a1c14; }
+body.book-moneyless h1, body.book-moneyless h2 { font-family: Georgia, Palatino, serif; }
+
+body.book-sin-dinero { font-family: Georgia, Palatino, serif; color: #2c1a10; }
+body.book-sin-dinero h1, body.book-sin-dinero h2 { font-family: Georgia, Palatino, serif; }
 
 body.book-shoestring-nomad { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; color: #25232b; }
 body.book-shoestring-nomad h1, body.book-shoestring-nomad h2 { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; }

@@ -12,10 +12,7 @@ But also specific aspects of
 
 [Category:Health](Category:Health "Category:Health"){.wikilink}
 
-
-
-
 ---
 
-Source: [Health and Well-Being](https://nomadwiki.org/en/Health_and_Well-Being)  
+Source: [Health and Well-Being](https://nomadwiki.org/en/Health_and_Well-Being)
 License: CC-BY-SA-4.0

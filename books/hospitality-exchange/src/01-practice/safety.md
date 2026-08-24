@@ -24,7 +24,7 @@ Trust is one of the pilars of our community. We encourage our members to travel,
 
 3\. You can always suggest a videocall using meet.jit.si/(add anything here to make a new meeting). This way you have a better idea of the member you're about to meet and a call can be a good way to get eachother a little bit better upfront.
 
-4\. So many people, so many personalities; simple because we're all on the same platform, doesn't mean we all have to get along. If you don't feel comfortable at any moment, am in doubt , there's no harm in cancelling. We do prefer our members to leave their comfortzone somewhat since it mostly results in the amazing experiences, however be sure you know your own bounderies and don't be afraid to act. On the platfrom there's always the option to block a member or if needed: report them.
+4\. So many people, so many personalities; simple because we're all on the same platform, doesn't mean we all have to get along. If you don't feel comfortable at any moment, am in doubt, there's no harm in cancelling. We do prefer our members to leave their comfortzone somewhat since it mostly results in the amazing experiences, however be sure you know your own bounderies and don't be afraid to act. On the platfrom there's always the option to block a member or if needed: report them.
 
 **When meeting**
 
@@ -84,10 +84,7 @@ There is a very good article about safety on BeWelcome, <http://www.bewelcome.or
 
 [Category:Trustroots](Category:Trustroots "Category:Trustroots"){.wikilink} [Category:Tips](Category:Tips "Category:Tips"){.wikilink}
 
-
-
-
 ---
 
-Source: [Safety](https://wiki.trustroots.org/en/Safety)  
+Source: [Safety](https://wiki.trustroots.org/en/Safety)
 License: CC-BY-SA-4.0

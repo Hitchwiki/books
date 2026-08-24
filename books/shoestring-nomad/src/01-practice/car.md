@@ -22,10 +22,7 @@ Insurance fees vary hugely between different European countries. Consider regist
 
 [Category:Transport](Category:Transport "Category:Transport"){.wikilink}
 
-
-
-
 ---
 
-Source: [Car](https://nomadwiki.org/en/Car)  
+Source: [Car](https://nomadwiki.org/en/Car)
 License: CC-BY-SA-4.0

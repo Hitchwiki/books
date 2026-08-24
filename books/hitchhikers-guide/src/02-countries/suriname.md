@@ -41,10 +41,7 @@ Visited for three days on a transit visa coming from Guyana going to French Guia
 
 [Category:South America](Category:South_America "Category:South America"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Suriname](https://hitchwiki.org/en/Suriname)  
+Source: [Suriname](https://hitchwiki.org/en/Suriname)
 License: CC-BY-SA-4.0

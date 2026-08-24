@@ -1,4 +1,4 @@
-# Community  asa projects, member integration, input
+# Community asa projects, member integration, input
 
 We're coming up with shitbuckets full of projects, only, we don't know the physical reality of them..how to make them concrete, how to turn ideas into substance..
 Here is what we have -

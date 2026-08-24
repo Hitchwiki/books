@@ -22,10 +22,7 @@ The final paragraph below placed here previously is not only incorrect and obvio
 
 [Category:Island](Category:Island "Category:Island"){.wikilink} [Category:Caribbean](Category:Caribbean "Category:Caribbean"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [British Virgin Islands](https://hitchwiki.org/en/British_Virgin_Islands)  
+Source: [British Virgin Islands](https://hitchwiki.org/en/British_Virgin_Islands)
 License: CC-BY-SA-4.0

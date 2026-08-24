@@ -165,16 +165,13 @@ A current map of war updates is available at [liveuamap.com](https://liveuamap.c
 
 ## Further Information {#further_information}
 
-- [Ukrainian hitchhiking community](http://ua_autostop.livejournal.com) , but you can ask questions and get replies in
+- [Ukrainian hitchhiking community](http://ua_autostop.livejournal.com), but you can ask questions and get replies in
 - [Short video summary of the Ukrainian World Championship qualifiers in 2012](https://www.youtube.com/watch?feature=player_embedded&v=IE-WQ3rvmW4) giving an idea of the roads travellers will encounter there.
 - [Public transport in Ukraine](http://www.eway.in.ua/ua/)
 
 [ ](Category:Ukraine " "){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Ukraine](https://hitchwiki.org/en/Ukraine)  
+Source: [Ukraine](https://hitchwiki.org/en/Ukraine)
 License: CC-BY-SA-4.0

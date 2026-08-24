@@ -32,10 +32,7 @@ There are two passenger-only ferries from Basse-terre (St. Kitts) to Charlestown
 
 [Category:Island](Category:Island "Category:Island"){.wikilink} [Category:Caribbean](Category:Caribbean "Category:Caribbean"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Saint Kitts and Nevis](https://hitchwiki.org/en/Saint_Kitts_and_Nevis)  
+Source: [Saint Kitts and Nevis](https://hitchwiki.org/en/Saint_Kitts_and_Nevis)
 License: CC-BY-SA-4.0

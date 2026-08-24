@@ -14,10 +14,7 @@ Hitchhikernick - visited in October 2023 for a week. Average waiting time was 10
 
 [Category:Oceania](Category:Oceania "Category:Oceania"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Palau](https://hitchwiki.org/en/Palau)  
+Source: [Palau](https://hitchwiki.org/en/Palau)
 License: CC-BY-SA-4.0

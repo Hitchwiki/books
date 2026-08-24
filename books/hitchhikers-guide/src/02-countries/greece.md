@@ -56,7 +56,7 @@ You can get a ferries from Igoumenitsa or Patra. A lot of trucks going through I
 
 <div class="hw-exp-text">
 
-*I was just crossing Greece from Bulgaria to Turkey and I expected easy way but it was totally different. I spent there about 4 days hitch-hiking full of depressions. Greeks just didn\'t stop and waiting time about 3 hours wasn\'t anything special. For me it was the worst hitch-hiking country ever. For me Greece was even worse than* Italy or Spain! (Local\'s answer : There\'s a big wave of refugees since the war in Syria and people are scared. A driver could be detained for trafficking, if he\'s carrying passen*gers who entered Greece illegally. If you try NOT to look like a refugee and speak to people in gas stations, East Macedonia + Thraki could be crossed in less than 48h).*
+*I was just crossing Greece from Bulgaria to Turkey and I expected easy way but it was totally different. I spent there about 4 days hitch-hiking full of depressions. Greeks just didn\'t stop and waiting time about 3 hours wasn\'t anything special. For me it was the worst hitch-hiking country ever. For me Greece was even worse than* Italy or Spain! (Local\'s answer: There\'s a big wave of refugees since the war in Syria and people are scared. A driver could be detained for trafficking, if he\'s carrying passen*gers who entered Greece illegally. If you try NOT to look like a refugee and speak to people in gas stations, East Macedonia + Thraki could be crossed in less than 48h).*
 
 </div>
 </div>
@@ -83,10 +83,7 @@ hitched from Kulata (Bulgaria-Greece border) to Thessaloniki then to Evia (Islan
 
 [Turkey](Category:Route_to_Istanbul#From_Greece "Turkey"){.wikilink} [ ](Category:Greece " "){.wikilink} [Category:Southern Europe](Category:Southern_Europe "Category:Southern Europe"){.wikilink} [Category:E75](Category:E75 "Category:E75"){.wikilink} [Category:Route Athens - Thessaloniki](Category:Route_Athens_-_Thessaloniki "Category:Route Athens - Thessaloniki"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Greece](https://hitchwiki.org/en/Greece)  
+Source: [Greece](https://hitchwiki.org/en/Greece)
 License: CC-BY-SA-4.0

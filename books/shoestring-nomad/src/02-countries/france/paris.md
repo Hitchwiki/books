@@ -4,10 +4,7 @@
 
 This book does not reprint named ramps, dumpsters, hostels, or other pins. They go out of date. Follow the note above to the live map or wiki.
 
-
-
-
 ---
 
-Source: [Paris](https://nomadwiki.org/en/Paris)  
+Source: [Paris](https://nomadwiki.org/en/Paris)
 License: CC-BY-SA-4.0

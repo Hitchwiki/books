@@ -2,7 +2,7 @@
 
 Could Trustroots ever **replace [CouchSurfing](CouchSurfing "CouchSurfing"){.wikilink}**?
 
-Maybe it\'s not really required or wanted. As of 2022 [Couchers.org](:couchers: "Couchers.org"){.wikilink} looks like a good candidate to properly replace CouchSurfing. Trustroots has good potential to innovate in other directions such as decentralization and a wider forms of sharing.
+Maybe it\'s not really required or wanted. As of 2022 Couchers.org looks like a good candidate to properly replace CouchSurfing. Trustroots has good potential to innovate in other directions such as decentralization and a wider forms of sharing.
 
 There are tons of things to be done that needs people to make actual time for it.
 
@@ -28,10 +28,7 @@ For the growth to be healthy we need to have a good group of people who are able
 
 [Category:CouchSurfing](Category:CouchSurfing "Category:CouchSurfing"){.wikilink}
 
-
-
-
 ---
 
-Source: [Replace CouchSurfing](https://wiki.trustroots.org/en/Replace_CouchSurfing)  
+Source: [Replace CouchSurfing](https://wiki.trustroots.org/en/Replace_CouchSurfing)
 License: CC-BY-SA-4.0

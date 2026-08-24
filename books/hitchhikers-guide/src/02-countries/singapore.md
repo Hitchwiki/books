@@ -38,7 +38,7 @@ You can either take public transportation to Malaysia, hitch from the border or 
 
 From the Airport, take the \"JB Shuttle Bus\" which takes you to JB, Johor Bahru in Malaysia, just over the border. Cost: \$10 SGD (feb 2020)
 
-Or take the MRT (Mass Rapid Transport = Metro) : Red Line to \"Marsiling station\" (Attention: the border checkpoint is called Woodlands, don\'t get out at Woodlands station but in Marsiling which is closer). From there take the bus 950 that takes you to JB. Then you can hitch out of customs just walking up the road. It is definitely illegal, but it is rare to be harassed by police for standing right on the freeway in Malaysia.
+Or take the MRT (Mass Rapid Transport = Metro): Red Line to \"Marsiling station\" (Attention: the border checkpoint is called Woodlands, don\'t get out at Woodlands station but in Marsiling which is closer). From there take the bus 950 that takes you to JB. Then you can hitch out of customs just walking up the road. It is definitely illegal, but it is rare to be harassed by police for standing right on the freeway in Malaysia.
 
 Take the MRT from the airport (Changi Airport) from the Green Line and transfer to the Red Line, to woodlands station. You can take multiple buses to JB, just type into google maps \"JB Sentral Mall\" and you\'ll see a number of buses come up, they\'re pretty reasonable.
 
@@ -118,10 +118,7 @@ The Marina Bay Sands Casino offers unlimited free drinks. Coffee, soda, juice, e
 
 [Category:Asia](Category:Asia "Category:Asia"){.wikilink} [Category:Singapore](Category:Singapore "Category:Singapore"){.wikilink} [Category:Cities](Category:Cities "Category:Cities"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Singapore](https://hitchwiki.org/en/Singapore)  
+Source: [Singapore](https://hitchwiki.org/en/Singapore)
 License: CC-BY-SA-4.0

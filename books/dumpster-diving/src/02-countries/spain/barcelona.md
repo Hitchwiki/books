@@ -34,12 +34,7 @@ There is actually a certain day in every area when most things are thrown away s
 
 There are several self-organized [food cooperatives](food_cooperatives "food cooperatives"){.wikilink} in Barcelona. These cooperatives create a viable alternative to the [supermarket](supermarket "supermarket"){.wikilink} driven economy, and are organized on a neighborhood level. They work with rotating shifts with different people taking care of different tasks each time. They often have connections with several [small farmers](small_farmers "small farmers"){.wikilink} in the area around the city and bring in food once a week. Often, the food is [organic](organic "organic"){.wikilink} but the farmers don\'t have the [money](money "money"){.wikilink} to get an official [certificate](certificate "certificate"){.wikilink}.
 
-[hitch:Barcelona](hitch:Barcelona "hitch:Barcelona"){.wikilink} [vegan:Barcelona](vegan:Barcelona "vegan:Barcelona"){.wikilink} [share:Barcelona](share:Barcelona "share:Barcelona"){.wikilink} [nomad:Barcelona](nomad:Barcelona "nomad:Barcelona"){.wikilink}
-
-
-
-
 ---
 
-Source: [Barcelona](https://trashwiki.org/en/Barcelona)  
+Source: [Barcelona](https://trashwiki.org/en/Barcelona)
 License: CC-BY-NC-SA-4.0

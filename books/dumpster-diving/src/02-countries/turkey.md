@@ -34,7 +34,7 @@ People usually don\'t speak enough English to understand exactly what you want. 
 
 ------------------------------------------------------------------------
 
-Personal experience: \"Pardon, atılacak yemek var mı ?\" for food and \"Pardon, eski ekmek var mı ?\" for bread worked best for me. Ask turkish friends about the pronunciation.
+Personal experience: \"Pardon, atılacak yemek var mı?\" for food and \"Pardon, eski ekmek var mı?\" for bread worked best for me. Ask turkish friends about the pronunciation.
 
 ## Cities and towns {#cities_and_towns}
 
@@ -48,16 +48,9 @@ Personal experience: \"Pardon, atılacak yemek var mı ?\" for food and \"Pardon
 - [Olympos](Olympos_(Turkey) "Olympos"){.wikilink}
 - `<small>`{=html}*add more?*`</small>`{=html}
 
-[hitch:Turkey](hitch:Turkey "hitch:Turkey"){.wikilink}
-
-[vegan:Turkey](vegan:Turkey "vegan:Turkey"){.wikilink} [nomad:Turkey](nomad:Turkey "nomad:Turkey"){.wikilink}
-
 [Category:Turkey](Category:Turkey "Category:Turkey"){.wikilink}
-
-
-
 
 ---
 
-Source: [Turkey](https://trashwiki.org/en/Turkey)  
+Source: [Turkey](https://trashwiki.org/en/Turkey)
 License: CC-BY-NC-SA-4.0

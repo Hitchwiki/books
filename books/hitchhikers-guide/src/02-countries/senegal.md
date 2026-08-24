@@ -81,10 +81,7 @@ When hitchhiking in Lower Casamance, be aware of the ongoing armed conflict ther
 
 [Category:Africa](Category:Africa "Category:Africa"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Senegal](https://hitchwiki.org/en/Senegal)  
+Source: [Senegal](https://hitchwiki.org/en/Senegal)
 License: CC-BY-SA-4.0

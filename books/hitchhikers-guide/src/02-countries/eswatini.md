@@ -17,39 +17,36 @@ siSwati is a Bantu language that is very similar to Zulu, and is the most widely
 Conversation:
 
 +--------------+-----------------------+
-| Hello        | - Sawubona (singular) |
-|              | - Sanbonani (plural)  |
+| Hello | - Sawubona (singular) |
+| | - Sanbonani (plural) |
 +--------------+-----------------------+
-| How are you? | Unjani                |
+| How are you? | Unjani |
 +--------------+-----------------------+
-| I\'m fine    | Ngiyapila             |
+| I\'m fine | Ngiyapila |
 +--------------+-----------------------+
-| I\'m happy   | Ngijabulile           |
+| I\'m happy | Ngijabulile |
 +--------------+-----------------------+
-| Thank you    | Ngiyabonga            |
+| Thank you | Ngiyabonga |
 +--------------+-----------------------+
 
 Hitching:
 
   ----------------------- --------------------------
-  Ngifuna kuya \_\_\_\_   I want to go to \_\_\_\_
-  Stop                    Mani
+  Ngifuna kuya \_\_\_\_ I want to go to \_\_\_\_
+  Stop Mani
   ----------------------- --------------------------
 
 Phrases:
 
   ----------------------- ---------------------
-  It\'s good to be here   Kumnanzi kuba lapha
+  It\'s good to be here Kumnanzi kuba lapha
   ----------------------- ---------------------
 
 ## Personal Experiences {#personal_experiences}
 
 [Category:Africa](Category:Africa "Category:Africa"){.wikilink} [Category:Swaziland](Category:Swaziland "Category:Swaziland"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Eswatini](https://hitchwiki.org/en/Eswatini)  
+Source: [Eswatini](https://hitchwiki.org/en/Eswatini)
 License: CC-BY-SA-4.0

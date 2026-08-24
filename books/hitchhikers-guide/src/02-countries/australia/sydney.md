@@ -9,10 +9,7 @@
 
 It is possible to wild camp with a tent (-), near the hitch spot heading north at the onramp to the Pacific Motorway (M1) (Option 2 heading north from Sydney). Directly across the Pacific Highway from the start of the onramp is a thin nature strip of forest following the Pacific Motorway. Also look parks or bushes around
 
-
-
-
 ---
 
-Source: [Sydney](https://hitchwiki.org/en/Sydney)  
+Source: [Sydney](https://hitchwiki.org/en/Sydney)
 License: CC-BY-SA-4.0

@@ -12,10 +12,7 @@ The *\'Transmilenio* is an extensive and confusing rapid transit metrobus servic
 
 There are regular buses as well which are sometimes easier and don\'t require a card. They can\'t be blackridden though.
 
-
-
-
 ---
 
-Source: [Bogotá](https://hitchwiki.org/en/Bogotá)  
+Source: [Bogotá](https://hitchwiki.org/en/Bogotá)
 License: CC-BY-SA-4.0

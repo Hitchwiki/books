@@ -26,10 +26,7 @@ Police are rare and don\'t bother you.
 
 [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Haiti](https://hitchwiki.org/en/Haiti)  
+Source: [Haiti](https://hitchwiki.org/en/Haiti)
 License: CC-BY-SA-4.0

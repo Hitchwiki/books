@@ -4,7 +4,7 @@
 
 ## Hitchhiking
 
-It is great for [hitchhiking](hitchhiking "hitchhiking"){.wikilink}, just be careful in some places, especially at the coast. Many pick-up trucks are there. Many locals ,especially far from cities, hitchhike their way to school, work and such. But! In Ecuador it\'s kind of common to pay for rides. After a month of hitchhiking some ride asked me for money, and I realized that many of the people who gave me a ride this last month were actually expecting money, but I left the car and they were too shy to ask. it\'s good to say before you go on the ride, \"No tengo Dinero, esta bien?\" or \"Sin plata, esta bien?\" If the say yes than you are good. if you don\'t ask before you might be asked a specific amount that is too large for you in the end of the ride. Many Ecuadorians are happy to pick up a foreigner. It\'s not the safest country to hitchhike though.
+It is great for [hitchhiking](hitchhiking "hitchhiking"){.wikilink}, just be careful in some places, especially at the coast. Many pick-up trucks are there. Many locals,especially far from cities, hitchhike their way to school, work and such. But! In Ecuador it\'s kind of common to pay for rides. After a month of hitchhiking some ride asked me for money, and I realized that many of the people who gave me a ride this last month were actually expecting money, but I left the car and they were too shy to ask. it\'s good to say before you go on the ride, \"No tengo Dinero, esta bien?\" or \"Sin plata, esta bien?\" If the say yes than you are good. if you don\'t ask before you might be asked a specific amount that is too large for you in the end of the ride. Many Ecuadorians are happy to pick up a foreigner. It\'s not the safest country to hitchhike though.
 
 Along the [Panamericana](Panamericana "Panamericana"){.wikilink} there are several [toll booths](toll_booths "toll booths"){.wikilink} (\"peaje\"). Take an overland bus in direction of your destination and get out at the first toll booth (normally \$0.25 - \$0.50). You have a couple of seconds to ask the other drivers until you get kicked out by the [police](police "police"){.wikilink}, but that\'s normally enough time to find a ride. If you are able to explain your situation in Spanish, you might be able to stay longer. If you want to avoid this kind of \"trouble\" you can as well try to stop cars along the Panamericana. Along this road normally you won\'t get asked for money.
 
@@ -54,16 +54,16 @@ Police in general are very helpful, especially if they understand you are from a
 
 The first letter indicates the province of issue. The second letter, also called the \"key letter\", identifies the type of [license plate](license_plate "license plate"){.wikilink}.
 
-  Province                                                             Letter   Province                                                                   Letter   Province                                                                                                                Letter
+  Province Letter Province Letter Province Letter
   -------------------------------------------------------------------- -------- -------------------------------------------------------------------------- -------- ----------------------------------------------------------------------------------------------------------------------- --------
-  [Azuay](Azuay_Province,_Ecuador "Azuay"){.wikilink}                  A        [Galápagos](Galápagos_Province,_Ecuador "Galápagos"){.wikilink}            W        [Pastaza](Pastaza_Province,_Ecuador "Pastaza"){.wikilink}                                                               S
-  [Bolívar](Bolívar_Province,_Ecuador "Bolívar"){.wikilink}            B        [Guayas](Guayas_Province,_Ecuador "Guayas"){.wikilink}                     G        [Pichincha](Pichincha_Province "Pichincha"){.wikilink}                                                                  P
-  [Cañar](Cañar_Province,_Ecuador "Cañar"){.wikilink}                  U        [Imbabura](Imbabura_Province,_Ecuador "Imbabura"){.wikilink}               I        [Orellana](Orellana_Province "Orellana"){.wikilink}                                                                     Q
-  [Carchi](Carchi_Province,_Ecuador "Carchi"){.wikilink}               C        [Loja](Loja_Province,_Ecuador "Loja"){.wikilink}                           L        [Sucumbíos](Sucumbíos_Province "Sucumbíos"){.wikilink}                                                                  K
-  [Cotopaxi](Cotopaxi_Province,_Ecuador "Cotopaxi"){.wikilink}         X        [Los Ríos](Los_Ríos_Province,_Ecuador "Los Ríos"){.wikilink}               R        [Tungurahua](Tungurahua_Province "Tungurahua"){.wikilink}                                                               T
-  [Chimborazo](Chimborazo_Province,_Ecuador "Chimborazo"){.wikilink}   H        [Manabí](Manabí_Province "Manabí"){.wikilink}                              M        [Zamora-Chinchipe](Zamora-Chinchipe_Province "Zamora-Chinchipe"){.wikilink}                                             Z
-  [El Oro](El_Oro_Province "El Oro"){.wikilink}                        O        [Morona Santiago](Morona-Santiago_Province "Morona Santiago"){.wikilink}   V        [Santa Elena](Santa_Elena_Province "Santa Elena"){.wikilink}                                                            Y
-  [Esmeraldas](Esmeraldas_Province,_Ecuador "Esmeraldas"){.wikilink}   E        [Napo](Napo_Province "Napo"){.wikilink}                                    N        [Santo Domingo de los Tsáchilas](Santo_Domingo_de_los_Tsáchilas_Province "Santo Domingo de los Tsáchilas"){.wikilink}   J
+  [Azuay](Azuay_Province,_Ecuador "Azuay"){.wikilink} A [Galápagos](Galápagos_Province,_Ecuador "Galápagos"){.wikilink} W [Pastaza](Pastaza_Province,_Ecuador "Pastaza"){.wikilink} S
+  [Bolívar](Bolívar_Province,_Ecuador "Bolívar"){.wikilink} B [Guayas](Guayas_Province,_Ecuador "Guayas"){.wikilink} G [Pichincha](Pichincha_Province "Pichincha"){.wikilink} P
+  [Cañar](Cañar_Province,_Ecuador "Cañar"){.wikilink} U [Imbabura](Imbabura_Province,_Ecuador "Imbabura"){.wikilink} I [Orellana](Orellana_Province "Orellana"){.wikilink} Q
+  [Carchi](Carchi_Province,_Ecuador "Carchi"){.wikilink} C [Loja](Loja_Province,_Ecuador "Loja"){.wikilink} L [Sucumbíos](Sucumbíos_Province "Sucumbíos"){.wikilink} K
+  [Cotopaxi](Cotopaxi_Province,_Ecuador "Cotopaxi"){.wikilink} X [Los Ríos](Los_Ríos_Province,_Ecuador "Los Ríos"){.wikilink} R [Tungurahua](Tungurahua_Province "Tungurahua"){.wikilink} T
+  [Chimborazo](Chimborazo_Province,_Ecuador "Chimborazo"){.wikilink} H [Manabí](Manabí_Province "Manabí"){.wikilink} M [Zamora-Chinchipe](Zamora-Chinchipe_Province "Zamora-Chinchipe"){.wikilink} Z
+  [El Oro](El_Oro_Province "El Oro"){.wikilink} O [Morona Santiago](Morona-Santiago_Province "Morona Santiago"){.wikilink} V [Santa Elena](Santa_Elena_Province "Santa Elena"){.wikilink} Y
+  [Esmeraldas](Esmeraldas_Province,_Ecuador "Esmeraldas"){.wikilink} E [Napo](Napo_Province "Napo"){.wikilink} N [Santo Domingo de los Tsáchilas](Santo_Domingo_de_los_Tsáchilas_Province "Santo Domingo de los Tsáchilas"){.wikilink} J
 
 The background color of the license plate varies according the key letter and identifies the type of service of the vehicle.
 
@@ -175,14 +175,9 @@ In March 2022 you can still see people a little bit affraid because of the covid
 
 Image:Katja and Augustas in Ecuador.JPG\|Hitchhikers [Katja and Augustas](Katja_and_Augustas "Katja and Augustas"){.wikilink} traveling in the back of a pick-up in Ecuador. Image:Ecuador.JPG\|A hitchhiker having a ride with\... a cow! Image:Ecuador Katja and Augustas.jpg\|Free ride in the back of a a pick-up - very usual for this country. Image:Hitchinecuador.jpg\|[themodernnomad](User:Themodernnomad "themodernnomad"){.wikilink} hitchhiking in the rain in the jungle near Macaus, trusty tarp in hand <File:Eric> pics 131.jpg\|[Eripson](User:Eripson "Eripson"){.wikilink} (right) with friend Gaston hitching from Baños to Quito.
 
-[wikipedia:Ecuador](wikipedia:Ecuador "wikipedia:Ecuador"){.wikilink}
-
 [\*](Category:Ecuador "*"){.wikilink} [Category:South America](Category:South_America "Category:South America"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
-
-
-
 
 ---
 
-Source: [Ecuador](https://hitchwiki.org/en/Ecuador)  
+Source: [Ecuador](https://hitchwiki.org/en/Ecuador)
 License: CC-BY-SA-4.0

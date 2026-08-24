@@ -7,7 +7,7 @@ And then somehow I ended having a picknick in a paradise in Galicia, as beautifu
 16 hours ago- 2010-08-05 05:39:03 CET
 Waking up with rain and meet 3 grafiti kits from gijon. They give me a poro. Good times in a city where a license aint needed for unorganised events. Thumbs up!
 15 hours ago- 2010-08-05 06:30:53 CET
-On my way to galicia already! First car i saw gave me a ride 30k outside of the city. A man who had just brought his son to work. Thumbs are up in the dark :)
+On my way to galicia already! First car i saw gave me a ride 30k outside of the city. A man who had just brought his son to work. Thumbs are up in the dark:)
 14 hours ago- 2010-08-05 08:16:33 CET
 Someone please take me out of Avilés! (walking back to the old spot after my driver dropped me at a 0.01% spot at the other side of town). Need food!
 12 hours ago- 2010-08-05 09:26:26 CET

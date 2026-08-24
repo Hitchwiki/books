@@ -16,10 +16,7 @@ It can be a good idea to turn off your phone and other digital devices before cr
 
 [Category:General info](Category:General_info "Category:General info"){.wikilink} [Category:Border crossings](Category:Border_crossings "Category:Border crossings"){.wikilink}
 
-
-
-
 ---
 
-Source: [Border crossing](https://hitchwiki.org/en/Border_crossing)  
+Source: [Border crossing](https://hitchwiki.org/en/Border_crossing)
 License: CC-BY-SA-4.0

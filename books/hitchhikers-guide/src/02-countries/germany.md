@@ -86,7 +86,7 @@ Note that it is no longer required to change plates if you move, so a HH (Hambur
 
 On the website: www.autobahnatlas-online.de you can find detailed listings of all Autobahnen, with all drive-ups, interchanges, all types of rest stops, tunnels, and bridges along their ways, with exact kilometer allegations. This comes along handy when hopping from station to station.
 
-For those using offline mobile apps CoMaps / Organic Maps / Maps.ME, you may download a .kml file with all the service plazas for viewing on your map offline. Considering Germany is extremely well mapped on [OpenStreetMap](https://openstreetmap.org), these locations can be assumed to be very accurate and up-to-date. You can view the [data extract here](https://overpass-turbo.eu/s/MGq) and click Export \> Download as KML and then open the .kml file on your phone to be loaded into your maps app.
+For those using offline mobile apps CoMaps / Organic Maps / Maps.ME, you may download a.kml file with all the service plazas for viewing on your map offline. Considering Germany is extremely well mapped on [OpenStreetMap](https://openstreetmap.org), these locations can be assumed to be very accurate and up-to-date. You can view the [data extract here](https://overpass-turbo.eu/s/MGq) and click Export \> Download as KML and then open the.kml file on your phone to be loaded into your maps app.
 
 ## Language
 
@@ -118,10 +118,7 @@ I am from this place. Just by living here you can regularly see people on highwa
 
 [ ](Category:Germany " "){.wikilink} [Category:Western Europe](Category:Western_Europe "Category:Western Europe"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Germany](https://hitchwiki.org/en/Germany)  
+Source: [Germany](https://hitchwiki.org/en/Germany)
 License: CC-BY-SA-4.0

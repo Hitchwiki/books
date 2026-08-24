@@ -6,16 +6,9 @@ That having been said, foreigners and those who live in the wealthier parts of D
 
 Image:Collecting melted plastic.jpg‎\|Collecting melted plastic (2002) Image:Bangladesh litter pickers.jpg‎\|Young scavengers in Uttara, Dhaka Image:Small Electrical Repairshop.jpg‎\|Small electrical repairshop in Tongi (2010)
 
-[hitch:Bangladesh](hitch:Bangladesh "hitch:Bangladesh"){.wikilink}
-
-[nomad:Bangladesh](nomad:Bangladesh "nomad:Bangladesh"){.wikilink} [vegan:Bangladesh](vegan:Bangladesh "vegan:Bangladesh"){.wikilink}
-
 [Category:Bangladesh](Category:Bangladesh "Category:Bangladesh"){.wikilink}
-
-
-
 
 ---
 
-Source: [Bangladesh](https://trashwiki.org/en/Bangladesh)  
+Source: [Bangladesh](https://trashwiki.org/en/Bangladesh)
 License: CC-BY-NC-SA-4.0

@@ -14,10 +14,7 @@ Compared to some of its neighboring countries it\'s relatively calm, so hitchhik
 
 [Category:Africa](Category:Africa "Category:Africa"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Cameroon](https://hitchwiki.org/en/Cameroon)  
+Source: [Cameroon](https://hitchwiki.org/en/Cameroon)
 License: CC-BY-SA-4.0

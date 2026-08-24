@@ -39,10 +39,7 @@ The networks claim very different rights for the stuff you upoad or create on th
 
 [Category:Etiquette Guides](Category:Etiquette_Guides "Category:Etiquette Guides"){.wikilink}
 
-
-
-
 ---
 
-Source: [Profiles](https://wiki.trustroots.org/en/Profiles)  
+Source: [Profiles](https://wiki.trustroots.org/en/Profiles)
 License: CC-BY-SA-4.0

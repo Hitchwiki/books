@@ -14,10 +14,7 @@ Hitching Togo is very easy if you are on a road that has any traffic. By at leas
 
 [Category:Africa](Category:Africa "Category:Africa"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Togo](https://hitchwiki.org/en/Togo)  
+Source: [Togo](https://hitchwiki.org/en/Togo)
 License: CC-BY-SA-4.0

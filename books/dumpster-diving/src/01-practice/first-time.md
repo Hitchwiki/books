@@ -1,6 +1,6 @@
 # First time
 
-![](2008_dd_day_010.06.JPG "2008_dd_day_010.06.JPG"){width="250"} ![](Dumpster_diving_in_Toronto.jpg "Dumpster_diving_in_Toronto.jpg"){width="250"} There are several **first time** steps.
+![](2008_dd_day_010.06.JPG "2008_dd_day_010.06.JPG"){width="250"}![](Dumpster_diving_in_Toronto.jpg "Dumpster_diving_in_Toronto.jpg"){width="250"} There are several **first time** steps.
 
 *\"But what would people think?\"* or *\"What if they see me digging into trash?\"* - society generally disgusts people who [dig in](dumpster_dive "dig in"){.wikilink} [trash](trash "trash"){.wikilink}. Step over that. There is too much value in the trash to let it to be wasted. If you walk back home with something new that you found, or with a lot of dumpster dived [food](food "food"){.wikilink} that you can share with your friends coming over for dinner, doesn\'t it feel rewarding? Yes, it does.
 
@@ -26,12 +26,7 @@ The first dive, by the way, might not bring anything - try different places on d
 - [Meetings](Meetings "Meetings"){.wikilink}
 - [Preservation](Preservation "Preservation"){.wikilink}
 
-[hitch:First time hitchhiking](hitch:First_time_hitchhiking "hitch:First time hitchhiking"){.wikilink}
-
-[hitch:First time](hitch:First_time "hitch:First time"){.wikilink}
-
 [Category:Dumpster diving](Category:Dumpster_diving "Category:Dumpster diving"){.wikilink}
-
 
 ![2008 dd day 010.06.JPG](../../images/2008-dd-day-01006jpg.jpg)
 
@@ -41,8 +36,7 @@ The first dive, by the way, might not bring anything - try different places on d
 
 *Dumpster diving in Toronto.jpg — Sigurdas*
 
-
 ---
 
-Source: [First time](https://trashwiki.org/en/First_time)  
+Source: [First time](https://trashwiki.org/en/First_time)
 License: CC-BY-NC-SA-4.0

@@ -92,12 +92,7 @@ You may also be interested in the bike workshop at Seomra, which is also open on
 
 Seomra also has a decently-sized [freeshop](freeshop "freeshop"){.wikilink} upstairs, which is open whenever Seomra is open. It is particularly good for clothes.
 
-[hitch:Dublin](hitch:Dublin "hitch:Dublin"){.wikilink} [nomad:Dublin](nomad:Dublin "nomad:Dublin"){.wikilink} [vegan:Dublin](vegan:Dublin "vegan:Dublin"){.wikilink}
-
-
-
-
 ---
 
-Source: [Dublin](https://trashwiki.org/en/Dublin)  
+Source: [Dublin](https://trashwiki.org/en/Dublin)
 License: CC-BY-NC-SA-4.0

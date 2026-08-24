@@ -42,10 +42,7 @@ See also:
 
 [Category:General info](Category:General_info "Category:General info"){.wikilink}
 
-
-
-
 ---
 
-Source: [Planned obsolescence](https://trashwiki.org/en/Planned_obsolescence)  
+Source: [Planned obsolescence](https://trashwiki.org/en/Planned_obsolescence)
 License: CC-BY-NC-SA-4.0

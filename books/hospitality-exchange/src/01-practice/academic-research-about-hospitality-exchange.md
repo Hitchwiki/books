@@ -8,10 +8,7 @@
 
 - The Polish sociologist Paula Bialski is working on hospitality exchange, probably introducing the term \"Intimate Tourism\". A list of her work can be found (and in parts downloaded) on her webpage [The Sociology of Intimate Tourism](http://intimatetourism.wordpress.com/recent-work/)
 
-
-
-
 ---
 
-Source: [Academic research about hospitality exchange](https://wiki.trustroots.org/en/Academic_research_about_hospitality_exchange)  
+Source: [Academic research about hospitality exchange](https://wiki.trustroots.org/en/Academic_research_about_hospitality_exchange)
 License: CC-BY-SA-4.0

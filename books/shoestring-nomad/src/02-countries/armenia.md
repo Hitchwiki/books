@@ -8,12 +8,7 @@ The border with Turkey is closed, as also the one with Azerbaijan (Nagorno-Karab
 
 It may represent a good stop for nomad doing the silk road between Europe and Asia. Cheap, friendly and easy to get in, hikers and mountain lovers will definitely find it worth to visit.
 
-[trash:Armenia](trash:Armenia "trash:Armenia"){.wikilink} [couch:Armenia](couch:Armenia "couch:Armenia"){.wikilink}
-
-
-
-
 ---
 
-Source: [Armenia](https://nomadwiki.org/en/Armenia)  
+Source: [Armenia](https://nomadwiki.org/en/Armenia)
 License: CC-BY-SA-4.0

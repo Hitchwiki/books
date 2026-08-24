@@ -26,14 +26,9 @@ Autonomic Islands or Regions:
 - [Isle of Man](Isle_of_Man "Isle of Man"){.wikilink}
 - [Svalbard and Jan Mayen Islands](Svalbard_and_Jan_Mayen_Islands "Svalbard and Jan Mayen Islands"){.wikilink}
 
-[hitch:Northern Europe](hitch:Northern_Europe "hitch:Northern Europe"){.wikilink} [trash:Northern Europe](trash:Northern_Europe "trash:Northern Europe"){.wikilink}
-
 [Category:Europe](Category:Europe "Category:Europe"){.wikilink}
-
-
-
 
 ---
 
-Source: [Northern Europe](https://wiki.trustroots.org/en/Northern_Europe)  
+Source: [Northern Europe](https://wiki.trustroots.org/en/Northern_Europe)
 License: CC-BY-SA-4.0

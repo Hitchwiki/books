@@ -23,10 +23,7 @@ Unlike other hospitality exchange networks, Servas makes a clear distinction bet
 
 [Category:Hospitality exchange networks](Category:Hospitality_exchange_networks "Category:Hospitality exchange networks"){.wikilink}
 
-
-
-
 ---
 
-Source: [Servas](https://wiki.trustroots.org/en/Servas)  
+Source: [Servas](https://wiki.trustroots.org/en/Servas)
 License: CC-BY-SA-4.0

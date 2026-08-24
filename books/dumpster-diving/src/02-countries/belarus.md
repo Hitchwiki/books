@@ -7,14 +7,9 @@
 - [Minsk](Minsk "Minsk"){.wikilink}
 - *add more?*
 
-[hitch:Belarus](hitch:Belarus "hitch:Belarus"){.wikilink} [vegan:Belarus](vegan:Belarus "vegan:Belarus"){.wikilink} [nomad:Belarus](nomad:Belarus "nomad:Belarus"){.wikilink}
-
 [Category:Belarus](Category:Belarus "Category:Belarus"){.wikilink} [Category:Europe](Category:Europe "Category:Europe"){.wikilink}
-
-
-
 
 ---
 
-Source: [Belarus](https://trashwiki.org/en/Belarus)  
+Source: [Belarus](https://trashwiki.org/en/Belarus)
 License: CC-BY-NC-SA-4.0

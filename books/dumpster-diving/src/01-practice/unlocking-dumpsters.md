@@ -31,9 +31,9 @@ Useful tools:
 - [pliers](plier "plier"){.wikilink} or screwdriver
 - hammer or stone
 
-: 
+:
 
-  : ![](Sulo_hinge_pin.png "Sulo_hinge_pin.png"){width="100"}
+:![](Sulo_hinge_pin.png "Sulo_hinge_pin.png"){width="100"}
 
 As in this [video](https://www.youtube.com/watch?v=4MXBWx0I6Pk) described, you can very easy remove the 2-4 hinge pins of a container and then open the lid from the back, so you don\'t have to deal with the padlock. After your job just put the pins back and nobody will understand, that the container has been opened. To get the pins out faster next time, take a knife and shorten the bulge a bit, so the pin will come out easier next time.
 
@@ -85,7 +85,7 @@ Cages that have a handle on the inside: If they are really locked with a key tha
 
 If a supermarket is in a residential building you might be able to get to the dumpster by entering the courtyard of that building.
 
-Courtyards: A courtyard might have several building doors that it can be accessed from. So if one is hard to open or in a main street where lots of people pass you might want to try the others. For example on a corner of a building, there are two entrances usually on the different intersecting streets. (IMPORTANT: Once inside the building, you usually have to get out of it to get to the courtyard. There will be another door, the one leading to the courtyard. Sometimes this door will open from inside the building but the handle on the other side will not open it. For this you should put something to keep the door from closing whilst you are dumpstering or you might get locked inside the courtyard. One time this happened and there was a particularly nasty old lady who told Smaua to get out the same way she came in. ALWAYS check that you can get back out easily :) These doors can be also carded sometimes but not always so it\'s easier to not let them close!)
+Courtyards: A courtyard might have several building doors that it can be accessed from. So if one is hard to open or in a main street where lots of people pass you might want to try the others. For example on a corner of a building, there are two entrances usually on the different intersecting streets. (IMPORTANT: Once inside the building, you usually have to get out of it to get to the courtyard. There will be another door, the one leading to the courtyard. Sometimes this door will open from inside the building but the handle on the other side will not open it. For this you should put something to keep the door from closing whilst you are dumpstering or you might get locked inside the courtyard. One time this happened and there was a particularly nasty old lady who told Smaua to get out the same way she came in. ALWAYS check that you can get back out easily:) These doors can be also carded sometimes but not always so it\'s easier to not let them close!)
 
 - Carding: To get into courtyards, you can card most building doors, go through the building and reach the courtyard. Especially the old [Berlin](Berlin "Berlin"){.wikilink} buildings with big heavy wooden doors. But new doors work too, and gates also. The doors are not locked by turning the key all the way but just by the handle release, just like the bin cages. To easily open them, you need something like a plastic card. Bendy but not too bendy. The longer the better cause it has to go in quite a bit. Old folders can be used to make a nice shape. Also tupperware lids. The material has to be thin enough to get in between the door and the lock. The shape of the material should be rounded off at one side so that it\'s easy to turn and slide around. Something shaped like this black piece of material works well. Feel free to experiment and edit this info.
   - Old doors: The easiest doors(old wooden ones) can be opened by just sliding the plastic in at the level that the handlebar is at on the other side, and pushing inside whilst(at the same time) kind of jiggling or pushing the door with your foot. This is incredibly easy to do and works on most doors. Usually the space in between the door and the lock is very big on the old doors.
@@ -97,7 +97,6 @@ Courtyards: A courtyard might have several building doors that it can be accesse
 
 [Category:General info](Category:General_info "Category:General info"){.wikilink} [Category:Dumpster diving](Category:Dumpster_diving "Category:Dumpster diving"){.wikilink}
 
-
 ![Sulo_dumpster.jpeg](../../images/sulo_dumpsterjpeg.jpg)
 
 *Sulo_dumpster.jpeg — Helper*
@@ -106,8 +105,7 @@ Courtyards: A courtyard might have several building doors that it can be accesse
 
 *Sulo_hinge_pin.png — Helper*
 
-
 ---
 
-Source: [Unlocking dumpsters](https://trashwiki.org/en/Unlocking_dumpsters)  
+Source: [Unlocking dumpsters](https://trashwiki.org/en/Unlocking_dumpsters)
 License: CC-BY-NC-SA-4.0

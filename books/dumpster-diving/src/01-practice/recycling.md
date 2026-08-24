@@ -1,6 +1,6 @@
 # Recycling
 
-![The international recycling symbol.](636px-Recycle001.svg.png "The international recycling symbol.") ![A recycling bin at a park in northern [California](California "California"){.wikilink}.](400px-Recycling_bin_bottlescans.jpg "A recycling bin at a park in northern California."){width="150"} **Recycling** involves processing used materials into new products in order to prevent the [waste](waste "waste"){.wikilink} of potentially useful materials, reduce the consumption of fresh raw materials, reduce energy usage, reduce air (from incineration) and water (from [landfilling](landfill "landfill"){.wikilink}) pollution by reducing the need for \"conventional\" waste disposal, and lower greenhouse gas emissions as compared to virgin production.[^1][^2] Recycling is a key component of modern waste management and is the third component of the \"Reduce, Reuse, Recycle\" waste hierarchy.
+![The international recycling symbol.](636px-Recycle001.svg.png "The international recycling symbol.")![A recycling bin at a park in northern [California](California "California"){.wikilink}.](400px-Recycling_bin_bottlescans.jpg "A recycling bin at a park in northern California."){width="150"} **Recycling** involves processing used materials into new products in order to prevent the [waste](waste "waste"){.wikilink} of potentially useful materials, reduce the consumption of fresh raw materials, reduce energy usage, reduce air (from incineration) and water (from [landfilling](landfill "landfill"){.wikilink}) pollution by reducing the need for \"conventional\" waste disposal, and lower greenhouse gas emissions as compared to virgin production.[^1][^2] Recycling is a key component of modern waste management and is the third component of the \"Reduce, Reuse, Recycle\" waste hierarchy.
 
 Recyclable materials include glass, paper, metal, textiles, [electronics](electronics "electronics"){.wikilink} (cell phones, [computers](computers "computers"){.wikilink}) and plastics. Though similar, the composting of biodegradable waste -- such as [food](food "food"){.wikilink} or garden waste -- is not typically considered recycling.[^3] These materials are either brought to a collection centre or picked-up from the curbside; and sorted, cleaned and reprocessed into new products bound for manufacturing.
 
@@ -14,16 +14,16 @@ In the United States, recycling facilities earn estimated revenues of \$2,981 mi
 
 ## Cost-benefit analysis {#cost_benefit_analysis}
 
-  Material    Energy Savings   Air Pollution Savings
+  Material Energy Savings Air Pollution Savings
   ----------- ---------------- -----------------------
-  Aluminum    95%[^6][^7]      95%[^8][^9]
-  Cardboard   24%              ---
-  Glass       5-30%            20%
-  Paper       40%[^10]         73%
-  Plastics    70%[^11]         ---
-  Steel       60%[^12]         ---
+  Aluminum 95%[^6][^7] 95%[^8][^9]
+  Cardboard 24% ---
+  Glass 5-30% 20%
+  Paper 40%[^10] 73%
+  Plastics 70%[^11] ---
+  Steel 60%[^12] ---
 
-  : Environmental effects of recycling[^5]
+: Environmental effects of recycling[^5]
 
 There is some debate over whether recycling is [economically](economics "economically"){.wikilink} efficient. [Municipalities](Municipality "Municipalities"){.wikilink} often see [fiscal](fiscal "fiscal"){.wikilink} benefits from implementing recycling programs, largely due to the reduced [landfill](landfill "landfill"){.wikilink} costs.[^13] A study conducted by the [Technical University of Denmark](Technical_University_of_Denmark "Technical University of Denmark"){.wikilink} found that in 83% of cases, recycling is the most efficient method to dispose of household waste.[^14][^15] In addition to fiscal benefits, justification for recycling lie in what economists call [externalities](externality "externalities"){.wikilink}, unpriced costs and benefits which accrue to individuals outside of private transactions. Examples include: increased air pollution and greenhouse gases from incineration, reduced hazardous waste leaching from landfills, reduced [energy](energy_(society) "energy"){.wikilink} consumption, and reduced [waste](waste "waste"){.wikilink} and [resource](resource "resource"){.wikilink} consumption, which leads to a reduction in environmentally damaging [mining](mining "mining"){.wikilink} and [timber](timber "timber"){.wikilink} activity. Without mechanisms such as taxes or subsidies to internalize externalities, businesses will ignore them despite the costs imposed on society. In order to make such non-fiscal benefits economically relevant, advocates have pushed for [legislative](law "legislative"){.wikilink} action to increase the [demand](demand "demand"){.wikilink} for recycled materials.[^16] The [United States Environmental Protection Agency](United_States_Environmental_Protection_Agency "United States Environmental Protection Agency"){.wikilink} (EPA) has concluded in favour of recycling, saying that recycling efforts reduced the country\'s [carbon emissions](carbon_emissions "carbon emissions"){.wikilink} by a net 49 million [metric tonnes](metric_tonnes "metric tonnes"){.wikilink} in 2005.[^17] In the United Kingdom, the [Waste and Resources Action Programme](Waste_and_Resources_Action_Programme "Waste and Resources Action Programme"){.wikilink} stated that Great Britain\'s recycling efforts reduce CO~2~ emissions by 10-15 million tonnes a year.[^18] Recycling is more efficient in densely populated areas, as there are [economies of scale](economies_of_scale "economies of scale"){.wikilink} involved.[^19]
 
@@ -218,7 +218,7 @@ In 2002, [WNYC](WNYC "WNYC"){.wikilink} reported that 40% of the garbage that Ne
 
 [^4]: \[<http://www.ibisworld.com/pressrelease/pressrelease.aspx?prid=125>: March 2008, Cashing in on Climate Change\], *IBISWorld*
 
-[^5]: Unless otherwise indicated, this data is taken from , which attributes, \"*Garbage Solutions: A Public Officials Guide to Recycling and Alternative Solid Waste Management Technologies,* as cited in *Energy Savings from Recycling,* January/February 1989; and Worldwatch 76 *Mining Urban Wastes: The Potential for Recycling,* April 1987.\"
+[^5]: Unless otherwise indicated, this data is taken from, which attributes, \"*Garbage Solutions: A Public Officials Guide to Recycling and Alternative Solid Waste Management Technologies,* as cited in *Energy Savings from Recycling,* January/February 1989; and Worldwatch 76 *Mining Urban Wastes: The Potential for Recycling,* April 1987.\"
 
 [^6]:
 
@@ -358,7 +358,6 @@ In 2002, [WNYC](WNYC "WNYC"){.wikilink} reported that 40% of the garbage that Ne
 
 [^74]: [City Council Holds Hearings on Saving Recycling](http://www.wnyc.org/news/articles/38735), WNYC, April 18, 2002
 
-
 ![636px-Recycle001.svg.png](../../images/636px-recycle001svgpng.jpg)
 
 *636px-Recycle001.svg.png — Sigurdas*
@@ -371,8 +370,7 @@ In 2002, [WNYC](WNYC "WNYC"){.wikilink} reported that 40% of the garbage that Ne
 
 *800px-Computer Recycling.JPG — Sigurdas*
 
-
 ---
 
-Source: [Recycling](https://trashwiki.org/en/Recycling)  
+Source: [Recycling](https://trashwiki.org/en/Recycling)
 License: CC-BY-NC-SA-4.0

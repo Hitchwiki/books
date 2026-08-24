@@ -8,7 +8,7 @@ Here are four quick tips which will make you safer:
 
 - Ask for rides at petrol stations instead of signaling at the roadside.
 - Trust your instincts.
-- Refuse rides from [impaired drivers](:wikipedia:Driving_under_the_influence "impaired drivers"){.wikilink}.
+- Refuse rides from impaired drivers.
 - Know that [hitchhiking at night](hitchhiking_at_night "hitchhiking at night"){.wikilink} is more dangerous than during the daytime.
 - It is good to be [insured](insurance "insured"){.wikilink}.
 
@@ -56,7 +56,7 @@ Read more at the Hitchwiki page on [Female Hitchhikers](Women_hitchhiking "Femal
 - If there are other houses or people in sight, you can wave to them or pretend to say goodbye to a friend. The driver will think that somebody has seen you getting into their car.
 - Always trust your instincts. *Don\'t panic*!
 - Keep up a good conversation with the driver. See [etiquette](etiquette "etiquette"){.wikilink}.
-- Hitchhike with someone you know. On hitchhike forums such as at [Hitchwiki:Community_Portal](Hitchwiki:Community_Portal "Hitchwiki:Community_Portal"){.wikilink} you can find other hitchhikers.
+- Hitchhike with someone you know. On hitchhike forums such as at you can find other hitchhikers.
 
 <!-- -->
 
@@ -152,10 +152,7 @@ See also [Wikivoyage about war zone safety](https://en.wikivoyage.org/wiki/War_z
 
 [Category:Safety](Category:Safety "Category:Safety"){.wikilink}
 
-
-
-
 ---
 
-Source: [Hitchhiker's safety](https://hitchwiki.org/en/Hitchhiker's_safety)  
+Source: [Hitchhiker's safety](https://hitchwiki.org/en/Hitchhiker's_safety)
 License: CC-BY-SA-4.0

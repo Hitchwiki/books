@@ -18,7 +18,7 @@ Safety is an issue as traffic regulation is practised half-heartedly. Expect peo
 
 Hitchhiking is not really known by everybody, so the famous *Thumb* gesture used in most countries to indicate you want a lift is not fully understood in China, and although it will still work, will probably wont be very effective. For Chinese this gesture Is more readily understood as meaning \"good\" or \"OK\" so drivers will probably not think of stopping. The most common signal to ask a vehicle to stop is to outstretch your arm and gently wave the hand up and down, but this isn\'t the most recommended way to hitchhike.
 
-Also, taxis are really common in the country. If you hitchhike without a sign, you will probably have a lot of taxi stopping by to take you. What I would recommend is to have a sign with writing 搭便车 (Dabianche - Hitchhiking) on it. The translation literally mean \"free-ride\", so you will not have any problem with money. Also, this will save you from some awkward situations if your chinese accent is bad : When you pronounce it slightly differently, \"Hitchhiking\" become \"eating shit\" which can be understood as an insult or the fact that you are looking for the toilet. By writing it, there is no misunderstanding. You can also write the name of the place where you want to go under it.
+Also, taxis are really common in the country. If you hitchhike without a sign, you will probably have a lot of taxi stopping by to take you. What I would recommend is to have a sign with writing 搭便车 (Dabianche - Hitchhiking) on it. The translation literally mean \"free-ride\", so you will not have any problem with money. Also, this will save you from some awkward situations if your chinese accent is bad: When you pronounce it slightly differently, \"Hitchhiking\" become \"eating shit\" which can be understood as an insult or the fact that you are looking for the toilet. By writing it, there is no misunderstanding. You can also write the name of the place where you want to go under it.
 
 As in many countries, on major roads try to hitchhike from a service station, toll area or some other place where traffic has to stop or slow. Standing on the hard shoulder or the motorway works fine as well though. To get to the toll area/service station use a map, GPS or Google map to show you where the road begins. there is also a Chinese website the shows the actual toll stations. On arrival to the road, use the outstretched arm and hand wave described above.
 
@@ -88,16 +88,16 @@ If you go to big city, most people know pinyin. But if you go to rural area, peo
 搭便车 *da bian-che*: Hitchhike literally \"free-ride\". That\'s probably what you want to write on a big card board, although it\'s a rare word in Chinese and many people do not know what it means.\
 公路 *gong-lu*: literally public roads, which means either highway or national road\
 高速公路 *gao su gong lu*: means expressway (expway)\
-国道 *guo-dao* : national road\
-谢谢 *Xie xie* : Thank you\
+国道 *guo-dao*: national road\
+谢谢 *Xie xie*: Thank you\
 这里 *zhe-li*: Here\
-那里/哪里 *Na-li* : There / Where? (only different in tone)\
+那里/哪里 *Na-li*: There / Where? (only different in tone)\
 服务区/服务站 \"Fu-wu-qu/Fu-wu-zhan\": Service Area\
 收费站 "shou-fei-zhan" Tollgate\
 
 ### Conversations
 
-我要去\...\"wo yao qu \....\" ( I/want/go to) means \"I need/want to go to . . .\"\
+我要去\...\"wo yao qu \....\" ( I/want/go to) means \"I need/want to go to...\"\
 你要去哪里？ \"ni yao qu nali?\" (you/ go to / where) means \"Where are you going?\"\
 在这里停就行 \"zai zheli ting jiu xing\" (at/here/stop/okay) means \"please stop here\"\
 Chinese, like many Asian languages, is a tonal language which means a change in a pitch will drive to different meanings. Without basic training, most westerners will find it hard to pronounce Chinese well at an understandable level. If you plan to learn a bit, Pleco is a must-have dictionary app. But if you just print the Chinese characters out and show them to the driver, things will work pretty smooth. Hong Kong and Macao use traditional, more complicated characters, but they can read either way for the most part.
@@ -114,7 +114,7 @@ Police will usually not care about you and will more likely try to be helpful th
 
 <div class="hw-exp-text">
 
-*Hitchhiked from Kashgar to HongKong. through: Urumqi, Kumul, Xining, Chengdu, Kunming, Nanning, Guangzhou. Spent most of the time in Xinjiang and Tibetian Areas. No mayor problems. I figured out that having a drawn map with me, with the main roads and cities on it (written in chinese) and a small letter explaining in chinese would help the most. However, in the tibetian areas I figured out that many people cannot read chinese, hence it makes sense to write the map in tibetian and chinese. Sometimes people would ask for money in advance, in tibetian areas seem to be some shared taxis also. Further I was once picked by the police in Amdo Tibet, they told me, I am not allowed to be there\... Hence, in the next city I had to register, make a lot of selfies, they brought me to a hotel where I had to stay and they told me I have to take a bus the next day. the next day I hitchhiked further without problems ;) Tip: having an offline translator is the most useful thing for china! I travelled many parts of the world without speaking common languages with the people living there and always found a way of communication. But in China, it was even hard for me to explain the map where I want to go and where they want to go\... sign/body language works so different to mine there\... Still - awesome peopel and experience!*
+*Hitchhiked from Kashgar to HongKong. through: Urumqi, Kumul, Xining, Chengdu, Kunming, Nanning, Guangzhou. Spent most of the time in Xinjiang and Tibetian Areas. No mayor problems. I figured out that having a drawn map with me, with the main roads and cities on it (written in chinese) and a small letter explaining in chinese would help the most. However, in the tibetian areas I figured out that many people cannot read chinese, hence it makes sense to write the map in tibetian and chinese. Sometimes people would ask for money in advance, in tibetian areas seem to be some shared taxis also. Further I was once picked by the police in Amdo Tibet, they told me, I am not allowed to be there\... Hence, in the next city I had to register, make a lot of selfies, they brought me to a hotel where I had to stay and they told me I have to take a bus the next day. the next day I hitchhiked further without problems;) Tip: having an offline translator is the most useful thing for china! I travelled many parts of the world without speaking common languages with the people living there and always found a way of communication. But in China, it was even hard for me to explain the map where I want to go and where they want to go\... sign/body language works so different to mine there\... Still - awesome peopel and experience!*
 
 </div>
 </div>
@@ -190,10 +190,7 @@ Maps.me may have wrong distances( for e.g. chengdu/kunming). There is a free map
 
 [Category:China](Category:China "Category:China"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [China](https://hitchwiki.org/en/China)  
+Source: [China](https://hitchwiki.org/en/China)
 License: CC-BY-SA-4.0

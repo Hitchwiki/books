@@ -4,7 +4,7 @@
 
 ## Hitchhiking
 
-You can drink tap water. ![[Arczi](User:Arczi "Arczi"){.wikilink} hitching in Hungary](Arczi.jpg "Arczi hitching in Hungary"){width="250"}
+You can drink tap water.![[Arczi](User:Arczi "Arczi"){.wikilink} hitching in Hungary](Arczi.jpg "Arczi hitching in Hungary"){width="250"}
 
 In Hungary fewer people speak foreign languages than in other Central European countries. In cities, often one can speak English with younger people. Some older people might speak a bit of German or Russian. Once you get to rural areas, however, expect a language barrier. A [Hungarian phrasebook](Eastern_Europe_phrasebook#Hungarian "Hungarian phrasebook"){.wikilink} may be useful.
 
@@ -80,17 +80,14 @@ Coming from Vienna, it took only two or three rides to get to Budapest. We had l
 
 <div class="hw-exp-text">
 
-I (27M) and a friend (25F) passed trough Hungary to go to Romania. Austria was hard, but since we got the first lift from an Hungarian, everything was so easy inside the country ! Average waiting time was actually way better than in Romania ; it was like 10 minutes (except one time at a gas station around Budapest). The Hungarian have a poker face but they are incredibly generous and helpful. On my way back alone I also got a civil engineer coming at me and sharing food with me lol. Most of the people were speaking good english except one old man that gave us a lift from Vienna to Sopron.
+I (27M) and a friend (25F) passed trough Hungary to go to Romania. Austria was hard, but since we got the first lift from an Hungarian, everything was so easy inside the country! Average waiting time was actually way better than in Romania; it was like 10 minutes (except one time at a gas station around Budapest). The Hungarian have a poker face but they are incredibly generous and helpful. On my way back alone I also got a civil engineer coming at me and sharing food with me lol. Most of the people were speaking good english except one old man that gave us a lift from Vienna to Sopron.
 
 </div>
 </div>
 
 [ ](Category:Hungary " "){.wikilink} [Category:Eastern Europe](Category:Eastern_Europe "Category:Eastern Europe"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Hungary](https://hitchwiki.org/en/Hungary)  
+Source: [Hungary](https://hitchwiki.org/en/Hungary)
 License: CC-BY-SA-4.0

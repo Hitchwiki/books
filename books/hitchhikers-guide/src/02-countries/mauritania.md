@@ -38,7 +38,7 @@ The train from [Nouadhibou](Nouadhibou "Nouadhibou"){.wikilink} to [Choum](Choum
 
 : *I\'ve found it very easy to hitch over short distances, maybe up to 10 km further than that payment is expected. However I did hitch with a general from the Mauritanian Army from [Atar](Atar "Atar"){.wikilink} to [Nouakchott](Nouakchott "Nouakchott"){.wikilink}, he even insisted on paying a hotel for us halfway.*
 
-But then I noticed that is not too hard to hitchhike in Mauretania, even inside the city. Just let the taxis pass. That are more or less all the old cars. I took my hands on my heart and shaked my head when they arrived (explaining takes more time). And I concentrated on the new cars. That made it quite easy then :)
+But then I noticed that is not too hard to hitchhike in Mauretania, even inside the city. Just let the taxis pass. That are more or less all the old cars. I took my hands on my heart and shaked my head when they arrived (explaining takes more time). And I concentrated on the new cars. That made it quite easy then:)
 
 ## Legality of Hitchhiking {#legality_of_hitchhiking}
 
@@ -58,11 +58,11 @@ Experience from [User:DeepGroove](User:DeepGroove "User:DeepGroove"){.wikilink} 
 
 <div class="hw-exp-text">
 
-Not too bad to hitch a ride in Mauritania all taught I still think I got lucky , as people are friendly but country can still feel a bit sketchy, Border crossing from Morocco was nuts a lot of money exchange in the hope of passing faster , keep your cash it won\'t change anything, take the opportunity to ask the cluster of people, waiting to get their passports back, for a ride to Nouakchott the capital
+Not too bad to hitch a ride in Mauritania all taught I still think I got lucky, as people are friendly but country can still feel a bit sketchy, Border crossing from Morocco was nuts a lot of money exchange in the hope of passing faster, keep your cash it won\'t change anything, take the opportunity to ask the cluster of people, waiting to get their passports back, for a ride to Nouakchott the capital
 
-Got a Spanish surfer guy to give a ride , all was good until he wanted to go see the wave on a beach , when we got there , the army was on the spot with big gun and machine gun attache on some pickup truck,when we said oh sorry we gonna go , army people was like nope your not supposed to have seen this, show me your paper, fortunately I speak French and was able to get us out of that Pickel not without arguing on not wanting to give them a bribe. Got to destination All good
+Got a Spanish surfer guy to give a ride, all was good until he wanted to go see the wave on a beach, when we got there, the army was on the spot with big gun and machine gun attache on some pickup truck,when we said oh sorry we gonna go, army people was like nope your not supposed to have seen this, show me your paper, fortunately I speak French and was able to get us out of that Pickel not without arguing on not wanting to give them a bribe. Got to destination All good
 
-On my way back to the north ,leaving from the capital Nouakchott, about an hour and a half waiting, a man from Morocco pick me up me and my friend Lyzard all the way to Agadir about 1900km , 3 days driving , could\'ve gone faster but driver kept getting slower at night time on the third day he told me he did not have his glasses and could not see at night , was wondering why he was doing such sketchy manoeuvre later in the day ,had to drive on the last day,because I wanted to get to Agadir alive.
+On my way back to the north,leaving from the capital Nouakchott, about an hour and a half waiting, a man from Morocco pick me up me and my friend Lyzard all the way to Agadir about 1900km, 3 days driving, could\'ve gone faster but driver kept getting slower at night time on the third day he told me he did not have his glasses and could not see at night, was wondering why he was doing such sketchy manoeuvre later in the day,had to drive on the last day,because I wanted to get to Agadir alive.
 
 South of Nouakchott been recommended to take a cheap bus as I was told lot more people would ask me payment for a ride in the south of the country
 
@@ -71,10 +71,7 @@ South of Nouakchott been recommended to take a cheap bus as I was told lot more 
 
 [Category:Mauritania](Category:Mauritania "Category:Mauritania"){.wikilink} [Category:Africa](Category:Africa "Category:Africa"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Mauritania](https://hitchwiki.org/en/Mauritania)  
+Source: [Mauritania](https://hitchwiki.org/en/Mauritania)
 License: CC-BY-SA-4.0

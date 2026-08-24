@@ -58,12 +58,7 @@ See [this map](http://maps.google.com/maps/ms?doflg=ptk&ie=UTF8&msa=0&ll=&spn=&z
 
 - [San Francisco Chronicle newspaper article on popularity of new law requiring all food waste to be composted](http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/09/09/BAR419IP8A.DTL)
 
-[hitch:San Francisco](hitch:San_Francisco "hitch:San Francisco"){.wikilink} [share:San Francisco](share:San_Francisco "share:San Francisco"){.wikilink} [vegan:San Francisco](vegan:San_Francisco "vegan:San Francisco"){.wikilink} [nomad:San Francisco](nomad:San_Francisco "nomad:San Francisco"){.wikilink}
-
-
-
-
 ---
 
-Source: [San Francisco](https://trashwiki.org/en/San_Francisco)  
+Source: [San Francisco](https://trashwiki.org/en/San_Francisco)
 License: CC-BY-NC-SA-4.0

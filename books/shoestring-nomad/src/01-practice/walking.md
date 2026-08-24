@@ -8,13 +8,11 @@ It can be nice to combine walking with [hitchhiking](hitchhiking "hitchhiking"){
 
 [Category:Transport](Category:Transport "Category:Transport"){.wikilink}
 
-
 ![Stjacquescompostelle1.png](../../images/stjacquescompostelle1png.jpg)
 
 *Stjacquescompostelle1.png — map of Mr Manfred Zentgraf, Volkach, Germany (CC BY-SA 3.0)*
 
-
 ---
 
-Source: [Walking](https://nomadwiki.org/en/Walking)  
+Source: [Walking](https://nomadwiki.org/en/Walking)
 License: CC-BY-SA-4.0

@@ -201,10 +201,7 @@ Analyses of hitchhiking in the USA by [Korn](User:Korn "Korn"){.wikilink} on war
 
 [ ](Category:United_States " "){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [United States of America](https://hitchwiki.org/en/United_States_of_America)  
+Source: [United States of America](https://hitchwiki.org/en/United_States_of_America)
 License: CC-BY-SA-4.0

@@ -14,8 +14,8 @@
 
 After some tests here is a really simple rule to calculate how much food you need when you go for a several days hike in autonomy, so you don\'t bring to much or not enough.
 
-- Count the weight of all the nourishing food : dry pasta, raw meal, raw rice, bread, dry meat, ginger bread, cheese, cereals, chocolate, nuts, walnuts, almonds, cakes, houmous, \...
-- Count one third of the weight of all the food \"less nourishing\" : ham, stews, sardines, vegetables dishes, chicken, cooked pasta, cooked rice, \...
+- Count the weight of all the nourishing food: dry pasta, raw meal, raw rice, bread, dry meat, ginger bread, cheese, cereals, chocolate, nuts, walnuts, almonds, cakes, houmous, \...
+- Count one third of the weight of all the food \"less nourishing\": ham, stews, sardines, vegetables dishes, chicken, cooked pasta, cooked rice, \...
 - Don\'t count at all raw fruits and raw vegetables.
 
 If you add everything you should get 800 grammes per day per person, then you are good and you even have a security margin.
@@ -54,16 +54,11 @@ Ligging, blagging, or eventing may be a source of free food and drinks.
 
 ## More information {#more_information}
 
-- moneyless.org has an [article about getting food without money](:moneyless:no-money-food "article about getting food without money"){.wikilink}
-
-[hitch:Food](hitch:Food "hitch:Food"){.wikilink} [trash:Food](trash:Food "trash:Food"){.wikilink}
+- moneyless.org has an article about getting food without money
 
 [Category:Food](Category:Food "Category:Food"){.wikilink}
 
-
-
-
 ---
 
-Source: [Food](https://nomadwiki.org/en/Food)  
+Source: [Food](https://nomadwiki.org/en/Food)
 License: CC-BY-SA-4.0

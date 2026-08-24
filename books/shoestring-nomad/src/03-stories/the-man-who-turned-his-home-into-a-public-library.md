@@ -30,7 +30,7 @@ As we sat outside Nanie Guanlao's house in the midday sun, watching people brows
 "You don't do justice to these books if you put them in a cabinet or a box," he says.
 "A book should be used and reused. It has life, it has a message.
 "As a book caretaker, you become a full man."
-Full article here (with an audio interview) : http://www.bbc.co.uk/news/magazine-19547365
+Full article here (with an audio interview): http://www.bbc.co.uk/news/magazine-19547365
 
 ---
 

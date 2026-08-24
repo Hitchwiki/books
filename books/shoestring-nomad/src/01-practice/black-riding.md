@@ -24,10 +24,7 @@ It\'s a bit harder than the previous but it does work and especially in some exp
 
 [Category:Transport](Category:Transport "Category:Transport"){.wikilink}
 
-
-
-
 ---
 
-Source: [Black riding](https://nomadwiki.org/en/Black_riding)  
+Source: [Black riding](https://nomadwiki.org/en/Black_riding)
 License: CC-BY-SA-4.0

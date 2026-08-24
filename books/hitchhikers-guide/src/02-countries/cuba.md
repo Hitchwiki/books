@@ -67,10 +67,7 @@ hitched from Havana airport to town where i stayed 1 night in 5\$usd hostel with
 
 [Category:Island](Category:Island "Category:Island"){.wikilink} [Category:Cuba](Category:Cuba "Category:Cuba"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Cuba](https://hitchwiki.org/en/Cuba)  
+Source: [Cuba](https://hitchwiki.org/en/Cuba)
 License: CC-BY-SA-4.0

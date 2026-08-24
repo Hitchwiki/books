@@ -17,7 +17,7 @@ Given that a simple transaction currently costs 0.0001 BTC (8 dollar cents on th
 
 ### Bank account / credit card {#bank_account_credit_card}
 
-In recent years interesting bank accounts with prepaid credit cards have popped up. An example is the German Number26 and the English Revolut. For Revolut you only need a European address to receive the credit card, Revolut has great exchange rates. Number26 is slightly better even, it\'s a real bank account, now available in Germany, France, Greece, Ireland, Italy, Slovakia and Spain. You need an address in one of these countries, but it doesn\'t have to be an official address. See also [this article on moneyless.org](:moneyless:german-bank-account-non-residents "this article on moneyless.org"){.wikilink}.
+In recent years interesting bank accounts with prepaid credit cards have popped up. An example is the German Number26 and the English Revolut. For Revolut you only need a European address to receive the credit card, Revolut has great exchange rates. Number26 is slightly better even, it\'s a real bank account, now available in Germany, France, Greece, Ireland, Italy, Slovakia and Spain. You need an address in one of these countries, but it doesn\'t have to be an official address. See also this article on moneyless.org.
 
 ### Other services {#other_services}
 
@@ -30,7 +30,7 @@ In recent years interesting bank accounts with prepaid credit cards have popped 
 While not a new concept, a growing of nomads are seeking to travel and live moneyless. While easier to accomplish is stationary (if you stay in one place, like cave living), its more difficult when travelling.
 
 - [Moneyless.info](http://www.moneyless.info)
-- [Moneyless.org: how to travel without money](:moneyless:how-travel-no-money "Moneyless.org: how to travel without money"){.wikilink}
+- Moneyless.org: how to travel without money
 - [Moneyless manifesto](http://www.moneylessmanifesto.org/) by [Mark Boyle](Mark_Boyle "Mark Boyle"){.wikilink}
 - [The Ultimate Guide to Traveling Without Money](http://www.shareable.net/blog/the-ultimate-guide-to-traveling-without-money)
 - [Moneyless traveller Tomi Astikainen](https://astikainen.wordpress.com/)
@@ -40,14 +40,9 @@ While not a new concept, a growing of nomads are seeking to travel and live mone
 - [How to travel the world with almost no money - Tomislav Perko](https://www.youtube.com/watch?v=R7vmHGAshi8)
 - [Travelling without spending money](https://www.youtube.com/watch?v=Q_c8dsisHAc) \| Simon Dabbicco \| TEDxCrocettaSalon
 
-[hitch:Money](hitch:Money "hitch:Money"){.wikilink} [trash:Money](trash:Money "trash:Money"){.wikilink} [cash:Money](cash:Money "cash:Money"){.wikilink}
-
 [Category:Money](Category:Money "Category:Money"){.wikilink}
-
-
-
 
 ---
 
-Source: [Money](https://nomadwiki.org/en/Money)  
+Source: [Money](https://nomadwiki.org/en/Money)
 License: CC-BY-SA-4.0

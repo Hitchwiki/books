@@ -46,10 +46,7 @@ English is useful for a couple of countries but ideally we want some translation
 
 [Category:Dumpster diving](Category:Dumpster_diving "Category:Dumpster diving"){.wikilink} [Category:Ideas](Category:Ideas "Category:Ideas"){.wikilink}
 
-
-
-
 ---
 
-Source: [Pamphlet](https://trashwiki.org/en/Pamphlet)  
+Source: [Pamphlet](https://trashwiki.org/en/Pamphlet)
 License: CC-BY-NC-SA-4.0

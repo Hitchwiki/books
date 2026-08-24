@@ -277,10 +277,7 @@ Hitchhiking in Turkey for Girls:
 
 [Category:General info](Category:General_info "Category:General info"){.wikilink}
 
-
-
-
 ---
 
-Source: [Women hitchhiking](https://hitchwiki.org/en/Women_hitchhiking)  
+Source: [Women hitchhiking](https://hitchwiki.org/en/Women_hitchhiking)
 License: CC-BY-SA-4.0

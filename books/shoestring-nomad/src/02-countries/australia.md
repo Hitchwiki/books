@@ -10,10 +10,7 @@ Without any intention of advertisment, but [Gumtree](http://www.gumtree.com.au/)
 
 They are 6 states in Australia, [New South Wales](New_South_Wales "New South Wales"){.wikilink}, [Queensland](Queensland "Queensland"){.wikilink}, [South Australia](South_Australia "South Australia"){.wikilink}, [Tasmania](Tasmania "Tasmania"){.wikilink} and [Western Australia](Western_Australia "Western Australia"){.wikilink}, - and two mainland territories, the [Northern Territory](Northern_Territory "Northern Territory"){.wikilink} and the [Australian Capital Territory](Australian_Capital_Territory "Australian Capital Territory"){.wikilink} (basically it is [Canberra](Canberra "Canberra"){.wikilink}).
 
-[trash:Australia](trash:Australia "trash:Australia"){.wikilink} [couch:Australia](couch:Australia "couch:Australia"){.wikilink}
-
 [Category:National parks](Category:National_parks "Category:National parks"){.wikilink}
-
 
 ![Uluru, helicopter view, croped.jpg](../../images/uluru-helicopter-view-cropedjpg.jpg)
 
@@ -25,8 +22,7 @@ They are 6 states in Australia, [New South Wales](New_South_Wales "New South Wal
 Image:Australia_satellite_plane.jpg: created by NASA
 Image:Australia_location_map.png: Diceman (CC BY-SA 3.0)*
 
-
 ---
 
-Source: [Australia](https://nomadwiki.org/en/Australia)  
+Source: [Australia](https://nomadwiki.org/en/Australia)
 License: CC-BY-SA-4.0

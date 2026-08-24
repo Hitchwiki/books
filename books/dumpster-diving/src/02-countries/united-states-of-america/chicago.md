@@ -17,10 +17,7 @@ See [this editable map of good places](http://maps.google.com/maps/ms?msa=0&msid
 
 \<videoflash\>8wJ9iTiK1Yk\|300\|250\</videoflash\>
 
-
-
-
 ---
 
-Source: [Chicago](https://trashwiki.org/en/Chicago)  
+Source: [Chicago](https://trashwiki.org/en/Chicago)
 License: CC-BY-NC-SA-4.0

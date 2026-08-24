@@ -10,10 +10,7 @@ Synonyms: Some people may say \"table diving\" instead of tabling, but tabling c
 
 [Category:Location types](Category:Location_types "Category:Location types"){.wikilink} [Category:Dumpster diving](Category:Dumpster_diving "Category:Dumpster diving"){.wikilink}
 
-
-
-
 ---
 
-Source: [Restaurants](https://trashwiki.org/en/Restaurants)  
+Source: [Restaurants](https://trashwiki.org/en/Restaurants)
 License: CC-BY-NC-SA-4.0

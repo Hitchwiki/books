@@ -95,10 +95,7 @@ Air Asia has discount flights to [Malaysia](Malaysia "Malaysia"){.wikilink}.
 
 [\*](Category:Philippines "*"){.wikilink} [Category:Asia](Category:Asia "Category:Asia"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Philippines](https://hitchwiki.org/en/Philippines)  
+Source: [Philippines](https://hitchwiki.org/en/Philippines)
 License: CC-BY-SA-4.0

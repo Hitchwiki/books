@@ -8,10 +8,7 @@ But these roads need not to be a national road, they can be long distance roads,
 
 [Category:General info](Category:General_info "Category:General info"){.wikilink} [Category:Expressways](Category:Expressways "Category:Expressways"){.wikilink} [Category:Roads](Category:Roads "Category:Roads"){.wikilink}
 
-
-
-
 ---
 
-Source: [Expressway](https://hitchwiki.org/en/Expressway)  
+Source: [Expressway](https://hitchwiki.org/en/Expressway)
 License: CC-BY-SA-4.0

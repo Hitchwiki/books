@@ -32,10 +32,7 @@ In May 2024 I spent 3 days hiking, hitchhiking and riding busses on the island. 
 
 [Category:United Kingdom](Category:United_Kingdom "Category:United Kingdom"){.wikilink} [ ](Category:Channel_Islands " "){.wikilink} [Category:Western Europe](Category:Western_Europe "Category:Western Europe"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Jersey](https://hitchwiki.org/en/Jersey)  
+Source: [Jersey](https://hitchwiki.org/en/Jersey)
 License: CC-BY-SA-4.0

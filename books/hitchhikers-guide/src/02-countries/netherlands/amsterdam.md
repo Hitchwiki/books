@@ -19,10 +19,7 @@ Public transport in Amsterdam is very expensive. Most people use a card called *
 - The metro is very easy to blackride: just go behind someone at the gates (preferably asking them first). Controllers are quite rare. The metro system is quite limited in its coverage but can easily get you to some main spots like Sloterdijk and Amstel Station.
 - If you\'re using the train, then use the exact same tactic as with the metro (though you might have more eyes on you\...). The train sees more ticket control than the metro though it\'s still not very frequent, especially not on the Sprinter trains (the single-decker ones).
 
-
-
-
 ---
 
-Source: [Amsterdam](https://hitchwiki.org/en/Amsterdam)  
+Source: [Amsterdam](https://hitchwiki.org/en/Amsterdam)
 License: CC-BY-SA-4.0

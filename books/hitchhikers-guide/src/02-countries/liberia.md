@@ -22,10 +22,7 @@ If hitchhiking, locals will almost always offer you a place to stay for the nigh
 
 [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
 
-
-
-
 ---
 
-Source: [Liberia](https://hitchwiki.org/en/Liberia)  
+Source: [Liberia](https://hitchwiki.org/en/Liberia)
 License: CC-BY-SA-4.0

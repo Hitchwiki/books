@@ -8,7 +8,7 @@ dear travelers of life,
 
 Me and a friend are travelling in Bulgaria these days and found a wonderful place in a rural area to revive on the southern slopes of the Pirin mountains. You are warmly welcomed to visit, to be free & creative, exchange, learn, and expand activities in the place and the region. It is even pssible to stay for a longer time to support the ongoing developments of this inspiring eco-nomadic community-centursharalia
 
-The initiator of the place made together with lots of great helpers all infrastrucure available for comfortable and creative eco-living to expand. Inside and outside compost-toilets, heating and electricity by wood/solar/wind systems, a structure of self-organising, decentralisation, permaculture, aquaponics, private and dormitory sleeping rooms and a huge kitchen. There are excursions to other inspiring places and the possibility to increase the selforganising aspect of the center. In the nearby region there is also the possibility to build your own little ecohouse with support from the center :)
+The initiator of the place made together with lots of great helpers all infrastrucure available for comfortable and creative eco-living to expand. Inside and outside compost-toilets, heating and electricity by wood/solar/wind systems, a structure of self-organising, decentralisation, permaculture, aquaponics, private and dormitory sleeping rooms and a huge kitchen. There are excursions to other inspiring places and the possibility to increase the selforganising aspect of the center. In the nearby region there is also the possibility to build your own little ecohouse with support from the center:)
 
 About us:
 
@@ -16,12 +16,9 @@ We are two humanists moving with the intention to spark the revival of eco-socia
 
 Call us for more info
 
-0031643818736 [trash:Bulgaria](trash:Bulgaria "trash:Bulgaria"){.wikilink} [couch:Bulgaria](couch:Bulgaria "couch:Bulgaria"){.wikilink}
-
-
-
+0031643818736
 
 ---
 
-Source: [Bulgaria](https://nomadwiki.org/en/Bulgaria)  
+Source: [Bulgaria](https://nomadwiki.org/en/Bulgaria)
 License: CC-BY-SA-4.0

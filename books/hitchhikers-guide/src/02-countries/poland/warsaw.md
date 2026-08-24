@@ -16,10 +16,7 @@ There are several large **squats** in Warsaw. You will find the Skłot Przychodn
 
 You can swim in Lake Czerniakowskie, Dziekanowskie Lake, Zegrzyńskie Lake
 
-
-
-
 ---
 
-Source: [Warsaw](https://hitchwiki.org/en/Warsaw)  
+Source: [Warsaw](https://hitchwiki.org/en/Warsaw)
 License: CC-BY-SA-4.0

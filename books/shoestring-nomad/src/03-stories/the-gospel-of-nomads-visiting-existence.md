@@ -13,12 +13,12 @@ http://en.wikipedia.org/wiki/Non-possession
 note: hence peer governance of entitlement? / non-possession distributed entitlement protocols?
 " The concepts of possession and ownership often overlap, but are not the same. "
 ///
-Also see :
+Also see:
 http://sharewiki.org/en/Non-Possession
 http://p2pfoundation.net/Peer\_Property
 ///
 "Peer production, peer governance, peer property",
-Excerpt of Article by Michel Bauwens - link : http://www.re-public.gr/en/?p=87
+Excerpt of Article by Michel Bauwens - link: http://www.re-public.gr/en/?p=87
 "Peer to peer social processes are bottom-up processes whereby agents in a distributed network can freely engage in common pursuits, without external coercion. It is important to realize that distributed systems differ from decentralized systems, essentially because in the latter, the hubs are obligatory, while in the former, they are the result of voluntary choices. Distributed networks do have constraints, internal coercion, that are the conditions for the group to operate, and they may be embedded in the technical infrastructure, the social norms, or legal rules.
 P2P social processes more precisely engender:
 1) peer production: wherever a group of peers decided to engage in the production of a common resource

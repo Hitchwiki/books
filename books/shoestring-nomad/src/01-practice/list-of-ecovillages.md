@@ -143,10 +143,7 @@ A more complete listing of ecovillages can be found on the external website [ic.
 
 [Category:Accommodation](Category:Accommodation "Category:Accommodation"){.wikilink} [Category:Food](Category:Food "Category:Food"){.wikilink}
 
-
-
-
 ---
 
-Source: [List of ecovillages](https://nomadwiki.org/en/List_of_ecovillages)  
+Source: [List of ecovillages](https://nomadwiki.org/en/List_of_ecovillages)
 License: CC-BY-SA-4.0

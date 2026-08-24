@@ -16,9 +16,9 @@ Hitchhiking is legal in Scotland and no law forbids asking a stranger for a lift
 
 There are two main roads to get to Scotland from England.
 
-- 
+-
 
-  : The western road to Scotland, connecting Birmingham with Manchester, Liverpool and finally [Glasgow](Glasgow "Glasgow"){.wikilink}. Not easy to get on from London, but recommended from anywhere in the West/Southwest as you can easily hop from service station to service station. To get to [Edinburgh](Edinburgh "Edinburgh"){.wikilink}, fork off at [Abington Services](Abington_Services "Abington Services"){.wikilink} to take the A road east. Hitching with a sign works better than asking at the services.
+: The western road to Scotland, connecting Birmingham with Manchester, Liverpool and finally [Glasgow](Glasgow "Glasgow"){.wikilink}. Not easy to get on from London, but recommended from anywhere in the West/Southwest as you can easily hop from service station to service station. To get to [Edinburgh](Edinburgh "Edinburgh"){.wikilink}, fork off at [Abington Services](Abington_Services "Abington Services"){.wikilink} to take the A road east. Hitching with a sign works better than asking at the services.
 
 - /A1: The eastern road to Scotland, connecting London, Leeds and Edinburgh. The M1 only goes up to Leeds where it becomes the A1. Relatively easy to hitch out of London on, but the last services before Edinburgh are near Leeds. Afterwards you can hitchhike along the road though as it\'s not a motorway anymore.
 
@@ -82,14 +82,9 @@ Scotland has hundreds of islands, of which about 90 are populated, many coastal 
 
 ## Personal Experiences {#personal_experiences}
 
-[trash:Scotland](trash:Scotland "trash:Scotland"){.wikilink}
-
 [Highlands](Category:Highland_Council "Highlands"){.wikilink} [ ](Category:Scotland " "){.wikilink} [Category:Northern Europe](Category:Northern_Europe "Category:Northern Europe"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
-
-
-
 
 ---
 
-Source: [Scotland](https://hitchwiki.org/en/Scotland)  
+Source: [Scotland](https://hitchwiki.org/en/Scotland)
 License: CC-BY-SA-4.0
