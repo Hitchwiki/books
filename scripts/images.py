@@ -41,6 +41,26 @@ def to_rgb(im: Image.Image) -> Image.Image:
     return im.convert("RGB")
 
 
+def looks_like_image(data: bytes) -> bool:
+    return (
+        data[:2] == b"\xff\xd8"
+        or data[:8] == b"\x89PNG\r\n\x1a\n"
+        or data[:6] in (b"GIF87a", b"GIF89a")
+        or data[:4] == b"RIFF"
+    )
+
+
+def looks_like_jpeg(data: bytes) -> bool:
+    return data[:2] == b"\xff\xd8"
+
+
+def save_jpeg_bytes(data: bytes, dest: Path) -> Path:
+    dest = dest.with_suffix(".jpg")
+    dest.parent.mkdir(parents=True, exist_ok=True)
+    dest.write_bytes(data)
+    return dest
+
+
 def resize_bytes(data: bytes, dest: Path) -> Path:
     dest.parent.mkdir(parents=True, exist_ok=True)
     im = to_rgb(Image.open(BytesIO(data)))
@@ -116,7 +136,7 @@ def fetch_bytes(url: str, *, timeout: int = 90) -> bytes:
                 timeout=timeout,
                 headers={"Referer": origin, "Accept": "image/*,*/*;q=0.8"},
             )
-            if r.content and len(r.content) > 32:
+            if r.content and looks_like_image(r.content):
                 return r.content
         except Exception as exc:
             last = exc
