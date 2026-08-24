@@ -1,0 +1,7 @@
+body {
+  font-family: Palatino, Georgia, serif;
+  line-height: 1.45;
+}
+h1, h2, h3 { page-break-after: avoid; }
+img { max-width: 100%; height: auto; }
+figcaption { font-size: 0.85em; color: #444; font-style: italic; }
