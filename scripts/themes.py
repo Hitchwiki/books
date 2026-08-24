@@ -1096,6 +1096,12 @@ article.card-{slug} .badge {{ border-color: {t["accent"]}; }}
   font-weight: 600;
   font-display: swap;
 }}
+@font-face {{
+  font-family: "Oswald";
+  src: url("fonts/Oswald-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-display: swap;
+}}
 html {{ overflow-x: clip; }}
 html, body {{
   margin: 0;
@@ -1116,8 +1122,10 @@ body.catalog h1 {{
   display: flex;
   align-items: center;
   gap: 0.4rem;
+  font-family: "Oswald", Impact, "Arial Narrow", sans-serif;
   font-size: clamp(1.6rem, 3vw, 2.2rem);
-  font-weight: 600;
+  font-weight: 700;
+  letter-spacing: 0.025em;
   margin: 0 0 1.5rem;
   color: #6e3100;
 }}
