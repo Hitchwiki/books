@@ -3,10 +3,11 @@
 from __future__ import annotations
 
 import datetime as dt
+import json
 import re
 import time
 from pathlib import Path
-from urllib.parse import quote, urljoin
+from urllib.parse import quote, unquote, urljoin, urlparse
 
 import requests
 
@@ -29,6 +30,48 @@ def slugify(title: str) -> str:
     s = re.sub(r"[^\w\s-]", "", s, flags=re.UNICODE)
     s = re.sub(r"[-\s]+", "-", s).strip("-")
     return s[:80] or "untitled"
+
+
+def wiki_image_map(images_dir: Path) -> dict[str, str]:
+    """Map wiki filenames to images/<saved jpeg> using images.json."""
+    mapping: dict[str, str] = {}
+    manifest = images_dir / "images.json"
+    if not manifest.is_file():
+        return mapping
+    for entry in json.loads(manifest.read_text(encoding="utf-8")):
+        dest = entry.get("file") or ""
+        if not dest:
+            continue
+        rel = f"images/{dest}"
+        names = {dest}
+        source = entry.get("source") or ""
+        if source:
+            names.add(unquote(urlparse(source).path.rsplit("/", 1)[-1]))
+        for name in names:
+            name = name.strip().strip("\u200e\u200f")
+            if not name:
+                continue
+            mapping[name] = rel
+            mapping[name.replace(" ", "_")] = rel
+    return mapping
+
+
+_IMG_SRC = re.compile(r'(<img\b[^>]*?\bsrc=")([^"]+)(")', re.I | re.S)
+
+
+def rewrite_html_images(html: str, mapping: dict[str, str]) -> str:
+    if not mapping:
+        return html
+
+    def repl(m: re.Match[str]) -> str:
+        src = m.group(2)
+        name = Path(unquote(src)).name.strip().strip("\u200e\u200f")
+        target = mapping.get(name) or mapping.get(name.replace(" ", "_"))
+        if not target:
+            return m.group(0)
+        return f"{m.group(1)}{target}{m.group(3)}"
+
+    return _IMG_SRC.sub(repl, html)
 
 
 def get(url: str, *, timeout: int = 60, retries: int = 4, **kwargs) -> requests.Response:
