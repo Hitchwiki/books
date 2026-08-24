@@ -1134,6 +1134,29 @@ body.catalog h1 img {{
   height: 2.5rem;
   flex: none;
 }}
+.nostr-action {{
+  max-width: 46rem;
+  margin: 2.5rem 0 0;
+  padding: 1rem 1.1rem;
+  border: 1px solid #d8c7ac;
+  background: #fffdf8;
+}}
+.nostr-action h2 {{ margin: 0 0 0.3rem; font-size: 1.2rem; }}
+.nostr-action p {{ margin: 0.45rem 0 0; color: #76563c; line-height: 1.45; }}
+.nostr-action button {{
+  margin-top: 0.75rem;
+  padding: 0.62rem 0.78rem;
+  border: 1px solid #6e3100;
+  border-radius: 0;
+  background: #6e3100;
+  color: #fffdf8;
+  font: inherit;
+  cursor: pointer;
+}}
+.nostr-action button:disabled {{ cursor: wait; opacity: 0.65; }}
+.nostr-action button:focus {{ outline: 3px solid #d8a96b; outline-offset: 2px; }}
+.nostr-action a {{ color: #6e3100; }}
+.nostr-status,.nostr-reader {{ font-size: 0.8rem; }}
 body.catalog .lede {{
   color: #76563c;
   line-height: 1.5;

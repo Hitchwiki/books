@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import argparse
 import datetime as dt
+import json
 import shutil
 import sys
 from pathlib import Path
@@ -20,6 +21,24 @@ from themes import THEMES, fonts_dir, logos_dir
 BOOKS = list(THEMES)
 LANG_ORDER = ["en", "nl", "es"]
 LANG_LABELS = {"en": "English", "nl": "Nederlands", "es": "Español"}
+
+
+def nostr_reading_list(edition: str) -> list[dict[str, str]]:
+    entries = []
+    for slug in BOOKS:
+        meta_path = ROOT / "books" / slug / "metadata.yaml"
+        meta = yaml.safe_load(meta_path.read_text(encoding="utf-8")) if meta_path.exists() else {}
+        entries.append(
+            {
+                "id": f"books.hitchwiki.org:{slug}",
+                "title": str(meta.get("title") or slug),
+                "author": str(meta.get("author") or ""),
+                "language": str(meta.get("lang") or ""),
+                "format": "epub",
+                "url": f"https://books.hitchwiki.org/downloads/{slug}-{edition}.epub",
+            }
+        )
+    return entries
 
 
 def version_stamp(raw: str | None) -> str:
@@ -122,6 +141,15 @@ def main() -> None:
     </div>
   </section>'''
         )
+    nostr_books = json.dumps(nostr_reading_list(edition), ensure_ascii=False).replace("</", "<\\/")
+    nostr_script = """  <script>
+    const readingList=__NOSTR_BOOKS__,nostrAction=document.querySelector('#nostr-action'),nostrSave=document.querySelector('#nostr-save'),nostrStatus=document.querySelector('#nostr-status'),relay='wss://relay.nomadwiki.org';
+    function publish(event){return new Promise((resolve,reject)=>{let socket,done=false;const finish=error=>{if(done)return;done=true;clearTimeout(timer);try{socket?.close()}catch{}error?reject(error):resolve()};const timer=setTimeout(()=>finish(new Error('Relay timed out.')),8000);try{socket=new WebSocket(relay);socket.addEventListener('open',()=>socket.send(JSON.stringify(['EVENT',event])));socket.addEventListener('message',message=>{try{const packet=JSON.parse(message.data);if(packet[0]==='OK'&&packet[1]===event.id)packet[2]?finish():finish(new Error(packet[3]||'Relay rejected the list.'))}catch{}});socket.addEventListener('error',()=>finish(new Error('Could not connect to the Nostr relay.')))}catch(error){finish(error)}})}
+    async function saveToNostr(){if(!window.nostr?.getPublicKey||!window.nostr?.signEvent)throw new Error('No NIP-07 signer found.');await window.nostr.getPublicKey();const now=Math.floor(Date.now()/1000),tags=[['d','hitchwiki-books'],['title','Hitchwiki Books'],['description','All EPUB editions from books.hitchwiki.org.'],['r','https://books.hitchwiki.org/'],...readingList.flatMap(book=>[['r',book.url],['book','bookstr',book.id,String(now),book.url],['bookstr-book',book.id,book.title,book.author,'epub','0','',book.url,book.language,'books.hitchwiki.org']])];const event=await window.nostr.signEvent({kind:30003,created_at:now,tags,content:''});await publish(event)}
+    async function handleSave(){nostrSave.disabled=true;nostrStatus.textContent='Waiting for your signer…';try{await saveToNostr();nostrStatus.textContent=`Saved ${readingList.length} EPUBs to Nostr.`}catch(error){nostrStatus.textContent=error?.message||String(error)}finally{nostrSave.disabled=false}}
+    function revealNostr(){if(window.nostr?.getPublicKey&&window.nostr?.signEvent)nostrAction.hidden=false}
+    nostrSave.addEventListener('click',handleSave);revealNostr();setTimeout(revealNostr,500);setTimeout(revealNostr,1500);
+  </script>""".replace("__NOSTR_BOOKS__", nostr_books)
     html = f"""<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -136,8 +164,16 @@ def main() -> None:
     <h1><img src="./assets/logos/hitchhikers-guide.png?v={version}" alt="Hitchwiki" width="38" height="40"> BOOKS</h1>
   </header>
 {chr(10).join(sections)}
+  <section id="nostr-action" class="nostr-action" hidden>
+    <h2>Keep this EPUB collection</h2>
+    <p>Publish all Hitchwiki Books EPUBs as a public NIP-51 list using your browser's NIP-07 signer.</p>
+    <button id="nostr-save" type="button">Save “Hitchwiki Books” to Nostr</button>
+    <p id="nostr-status" class="nostr-status" aria-live="polite"></p>
+    <p class="nostr-reader">Suggested reader: <a href="https://books.guaka.org/">Bookstr at books.guaka.org</a>.</p>
+  </section>
   <p class="lede">A growing collection of freely licensed books. Created by thousands of people over two decades.</p>
   <p class="foot">Content licenses live with each book. {github_icon_link()} Built <time datetime="{built_iso}">{built}</time>.</p>
+{nostr_script}
 </body>
 </html>
 """
