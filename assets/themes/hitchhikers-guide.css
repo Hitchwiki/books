@@ -1,6 +1,6 @@
 @font-face {
-  font-family: "Source Serif 4";
-  src: url("fonts/SourceSerif4-Semibold.ttf") format("truetype");
+  font-family: "Oswald";
+  src: url("fonts/Oswald-Bold.ttf") format("truetype");
   font-weight: 600;
   font-style: normal;
   font-display: swap;
@@ -21,16 +21,17 @@
 }
 
 body.book-hitchhikers-guide {
-  --fg: #1c1710;
-  --muted: #5c5348;
-  --bg: #f3ead7;
-  --accent: #c45c26;
-  --accent2: #1e3a5f;
-  --rule: #c9bba3;
-  --cover-bg: #1e3a5f;
-  --cover-fg: #f3ead7;
+  --fg: #5b2b08;
+  --muted: #76563c;
+  --bg: #fbf7e9;
+  --accent: #b96800;
+  --accent2: #b73327;
+  --rule: #e5d8ba;
+  --cover-bg: #f7df79;
+  --cover-fg: #6e3100;
   --measure: 38rem;
-  --toc: 22rem;
+  --toc: 20rem;
+  --banner: 3.15rem;
   background: var(--bg);
   color: var(--fg);
   font-family: "Source Serif 4", Palatino, "Palatino Linotype", Georgia, serif;
@@ -45,8 +46,8 @@ body.book-hitchhikers-guide h1,
 body.book-hitchhikers-guide h2,
 body.book-hitchhikers-guide h3,
 body.book-hitchhikers-guide .cover-title {
-  font-family: "Source Serif 4", Palatino, "Palatino Linotype", Georgia, serif;
-  font-style: italic;
+  font-family: "Oswald", Palatino, "Palatino Linotype", Georgia, serif;
+  font-style: normal;
   font-weight: 600;
   line-height: 1.15;
   color: var(--fg);
@@ -67,11 +68,13 @@ body.book-hitchhikers-guide nav#TOC {
   border: 1px solid var(--rule);
   padding: 0.85rem 1rem 1.1rem;
   margin: 1.5rem 0 2.5rem;
-  max-height: min(38rem, 78vh);
+  max-height: min(38rem, calc(100vh - var(--banner) - 1.5rem));
   overflow: auto;
   font-size: 0.92rem;
   line-height: 1.35;
   font-style: normal;
+  background: var(--bg);
+  -webkit-overflow-scrolling: touch;
 }
 body.book-hitchhikers-guide nav#TOC .toc-title {
   font-size: 1.15rem;
@@ -98,7 +101,33 @@ body.book-hitchhikers-guide nav#TOC ul {
   padding: 0;
 }
 body.book-hitchhikers-guide nav#TOC li { margin: 0.12rem 0; }
-body.book-hitchhikers-guide nav#TOC li.toc-letter { margin-top: 0.7rem; }
+body.book-hitchhikers-guide nav#TOC .toc-az,
+body.book-hitchhikers-guide nav#TOC .toc-regions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 0.7rem;
+  margin: 0.2rem 0 0.6rem;
+  font-size: 0.92em;
+}
+body.book-hitchhikers-guide nav#TOC details.toc-region {
+  margin: 0.25rem 0 0.45rem;
+}
+body.book-hitchhikers-guide nav#TOC details.toc-region summary {
+  font-weight: 600;
+}
+body.book-hitchhikers-guide nav#TOC li.toc-country > a { font-weight: 600; }
+body.book-hitchhikers-guide nav#TOC .toc-orphan {
+  color: var(--muted);
+  font-weight: 600;
+}
+body.book-hitchhikers-guide nav#TOC ul.toc-cities {
+  margin: 0.15rem 0 0.4rem 0.9rem;
+  padding: 0;
+}
+body.book-hitchhikers-guide nav#TOC ul.toc-cities li {
+  margin: 0.06rem 0;
+  font-weight: 400;
+}
 body.book-hitchhikers-guide nav#TOC a {
   color: inherit;
   text-decoration: none;
@@ -123,7 +152,10 @@ body.book-hitchhikers-guide nav#TOC .toc-solo {
   margin: 0.45rem 0;
   font-weight: 600;
 }
-body.book-hitchhikers-guide .book-body h1[id] { scroll-margin-top: 0.8rem; }
+body.book-hitchhikers-guide .book-body h1[id],
+body.book-hitchhikers-guide nav#TOC {
+  scroll-margin-top: calc(var(--banner) + 0.5rem);
+}
 body.book-hitchhikers-guide nav#TOC .toc-count {
   color: var(--muted);
   font-weight: 400;
@@ -153,24 +185,36 @@ body.book-hitchhikers-guide .toc-jump {
   text-transform: uppercase;
   font-family: Palatino, "Palatino Linotype", Georgia, serif;
 }
-@media (min-width: 78rem) {
+body.book-hitchhikers-guide .book-banner {
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  background: #f7df79;
+  color: #6e3100;
+  margin: 0 -1.25rem 0;
+  padding: 0.85rem 1.25rem;
+  font-size: 0.82rem;
+  letter-spacing: 0.04em;
+}
+body.book-hitchhikers-guide .book-banner a { color: inherit; text-decoration: underline; }
+@media (min-width: 56rem) {
   body.book-hitchhikers-guide {
     max-width: min(100%, calc(var(--toc) + var(--measure) + 3rem));
-    display: grid;
-    grid-template-columns: var(--toc) minmax(0, var(--measure));
-    column-gap: 2.25rem;
     padding-bottom: 0;
   }
-  body.book-hitchhikers-guide .book-banner,
-  body.book-hitchhikers-guide .cover-page {
-    grid-column: 1 / -1;
+  body.book-hitchhikers-guide .book-layout {
+    display: grid;
+    grid-template-columns: var(--toc) minmax(0, var(--measure));
+    column-gap: 2rem;
+    align-items: start;
   }
   body.book-hitchhikers-guide nav#TOC {
     position: sticky;
-    top: 0;
+    top: var(--banner);
+    z-index: 15;
     align-self: start;
-    height: 100vh;
-    max-height: 100vh;
+    height: calc(100vh - var(--banner));
+    max-height: calc(100vh - var(--banner));
     margin: 0;
     overflow: auto;
   }
@@ -180,34 +224,22 @@ body.book-hitchhikers-guide .toc-jump {
   }
   body.book-hitchhikers-guide .toc-jump { display: none; }
 }
-body.book-hitchhikers-guide .book-banner {
-  background: #1e3a5f;
-  color: #f3ead7;
-  margin: 0 -1.25rem 0;
-  padding: 0.85rem 1.25rem;
-  font-size: 0.82rem;
-  letter-spacing: 0.04em;
+@media (min-width: 78rem) {
+  body.book-hitchhikers-guide { --toc: 22rem; }
 }
-body.book-hitchhikers-guide .book-banner a { color: inherit; text-decoration: underline; }
 
-
-body.book-hitchhikers-guide .cover-page::before {
-  content: "";
-  position: absolute;
-  left: 0; right: 0; bottom: 38%;
-  height: 3px;
-  background: var(--accent);
+body.book-hitchhikers-guide .cover-title {
+  font-style: normal;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
 }
 body.book-hitchhikers-guide .cover-page::after {
   content: "";
   position: absolute;
   left: 0; right: 0; bottom: 0;
-  height: 38%;
-  background: #c45c26;
-  opacity: 0.92;
+  height: 10px;
+  background: var(--accent2);
 }
-body.book-hitchhikers-guide .cover-foot { position: relative; z-index: 1; }
-body.book-hitchhikers-guide .cover-main { position: relative; z-index: 1; margin-bottom: 42%; }
 
 
 
@@ -240,6 +272,19 @@ body.book-hitchhikers-guide .cover-read a {
   font-style: normal;
   font-family: Palatino, "Palatino Linotype", Georgia, serif;
 }
+body.book-hitchhikers-guide .cover-logo-wrap {
+  margin: 0 0 1.2rem;
+  position: relative;
+  z-index: 2;
+}
+body.book-hitchhikers-guide .cover-logo {
+  display: block;
+  max-height: 5.6rem;
+  max-width: 6.2rem;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+}
 body.book-hitchhikers-guide .cover-kicker {
   font-family: "Source Serif 4", Palatino, "Palatino Linotype", Georgia, serif;
   font-style: normal;
@@ -253,7 +298,7 @@ body.book-hitchhikers-guide .cover-title {
   font-size: 3.4rem;
   margin: 0 0 0.6rem;
   color: inherit;
-  font-style: italic;
+  font-style: normal;
 }
 body.book-hitchhikers-guide .cover-sub {
   margin: 0;
@@ -273,6 +318,7 @@ body.book-hitchhikers-guide .cover-foot {
   body.book-hitchhikers-guide .toc-jump,
   body.book-hitchhikers-guide nav#TOC .toc-filter-wrap,
   body.book-hitchhikers-guide nav#TOC .toc-empty { display: none; }
+  body.book-hitchhikers-guide .book-layout { display: block; }
   body.book-hitchhikers-guide nav#TOC {
     position: static;
     max-height: none;

@@ -1,4 +1,12 @@
 (function () {
+  var banner = document.querySelector(".book-banner");
+  function syncBanner() {
+    var h = banner ? Math.ceil(banner.getBoundingClientRect().height) : 0;
+    document.body.style.setProperty("--banner", h + "px");
+  }
+  syncBanner();
+  window.addEventListener("resize", syncBanner);
+
   var toc = document.getElementById("TOC");
   if (!toc) return;
 
@@ -21,8 +29,11 @@
     var hash = location.hash;
     if (!hash) return;
     var a = toc.querySelector('a[href="' + hash.replace(/"/g, "") + '"]');
-    var part = a && a.closest("details");
-    if (part) part.open = true;
+    var node = a && a.closest("details");
+    while (node) {
+      node.open = true;
+      node = node.parentElement && node.parentElement.closest("details");
+    }
     if (a) a.classList.add("is-current");
   }
   openHash();
@@ -33,23 +44,41 @@
       var q = fold(filter.value.trim());
       toc.classList.toggle("is-filtering", !!q);
       var hits = 0;
+      function walkLi(li) {
+        var label = li.querySelector(":scope > a, :scope > .toc-orphan");
+        var own = !q || fold(label && label.textContent).indexOf(q) !== -1;
+        var childHit = false;
+        Array.prototype.forEach.call(li.querySelectorAll(":scope > ul > li"), function (child) {
+          if (walkLi(child)) childHit = true;
+        });
+        var hit = own || childHit;
+        li.hidden = !!q && !hit;
+        if (hit) hits += 1;
+        return hit;
+      }
       toc.querySelectorAll("details.toc-part").forEach(function (d) {
         var summaryHit = !!q && fold(d.querySelector("summary").textContent).indexOf(q) !== -1;
         var any = false;
-        Array.prototype.forEach.call(d.querySelectorAll("li"), function (li) {
-          var a = li.querySelector("a");
-          var hit = !q || summaryHit || fold(a && a.textContent).indexOf(q) !== -1;
-          li.hidden = !hit;
-          if (hit) {
-            any = true;
-            hits += 1;
+        Array.prototype.forEach.call(d.querySelectorAll(":scope > ul > li, :scope > details.toc-region"), function (node) {
+          if (node.tagName === "DETAILS") {
+            var rSummaryHit = !!q && fold(node.querySelector("summary").textContent).indexOf(q) !== -1;
+            var rAny = false;
+            Array.prototype.forEach.call(node.querySelectorAll(":scope > ul > li"), function (li) {
+              if (walkLi(li)) rAny = true;
+            });
+            node.hidden = !!q && !rAny && !rSummaryHit && !summaryHit;
+            if (q && (rAny || rSummaryHit || summaryHit)) node.open = true;
+            if (!q) node.open = !node.getAttribute("data-collapse");
+            if (rAny || rSummaryHit) any = true;
+            return;
           }
+          if (walkLi(node)) any = true;
         });
         d.hidden = !!q && !any && !summaryHit;
         if (q && (any || summaryHit)) d.open = true;
         if (!q) d.open = !d.getAttribute("data-collapse");
-        var az = d.querySelector(".toc-az");
-        if (az) az.hidden = !!q;
+        var jumps = d.querySelector(".toc-az, .toc-regions");
+        if (jumps) jumps.hidden = !!q;
       });
       toc.querySelectorAll(".toc-solo").forEach(function (p) {
         var hit = !q || fold(p.textContent).indexOf(q) !== -1;
@@ -66,7 +95,7 @@
     });
   });
 
-  toc.querySelectorAll(".toc-az a").forEach(function (a) {
+  toc.querySelectorAll(".toc-az a, .toc-regions a").forEach(function (a) {
     a.addEventListener("click", function (e) {
       var id = (a.getAttribute("href") || "").replace(/^#/, "");
       var el = id && document.getElementById(id);
@@ -97,8 +126,11 @@
         if (current) current.classList.remove("is-current");
         current = a;
         a.classList.add("is-current");
-        var part = a.closest("details");
-        if (part && !toc.classList.contains("is-filtering")) part.open = true;
+        var node = a.closest("details");
+        while (node && !toc.classList.contains("is-filtering")) {
+          node.open = true;
+          node = node.parentElement && node.parentElement.closest("details");
+        }
         if (!toc.classList.contains("is-filtering")) {
           a.scrollIntoView({ block: "nearest" });
         }

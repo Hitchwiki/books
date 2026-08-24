@@ -177,16 +177,35 @@ def city_candidates(name: str) -> tuple[str, ...]:
     return CITY_ALIASES.get(name, (name,))
 
 
-def resolve_page(title: str, pages: dict[str, str]) -> tuple[str, str] | None:
-    text = pages.get(title)
+def page_text(pages: dict[str, str], title: str) -> str | None:
+    if title in pages:
+        return pages[title]
+    spaced = title.replace("_", " ")
+    if spaced in pages:
+        return pages[spaced]
+    return pages.get(title.replace(" ", "_"))
+
+
+def follow_redirect(title: str, pages: dict[str, str]) -> tuple[str, str] | None:
+    """Return (title, wikitext), or None if this is a redirect with no usable target."""
+    text = page_text(pages, title)
     if not text:
         return None
-    if REDIRECT_RE.match(text.strip()):
-        tgt = REDIRECT_RE.match(text.strip()).group(1).strip()
-        text = pages.get(tgt)
-        if not text or REDIRECT_RE.match(text.strip()):
-            return None
-        title = tgt
+    m = REDIRECT_RE.match(text.strip())
+    if not m:
+        return title, text
+    tgt = m.group(1).strip().replace("_", " ")
+    text = page_text(pages, tgt)
+    if not text or REDIRECT_RE.match(text.strip()):
+        return None
+    return tgt, text
+
+
+def resolve_page(title: str, pages: dict[str, str]) -> tuple[str, str] | None:
+    followed = follow_redirect(title, pages)
+    if not followed:
+        return None
+    title, text = followed
     if len(text) < 400:
         return None
     return title, text
@@ -397,43 +416,48 @@ def fetch_wiki(
         "trustroots": "CC-BY-SA-4.0",
     }[wiki]
     stubs = tuple(s.lower() for s in cfg.get("stub_if_title_contains") or ())
-    counts = {"wrote": 0, "skip-lock": 0, "skip-omit": 0, "conflict": 0}
+    counts = {"wrote": 0, "skip-lock": 0, "skip-omit": 0, "skip-redirect": 0, "conflict": 0}
 
     def record(result: str) -> None:
         counts[result] = counts.get(result, 0) + 1
 
-    for title in howto:
-        text = pages.get(title)
-        if not text:
-            continue
-        if stubs and any(s in title.lower() for s in stubs):
-            text = (
-                f"This topic is covered in another book in this catalog "
-                f"(hitchhiking, dumpster diving, or hospitality exchange). "
-                f"See the live wiki: {cfg['origin']}{title.replace(' ', '_')}\n"
+    def compile_titles(
+        titles: list[str], part: str, image_limit: int, *, apply_stubs: bool = False
+    ) -> None:
+        seen: set[str] = set()
+        for original in titles:
+            followed = follow_redirect(original, pages)
+            if followed is None:
+                raw = page_text(pages, original)
+                if raw and REDIRECT_RE.match(raw.strip()):
+                    record("skip-redirect")
+                continue
+            title, text = followed
+            slug = slugify(title)
+            if slug in seen:
+                if slugify(original) != slug:
+                    record("skip-redirect")
+                continue
+            seen.add(slug)
+            if apply_stubs and stubs and any(s in title.lower() for s in stubs):
+                text = (
+                    f"This topic is covered in another book in this catalog "
+                    f"(hitchhiking, dumpster diving, or hospitality exchange). "
+                    f"See the live wiki: {cfg['origin']}{title.replace(' ', '_')}\n"
+                )
+            dest = book / "src" / part / f"{slug}.md"
+            extra_md = (
+                ""
+                if skip_images
+                else fetch_page_images(
+                    cfg["api"], text, img_dir, manifest, limit=image_limit, chapter_path=dest
+                )
             )
-        dest = book / "src" / cfg["part_howto"] / f"{slugify(title)}.md"
-        extra = (
-            ""
-            if skip_images
-            else fetch_page_images(
-                cfg["api"], pages.get(title, ""), img_dir, manifest, limit=3, chapter_path=dest
-            )
-        )
-        url = cfg["origin"] + title.replace(" ", "_")
-        record(write_chapter(book, cfg["part_howto"], title, text, url, extra, license_spdx))
-    for title in countries:
-        text = pages.get(title)
-        if not text:
-            continue
-        dest = book / "src" / cfg["part_country"] / f"{slugify(title)}.md"
-        extra = (
-            ""
-            if skip_images
-            else fetch_page_images(cfg["api"], text, img_dir, manifest, limit=2, chapter_path=dest)
-        )
-        url = cfg["origin"] + title.replace(" ", "_")
-        record(write_chapter(book, cfg["part_country"], title, text, url, extra, license_spdx))
+            url = cfg["origin"] + title.replace(" ", "_")
+            record(write_chapter(book, part, title, text, url, extra_md, license_spdx))
+
+    compile_titles(howto, cfg["part_howto"], 3, apply_stubs=True)
+    compile_titles(countries, cfg["part_country"], 2)
     if wiki in CITY_MAP_LINKS:
         notice = CITY_MAP_LINKS[wiki]
         seen_cities: set[str] = set()
@@ -480,7 +504,7 @@ def fetch_wiki(
     if manifest:
         write_manifest(img_dir / "images.json", manifest)
     extra = []
-    for key in ("skip-lock", "skip-omit", "conflict"):
+    for key in ("skip-lock", "skip-omit", "skip-redirect", "conflict"):
         if counts[key]:
             extra.append(f"{key}={counts[key]}")
     suffix = f" ({', '.join(extra)})" if extra else ""

@@ -14,7 +14,7 @@ import yaml
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
-from themes import THEMES, fonts_dir
+from themes import THEMES, fonts_dir, logos_dir
 
 BOOKS = list(THEMES)
 
@@ -60,6 +60,8 @@ def main() -> None:
     if fonts_dir().exists():
         for ttf in fonts_dir().glob("*.ttf"):
             shutil.copy2(ttf, font_dest / ttf.name)
+    logos_dest = assets / "logos"
+    logos_dest.mkdir(exist_ok=True)
     cards = []
     for slug in BOOKS:
         meta_path = ROOT / "books" / slug / "metadata.yaml"
@@ -75,6 +77,11 @@ def main() -> None:
         if cover.exists():
             shutil.copy2(cover, covers_dest / f"{slug}.jpg")
             cover_html = f'<a href="./{slug}/"><img src="./assets/covers/{slug}.jpg" alt=""></a>'
+        logo_name = THEMES[slug].get("logo")
+        if logo_name:
+            src_logo = logos_dir() / logo_name
+            if src_logo.exists():
+                shutil.copy2(src_logo, logos_dest / logo_name)
         cards.append(
             f"""<article class="card card-{slug}">
   <a class="open" href="./{slug}/" aria-label="Read {title}"></a>

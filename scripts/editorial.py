@@ -207,6 +207,18 @@ def is_omitted_chapter(book: Path, path: Path) -> bool:
     return parse_overlay(book, path).omit
 
 
+REDIRECT_BODY_RE = re.compile(r"^(?:\d+\.\s+)?#?\s*redirect\b", re.I)
+
+
+def is_redirect_chapter(book: Path, path: Path) -> bool:
+    """True when the chapter is only a MediaWiki #REDIRECT stub."""
+    if not path.exists():
+        return False
+    body = generated_body(path.read_text(encoding="utf-8"))
+    body = re.sub(r"^# .+\n+", "", body, count=1).strip()
+    return bool(REDIRECT_BODY_RE.match(body))
+
+
 def stamp_book(book: Path) -> tuple[int, int]:
     src = book / "src"
     if not src.exists():
@@ -218,6 +230,9 @@ def stamp_book(book: Path) -> tuple[int, int]:
         ov = parse_overlay(book, path)
         if ov.lock or ov.omit:
             locked += 1
+            upstream.pop(src_rel(book, path), None)
+            continue
+        if is_redirect_chapter(book, path):
             upstream.pop(src_rel(book, path), None)
             continue
         upstream[src_rel(book, path)] = sha256_text(

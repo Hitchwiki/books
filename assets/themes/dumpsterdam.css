@@ -21,16 +21,17 @@
 }
 
 body.book-dumpsterdam {
-  --fg: #1a120c;
-  --muted: #6a5344;
+  --fg: #111111;
+  --muted: #5c4038;
   --bg: #fff6ea;
-  --accent: #e05915;
-  --accent2: #1f4d3a;
-  --rule: #ead7c2;
-  --cover-bg: #e05915;
+  --accent: #9a2016;
+  --accent2: #759236;
+  --rule: #e4d4c4;
+  --cover-bg: #9a2016;
   --cover-fg: #fff6ea;
   --measure: 40rem;
-  --toc: 22rem;
+  --toc: 20rem;
+  --banner: 3.15rem;
   background: var(--bg);
   color: var(--fg);
   font-family: "Source Sans 3", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -67,11 +68,13 @@ body.book-dumpsterdam nav#TOC {
   border: 1px solid var(--rule);
   padding: 0.85rem 1rem 1.1rem;
   margin: 1.5rem 0 2.5rem;
-  max-height: min(38rem, 78vh);
+  max-height: min(38rem, calc(100vh - var(--banner) - 1.5rem));
   overflow: auto;
   font-size: 0.92rem;
   line-height: 1.35;
   font-style: normal;
+  background: var(--bg);
+  -webkit-overflow-scrolling: touch;
 }
 body.book-dumpsterdam nav#TOC .toc-title {
   font-size: 1.15rem;
@@ -98,7 +101,33 @@ body.book-dumpsterdam nav#TOC ul {
   padding: 0;
 }
 body.book-dumpsterdam nav#TOC li { margin: 0.12rem 0; }
-body.book-dumpsterdam nav#TOC li.toc-letter { margin-top: 0.7rem; }
+body.book-dumpsterdam nav#TOC .toc-az,
+body.book-dumpsterdam nav#TOC .toc-regions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 0.7rem;
+  margin: 0.2rem 0 0.6rem;
+  font-size: 0.92em;
+}
+body.book-dumpsterdam nav#TOC details.toc-region {
+  margin: 0.25rem 0 0.45rem;
+}
+body.book-dumpsterdam nav#TOC details.toc-region summary {
+  font-weight: 600;
+}
+body.book-dumpsterdam nav#TOC li.toc-country > a { font-weight: 600; }
+body.book-dumpsterdam nav#TOC .toc-orphan {
+  color: var(--muted);
+  font-weight: 600;
+}
+body.book-dumpsterdam nav#TOC ul.toc-cities {
+  margin: 0.15rem 0 0.4rem 0.9rem;
+  padding: 0;
+}
+body.book-dumpsterdam nav#TOC ul.toc-cities li {
+  margin: 0.06rem 0;
+  font-weight: 400;
+}
 body.book-dumpsterdam nav#TOC a {
   color: inherit;
   text-decoration: none;
@@ -123,7 +152,10 @@ body.book-dumpsterdam nav#TOC .toc-solo {
   margin: 0.45rem 0;
   font-weight: 600;
 }
-body.book-dumpsterdam .book-body h1[id] { scroll-margin-top: 0.8rem; }
+body.book-dumpsterdam .book-body h1[id],
+body.book-dumpsterdam nav#TOC {
+  scroll-margin-top: calc(var(--banner) + 0.5rem);
+}
 body.book-dumpsterdam nav#TOC .toc-count {
   color: var(--muted);
   font-weight: 400;
@@ -153,24 +185,36 @@ body.book-dumpsterdam .toc-jump {
   text-transform: uppercase;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
-@media (min-width: 78rem) {
+body.book-dumpsterdam .book-banner {
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  background: #9a2016;
+  color: #fff6ea;
+  margin: 0 -1.25rem 0;
+  padding: 0.85rem 1.25rem;
+  font-size: 0.82rem;
+  letter-spacing: 0.04em;
+}
+body.book-dumpsterdam .book-banner a { color: inherit; text-decoration: underline; }
+@media (min-width: 56rem) {
   body.book-dumpsterdam {
     max-width: min(100%, calc(var(--toc) + var(--measure) + 3rem));
-    display: grid;
-    grid-template-columns: var(--toc) minmax(0, var(--measure));
-    column-gap: 2.25rem;
     padding-bottom: 0;
   }
-  body.book-dumpsterdam .book-banner,
-  body.book-dumpsterdam .cover-page {
-    grid-column: 1 / -1;
+  body.book-dumpsterdam .book-layout {
+    display: grid;
+    grid-template-columns: var(--toc) minmax(0, var(--measure));
+    column-gap: 2rem;
+    align-items: start;
   }
   body.book-dumpsterdam nav#TOC {
     position: sticky;
-    top: 0;
+    top: var(--banner);
+    z-index: 15;
     align-self: start;
-    height: 100vh;
-    max-height: 100vh;
+    height: calc(100vh - var(--banner));
+    max-height: calc(100vh - var(--banner));
     margin: 0;
     overflow: auto;
   }
@@ -180,16 +224,9 @@ body.book-dumpsterdam .toc-jump {
   }
   body.book-dumpsterdam .toc-jump { display: none; }
 }
-body.book-dumpsterdam .book-banner {
-  background: #e05915;
-  color: #fff6ea;
-  margin: 0 -1.25rem 0;
-  padding: 0.85rem 1.25rem;
-  font-size: 0.82rem;
-  letter-spacing: 0.04em;
+@media (min-width: 78rem) {
+  body.book-dumpsterdam { --toc: 22rem; }
 }
-body.book-dumpsterdam .book-banner a { color: inherit; text-decoration: underline; }
-
 
 body.book-dumpsterdam .cover-title {
   font-style: normal;
@@ -199,8 +236,12 @@ body.book-dumpsterdam .cover-title {
 }
 body.book-dumpsterdam .cover-page {
   background:
-    linear-gradient(#1f4d3a, #1f4d3a) left / 12px 100% no-repeat,
+    linear-gradient(var(--accent2), var(--accent2)) left / 12px 100% no-repeat,
     var(--cover-bg);
+}
+body.book-dumpsterdam .cover-logo {
+  background: #dcddcb;
+  padding: 0.3rem;
 }
 
 
@@ -233,6 +274,19 @@ body.book-dumpsterdam .cover-read a {
   font-size: 0.78rem;
   font-style: normal;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+body.book-dumpsterdam .cover-logo-wrap {
+  margin: 0 0 1.2rem;
+  position: relative;
+  z-index: 2;
+}
+body.book-dumpsterdam .cover-logo {
+  display: block;
+  max-height: 5.6rem;
+  max-width: 6.2rem;
+  width: auto;
+  height: auto;
+  object-fit: contain;
 }
 body.book-dumpsterdam .cover-kicker {
   font-family: "Source Sans 3", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -267,6 +321,7 @@ body.book-dumpsterdam .cover-foot {
   body.book-dumpsterdam .toc-jump,
   body.book-dumpsterdam nav#TOC .toc-filter-wrap,
   body.book-dumpsterdam nav#TOC .toc-empty { display: none; }
+  body.book-dumpsterdam .book-layout { display: block; }
   body.book-dumpsterdam nav#TOC {
     position: static;
     max-height: none;

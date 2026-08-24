@@ -4,5 +4,11 @@
 00-frontmatter.md
 01-practice.md
 02-countries.md
+02-countries/_europe.md
+02-countries/_asia.md
+02-countries/_africa.md
+02-countries/_north-america.md
+02-countries/_south-america.md
+02-countries/_oceania.md
 04-outlook.md
 04-outlook/the-road-ahead.md

@@ -361,9 +361,6 @@ body.book-random-roads h1 + p::first-letter {
   padding-right: 0.35rem;
   color: var(--accent);
 }"""
-    dark_extra = (
-        f"body.book-{slug} {{ font-size: 1.02rem; letter-spacing: 0.01em; }}" if dark else ""
-    )
     return f"""{_font_faces(t, font_prefix)}
 
 body.book-{slug} {{
@@ -376,7 +373,8 @@ body.book-{slug} {{
   --cover-bg: {t["cover_bg"]};
   --cover-fg: {t["cover_fg"]};
   --measure: {t["measure"]};
-  --toc: 22rem;
+  --toc: 20rem;
+  --banner: 3.15rem;
   background: var(--bg);
   color: var(--fg);
   font-family: "{t["body"]}", {t["fallback"]};
@@ -413,11 +411,13 @@ body.book-{slug} nav#TOC {{
   border: 1px solid var(--rule);
   padding: 0.85rem 1rem 1.1rem;
   margin: 1.5rem 0 2.5rem;
-  max-height: min(38rem, 78vh);
+  max-height: min(38rem, calc(100vh - var(--banner) - 1.5rem));
   overflow: auto;
   font-size: 0.92rem;
   line-height: 1.35;
   font-style: normal;
+  background: var(--bg);
+  -webkit-overflow-scrolling: touch;
 }}
 body.book-{slug} nav#TOC .toc-title {{
   font-size: 1.15rem;
@@ -444,7 +444,33 @@ body.book-{slug} nav#TOC ul {{
   padding: 0;
 }}
 body.book-{slug} nav#TOC li {{ margin: 0.12rem 0; }}
-body.book-{slug} nav#TOC li.toc-letter {{ margin-top: 0.7rem; }}
+body.book-{slug} nav#TOC .toc-az,
+body.book-{slug} nav#TOC .toc-regions {{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 0.7rem;
+  margin: 0.2rem 0 0.6rem;
+  font-size: 0.92em;
+}}
+body.book-{slug} nav#TOC details.toc-region {{
+  margin: 0.25rem 0 0.45rem;
+}}
+body.book-{slug} nav#TOC details.toc-region summary {{
+  font-weight: 600;
+}}
+body.book-{slug} nav#TOC li.toc-country > a {{ font-weight: 600; }}
+body.book-{slug} nav#TOC .toc-orphan {{
+  color: var(--muted);
+  font-weight: 600;
+}}
+body.book-{slug} nav#TOC ul.toc-cities {{
+  margin: 0.15rem 0 0.4rem 0.9rem;
+  padding: 0;
+}}
+body.book-{slug} nav#TOC ul.toc-cities li {{
+  margin: 0.06rem 0;
+  font-weight: 400;
+}}
 body.book-{slug} nav#TOC a {{
   color: inherit;
   text-decoration: none;
@@ -469,7 +495,10 @@ body.book-{slug} nav#TOC .toc-solo {{
   margin: 0.45rem 0;
   font-weight: 600;
 }}
-body.book-{slug} .book-body h1[id] {{ scroll-margin-top: 0.8rem; }}
+body.book-{slug} .book-body h1[id],
+body.book-{slug} nav#TOC {{
+  scroll-margin-top: calc(var(--banner) + 0.5rem);
+}}
 body.book-{slug} nav#TOC .toc-count {{
   color: var(--muted);
   font-weight: 400;
@@ -499,24 +528,36 @@ body.book-{slug} .toc-jump {{
   text-transform: uppercase;
   font-family: {t["fallback"]};
 }}
-@media (min-width: 78rem) {{
+body.book-{slug} .book-banner {{
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  background: {t["cover_bg"]};
+  color: {t["cover_fg"]};
+  margin: 0 -1.25rem 0;
+  padding: 0.85rem 1.25rem;
+  font-size: 0.82rem;
+  letter-spacing: 0.04em;
+}}
+body.book-{slug} .book-banner a {{ color: inherit; text-decoration: underline; }}
+@media (min-width: 56rem) {{
   body.book-{slug} {{
     max-width: min(100%, calc(var(--toc) + var(--measure) + 3rem));
-    display: grid;
-    grid-template-columns: var(--toc) minmax(0, var(--measure));
-    column-gap: 2.25rem;
     padding-bottom: 0;
   }}
-  body.book-{slug} .book-banner,
-  body.book-{slug} .cover-page {{
-    grid-column: 1 / -1;
+  body.book-{slug} .book-layout {{
+    display: grid;
+    grid-template-columns: var(--toc) minmax(0, var(--measure));
+    column-gap: 2rem;
+    align-items: start;
   }}
   body.book-{slug} nav#TOC {{
     position: sticky;
-    top: 0;
+    top: var(--banner);
+    z-index: 15;
     align-self: start;
-    height: 100vh;
-    max-height: 100vh;
+    height: calc(100vh - var(--banner));
+    max-height: calc(100vh - var(--banner));
     margin: 0;
     overflow: auto;
   }}
@@ -526,15 +567,9 @@ body.book-{slug} .toc-jump {{
   }}
   body.book-{slug} .toc-jump {{ display: none; }}
 }}
-body.book-{slug} .book-banner {{
-  background: {t["cover_bg"]};
-  color: {t["cover_fg"]};
-  margin: 0 -1.25rem 0;
-  padding: 0.85rem 1.25rem;
-  font-size: 0.82rem;
-  letter-spacing: 0.04em;
+@media (min-width: 78rem) {{
+  body.book-{slug} {{ --toc: 22rem; }}
 }}
-body.book-{slug} .book-banner a {{ color: inherit; text-decoration: underline; }}
 {extra}
 {drop}
 
@@ -613,6 +648,7 @@ body.book-{slug} .cover-foot {{
   body.book-{slug} .toc-jump,
   body.book-{slug} nav#TOC .toc-filter-wrap,
   body.book-{slug} nav#TOC .toc-empty {{ display: none; }}
+  body.book-{slug} .book-layout {{ display: block; }}
   body.book-{slug} nav#TOC {{
     position: static;
     max-height: none;
@@ -640,9 +676,9 @@ def catalog_css() -> str:
   border-color: {t["accent"]};
 }}
 article.card-{slug} a {{ color: {t["accent"]}; }}
-article.card-{slug} .badge {{ border-color: {t["accent"]}; }}"""
+article.card-{slug} .badge {{ border-color: {t["accent"]}; }}
+"""
         )
-    serif = THEMES["hitchhikers-guide"]
     return f"""
 @font-face {{
   font-family: "Source Serif 4";
@@ -684,11 +720,11 @@ body.catalog .lede {{
   gap: 1.25rem;
   grid-template-columns: repeat(2, 1fr);
 }}
-@media (min-width: 700px) {{
-  .grid {{ gap: 1.5rem; grid-template-columns: repeat(4, 1fr); }}
+@media (min-width: 640px) {{
+  .grid {{ gap: 1.5rem; grid-template-columns: repeat(3, 1fr); }}
 }}
-@media (min-width: 1100px) {{
-  .grid {{ gap: 1.5rem; grid-template-columns: repeat(7, 1fr); }}
+@media (min-width: 960px) {{
+  .grid {{ gap: 1.5rem; grid-template-columns: repeat(4, 1fr); }}
 }}
 .card {{
   border: 2px solid;
@@ -705,15 +741,21 @@ body.catalog .lede {{
 }}
 .card .formats {{ position: relative; z-index: 2; }}
 .card .formats a {{ position: relative; z-index: 2; }}
+.card > a:not(.open) {{
+  display: block;
+  flex: none;
+  line-height: 0;
+}}
 .card img {{
   width: 100%;
-  aspect-ratio: 2 / 3;
+  height: auto;
+  aspect-ratio: 148 / 210;
   object-fit: cover;
   display: block;
   background: #222;
 }}
-.card .card-body {{ padding: 0.65rem 0.7rem 0.75rem; }}
-.card h2 {{ font-size: 0.95rem; margin: 0 0 0.25rem; line-height: 1.2; }}
+.card .card-body {{ padding: 0.75rem 0.85rem 0.9rem; }}
+.card h2 {{ font-size: 1.05rem; margin: 0 0 0.3rem; line-height: 1.2; }}
 .card h2 a {{ text-decoration: none; }}
 .card .kicker {{
   font-size: 0.62rem;

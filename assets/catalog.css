@@ -7,14 +7,14 @@
 }
 @font-face {
   font-family: "Source Serif 4";
-  src: url("fonts/Oswald-Bold.ttf") format("truetype");
+  src: url("fonts/SourceSerif4-Semibold.ttf") format("truetype");
   font-weight: 600;
   font-display: swap;
 }
 html, body {
   margin: 0;
-  background: white;
-  color: #1c1710;
+  background: #fbf7e9;
+  color: #5b2b08;
   font-family: "Source Serif 4", Palatino, Georgia, serif;
 }
 body.catalog {
@@ -26,10 +26,11 @@ body.catalog h1 {
   font-size: clamp(1.6rem, 3vw, 2.2rem);
   font-weight: 600;
   margin: 0 0 0.4rem;
+  color: #6e3100;
 }
 body.catalog .lede {
   max-width: 36rem;
-  color: #5c564c;
+  color: #76563c;
   line-height: 1.5;
   margin-bottom: 1.5rem;
 }
@@ -38,11 +39,11 @@ body.catalog .lede {
   gap: 1.25rem;
   grid-template-columns: repeat(2, 1fr);
 }
-@media (min-width: 700px) {
-  .grid { gap: 1.5rem; grid-template-columns: repeat(4, 1fr); }
+@media (min-width: 640px) {
+  .grid { gap: 1.5rem; grid-template-columns: repeat(3, 1fr); }
 }
-@media (min-width: 1100px) {
-  .grid { gap: 1.5rem; grid-template-columns: repeat(7, 1fr); }
+@media (min-width: 960px) {
+  .grid { gap: 1.5rem; grid-template-columns: repeat(4, 1fr); }
 }
 .card {
   border: 2px solid;
@@ -59,15 +60,21 @@ body.catalog .lede {
 }
 .card .formats { position: relative; z-index: 2; }
 .card .formats a { position: relative; z-index: 2; }
+.card > a:not(.open) {
+  display: block;
+  flex: none;
+  line-height: 0;
+}
 .card img {
   width: 100%;
-  aspect-ratio: 2 / 3;
+  height: auto;
+  aspect-ratio: 148 / 210;
   object-fit: cover;
   display: block;
   background: #222;
 }
-.card .card-body { padding: 0.65rem 0.7rem 0.75rem; }
-.card h2 { font-size: 0.95rem; margin: 0 0 0.25rem; line-height: 1.2; }
+.card .card-body { padding: 0.75rem 0.85rem 0.9rem; }
+.card h2 { font-size: 1.05rem; margin: 0 0 0.3rem; line-height: 1.2; }
 .card h2 a { text-decoration: none; }
 .card .kicker {
   font-size: 0.62rem;
@@ -79,6 +86,17 @@ body.catalog .lede {
   overflow: hidden;
   text-overflow: ellipsis;
 }
+.card .site-logo {
+  display: block;
+  max-height: 2.4rem;
+  max-width: 100%;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  margin: 0 0 0.45rem;
+  background: transparent;
+  aspect-ratio: auto;
+}
 .badge {
   display: inline-block;
   border: 1px solid;
@@ -87,14 +105,14 @@ body.catalog .lede {
   letter-spacing: 0.04em;
 }
 .card .formats { margin: 0.45rem 0 0; font-size: 0.75rem; }
-.foot { margin-top: 1.5rem; color: #8a8680; font-size: 0.75rem; text-align: right; }
-.foot a { color: #6e6a64; }
+.foot { margin-top: 1.5rem; color: #76563c; font-size: 0.75rem; text-align: right; }
+.foot a { color: #6e3100; }
 .foot .github {
   display: inline-flex;
   align-items: center;
   vertical-align: -0.15em;
   margin: 0 0.15em;
-  color: #6e6a64;
+  color: #6e3100;
   text-decoration: none;
 }
 .foot .github svg { width: 1em; height: 1em; display: block; }
@@ -104,40 +122,47 @@ article.card-hitchhikers-guide {
   border-color: #b96800;
 }
 article.card-hitchhikers-guide a { color: #b96800; }
-article.card-hitchhikers-guide .badge { border-color: #b96800; }article.card-dumpster-diving {
+article.card-hitchhikers-guide .badge { border-color: #b96800; }
+article.card-dumpster-diving {
   background: #f9f9f4;
   color: #1f241c;
   border-color: #2f5a40;
 }
 article.card-dumpster-diving a { color: #2f5a40; }
-article.card-dumpster-diving .badge { border-color: #2f5a40; }article.card-random-roads {
+article.card-dumpster-diving .badge { border-color: #2f5a40; }
+article.card-random-roads {
   background: #ffffea;
   color: #261c14;
   border-color: #0ca6bb;
 }
 article.card-random-roads a { color: #0ca6bb; }
-article.card-random-roads .badge { border-color: #0ca6bb; }article.card-dumpsterdam {
+article.card-random-roads .badge { border-color: #0ca6bb; }
+article.card-dumpsterdam {
   background: #fff6ea;
   color: #111111;
   border-color: #9a2016;
 }
 article.card-dumpsterdam a { color: #9a2016; }
-article.card-dumpsterdam .badge { border-color: #9a2016; }article.card-hospitality-exchange {
+article.card-dumpsterdam .badge { border-color: #9a2016; }
+article.card-hospitality-exchange {
   background: #fcfffe;
   color: #26302e;
   border-color: #08766b;
 }
 article.card-hospitality-exchange a { color: #08766b; }
-article.card-hospitality-exchange .badge { border-color: #08766b; }article.card-moneyless {
+article.card-hospitality-exchange .badge { border-color: #08766b; }
+article.card-moneyless {
   background: #f7f7f5;
   color: #181818;
   border-color: #0ca6bb;
 }
 article.card-moneyless a { color: #0ca6bb; }
-article.card-moneyless .badge { border-color: #0ca6bb; }article.card-shoestring-nomad {
+article.card-moneyless .badge { border-color: #0ca6bb; }
+article.card-shoestring-nomad {
   background: #fffdf8;
   color: #25232b;
   border-color: #654d00;
 }
 article.card-shoestring-nomad a { color: #654d00; }
 article.card-shoestring-nomad .badge { border-color: #654d00; }
+

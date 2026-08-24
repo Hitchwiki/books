@@ -9,13 +9,11 @@ from pathlib import Path
 
 PART_LABELS = {
     "01-practice": "Practice",
-    "02-countries": "Countries",
-    "03-cities": "Cities",
+    "02-countries": "Places",
     "03-history": "History",
     "03-software": "Software",
     "03-stories": "Stories",
     "04-outlook": "Outlook",
-    "casa-robino": "Casa Robino",
     "en": "English",
     "nl": "Nederlands",
     "es": "Español",
@@ -25,9 +23,7 @@ PART_LABELS = {
 
 GAZETTEER = {
     "02-countries",
-    "03-cities",
     "03-stories",
-    "casa-robino",
     "en",
     "nl",
     "es",
@@ -133,21 +129,76 @@ def toc_entries(chapters: list[Path], doc: str, src: Path) -> list[dict]:
         if found is None:
             continue
         hid, heading = found
+        rel = path.relative_to(src)
+        parent = rel.parts[1] if len(rel.parts) >= 3 else None
         entries.append(
             {
                 "part": part,
                 "title": heading,
                 "href": hid,
                 "intro": is_part_intro(src, path),
+                "region": path.stem.startswith("_"),
+                "parent": parent,
+                "slug": path.stem,
             }
         )
     return entries
+
+
+def _region_links(items: list[dict]) -> str:
+    bits = []
+    for item in items:
+        if not item.get("region"):
+            continue
+        href = html.escape(item["href"], quote=True)
+        title = html.escape(item["title"])
+        bits.append(f'<a href="#{href}">{title}</a>')
+    if not bits:
+        return ""
+    return f'<p class="toc-regions">{"".join(bits)}</p>'
+
+
+def _region_blocks(part: str, items: list[dict]) -> str:
+    chunks = [_region_links(items)]
+    current = None
+    buf: list[dict] = []
+
+    def flush() -> None:
+        if current is None and not buf:
+            return
+        label = html.escape(current["title"]) if current else "Places"
+        href = html.escape(current["href"], quote=True) if current else ""
+        summary = f'<a href="#{href}">{label}</a>' if href else label
+        collapse = ""
+        if current and current.get("slug") not in {"_europe"}:
+            collapse = ' data-collapse="true"'
+        n = sum(1 for x in buf if not x.get("parent"))
+        chunks.append(
+            f'<details class="toc-region" data-part="{html.escape(part)}" {collapse} open>'
+            f'<summary>{summary} <span class="toc-count">{n}</span></summary>'
+        )
+        if buf:
+            chunks.append(_item_list(part, buf, az=False))
+        chunks.append("</details>")
+
+    for item in items:
+        if item.get("region"):
+            if current is not None or buf:
+                flush()
+            current = item
+            buf = []
+            continue
+        buf.append(item)
+    flush()
+    return "\n".join(c for c in chunks if c)
 
 
 def _az_links(part: str, items: list[dict]) -> str:
     letters = []
     seen: set[str] = set()
     for item in items:
+        if item.get("parent") and item.get("parent") != item.get("slug"):
+            continue
         key = letter_key(item["title"])
         if key not in seen:
             seen.add(key)
@@ -160,19 +211,73 @@ def _az_links(part: str, items: list[dict]) -> str:
     return f'<p class="toc-az">{"".join(bits)}</p>'
 
 
+def _li_open(item: dict, extra: str = "") -> str:
+    href = html.escape(item["href"], quote=True)
+    title = html.escape(item["title"])
+    return f'<li{extra}><a href="#{href}">{title}</a>'
+
+
+def _city_items(cities: list[dict]) -> str:
+    rows = []
+    for city in cities:
+        href = html.escape(city["href"], quote=True)
+        title = html.escape(city["title"])
+        rows.append(f'<li><a href="#{href}">{title}</a></li>')
+    return '<ul class="toc-cities">\n' + "\n".join(rows) + "\n</ul>"
+
+
 def _item_list(part: str, items: list[dict], *, az: bool) -> str:
     rows = []
     last = None
     slug = html.escape(part or "part")
-    for item in items:
-        key = letter_key(item["title"])
-        extra = ""
-        if az and key != last:
-            extra = f' id="toc-{slug}-{html.escape(key)}" class="toc-letter"'
-            last = key
-        href = html.escape(item["href"], quote=True)
-        title = html.escape(item["title"])
-        rows.append(f'<li{extra}><a href="#{href}">{title}</a></li>')
+    i = 0
+
+    def letter_attrs(title: str) -> tuple[str, list[str]]:
+        nonlocal last
+        classes: list[str] = []
+        extra_id = ""
+        if az:
+            key = letter_key(title)
+            if key != last:
+                extra_id = f' id="toc-{slug}-{html.escape(key)}"'
+                classes.append("toc-letter")
+                last = key
+        return extra_id, classes
+
+    while i < len(items):
+        item = items[i]
+        parent = item.get("parent")
+        if parent and parent != item.get("slug"):
+            group = [item]
+            j = i + 1
+            while j < len(items) and items[j].get("parent") == parent:
+                group.append(items[j])
+                j += 1
+            label = parent.replace("-", " ").title()
+            extra_id, classes = letter_attrs(label)
+            cls = " ".join(["toc-country", *classes]).strip()
+            rows.append(
+                f'<li{extra_id} class="{html.escape(cls)}">'
+                f'<span class="toc-orphan">{html.escape(label)}</span>'
+                + _city_items(group)
+                + "</li>"
+            )
+            i = j
+            continue
+        extra_id, classes = letter_attrs(item["title"])
+        cities = []
+        j = i + 1
+        while j < len(items) and items[j].get("parent") == item.get("slug"):
+            cities.append(items[j])
+            j += 1
+        if cities:
+            classes.append("toc-country")
+        cls = f' class="{" ".join(classes)}"' if classes else ""
+        row = _li_open(item, f"{extra_id}{cls}")
+        if cities:
+            row += _city_items(cities)
+        rows.append(row + "</li>")
+        i = j if cities else i + 1
     return "<ul>\n" + "\n".join(rows) + "\n</ul>"
 
 
@@ -195,7 +300,7 @@ def render_toc(entries: list[dict]) -> str:
         items = groups[part]
         intro = next((x for x in items if x.get("intro")), None)
         chapters = [x for x in items if not x.get("intro")]
-        n = len(chapters)
+        n = len([x for x in chapters if not x.get("region")])
         label = html.escape((intro["title"] if intro else part_label(part)))
         if intro and not chapters:
             href = html.escape(intro["href"], quote=True)
@@ -206,7 +311,8 @@ def render_toc(entries: list[dict]) -> str:
             collapse = ' data-collapse="true"'
         elif n >= 80:
             collapse = ' data-collapse="true"'
-        az = n >= (24 if part in GAZETTEER else 80)
+        by_region = any(x.get("region") for x in chapters)
+        az = (not by_region) and n >= (24 if part in GAZETTEER else 80)
         pid = html.escape(part or "front")
         summary = label
         if intro:
@@ -216,9 +322,12 @@ def render_toc(entries: list[dict]) -> str:
             f'<details class="toc-part" data-part="{pid}"{collapse} open>'
             f'<summary>{summary} <span class="toc-count">{n}</span></summary>'
         )
-        if az:
-            chunks.append(_az_links(part or "front", chapters))
-        chunks.append(_item_list(part or "front", chapters, az=az))
+        if by_region:
+            chunks.append(_region_blocks(part or "front", chapters))
+        else:
+            if az:
+                chunks.append(_az_links(part or "front", chapters))
+            chunks.append(_item_list(part or "front", chapters, az=az))
         chunks.append("</details>")
     chunks.append("</nav>")
     return "\n".join(chunks)
@@ -226,9 +335,22 @@ def render_toc(entries: list[dict]) -> str:
 
 def wrap_body(html_doc: str, toc: str) -> str:
     html_doc = NAV_RE.sub("", html_doc, count=1)
-    already = 'class="book-body"' in html_doc
-    insertion = toc + '\n<article class="book-body">\n'
-    if not already:
+    html_doc = html_doc.replace('<div class="book-layout">', "")
+    html_doc = re.sub(
+        r"</article>\s*</div>\s*(?=<a class=\"toc-jump\"|<script src=\"book.js\")",
+        "</article>\n",
+        html_doc,
+        count=1,
+    )
+    layout = f'<div class="book-layout">\n{toc}\n'
+    if 'class="book-body"' in html_doc:
+        html_doc = html_doc.replace(
+            '<article class="book-body">',
+            layout + '<article class="book-body">',
+            1,
+        )
+    else:
+        insertion = layout + '<article class="book-body">\n'
         if re.search(r'<header id="title-block-header">', html_doc):
             html_doc = re.sub(
                 r'(<header id="title-block-header">.*?</header>\s*)',
@@ -247,20 +369,18 @@ def wrap_body(html_doc: str, toc: str) -> str:
             '<script src="book.js"></script>\n</body>',
             1,
         )
-    else:
-        html_doc = re.sub(
-            r'(<header id="title-block-header">.*?</header>\s*)',
-            lambda m: m.group(1) + toc + "\n",
-            html_doc,
-            count=1,
-            flags=re.S,
+    html_doc = re.sub(
+        r"</article>(\s*)(?=<a class=\"toc-jump\"|<script src=\"book.js\"|</body>)",
+        "</article>\n</div>\n",
+        html_doc,
+        count=1,
+    )
+    if "book.js" not in html_doc:
+        html_doc = html_doc.replace(
+            "</body>",
+            '<script src="book.js"></script>\n</body>',
+            1,
         )
-        if "book.js" not in html_doc:
-            html_doc = html_doc.replace(
-                "</body>",
-                '<script src="book.js"></script>\n</body>',
-                1,
-            )
     banner = re.search(r'<header class="book-banner">.*?</header>', html_doc, flags=re.S)
     if banner and 'href="#TOC">Contents</a>' not in banner.group(0):
         html_doc = html_doc.replace(

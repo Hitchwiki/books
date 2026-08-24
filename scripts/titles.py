@@ -1,13 +1,17 @@
 """Wiki allowlists: how-to + countries + a curated city set (no pin gazetteers).
 
 Hitchwiki / Trashwiki / Nomadwiki books are shaped as:
-practice (generic how-to) → places (each country, then its cities) → outlook
+practice (generic how-to) → places (Europe first, then other regions; each
+country, then its main cities) → outlook
 (original close: go do this, keep the wiki alive). Part intros and outlook
 chapters are locked originals, not wiki fetches.
 
 Policy for what belongs in a book (and what must never be compiled) is in
 EDITORIAL.md — “Which pages to use”. Change lists here; change the rules there.
 """
+
+from pathlib import Path
+import re
 
 from common import slugify
 
@@ -104,10 +108,9 @@ WIKIS = {
         "origin": "https://wiki.trustroots.org/en/",
         "dump": "https://dumps.hitchwiki.org/trustroots-current.xml.gz",
         "howto_titles": [
-            "How To Write A Couch Request",
             "How to write a hosting request",
-            "How To Be A Good Guest",
-            "How To Be A Good Host",
+            "How to be a good guest",
+            "How to be a good host",
             "How To Create A Good Profile",
             "How to write a request",
             "How to add my place",
@@ -120,9 +123,8 @@ WIKIS = {
             "Circles",
             "Safety",
             "Host",
-            "Hosting",
             "Profiles",
-            "A Brief History of Hospitality Exchange Networks",
+            "A brief history of hospitality exchange networks",
             "Hospitality exchange is more than CouchSurfing",
             "Hospitality exchange",
             "Hospitality Club",
@@ -132,16 +134,15 @@ WIKIS = {
             "Philosophy of BeWelcome",
             "History of Trustroots",
             "Couchers",
-            "CouchSurfing",
+            "Couchsurfing",
             "Servas",
             "List of hospitality exchange networks",
             "List of projects related to Hospitality Exchange",
             "P2P Hospitality initiatives and proposals",
             "Academic research about hospitality exchange",
             "Replace CouchSurfing",
-            "CouchSurfing sells out - a message that spreads",
             "Volunteer",
-            "Anarchist hosts",
+            "Anarchists",
             "Rural hospitality",
             "HospitalityGuide.net",
         ],
@@ -475,6 +476,439 @@ def city_part(wiki: str, city_title: str) -> str:
         return f"{cfg['part_country']}/_ungrouped"
     return f"{cfg['part_country']}/{country}"
 
+
+# Travel order, not A–Z. Europe first, then overland toward Asia, then
+# Africa, the Americas, Oceania. Within a country, CITY_RANK puts capitals
+# and the main cities first.
+COUNTRY_SLUG_ALIASES = {
+    "united-states": "united-states-of-america",
+    "georgia-country": "georgia",
+    "macedonia": "north-macedonia",
+    "macao": "macau",
+    "aland-islands": "åland-islands",
+}
+
+GEO_REGIONS: list[tuple[str, str, tuple[str, ...]]] = [
+    (
+        "europe",
+        "Europe",
+        (
+            "united-kingdom",
+            "england",
+            "scotland",
+            "wales",
+            "northern-ireland",
+            "ireland",
+            "isle-of-man",
+            "jersey",
+            "france",
+            "monaco",
+            "belgium",
+            "netherlands",
+            "luxembourg",
+            "germany",
+            "austria",
+            "switzerland",
+            "liechtenstein",
+            "denmark",
+            "sweden",
+            "norway",
+            "finland",
+            "iceland",
+            "åland-islands",
+            "faroe-islands",
+            "greenland",
+            "spain",
+            "portugal",
+            "andorra",
+            "azores",
+            "italy",
+            "san-marino",
+            "vatican",
+            "malta",
+            "czech-republic",
+            "slovakia",
+            "poland",
+            "hungary",
+            "slovenia",
+            "estonia",
+            "latvia",
+            "lithuania",
+            "croatia",
+            "bosnia-and-herzegovina",
+            "serbia",
+            "montenegro",
+            "kosovo",
+            "north-macedonia",
+            "albania",
+            "greece",
+            "bulgaria",
+            "romania",
+            "moldova",
+            "transnistria",
+            "yugoslavia",
+            "ukraine",
+            "belarus",
+            "cyprus",
+            "russia",
+            "tatarstan",
+            "bashkortostan",
+        ),
+    ),
+    (
+        "asia",
+        "Asia",
+        (
+            "turkey",
+            "georgia",
+            "abkhazia",
+            "armenia",
+            "azerbaijan",
+            "iran",
+            "iraq",
+            "syria",
+            "lebanon",
+            "israel",
+            "jordan",
+            "saudi-arabia",
+            "yemen",
+            "oman",
+            "united-arab-emirates",
+            "qatar",
+            "bahrain",
+            "kuwait",
+            "afghanistan",
+            "pakistan",
+            "india",
+            "nepal",
+            "bhutan",
+            "bangladesh",
+            "sri-lanka",
+            "maldives",
+            "kazakhstan",
+            "kyrgyzstan",
+            "tajikistan",
+            "turkmenistan",
+            "uzbekistan",
+            "mongolia",
+            "china",
+            "tibet",
+            "hong-kong",
+            "macau",
+            "taiwan",
+            "north-korea",
+            "south-korea",
+            "japan",
+            "myanmar",
+            "laos",
+            "vietnam",
+            "cambodia",
+            "thailand",
+            "malaysia",
+            "singapore",
+            "indonesia",
+            "brunei",
+            "philippines",
+            "timor-leste",
+            "british-indian-ocean-territory",
+        ),
+    ),
+    (
+        "africa",
+        "Africa",
+        (
+            "morocco",
+            "western-sahara",
+            "algeria",
+            "tunisia",
+            "libya",
+            "egypt",
+            "mauritania",
+            "senegal",
+            "the-gambia",
+            "guinea-bissau",
+            "guinea",
+            "sierra-leone",
+            "liberia",
+            "côte-divoire",
+            "ghana",
+            "togo",
+            "benin",
+            "nigeria",
+            "burkina-faso",
+            "mali",
+            "niger",
+            "cape-verde",
+            "cameroon",
+            "chad",
+            "central-african-republic",
+            "republic-of-the-congo",
+            "democratic-republic-of-the-congo",
+            "gabon",
+            "equatorial-guinea",
+            "são-tomé-and-príncipe",
+            "sudan",
+            "south-sudan",
+            "eritrea",
+            "ethiopia",
+            "djibouti",
+            "somalia",
+            "somaliland",
+            "puntland",
+            "kenya",
+            "uganda",
+            "rwanda",
+            "burundi",
+            "tanzania",
+            "angola",
+            "zambia",
+            "malawi",
+            "mozambique",
+            "zimbabwe",
+            "botswana",
+            "namibia",
+            "south-africa",
+            "lesotho",
+            "eswatini",
+            "madagascar",
+            "mauritius",
+            "seychelles",
+            "comoros",
+        ),
+    ),
+    (
+        "north-america",
+        "North America",
+        (
+            "canada",
+            "united-states-of-america",
+            "mexico",
+            "bermuda",
+        ),
+    ),
+    (
+        "central-america",
+        "Central America and the Caribbean",
+        (
+            "guatemala",
+            "belize",
+            "el-salvador",
+            "honduras",
+            "nicaragua",
+            "costa-rica",
+            "panama",
+            "cuba",
+            "jamaica",
+            "haiti",
+            "dominican-republic",
+            "puerto-rico",
+            "bahamas",
+            "turks-and-caicos",
+            "cayman-islands",
+            "antigua-and-barbuda",
+            "saint-kitts-and-nevis",
+            "guadeloupe",
+            "dominica",
+            "martinique",
+            "saint-lucia",
+            "saint-barthélemy",
+            "saint-vincent-and-the-grenadines",
+            "barbados",
+            "grenada",
+            "trinidad-and-tobago",
+            "curaçao",
+            "aruba",
+            "united-states-virgin-islands",
+            "british-virgin-islands",
+            "anguilla",
+            "montserrat",
+        ),
+    ),
+    (
+        "south-america",
+        "South America",
+        (
+            "colombia",
+            "venezuela",
+            "guyana",
+            "suriname",
+            "french-guiana",
+            "ecuador",
+            "peru",
+            "bolivia",
+            "brazil",
+            "paraguay",
+            "chile",
+            "argentina",
+            "uruguay",
+            "falkland-islands",
+        ),
+    ),
+    (
+        "oceania",
+        "Oceania",
+        (
+            "australia",
+            "new-zealand",
+            "papua-new-guinea",
+            "solomon-islands",
+            "vanuatu",
+            "new-caledonia",
+            "fiji",
+            "tonga",
+            "samoa",
+            "american-samoa",
+            "tuvalu",
+            "kiribati",
+            "nauru",
+            "marshall-islands",
+            "federated-states-of-micronesia",
+            "palau",
+            "niue",
+        ),
+    ),
+    ("elsewhere", "Elsewhere", ()),
+]
+
+# Lower number = earlier. Capitals first, then the cities travellers actually
+# use. Unlisted cities sort after these, then by name.
+CITY_RANK = {
+    "london": 0,
+    "edinburgh": 1,
+    "manchester": 2,
+    "dublin": 0,
+    "paris": 0,
+    "lyon": 1,
+    "marseille": 2,
+    "brussels": 0,
+    "amsterdam": 0,
+    "rotterdam": 1,
+    "berlin": 0,
+    "hamburg": 1,
+    "munich": 2,
+    "leipzig": 3,
+    "cologne": 4,
+    "vienna": 0,
+    "copenhagen": 0,
+    "stockholm": 0,
+    "oslo": 0,
+    "helsinki": 0,
+    "madrid": 0,
+    "barcelona": 1,
+    "valencia": 2,
+    "lisbon": 0,
+    "porto": 1,
+    "rome": 0,
+    "prague": 0,
+    "warsaw": 0,
+    "budapest": 0,
+    "athens": 0,
+    "istanbul": 0,
+    "tbilisi": 0,
+    "jerusalem": 0,
+    "tel-aviv": 1,
+    "tehran": 0,
+    "moscow": 0,
+    "new-delhi": 0,
+    "mumbai": 1,
+    "kathmandu": 0,
+    "beijing": 0,
+    "shanghai": 1,
+    "hong-kong": 0,
+    "seoul": 0,
+    "tokyo": 0,
+    "bangkok": 0,
+    "kuala-lumpur": 0,
+    "singapore": 0,
+    "jakarta": 0,
+    "manila": 0,
+    "hanoi": 0,
+    "ho-chi-minh-city": 1,
+    "cairo": 0,
+    "casablanca": 0,
+    "dakar": 0,
+    "accra": 0,
+    "lagos": 0,
+    "addis-ababa": 0,
+    "nairobi": 0,
+    "cape-town": 0,
+    "johannesburg": 1,
+    "toronto": 0,
+    "montreal": 1,
+    "vancouver": 2,
+    "new-york-city": 0,
+    "new-york": 0,
+    "los-angeles": 1,
+    "chicago": 2,
+    "san-francisco": 3,
+    "bay-area": 3,
+    "seattle": 4,
+    "mexico-city": 0,
+    "bogotá": 0,
+    "bogota": 0,
+    "lima": 0,
+    "rio-de-janeiro": 0,
+    "são-paulo": 1,
+    "sao-paulo": 1,
+    "santiago": 0,
+    "buenos-aires": 0,
+    "sydney": 0,
+    "melbourne": 1,
+    "wellington": 0,
+    "auckland": 1,
+}
+
+_GEO_INDEX: dict[str, tuple[int, int]] = {}
+_REGION_INDEX: dict[str, int] = {}
+for _ri, (_rid, _label, _countries) in enumerate(GEO_REGIONS):
+    _REGION_INDEX[_rid] = _ri
+    for _ci, _slug in enumerate(_countries):
+        _GEO_INDEX[_slug] = (_ri, _ci)
+        _canon = COUNTRY_SLUG_ALIASES.get(_slug, _slug)
+        _GEO_INDEX.setdefault(_canon, (_ri, _ci))
+for _alias, _canon in COUNTRY_SLUG_ALIASES.items():
+    if _canon in _GEO_INDEX:
+        _GEO_INDEX.setdefault(_alias, _GEO_INDEX[_canon])
+
+
+def canonical_country_slug(slug: str) -> str:
+    return COUNTRY_SLUG_ALIASES.get(slug, slug)
+
+
+def country_geo_index(slug: str) -> tuple[int, int]:
+    slug = canonical_country_slug(slug)
+    if slug in _GEO_INDEX:
+        return _GEO_INDEX[slug]
+    return (_REGION_INDEX.get("elsewhere", len(GEO_REGIONS)), 10_000)
+
+
+def city_rank(slug: str) -> int:
+    return CITY_RANK.get(slug, 50)
+
+
+def geo_src_key(rel: Path) -> tuple:
+    """Sort key for src-relative paths: practice, then geo (Europe first), then the rest."""
+    parts = Path(rel).parts
+    top = parts[0]
+    m = re.match(r"^(\d{2})", top)
+    part_n = int(m.group(1)) if m else 80
+    posix = "/".join(parts)
+    if top != "02-countries" and top != "02-countries.md":
+        return (part_n, posix)
+    if top == "02-countries.md" or len(parts) == 1:
+        return (2, -1, 0, 0, 0, "")
+    name = Path(parts[-1]).stem
+    if name.startswith("_"):
+        rid = name[1:]
+        return (2, _REGION_INDEX.get(rid, len(GEO_REGIONS)), -1, 0, 0, name)
+    if len(parts) == 2:
+        ri, ci = country_geo_index(name)
+        return (2, ri, ci, 0, 0, name)
+    country = parts[1]
+    city = name
+    ri, ci = country_geo_index(country)
+    return (2, ri, ci, 1, city_rank(city), city)
+
 CITY_MAP_LINKS = {
     "hitchwiki": (
         "Roadside hitching spots go stale. For current places to hitch in and "
@@ -496,21 +930,19 @@ CITY_MAP_LINKS = {
 
 HOWTO_FALLBACK = {
     "hitchwiki": [
-        "Top Tips",
+        "Top tips",
         "First time hitchhiking",
         "Hitchhiker's safety",
-        "Safety",
         "Etiquette",
-        "What to pack",
+        "Things to carry",
         "Where to hitchhike",
-        "Techniques",
+        "Hitchhiking techniques",
         "Highway",
         "Signs",
         "Appearance",
-        "Night hitchhiking",
+        "Hitchhiking at night",
         "Maps",
         "Waiting",
-        "Women",
         "Hitchhiking",
     ],
     "trashwiki": [

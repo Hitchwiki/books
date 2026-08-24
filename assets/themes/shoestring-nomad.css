@@ -21,16 +21,17 @@
 }
 
 body.book-shoestring-nomad {
-  --fg: #2a261c;
-  --muted: #6a6456;
-  --bg: #efe6d4;
-  --accent: #3d5a73;
-  --accent2: #8a5a32;
-  --rule: #d4c8b0;
-  --cover-bg: #3d5a73;
-  --cover-fg: #efe6d4;
+  --fg: #25232b;
+  --muted: #5f5a52;
+  --bg: #fffdf8;
+  --accent: #654d00;
+  --accent2: #4a3a08;
+  --rule: #d9d0bc;
+  --cover-bg: #f6f3e9;
+  --cover-fg: #4a3a08;
   --measure: 40rem;
-  --toc: 22rem;
+  --toc: 20rem;
+  --banner: 3.15rem;
   background: var(--bg);
   color: var(--fg);
   font-family: "Source Sans 3", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -46,7 +47,7 @@ body.book-shoestring-nomad h2,
 body.book-shoestring-nomad h3,
 body.book-shoestring-nomad .cover-title {
   font-family: "Source Serif 4", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-style: normal;
+  font-style: italic;
   font-weight: 600;
   line-height: 1.15;
   color: var(--fg);
@@ -67,11 +68,13 @@ body.book-shoestring-nomad nav#TOC {
   border: 1px solid var(--rule);
   padding: 0.85rem 1rem 1.1rem;
   margin: 1.5rem 0 2.5rem;
-  max-height: min(38rem, 78vh);
+  max-height: min(38rem, calc(100vh - var(--banner) - 1.5rem));
   overflow: auto;
   font-size: 0.92rem;
   line-height: 1.35;
   font-style: normal;
+  background: var(--bg);
+  -webkit-overflow-scrolling: touch;
 }
 body.book-shoestring-nomad nav#TOC .toc-title {
   font-size: 1.15rem;
@@ -98,7 +101,33 @@ body.book-shoestring-nomad nav#TOC ul {
   padding: 0;
 }
 body.book-shoestring-nomad nav#TOC li { margin: 0.12rem 0; }
-body.book-shoestring-nomad nav#TOC li.toc-letter { margin-top: 0.7rem; }
+body.book-shoestring-nomad nav#TOC .toc-az,
+body.book-shoestring-nomad nav#TOC .toc-regions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 0.7rem;
+  margin: 0.2rem 0 0.6rem;
+  font-size: 0.92em;
+}
+body.book-shoestring-nomad nav#TOC details.toc-region {
+  margin: 0.25rem 0 0.45rem;
+}
+body.book-shoestring-nomad nav#TOC details.toc-region summary {
+  font-weight: 600;
+}
+body.book-shoestring-nomad nav#TOC li.toc-country > a { font-weight: 600; }
+body.book-shoestring-nomad nav#TOC .toc-orphan {
+  color: var(--muted);
+  font-weight: 600;
+}
+body.book-shoestring-nomad nav#TOC ul.toc-cities {
+  margin: 0.15rem 0 0.4rem 0.9rem;
+  padding: 0;
+}
+body.book-shoestring-nomad nav#TOC ul.toc-cities li {
+  margin: 0.06rem 0;
+  font-weight: 400;
+}
 body.book-shoestring-nomad nav#TOC a {
   color: inherit;
   text-decoration: none;
@@ -123,7 +152,10 @@ body.book-shoestring-nomad nav#TOC .toc-solo {
   margin: 0.45rem 0;
   font-weight: 600;
 }
-body.book-shoestring-nomad .book-body h1[id] { scroll-margin-top: 0.8rem; }
+body.book-shoestring-nomad .book-body h1[id],
+body.book-shoestring-nomad nav#TOC {
+  scroll-margin-top: calc(var(--banner) + 0.5rem);
+}
 body.book-shoestring-nomad nav#TOC .toc-count {
   color: var(--muted);
   font-weight: 400;
@@ -153,24 +185,36 @@ body.book-shoestring-nomad .toc-jump {
   text-transform: uppercase;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
-@media (min-width: 78rem) {
+body.book-shoestring-nomad .book-banner {
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  background: #f6f3e9;
+  color: #4a3a08;
+  margin: 0 -1.25rem 0;
+  padding: 0.85rem 1.25rem;
+  font-size: 0.82rem;
+  letter-spacing: 0.04em;
+}
+body.book-shoestring-nomad .book-banner a { color: inherit; text-decoration: underline; }
+@media (min-width: 56rem) {
   body.book-shoestring-nomad {
     max-width: min(100%, calc(var(--toc) + var(--measure) + 3rem));
-    display: grid;
-    grid-template-columns: var(--toc) minmax(0, var(--measure));
-    column-gap: 2.25rem;
     padding-bottom: 0;
   }
-  body.book-shoestring-nomad .book-banner,
-  body.book-shoestring-nomad .cover-page {
-    grid-column: 1 / -1;
+  body.book-shoestring-nomad .book-layout {
+    display: grid;
+    grid-template-columns: var(--toc) minmax(0, var(--measure));
+    column-gap: 2rem;
+    align-items: start;
   }
   body.book-shoestring-nomad nav#TOC {
     position: sticky;
-    top: 0;
+    top: var(--banner);
+    z-index: 15;
     align-self: start;
-    height: 100vh;
-    max-height: 100vh;
+    height: calc(100vh - var(--banner));
+    max-height: calc(100vh - var(--banner));
     margin: 0;
     overflow: auto;
   }
@@ -180,34 +224,15 @@ body.book-shoestring-nomad .toc-jump {
   }
   body.book-shoestring-nomad .toc-jump { display: none; }
 }
-body.book-shoestring-nomad .book-banner {
-  background: #3d5a73;
-  color: #efe6d4;
-  margin: 0 -1.25rem 0;
-  padding: 0.85rem 1.25rem;
-  font-size: 0.82rem;
-  letter-spacing: 0.04em;
+@media (min-width: 78rem) {
+  body.book-shoestring-nomad { --toc: 22rem; }
 }
-body.book-shoestring-nomad .book-banner a { color: inherit; text-decoration: underline; }
-
 
 body.book-shoestring-nomad .cover-page {
-  background-image:
-    linear-gradient(rgba(239,230,212,0.08) 1px, transparent 1px),
-    linear-gradient(90deg, rgba(239,230,212,0.08) 1px, transparent 1px);
-  background-size: 28px 28px;
+  border-top: 18px solid #ffdc18;
+  border-bottom: 18px solid #ffdc18;
 }
 body.book-shoestring-nomad .cover-title { font-style: italic; }
-body.book-shoestring-nomad .cover-page::after {
-  content: "";
-  position: absolute;
-  left: 10%;
-  right: 18%;
-  top: 28%;
-  height: 0;
-  border-top: 2px dashed rgba(239,230,212,0.55);
-  transform: rotate(-12deg);
-}
 
 
 
@@ -240,6 +265,19 @@ body.book-shoestring-nomad .cover-read a {
   font-style: normal;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
+body.book-shoestring-nomad .cover-logo-wrap {
+  margin: 0 0 1.2rem;
+  position: relative;
+  z-index: 2;
+}
+body.book-shoestring-nomad .cover-logo {
+  display: block;
+  max-height: 5.6rem;
+  max-width: 6.2rem;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+}
 body.book-shoestring-nomad .cover-kicker {
   font-family: "Source Sans 3", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-style: normal;
@@ -253,7 +291,7 @@ body.book-shoestring-nomad .cover-title {
   font-size: 3.4rem;
   margin: 0 0 0.6rem;
   color: inherit;
-  font-style: normal;
+  font-style: italic;
 }
 body.book-shoestring-nomad .cover-sub {
   margin: 0;
@@ -273,6 +311,7 @@ body.book-shoestring-nomad .cover-foot {
   body.book-shoestring-nomad .toc-jump,
   body.book-shoestring-nomad nav#TOC .toc-filter-wrap,
   body.book-shoestring-nomad nav#TOC .toc-empty { display: none; }
+  body.book-shoestring-nomad .book-layout { display: block; }
   body.book-shoestring-nomad nav#TOC {
     position: static;
     max-height: none;

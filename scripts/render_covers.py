@@ -55,13 +55,6 @@ def paste_logo(img: Image.Image, slug: str, *, x: int, y: int, max_h: int = 280,
     img.paste(logo, (x, y), logo)
     return y + nh + 40
 
-W, H = 1400, 2100
-
-
-def hex_rgb(value: str) -> tuple[int, int, int]:
-    v = value.lstrip("#")
-    return int(v[0:2], 16), int(v[2:4], 16), int(v[4:6], 16)
-
 
 def fetch_source_serif() -> None:
     dest_dir = fonts_dir()
@@ -146,69 +139,66 @@ def paint(slug: str, meta: dict) -> Image.Image:
     sub = meta.get("subtitle", "")
     license_id = meta.get("license", "")
     kicker = t["kicker"].upper()
+    logo_x = 110
+    logo_y = 110
+    logo_h = 280
+    logo_w = 720
 
-    if motif == "horizon":
-        d.rectangle([0, 0, W, int(H * 0.62)], fill=hex_rgb("#1e3a5f"))
-        d.rectangle([0, int(H * 0.62), W, H], fill=hex_rgb("#c45c26"))
-        d.rectangle([0, int(H * 0.62) - 6, W, int(H * 0.62) + 6], fill=hex_rgb("#f3ead7"))
-        for i in range(18):
-            x0 = 80 + i * 70
-            d.rectangle([x0, int(H * 0.62) - 2, x0 + 36, int(H * 0.62) + 2], fill=hex_rgb("#1e3a5f"))
-        fg = hex_rgb("#f3ead7")
-        y_title = 280
-    elif motif == "hazard":
-        stripe = 54
-        for i in range(-8, 50):
-            pts = [
-                (i * stripe, 0),
-                (i * stripe + 28, 0),
-                (i * stripe + 28 + H, H),
-                (i * stripe + H, H),
-            ]
-            d.polygon(pts, fill=hex_rgb("#14160f") if i % 2 else hex_rgb("#e2c93a"))
-        d.rectangle([70, 620, W - 70, 1480], fill=hex_rgb("#14160f"))
-        fg = hex_rgb("#e2c93a")
-        y_title = 700
+    if motif == "hitchwiki":
+        d.rectangle([0, H - 28, W, H], fill=hex_rgb("#b73327"))
+        y_title = 620
+        kicker_y = 480
+    elif motif == "trashwiki":
+        y_title = 640
+        kicker_y = 500
+        logo_h = 320
     elif motif == "masthead":
-        d.rectangle([0, 0, W, 90], fill=accent)
-        d.rectangle([0, H - 90, W, H], fill=accent)
-        d.rectangle([90, 220, W - 90, 228], fill=hex_rgb(t["fg"]))
-        fg = hex_rgb(t["fg"])
-        y_title = 360
+        d.rectangle([0, 0, W, 90], fill=accent2)
+        d.rectangle([0, H - 90, W, H], fill=accent2)
+        fg = hex_rgb(t["cover_fg"])
+        y_title = 720
+        kicker_y = 560
+        logo_w = 1100
+        logo_h = 160
+        logo_x = -1
     elif motif == "slab":
-        d.rectangle([0, 0, 70, H], fill=hex_rgb("#1f4d3a"))
+        d.rectangle([0, 0, 70, H], fill=accent2)
         display = load_font(t["display_file"], 150)
-        y_title = 520
+        y_title = 720
+        kicker_y = 560
+        logo_x = 130
     elif motif == "door":
         d.rectangle([0, 0, W, H], fill=hex_rgb(t["bg"]))
         d.rectangle([70, 70, W - 70, H - 70], fill=accent2)
         d.rectangle([110, 110, W - 110, H - 110], fill=hex_rgb(t["cover_bg"]))
-        y_title = 720
+        y_title = 980
+        kicker_y = 820
+        logo_x = -1
+        logo_y = 180
+        logo_h = 360
     elif motif == "spare":
-        d.rectangle([0, 0, W, H], fill=hex_rgb(t["bg"]))
-        d.rectangle([110, 110, 190, 190], fill=accent)
-        fg = hex_rgb(t["fg"])
+        d.rectangle([0, 0, W, H], fill=hex_rgb(t["cover_bg"]))
+        fg = hex_rgb(t["cover_fg"])
         y_title = 1480
+        kicker_y = 1280
         display = load_font(t["display_file"], 88)
+        logo_w = 1100
+        logo_h = 220
+        logo_x = 110
+        logo_y = 160
     elif motif == "grid":
-        step = 48
-        grid = hex_rgb("#5a7390")
-        for x in range(0, W, step):
-            d.line([(x, 0), (x, H)], fill=grid, width=1)
-        for y in range(0, H, step):
-            d.line([(0, y), (W, y)], fill=grid, width=1)
-        d.line([(120, 520), (1180, 980)], fill=hex_rgb(t["cover_fg"]), width=3)
-        y_title = 1100
+        d.rectangle([0, 0, W, 70], fill=hex_rgb("#ffdc18"))
+        d.rectangle([0, H - 70, W, H], fill=hex_rgb("#ffdc18"))
+        y_title = 820
+        kicker_y = 660
+        logo_h = 360
+        logo_x = -1
+        logo_y = 140
     else:
-        y_title = 500
+        y_title = 640
+        kicker_y = 500
 
-    kicker_y = 120
-    if motif == "hazard":
-        kicker_y = 650
-    elif motif == "door":
-        kicker_y = 180
-    elif motif == "spare":
-        kicker_y = 220
+    paste_logo(img, slug, x=logo_x, y=logo_y, max_h=logo_h, max_w=logo_w)
 
     max_w = W - 220
     d.text((110, kicker_y), kicker, font=tiny, fill=fg)

@@ -29,7 +29,7 @@ make all
 
 Allowlists live in `scripts/titles.py` and Drupal skip-types in `scripts/compile_drupal_sql.py`.
 
-**Book shape (Hitchwiki, Trashwiki, Nomadwiki):** generic practice first (`01-practice`), then a geo section (`02-countries`, with curated cities nested under the matching country), then original outlook (`04-outlook`) that sends people out to try it and to edit the live wiki. Shoestring Nomad parks Casa Robino stories in `03-stories`, after countries and before outlook, so the close is still last.
+**Book shape (Hitchwiki, Trashwiki, Nomadwiki):** generic practice first (`01-practice`), then a geo section (`02-countries`, Europe-first by region, curated cities nested under the matching country with capitals and the main cities first), then original outlook (`04-outlook`) that sends people out to try it and to edit the live wiki. Shoestring Nomad parks Casa Robino stories in `03-stories`, after countries and before outlook, so the close is still last.
 
 **Use:** evergreen how-to; country overviews; Drupal stories/tips; locked originals (front matter, part intros, outlook, history commentary, software described-not-dumped, granted forewords). A curated city set is optional and must strip pin lists.
 
@@ -58,6 +58,8 @@ Take over a whole chapter with `<!-- editorial:lock -->`. Drop one with omit. Do
 ## Design
 
 Each book has its own cover, type, and colors in `scripts/themes.py`. Do not share one stylesheet across titles.
+
+Do not use the same image twice in a book. The exception is a cover image that also appears inside (for example on the title page or as a chapter opener). A wiki dump that repeats a photo across chapters should keep one placement and drop the rest.
 
 ## Originals and forewords
 

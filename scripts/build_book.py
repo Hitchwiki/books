@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import argparse
 import datetime as dt
+import re
 import shutil
 import subprocess
 import sys
@@ -15,8 +16,9 @@ import yaml
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from common import rewrite_html_images, wiki_image_map
-from editorial import is_omitted_chapter
-from themes import THEMES, cover_html, fonts_dir, write_css_files
+from editorial import is_omitted_chapter, is_redirect_chapter
+from themes import THEMES, cover_html, fonts_dir, logos_dir, write_css_files
+from titles import geo_src_key
 from toc import enhance_html
 
 
@@ -33,9 +35,11 @@ def chapter_files(book: Path) -> list[Path]:
     files = [
         p
         for p in src.rglob("*.md")
-        if p.is_file() and not is_omitted_chapter(book, p)
+        if p.is_file()
+        and not is_omitted_chapter(book, p)
+        and not is_redirect_chapter(book, p)
     ]
-    return sorted(files, key=lambda p: str(p.relative_to(src)))
+    return sorted(files, key=lambda p: geo_src_key(p.relative_to(src)))
 
 
 def run_pandoc(defaults: Path) -> bool:
@@ -63,10 +67,8 @@ def epub_theme_css(slug: str) -> str:
 
 
 def copy_theme_assets(slug: str, html_dir: Path) -> Path | None:
+    write_css_files()
     theme_css = ROOT / "assets" / "themes" / f"{slug}.css"
-    if not theme_css.exists():
-        write_css_files()
-        theme_css = ROOT / "assets" / "themes" / f"{slug}.css"
     if theme_css.exists():
         shutil.copy2(theme_css, html_dir / "book.css")
     book_js = ROOT / "assets" / "book.js"
@@ -82,6 +84,13 @@ def copy_theme_assets(slug: str, html_dir: Path) -> Path | None:
             if name and (font_src / name).exists():
                 shutil.copy2(font_src / name, font_dest / name)
     cover = ROOT / "assets" / "covers" / f"{slug}.jpg"
+    logo_name = (THEMES.get(slug) or {}).get("logo")
+    if logo_name:
+        src_logo = logos_dir() / logo_name
+        if src_logo.exists():
+            dest_logos = html_dir / "logos"
+            dest_logos.mkdir(exist_ok=True)
+            shutil.copy2(src_logo, dest_logos / logo_name)
     if cover.exists():
         shutil.copy2(cover, html_dir / "cover.jpg")
         img = html_dir / "images"
@@ -160,7 +169,7 @@ def build(slug: str, version: str, formats: list[str], out: Path) -> None:
                 f'<body class="book book-{slug}">\n{banner}{cover}',
                 1,
             )
-            html = html.replace("../../images/", "images/").replace("../images/", "images/")
+            html = re.sub(r"(?:\.\./)+images/", "images/", html)
             html = rewrite_html_images(html, wiki_image_map(book / "images"))
             html = enhance_html(html, chapters, book / "src")
             index.write_text(html, encoding="utf-8")
