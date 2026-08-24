@@ -8,7 +8,7 @@ SITE    := $(OUT)/site
 
 .DEFAULT_GOAL := serve
 
-.PHONY: all covers books dumps fetch images pack-images images-release site html epub pdf pages serve clean editorial-status $(BOOKS)
+.PHONY: all covers books dumps fetch images pack-images images-release site catalog html epub pdf pages serve clean editorial-status $(BOOKS)
 
 all: books site
 
@@ -49,6 +49,9 @@ $(BOOKS):
 	$(PYTHON) scripts/build_book.py --book $@ --version $(VERSION) --formats $(FORMATS) --out $(OUT)
 
 site: books
+	$(PYTHON) scripts/build_site.py --version $(VERSION) --out $(SITE)
+
+catalog:
 	$(PYTHON) scripts/build_site.py --version $(VERSION) --out $(SITE)
 
 serve:
