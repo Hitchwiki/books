@@ -17,6 +17,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from common import rewrite_html_images, wiki_image_map
 from editorial import is_omitted_chapter
 from themes import THEMES, cover_html, fonts_dir, write_css_files
+from toc import enhance_html
 
 
 def version_stamp(raw: str | None) -> str:
@@ -68,6 +69,9 @@ def copy_theme_assets(slug: str, html_dir: Path) -> Path | None:
         theme_css = ROOT / "assets" / "themes" / f"{slug}.css"
     if theme_css.exists():
         shutil.copy2(theme_css, html_dir / "book.css")
+    book_js = ROOT / "assets" / "book.js"
+    if book_js.exists():
+        shutil.copy2(book_js, html_dir / "book.js")
     font_src = fonts_dir()
     if font_src.exists():
         font_dest = html_dir / "fonts"
@@ -134,6 +138,7 @@ def build(slug: str, version: str, formats: list[str], out: Path) -> None:
             {
                 **base,
                 "to": "html5",
+                "toc": False,
                 "standalone": True,
                 "css": ["book.css"],
                 "output-file": str(html_dir / "index.html"),
@@ -146,6 +151,7 @@ def build(slug: str, version: str, formats: list[str], out: Path) -> None:
             banner = (
                 f'<header class="book-banner"><p>'
                 f'<a href="../">books.hitchwiki.org</a> · {meta.get("title", slug)} · {version}'
+                f' · <a href="#TOC">Contents</a>'
                 f"</p></header>\n"
             )
             cover = cover_html(slug, meta)
@@ -156,6 +162,7 @@ def build(slug: str, version: str, formats: list[str], out: Path) -> None:
             )
             html = html.replace("../../images/", "images/").replace("../images/", "images/")
             html = rewrite_html_images(html, wiki_image_map(book / "images"))
+            html = enhance_html(html, chapters, book / "src")
             index.write_text(html, encoding="utf-8")
     stem = f"{slug}-{version}"
     if "epub" in formats:

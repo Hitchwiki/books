@@ -1,3 +1,5 @@
+<!-- editorial:lock -->
+
 # Random Roads
 
 A magazine about independent traveling — hitchhiking, sailing, hiking, cycling — compiled from [randomroads.org](https://randomroads.org/).

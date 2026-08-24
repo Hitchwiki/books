@@ -1,3 +1,5 @@
+<!-- editorial:lock -->
+
 # Hospitality exchange networks (from hospitalityguide.net)
 
 *From [hospitalityguide.net](https://hospitalityguide.net/), licensed **CC-BY**. Attribution: hospitalityguide.net, 2005–. Random Flickr photos on that site are not included here.*

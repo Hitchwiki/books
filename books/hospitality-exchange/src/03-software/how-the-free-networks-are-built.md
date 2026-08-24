@@ -1,3 +1,5 @@
+<!-- editorial:lock -->
+
 # How the free networks are built
 
 This chapter is original description, not a dump of source code. The programs stay under their own licenses. If you want to run or fork them, use the repositories.

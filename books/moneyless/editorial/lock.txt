@@ -1,0 +1,4 @@
+# Paths relative to src/. Fetch never overwrites these.
+# You can also put <!-- editorial:lock --> at the top of a chapter.
+
+00-frontmatter.md

@@ -1,3 +1,5 @@
+<!-- editorial:lock -->
+
 # Dumpsterdam mission
 
 Dumpsterdam is about dumpster diving. It is here to share stories about the how and why of dumpster diving — also called skipping, containering, recycling, or *schuimen*.

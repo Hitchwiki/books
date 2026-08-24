@@ -1,37 +1,157 @@
-:root {
-  --fg: #1a1a1a;
-  --muted: #555;
-  --bg: #faf8f5;
-  --accent: #2c5f4a;
-  --rule: #ddd;
-  font-family: "Iowan Old Style", Palatino, "Palatino Linotype", Georgia, serif;
-}
+/* Shared leftovers for older links. Catalog uses catalog.css; books use themes/<slug>.css */
 
-html { background: var(--bg); color: var(--fg); }
-body {
-  max-width: 42rem;
+@font-face {
+  font-family: "Source Serif 4";
+  src: url("fonts/SourceSerif4-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Source Serif 4";
+  src: url("fonts/SourceSerif4-Semibold.ttf") format("truetype");
+  font-weight: 600;
+  font-display: swap;
+}
+html, body {
+  margin: 0;
+  background: #11100e;
+  color: #ece7dc;
+  font-family: "Source Serif 4", Palatino, Georgia, serif;
+}
+body.catalog {
+  max-width: 72rem;
   margin: 0 auto;
   padding: 2rem 1.25rem 4rem;
-  line-height: 1.55;
-  font-size: 1.05rem;
 }
-header.book-banner {
-  border-bottom: 1px solid var(--rule);
-  margin-bottom: 2rem;
-  padding-bottom: 1rem;
+body.catalog h1 {
+  font-size: clamp(2rem, 5vw, 3.2rem);
+  font-weight: 600;
+  margin: 0 0 0.5rem;
 }
-header.book-banner a { color: var(--accent); }
-h1, h2, h3 { line-height: 1.25; }
-img { max-width: 100%; height: auto; }
-figcaption, .credit, footer {
-  font-size: 0.85rem;
-  color: var(--muted);
+body.catalog .lede {
+  max-width: 36rem;
+  color: #b8b1a4;
+  line-height: 1.5;
+  margin-bottom: 2.5rem;
 }
-a { color: var(--accent); }
-hr { border: 0; border-top: 1px solid var(--rule); }
-.license { margin-top: 3rem; font-size: 0.9rem; }
-nav.toc ul { padding-left: 1.2rem; }
-@media print {
-  html { background: white; }
-  body { max-width: none; }
+.grid {
+  display: grid;
+  gap: 1.5rem;
 }
+@media (min-width: 760px) {
+  .grid { grid-template-columns: 1fr 1fr; }
+}
+@media (min-width: 1100px) {
+  .grid { grid-template-columns: 1fr 1fr 1fr; }
+}
+.card {
+  border: 2px solid;
+  display: flex;
+  flex-direction: column;
+  min-height: 100%;
+  overflow: hidden;
+}
+.card img {
+  width: 100%;
+  aspect-ratio: 2 / 3;
+  object-fit: cover;
+  display: block;
+  background: #222;
+}
+.card .card-body {
+  padding: 1rem 1.1rem 1.2rem;
+}
+.card h2 {
+  font-size: 1.25rem;
+  margin: 0 0 0.35rem;
+  line-height: 1.2;
+}
+.card h2 a { text-decoration: none; }
+.card .kicker {
+  font-size: 0.72rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  margin: 0 0 0.4rem;
+  opacity: 0.75;
+}
+.badge {
+  display: inline-block;
+  border: 1px solid;
+  padding: 0.1rem 0.4rem;
+  font-size: 0.72rem;
+  letter-spacing: 0.04em;
+}
+.card .formats {
+  margin: 0.8rem 0 0;
+  font-size: 0.9rem;
+}
+.foot {
+  margin-top: 3rem;
+  color: #8a8378;
+  font-size: 0.9rem;
+}
+.foot a { color: #ece7dc; }
+article.card-hitchhikers-guide {
+  --accent: #c45c26;
+  --bg: #f3ead7;
+  --fg: #1c1710;
+  background: #f3ead7;
+  color: #1c1710;
+  border-color: #c45c26;
+}
+article.card-hitchhikers-guide a { color: #c45c26; }
+article.card-hitchhikers-guide .badge { border-color: #c45c26; }article.card-dumpster-diving {
+  --accent: #e2c93a;
+  --bg: #14160f;
+  --fg: #ece9d8;
+  background: #14160f;
+  color: #ece9d8;
+  border-color: #e2c93a;
+}
+article.card-dumpster-diving a { color: #e2c93a; }
+article.card-dumpster-diving .badge { border-color: #e2c93a; }article.card-random-roads {
+  --accent: #8b2e1f;
+  --bg: #f6efe2;
+  --fg: #261c14;
+  background: #f6efe2;
+  color: #261c14;
+  border-color: #8b2e1f;
+}
+article.card-random-roads a { color: #8b2e1f; }
+article.card-random-roads .badge { border-color: #8b2e1f; }article.card-dumpsterdam {
+  --accent: #e05915;
+  --bg: #fff6ea;
+  --fg: #1a120c;
+  background: #fff6ea;
+  color: #1a120c;
+  border-color: #e05915;
+}
+article.card-dumpsterdam a { color: #e05915; }
+article.card-dumpsterdam .badge { border-color: #e05915; }article.card-hospitality-exchange {
+  --accent: #3d6b66;
+  --bg: #fbf6ef;
+  --fg: #2c241c;
+  background: #fbf6ef;
+  color: #2c241c;
+  border-color: #3d6b66;
+}
+article.card-hospitality-exchange a { color: #3d6b66; }
+article.card-hospitality-exchange .badge { border-color: #3d6b66; }article.card-moneyless {
+  --accent: #b42318;
+  --bg: #f7f7f5;
+  --fg: #161616;
+  background: #f7f7f5;
+  color: #161616;
+  border-color: #b42318;
+}
+article.card-moneyless a { color: #b42318; }
+article.card-moneyless .badge { border-color: #b42318; }article.card-shoestring-nomad {
+  --accent: #3d5a73;
+  --bg: #efe6d4;
+  --fg: #2a261c;
+  background: #efe6d4;
+  color: #2a261c;
+  border-color: #3d5a73;
+}
+article.card-shoestring-nomad a { color: #3d5a73; }
+article.card-shoestring-nomad .badge { border-color: #3d5a73; }

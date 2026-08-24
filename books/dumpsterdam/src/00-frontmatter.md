@@ -1,3 +1,5 @@
+<!-- editorial:lock -->
+
 # Dumpsterdam
 
 Dumpsterdam wilt voedselverspilling onder de aandacht brengen door dumpster diving, workshops, tours en catering. Het is een initiatief van Robino. Hij wilde Dumpsterdam ook in boekvorm uitbrengen.

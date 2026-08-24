@@ -1,5 +1,6 @@
-"""Per-book visual identity: color, type, cover motif.
+"""Per-book visual identity: color, type, cover motif, source logos.
 
+Tokens come from the related websites (see books/*/DESIGN.md).
 CSS and JPEG covers are generated from this file (scripts/render_covers.py).
 """
 
@@ -11,34 +12,36 @@ from common import ROOT
 
 THEMES: dict[str, dict] = {
     "hitchhikers-guide": {
-        "motif": "horizon",
-        "bg": "#f3ead7",
-        "fg": "#1c1710",
-        "muted": "#5c5348",
-        "accent": "#c45c26",
-        "accent2": "#1e3a5f",
-        "rule": "#c9bba3",
-        "cover_fg": "#f3ead7",
-        "cover_bg": "#1e3a5f",
-        "display": "Source Serif 4",
-        "display_file": "SourceSerif4-Semibold.ttf",
+        "motif": "hitchwiki",
+        "bg": "#fbf7e9",
+        "fg": "#5b2b08",
+        "muted": "#76563c",
+        "accent": "#b96800",
+        "accent2": "#b73327",
+        "rule": "#e5d8ba",
+        "cover_fg": "#6e3100",
+        "cover_bg": "#f7df79",
+        "display": "Oswald",
+        "display_file": "Oswald-Bold.ttf",
         "body": "Source Serif 4",
         "body_file": "SourceSerif4-Regular.ttf",
         "body_bold": "SourceSerif4-Bold.ttf",
         "fallback": 'Palatino, "Palatino Linotype", Georgia, serif',
         "measure": "38rem",
-        "kicker": "A hitchhiker’s handbook",
+        "kicker": "From Hitchwiki",
+        "logo": "hitchhikers-guide.png",
+        "logo_alt": "Hitchwiki",
     },
     "dumpster-diving": {
-        "motif": "hazard",
-        "bg": "#14160f",
-        "fg": "#ece9d8",
-        "muted": "#a39e88",
-        "accent": "#e2c93a",
-        "accent2": "#ece9d8",
-        "rule": "#3a3c32",
-        "cover_fg": "#14160f",
-        "cover_bg": "#e2c93a",
+        "motif": "trashwiki",
+        "bg": "#f9f9f4",
+        "fg": "#1f241c",
+        "muted": "#4a5c48",
+        "accent": "#2f5a40",
+        "accent2": "#4a6b52",
+        "rule": "#c5c6b6",
+        "cover_fg": "#1f241c",
+        "cover_bg": "#dcddcb",
         "display": "Oswald",
         "display_file": "Oswald-Bold.ttf",
         "body": "Source Sans 3",
@@ -47,17 +50,19 @@ THEMES: dict[str, dict] = {
         "fallback": '"Helvetica Neue", Helvetica, Arial, sans-serif',
         "measure": "40rem",
         "kicker": "From Trashwiki",
+        "logo": "dumpster-diving.png",
+        "logo_alt": "Trashwiki",
     },
     "random-roads": {
         "motif": "masthead",
-        "bg": "#f6efe2",
+        "bg": "#ffffea",
         "fg": "#261c14",
-        "muted": "#6b5748",
-        "accent": "#8b2e1f",
-        "accent2": "#261c14",
-        "rule": "#d7c4a8",
-        "cover_fg": "#261c14",
-        "cover_bg": "#f6efe2",
+        "muted": "#555555",
+        "accent": "#0ca6bb",
+        "accent2": "#076370",
+        "rule": "#d3d7d9",
+        "cover_fg": "#ffffff",
+        "cover_bg": "#0ca6bb",
         "display": "Playfair Display",
         "display_file": "PlayfairDisplay-Bold.ttf",
         "body": "Source Serif 4",
@@ -65,18 +70,21 @@ THEMES: dict[str, dict] = {
         "body_bold": "SourceSerif4-Bold.ttf",
         "fallback": 'Georgia, "Times New Roman", serif',
         "measure": "36rem",
-        "kicker": "A magazine of independent travel",
+        "kicker": "A hitchhiking zine",
+        "logo": "random-roads.png",
+        "logo_alt": "Random Roads",
+        "logo_wide": True,
     },
     "dumpsterdam": {
         "motif": "slab",
         "bg": "#fff6ea",
-        "fg": "#1a120c",
-        "muted": "#6a5344",
-        "accent": "#e05915",
-        "accent2": "#1f4d3a",
-        "rule": "#ead7c2",
+        "fg": "#111111",
+        "muted": "#5c4038",
+        "accent": "#9a2016",
+        "accent2": "#759236",
+        "rule": "#e4d4c4",
         "cover_fg": "#fff6ea",
-        "cover_bg": "#e05915",
+        "cover_bg": "#9a2016",
         "display": "Oswald",
         "display_file": "Oswald-Bold.ttf",
         "body": "Source Sans 3",
@@ -85,17 +93,19 @@ THEMES: dict[str, dict] = {
         "fallback": '"Helvetica Neue", Helvetica, Arial, sans-serif',
         "measure": "40rem",
         "kicker": "Voedselactivisme uit Amsterdam",
+        "logo": "dumpsterdam.png",
+        "logo_alt": "Dumpsterdam",
     },
     "hospitality-exchange": {
         "motif": "door",
-        "bg": "#fbf6ef",
-        "fg": "#2c241c",
-        "muted": "#6e6258",
-        "accent": "#3d6b66",
-        "accent2": "#c4785a",
-        "rule": "#e4d8c8",
-        "cover_fg": "#fbf6ef",
-        "cover_bg": "#3d6b66",
+        "bg": "#fcfffe",
+        "fg": "#26302e",
+        "muted": "#45645f",
+        "accent": "#08766b",
+        "accent2": "#00a995",
+        "rule": "#c5ddd6",
+        "cover_fg": "#26302e",
+        "cover_bg": "#edf5f1",
         "display": "Source Serif 4",
         "display_file": "SourceSerif4-Semibold.ttf",
         "body": "Source Serif 4",
@@ -103,37 +113,42 @@ THEMES: dict[str, dict] = {
         "body_bold": "SourceSerif4-Bold.ttf",
         "fallback": "Georgia, Palatino, serif",
         "measure": "38rem",
-        "kicker": "Networks of hosts and guests",
+        "kicker": "From Trustroots Wiki",
+        "logo": "hospitality-exchange.png",
+        "logo_alt": "Trustroots",
     },
     "moneyless": {
         "motif": "spare",
         "bg": "#f7f7f5",
-        "fg": "#161616",
+        "fg": "#181818",
         "muted": "#5c5c5c",
-        "accent": "#b42318",
-        "accent2": "#161616",
+        "accent": "#0ca6bb",
+        "accent2": "#076370",
         "rule": "#ddddd8",
-        "cover_fg": "#161616",
-        "cover_bg": "#f7f7f5",
-        "display": "IBM Plex Serif",
-        "display_file": "IBMPlexSerif-Regular.ttf",
+        "cover_fg": "#f7f7f5",
+        "cover_bg": "#181818",
+        "display": "IBM Plex Sans",
+        "display_file": "IBMPlexSans-Bold.ttf",
         "body": "IBM Plex Sans",
         "body_file": "IBMPlexSans-Regular.ttf",
         "body_bold": "IBMPlexSans-Bold.ttf",
         "fallback": '"Helvetica Neue", Helvetica, Arial, sans-serif',
         "measure": "34rem",
         "kicker": "Life without money",
+        "logo": "moneyless.png",
+        "logo_alt": "Moneyless.org",
+        "logo_wide": True,
     },
     "shoestring-nomad": {
         "motif": "grid",
-        "bg": "#efe6d4",
-        "fg": "#2a261c",
-        "muted": "#6a6456",
-        "accent": "#3d5a73",
-        "accent2": "#8a5a32",
-        "rule": "#d4c8b0",
-        "cover_fg": "#efe6d4",
-        "cover_bg": "#3d5a73",
+        "bg": "#fffdf8",
+        "fg": "#25232b",
+        "muted": "#5f5a52",
+        "accent": "#654d00",
+        "accent2": "#4a3a08",
+        "rule": "#d9d0bc",
+        "cover_fg": "#4a3a08",
+        "cover_bg": "#f6f3e9",
         "display": "Source Serif 4",
         "display_file": "SourceSerif4-Semibold.ttf",
         "body": "Source Sans 3",
@@ -142,6 +157,8 @@ THEMES: dict[str, dict] = {
         "fallback": '"Helvetica Neue", Helvetica, Arial, sans-serif',
         "measure": "40rem",
         "kicker": "From Nomadwiki",
+        "logo": "shoestring-nomad.png",
+        "logo_alt": "Nomadwiki",
     },
 }
 
@@ -193,12 +210,27 @@ def covers_dir() -> Path:
     return ROOT / "assets" / "covers"
 
 
+def logos_dir() -> Path:
+    return ROOT / "assets" / "logos"
+
+
 def cover_html(slug: str, meta: dict) -> str:
     t = THEMES[slug]
     title = meta.get("title", slug)
     sub = meta.get("subtitle", "")
     license_id = meta.get("license", "")
+    logo = t.get("logo")
+    wide = " cover-logo-wide" if t.get("logo_wide") else ""
+    logo_html = ""
+    if logo:
+        alt = t.get("logo_alt", "")
+        logo_html = (
+            f'<p class="cover-logo-wrap{wide}">'
+            f'<img class="cover-logo" src="logos/{logo}" alt="{alt}">'
+            f"</p>"
+        )
     return f"""<section class="cover-page" aria-label="Cover">
+  {logo_html}
   <p class="cover-kicker">{t["kicker"]}</p>
   <div class="cover-main">
     <h1 class="cover-title">{title}</h1>
@@ -234,50 +266,39 @@ def _font_faces(t: dict, prefix: str) -> str:
 
 
 MOTIF_CSS = {
-    "horizon": """
-body.book-SLUG .cover-page::before {
-  content: "";
-  position: absolute;
-  left: 0; right: 0; bottom: 38%;
-  height: 3px;
-  background: var(--accent);
+    "hitchwiki": """
+body.book-SLUG .cover-title {
+  font-style: normal;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
 }
 body.book-SLUG .cover-page::after {
   content: "";
   position: absolute;
   left: 0; right: 0; bottom: 0;
-  height: 38%;
-  background: #c45c26;
-  opacity: 0.92;
+  height: 10px;
+  background: var(--accent2);
 }
-body.book-SLUG .cover-foot { position: relative; z-index: 1; }
-body.book-SLUG .cover-main { position: relative; z-index: 1; margin-bottom: 42%; }
 """,
-    "hazard": """
-body.book-SLUG .cover-page {
-  background: repeating-linear-gradient(-45deg, #e2c93a, #e2c93a 18px, #14160f 18px, #14160f 36px);
+    "trashwiki": """
+body.book-SLUG .cover-title {
+  font-style: normal;
+  text-transform: uppercase;
 }
-body.book-SLUG .cover-main {
-  background: #14160f;
-  color: #e2c93a;
-  padding: 1.4rem 1.2rem;
-}
-body.book-SLUG .cover-title { color: #e2c93a; font-style: normal; text-transform: uppercase; }
-body.book-SLUG .cover-kicker, body.book-SLUG .cover-foot {
-  background: #14160f;
-  color: #e2c93a;
-  display: inline-block;
-  padding: 0.3rem 0.5rem;
+body.book-SLUG .cover-logo {
+  background: #e4e6d8;
+  padding: 0.35rem;
+  border-radius: 0.35rem;
 }
 """,
     "masthead": """
 body.book-SLUG .cover-page {
-  border-top: 14px solid var(--accent);
-  border-bottom: 14px solid var(--accent);
+  border-top: 14px solid var(--accent2);
+  border-bottom: 14px solid var(--accent2);
 }
 body.book-SLUG .cover-title {
   font-style: italic;
-  border-bottom: 1px solid var(--fg);
+  border-bottom: 1px solid currentColor;
   padding-bottom: 0.6rem;
 }
 body.book-SLUG .cover-kicker { letter-spacing: 0.28em; }
@@ -291,8 +312,12 @@ body.book-SLUG .cover-title {
 }
 body.book-SLUG .cover-page {
   background:
-    linear-gradient(#1f4d3a, #1f4d3a) left / 12px 100% no-repeat,
+    linear-gradient(var(--accent2), var(--accent2)) left / 12px 100% no-repeat,
     var(--cover-bg);
+}
+body.book-SLUG .cover-logo {
+  background: #dcddcb;
+  padding: 0.3rem;
 }
 """,
     "door": """
@@ -301,50 +326,30 @@ body.book-SLUG .cover-page {
 }
 body.book-SLUG .cover-main { text-align: center; }
 body.book-SLUG .cover-sub { margin-left: auto; margin-right: auto; }
-body.book-SLUG .cover-kicker, body.book-SLUG .cover-foot { text-align: center; }
+body.book-SLUG .cover-kicker, body.book-SLUG .cover-foot,
+body.book-SLUG .cover-logo-wrap { text-align: center; }
 """,
     "spare": """
 body.book-SLUG .cover-page { justify-content: flex-end; }
-body.book-SLUG .cover-kicker { position: absolute; top: 2.2rem; left: 1.8rem; }
-body.book-SLUG .cover-kicker::before {
-  content: "";
-  display: block;
-  width: 2.2rem;
-  height: 2.2rem;
-  background: var(--accent);
-  margin-bottom: 1.4rem;
-}
-body.book-SLUG .cover-title { font-style: normal; font-weight: 400; font-size: 2.6rem; }
+body.book-SLUG .cover-logo-wrap { position: relative; z-index: 1; margin-bottom: auto; }
+body.book-SLUG .cover-kicker { position: relative; }
+body.book-SLUG .cover-title { font-style: normal; font-weight: 700; font-size: 2.6rem; }
 """,
     "grid": """
 body.book-SLUG .cover-page {
-  background-image:
-    linear-gradient(rgba(239,230,212,0.08) 1px, transparent 1px),
-    linear-gradient(90deg, rgba(239,230,212,0.08) 1px, transparent 1px);
-  background-size: 28px 28px;
+  border-top: 18px solid #ffdc18;
+  border-bottom: 18px solid #ffdc18;
 }
 body.book-SLUG .cover-title { font-style: italic; }
-body.book-SLUG .cover-page::after {
-  content: "";
-  position: absolute;
-  left: 10%;
-  right: 18%;
-  top: 28%;
-  height: 0;
-  border-top: 2px dashed rgba(239,230,212,0.55);
-  transform: rotate(-12deg);
-}
 """,
 }
 
 
 def book_css(slug: str, *, font_prefix: str = "fonts/") -> str:
     t = THEMES[slug]
-    italic = "italic" if slug in {"hitchhikers-guide", "hospitality-exchange", "random-roads"} else "normal"
-    dark = slug == "dumpster-diving"
-    banner_bg = t["cover_bg"] if slug != "moneyless" else t["bg"]
-    banner_fg = t["cover_fg"] if slug != "moneyless" else t["fg"]
+    italic = "italic" if slug in {"random-roads", "shoestring-nomad"} else "normal"
     extra = MOTIF_CSS[t["motif"]].replace("SLUG", slug)
+    logo_max = "16rem" if t.get("logo_wide") else "6.2rem"
     drop = ""
     if slug == "random-roads":
         drop = """
@@ -663,8 +668,14 @@ body.catalog .lede {{
 }}
 .grid {{
   display: grid;
-  gap: 0.85rem;
-  grid-template-columns: repeat(auto-fit, minmax(8rem, 1fr));
+  gap: 0.75rem;
+  grid-template-columns: repeat(2, 1fr);
+}}
+@media (min-width: 700px) {{
+  .grid {{ grid-template-columns: repeat(4, 1fr); }}
+}}
+@media (min-width: 1100px) {{
+  .grid {{ grid-template-columns: repeat(7, 1fr); }}
 }}
 .card {{
   border: 2px solid;

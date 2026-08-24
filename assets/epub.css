@@ -1,7 +1,21 @@
-body {
-  font-family: Palatino, Georgia, serif;
-  line-height: 1.45;
-}
-h1, h2, h3 { page-break-after: avoid; }
 img { max-width: 100%; height: auto; }
-figcaption { font-size: 0.85em; color: #444; font-style: italic; }
+body.book-hitchhikers-guide { font-family: Palatino, "Palatino Linotype", Georgia, serif; color: #1c1710; }
+body.book-hitchhikers-guide h1, body.book-hitchhikers-guide h2 { font-family: Palatino, "Palatino Linotype", Georgia, serif; }
+
+body.book-dumpster-diving { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; color: #ece9d8; }
+body.book-dumpster-diving h1, body.book-dumpster-diving h2 { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; }
+
+body.book-random-roads { font-family: Georgia, "Times New Roman", serif; color: #261c14; }
+body.book-random-roads h1, body.book-random-roads h2 { font-family: Georgia, "Times New Roman", serif; }
+
+body.book-dumpsterdam { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; color: #1a120c; }
+body.book-dumpsterdam h1, body.book-dumpsterdam h2 { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; }
+
+body.book-hospitality-exchange { font-family: Georgia, Palatino, serif; color: #2c241c; }
+body.book-hospitality-exchange h1, body.book-hospitality-exchange h2 { font-family: Georgia, Palatino, serif; }
+
+body.book-moneyless { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; color: #161616; }
+body.book-moneyless h1, body.book-moneyless h2 { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; }
+
+body.book-shoestring-nomad { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; color: #2a261c; }
+body.book-shoestring-nomad h1, body.book-shoestring-nomad h2 { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; }

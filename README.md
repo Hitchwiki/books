@@ -43,6 +43,7 @@ python3 -m venv .venv
 make fetch   # dumps into dumps/, then compile chapters (keeps locks / editorial notes)
 make images  # disk, GitHub release `images`, live site, then wiki URLs
 make images-release  # pack JPEGs and upload/update the `images` release
+make         # open the catalog at http://127.0.0.1:8000/
 make all     # EPUB, PDF (if a PDF engine exists), HTML
 ```
 

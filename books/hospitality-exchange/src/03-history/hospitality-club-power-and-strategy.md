@@ -1,3 +1,5 @@
+<!-- editorial:lock -->
+
 # Hospitality Club: power and strategy
 
 This chapter is original commentary for this book. It is **not** a reprint of a leaked email. The primary source is a Hospitality Club internal mailing that WikiLeaks published as [`veit-hospitality-power-strategy-2009.txt`](https://file.wikileaks.org/file/veit-hospitality-power-strategy-2009.txt). The file name says 2009; the message itself is dated **19 January 2005**, from Veit Kühne, founder of [Hospitality Club](https://www.hospitalityclub.org/). Contact details that appear in that mailing are left out here.

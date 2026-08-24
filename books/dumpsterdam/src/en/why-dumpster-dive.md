@@ -1,3 +1,5 @@
+<!-- editorial:lock -->
+
 # Why dumpster dive?
 
 What is a dumpster diver? Sometimes it is easier to let an outsider [explain](http://forum.fok.nl/topic/1838615/1/25#113682999): someone who does it not so much for money, but as protest, because far too much food is thrown away for completely stupid reasons.

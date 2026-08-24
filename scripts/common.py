@@ -56,20 +56,19 @@ def wiki_image_map(images_dir: Path) -> dict[str, str]:
     return mapping
 
 
-_IMG_SRC = re.compile(r'(<img\b[^>]*?\bsrc=")([^"]+)(")', re.I | re.S)
+_IMG_SRC = re.compile(r'(<img\b)([^>]*?\bsrc=")([^"]+)(")', re.I | re.S)
 
 
 def rewrite_html_images(html: str, mapping: dict[str, str]) -> str:
-    if not mapping:
-        return html
-
     def repl(m: re.Match[str]) -> str:
-        src = m.group(2)
+        start, mid, src, end = m.group(1), m.group(2), m.group(3), m.group(4)
         name = Path(unquote(src)).name.strip().strip("\u200e\u200f")
         target = mapping.get(name) or mapping.get(name.replace(" ", "_"))
-        if not target:
-            return m.group(0)
-        return f"{m.group(1)}{target}{m.group(3)}"
+        src_out = target or src
+        attrs = start + mid
+        if "loading=" not in attrs.lower():
+            attrs = attrs.replace("<img", '<img loading="lazy" decoding="async"', 1)
+        return f"{attrs}{src_out}{end}"
 
     return _IMG_SRC.sub(repl, html)
 

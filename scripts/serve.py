@@ -15,6 +15,11 @@ from urllib.parse import unquote, urlparse
 
 ROOT = Path(__file__).resolve().parents[1]
 SITE = ROOT / "build" / "site"
+_BIDI = str.maketrans("", "", "\u200e\u200f\u202a\u202b\u202c\u202d\u202e")
+
+
+def clean_path(path: str) -> str:
+    return unquote(urlparse(path).path).translate(_BIDI)
 
 
 def load_aliases(site: Path) -> dict[str, Path]:
@@ -66,18 +71,32 @@ class Handler(http.server.SimpleHTTPRequestHandler):
         super().__init__(*args, directory=str(SITE), **kwargs)
 
     def translate_path(self, path: str) -> str:
-        key = unquote(urlparse(path).path)
-        dest = self.aliases.get(key)
+        dest = self.aliases.get(clean_path(path))
         if dest is not None:
             return str(dest)
         return super().translate_path(path)
 
+    def _favicon(self) -> bool:
+        if clean_path(self.path) != "/favicon.ico":
+            return False
+        self.send_response(204)
+        self.end_headers()
+        return True
+
     def do_GET(self) -> None:
-        if urlparse(self.path).path == "/favicon.ico":
-            self.send_response(204)
-            self.end_headers()
+        if self._favicon():
             return
         super().do_GET()
+
+    def do_HEAD(self) -> None:
+        if self._favicon():
+            return
+        super().do_HEAD()
+
+    def end_headers(self) -> None:
+        self.send_header("Cache-Control", "no-store, max-age=0")
+        self.send_header("Pragma", "no-cache")
+        super().end_headers()
 
 
 class Server(http.server.ThreadingHTTPServer):

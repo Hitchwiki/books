@@ -15,6 +15,7 @@ from markdownify import markdownify as html_md
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from common import ROOT, slugify
+from editorial import write_generated
 
 DUMPS = ROOT / "dumps" / "sql"
 
@@ -73,7 +74,7 @@ SOURCES = [
         "file": "casarobino-nodes.xml.gz",
         "book": "shoestring-nomad",
         "lang": "en",
-        "subdir": "casa-robino",
+        "subdir": "03-stories",
         "base": "https://casarobino.org/",
         "skip_types": SKIP_TYPES,
     },
@@ -124,6 +125,7 @@ def compile_source(cfg: dict) -> int:
     book = ROOT / "books" / cfg["book"]
     skip = cfg.get("skip_types") or set()
     n = 0
+    skipped = 0
     seen_slugs: set[tuple[str, str]] = set()
     for row in root.findall("row"):
         d = row_dict(row)
@@ -146,12 +148,14 @@ def compile_source(cfg: dict) -> int:
         alias = (d.get("alias") or "").lstrip("/")
         url = cfg["base"] + (alias or f"node/{d.get('nid')}")
         dest = dest_dir / f"{slug}.md"
-        dest.write_text(
-            f"# {title}\n\n{body}\n\n---\n\nSource: {url}\n",
-            encoding="utf-8",
-        )
-        n += 1
-    print(f"  {cfg['file']}: {n} chapters")
+        generated = f"# {title}\n\n{body}\n\n---\n\nSource: {url}\n"
+        result = write_generated(book, dest, generated, title=title)
+        if result == "wrote":
+            n += 1
+        else:
+            skipped += 1
+    extra = f", skipped {skipped}" if skipped else ""
+    print(f"  {cfg['file']}: {n} chapters{extra}")
     return n
 
 

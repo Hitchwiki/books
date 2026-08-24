@@ -1,4 +1,15 @@
-"""Wiki allowlists: how-to categories + country categories. Skip cities."""
+"""Wiki allowlists: how-to + countries + a curated city set (no pin gazetteers).
+
+Hitchwiki / Trashwiki / Nomadwiki books are shaped as:
+practice (generic how-to) → places (each country, then its cities) → outlook
+(original close: go do this, keep the wiki alive). Part intros and outlook
+chapters are locked originals, not wiki fetches.
+
+Policy for what belongs in a book (and what must never be compiled) is in
+EDITORIAL.md — “Which pages to use”. Change lists here; change the rules there.
+"""
+
+from common import slugify
 
 WIKIS = {
     "hitchwiki": {
@@ -10,6 +21,7 @@ WIKIS = {
         "book": "hitchhikers-guide",
         "part_howto": "01-practice",
         "part_country": "02-countries",
+        "part_city": "03-cities",
         "skip_title_prefixes": ("User:", "Talk:", "File:", "Template:", "Category:", "Hitchwiki:"),
     },
     "trashwiki": {
@@ -28,6 +40,7 @@ WIKIS = {
         "book": "dumpster-diving",
         "part_howto": "01-practice",
         "part_country": "02-countries",
+        "part_city": "03-cities",
         "skip_title_prefixes": ("User:", "Talk:", "File:", "Template:", "Category:", "Trashwiki:"),
         "skip_titles": (
             "Main Page",
@@ -82,6 +95,7 @@ WIKIS = {
         "book": "shoestring-nomad",
         "part_howto": "01-practice",
         "part_country": "02-countries",
+        "part_city": "03-cities",
         "skip_title_prefixes": ("User:", "Talk:", "File:", "Template:", "Category:", "Nomadwiki:"),
         "stub_if_title_contains": ("hitchhik", "dumpster", "hospitality exchange", "couchsurf"),
     },
@@ -191,11 +205,180 @@ DRUPAL_SITES = {
         "list_paths": ["/"],
         "book": "shoestring-nomad",
         "lang": "en",
-        "subdir": "casa-robino",
+        "subdir": "03-stories",
         "article_path_re": r"/\d{4}/\d{2}/",
         "max_list_pages": 20,
         "skip_path_contains": ("/user", "/feed", "/rss", "/category/", "/users/"),
     },
+}
+
+# Curated cities differ per book. Spot pins stay on live maps.
+CITY_SELECTION = {
+    "hitchwiki": [
+        "Paris",
+        "Amsterdam",
+        "Berlin",
+        "London",
+        "New York City",
+        "Barcelona",
+        "Rome",
+        "Madrid",
+        "Vienna",
+        "Prague",
+        "Warsaw",
+        "Budapest",
+        "Lisbon",
+        "Dublin",
+        "Chicago",
+        "Los Angeles",
+        "San Francisco",
+        "Montreal",
+        "Toronto",
+        "Vancouver",
+        "Sydney",
+        "Melbourne",
+        "Auckland",
+        "Istanbul",
+        "Bangkok",
+        "Mexico City",
+        "Buenos Aires",
+        "Tokyo",
+        "New Delhi",
+        "Mumbai",
+        "Nairobi",
+        "Cape Town",
+        "Cairo",
+        "Johannesburg",
+        "Lagos",
+        "Accra",
+        "Addis Ababa",
+        "Dakar",
+        "Casablanca",
+        "Beijing",
+        "Shanghai",
+        "Seoul",
+        "Manila",
+        "Jakarta",
+        "Hanoi",
+        "Ho Chi Minh City",
+        "Tehran",
+        "Moscow",
+        "Tbilisi",
+        "Kathmandu",
+        "Lima",
+        "Bogotá",
+        "Santiago",
+        "Rio de Janeiro",
+        "São Paulo",
+        "Kuala Lumpur",
+        "Singapore",
+        "Hong Kong",
+    ],
+    "trashwiki": [
+        "Amsterdam",
+        "Berlin",
+        "Paris",
+        "London",
+        "New York City",
+        "Copenhagen",
+        "Rotterdam",
+        "Hamburg",
+        "Brussels",
+        "Stockholm",
+        "Munich",
+        "Leipzig",
+        "Cologne",
+        "Lyon",
+        "Marseille",
+        "Barcelona",
+        "Madrid",
+        "Rome",
+        "Vienna",
+        "Prague",
+        "Warsaw",
+        "Budapest",
+        "Lisbon",
+        "Porto",
+        "Valencia",
+        "Dublin",
+        "Edinburgh",
+        "Manchester",
+        "Helsinki",
+        "Oslo",
+        "Athens",
+        "Istanbul",
+        "Tel Aviv",
+        "Tbilisi",
+        "Chicago",
+        "Los Angeles",
+        "San Francisco",
+        "Seattle",
+        "Montreal",
+        "Toronto",
+        "Vancouver",
+        "Melbourne",
+        "Auckland",
+        "Wellington",
+        "Mexico City",
+        "Tokyo",
+        "Rio de Janeiro",
+        "São Paulo",
+        "Singapore",
+    ],
+    "nomadwiki": [
+        "Paris",
+        "Amsterdam",
+        "Berlin",
+        "London",
+        "New York City",
+        "Barcelona",
+        "Madrid",
+        "Lisbon",
+        "Dublin",
+        "Vienna",
+        "Prague",
+        "Budapest",
+        "Warsaw",
+        "Athens",
+        "Istanbul",
+        "Tbilisi",
+        "Tel Aviv",
+        "Jerusalem",
+        "Beijing",
+        "Hong Kong",
+        "Singapore",
+        "Melbourne",
+        "Sydney",
+        "Auckland",
+        "Montreal",
+    ],
+}
+
+CITY_ALIASES = {
+    "New York City": ("New York City", "New York", "NYC"),
+    "Mumbai": ("Mumbai", "Bombay"),
+    "Bogotá": ("Bogotá", "Bogota"),
+    "Ho Chi Minh City": ("Ho Chi Minh City", "Saigon"),
+    "New Delhi": ("New Delhi", "Delhi"),
+}
+
+CITY_MAP_LINKS = {
+    "hitchwiki": (
+        "Roadside hitching spots go stale. For current places to hitch in and "
+        "out of this city, use [maps.hitchwiki.org](https://maps.hitchwiki.org/) "
+        "and the live Hitchwiki page linked at the end of this chapter. "
+        "This book keeps general orientation, not a pin gazetteer."
+    ),
+    "trashwiki": (
+        "Named dumpsters and map pins go stale. For current spots use "
+        "[dumpstermap.org](https://dumpstermap.org/) and the live Trashwiki page. "
+        "This chapter is culture, legality, and general practice — not a dumpster list."
+    ),
+    "nomadwiki": (
+        "Hostels, camps, and neighbourhood tips change. Use the live "
+        "[Nomadwiki](https://nomadwiki.org/) city page for what is current. "
+        "This chapter is a snapshot of general orientation, not a pin list."
+    ),
 }
 
 HOWTO_FALLBACK = {

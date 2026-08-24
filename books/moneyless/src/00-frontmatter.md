@@ -1,3 +1,5 @@
+<!-- editorial:lock -->
+
 # Moneyless
 
 Tips and stories for living with less money, or none. Compiled from [moneyless.org](https://moneyless.org/) (English), [geldloos.nl](https://geldloos.nl/) (Dutch), and [sindinero.net](https://sindinero.net/) (Spanish). The project started as Geldloos.nl (Robino, later with Guaka).

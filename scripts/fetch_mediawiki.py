@@ -13,8 +13,9 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from common import CACHE, ROOT, category_members, download, get, mw_api, slugify
+from editorial import write_generated
 from images import license_ok, save_image, write_manifest
-from titles import HOWTO_FALLBACK, WIKIS
+from titles import CITY_ALIASES, CITY_MAP_LINKS, CITY_SELECTION, HOWTO_FALLBACK, WIKIS
 
 FILE_RE = re.compile(r"\[\[\s*(?:File|Image|file|image)\s*:\s*([^|\]]+)", re.I)
 NS = {"mw": "http://www.mediawiki.org/xml/export-0.11/"}
@@ -104,8 +105,88 @@ def strip_templates(wikitext: str) -> str:
     return "".join(out)
 
 
-def wikitext_to_markdown(wikitext: str) -> str:
+HEADING_RE = re.compile(r"^(={2,4})\s*([^=]+?)\s*\1\s*$", re.M)
+SPOT_HEAD_RE = re.compile(
+    r"""^(
+        hitchhiking\s+(in|out|spots)|
+        hitching\s+(in|out)|
+        hitch\s+out|
+        getting\s+(in|out|north|south|east|west)|
+        option\b|
+        bonus\s+tip|
+        personal\s+experiences?|
+        north|south|east|west|northeast|northwest|southeast|southwest|
+        .*\btowards\b|
+        .*\bmotorway\b|
+        .*\bpetrol\b|
+        .*\bgas\s+station|
+        .*\bservice\s+station|
+        aire\s+de\b|
+        raststätte|
+        p[ée]age|
+        dumpsters?\b|
+        specific\s+spots|
+        hitch\s+spots|
+        on-ramps?|
+        off-ramps?|
+        slip-?road|
+        exact\s+location|
+        coordinates|
+        inside\b|
+        in\s+the\s+suburbs|
+        free\s+shops?|
+        free\s+stuff|
+        medical\s+assistance
+    )""",
+    re.I | re.X,
+)
+GOOGLEMAP_RE = re.compile(r"<googlemap[\s\S]*?</googlemap>", re.I)
+HTML_MAP_RE = re.compile(r"<div[^>]*>\s*<googlemap[\s\S]*?</div>", re.I)
+REDIRECT_RE = re.compile(r"#\s*redirect\s*\[\[([^\]|#]+)", re.I)
+COORDS_RE = re.compile(r"\b-?\d{1,3}\.\d{3,},\s*-?\d{1,3}\.\d{3,}\b")
+
+
+def strip_spot_sections(wikitext: str) -> str:
+    """Drop pin-level sections; keep intro and evergreen headings."""
+    wikitext = GOOGLEMAP_RE.sub("", wikitext)
+    wikitext = re.sub(r"<div[^>]*>\s*</div>", "", wikitext, flags=re.I)
+    matches = list(HEADING_RE.finditer(wikitext))
+    if not matches:
+        return COORDS_RE.sub("", wikitext)
+    parts = [wikitext[: matches[0].start()]]
+    for i, m in enumerate(matches):
+        title = re.sub(r"\[\[([^|\]]+\|)?([^\]]+)\]\]", r"\2", m.group(2))
+        title = re.sub(r"\{\{[^}]+\}\}", "", title).strip()
+        end = matches[i + 1].start() if i + 1 < len(matches) else len(wikitext)
+        if SPOT_HEAD_RE.match(title):
+            continue
+        parts.append(wikitext[m.start() : end])
+    return COORDS_RE.sub("", "".join(parts))
+
+
+def city_candidates(name: str) -> tuple[str, ...]:
+    return CITY_ALIASES.get(name, (name,))
+
+
+def resolve_page(title: str, pages: dict[str, str]) -> tuple[str, str] | None:
+    text = pages.get(title)
+    if not text:
+        return None
+    if REDIRECT_RE.match(text.strip()):
+        tgt = REDIRECT_RE.match(text.strip()).group(1).strip()
+        text = pages.get(tgt)
+        if not text or REDIRECT_RE.match(text.strip()):
+            return None
+        title = tgt
+    if len(text) < 400:
+        return None
+    return title, text
+
+
+def wikitext_to_markdown(wikitext: str, *, strip_spots: bool = False) -> str:
     wikitext = strip_templates(wikitext)
+    if strip_spots:
+        wikitext = strip_spot_sections(wikitext)
     try:
         proc = subprocess.run(
             ["pandoc", "-f", "mediawiki", "-t", "markdown", "--wrap=none"],
@@ -219,27 +300,58 @@ def fetch_page_images(api: str, wikitext: str, img_dir: Path, manifest: list, li
     return "\n".join(md_extra)
 
 
-def write_chapter(book: Path, part: str, title: str, body: str, source_url: str, extra_md: str, license_spdx: str) -> None:
+def write_chapter(
+    book: Path,
+    part: str,
+    title: str,
+    body: str,
+    source_url: str,
+    extra_md: str,
+    license_spdx: str,
+    *,
+    strip_spots: bool = False,
+    notice: str = "",
+) -> str:
     dest = book / "src" / part / f"{slugify(title)}.md"
-    dest.parent.mkdir(parents=True, exist_ok=True)
-    md = wikitext_to_markdown(body)
+    md = wikitext_to_markdown(body, strip_spots=strip_spots)
+    if strip_spots and len(re.sub(r"\s+", " ", md).strip()) < 280:
+        md = (
+            "This book does not reprint named ramps, dumpsters, hostels, or other pins. "
+            "They go out of date. Follow the note above to the live map or wiki.\n"
+        )
+    banner = f"> {notice}\n\n" if notice else ""
     footer = (
         f"\n\n---\n\nSource: [{title}]({source_url})  \n"
         f"License: {license_spdx}\n"
     )
-    dest.write_text(f"# {title}\n\n{md}\n\n{extra_md}{footer}", encoding="utf-8")
+    generated = f"# {title}\n\n{banner}{md}\n\n{extra_md}{footer}"
+    return write_generated(book, dest, generated, title=title)
 
 
-def fetch_wiki(wiki: str, *, max_howto: int | None, max_countries: int | None, skip_images: bool = False) -> None:
+def fetch_wiki(
+    wiki: str,
+    *,
+    max_howto: int | None,
+    max_countries: int | None,
+    skip_images: bool = False,
+    cities_only: bool = False,
+) -> None:
     cfg = WIKIS[wiki]
     print(f"== {wiki} ==", flush=True)
-    howto, countries = collect_titles(wiki, cfg)
-    if max_howto is not None:
-        howto = howto[:max_howto]
-    if max_countries is not None:
-        countries = countries[:max_countries]
-    print(f"  howto={len(howto)} countries={len(countries)}", flush=True)
-    wanted = howto + countries
+    if cities_only:
+        howto, countries = [], []
+    else:
+        howto, countries = collect_titles(wiki, cfg)
+        if max_howto is not None:
+            howto = howto[:max_howto]
+        if max_countries is not None:
+            countries = countries[:max_countries]
+    city_names: list[str] = []
+    for name in CITY_SELECTION.get(wiki) or []:
+        city_names.extend(city_candidates(name))
+    city_names = list(dict.fromkeys(city_names))
+    print(f"  howto={len(howto)} countries={len(countries)} city_titles={len(city_names)}", flush=True)
+    wanted = howto + countries + city_names
     pages: dict[str, str] = {}
     dump_url = cfg.get("dump")
     if dump_url:
@@ -260,12 +372,16 @@ def fetch_wiki(wiki: str, *, max_howto: int | None, max_countries: int | None, s
     manifest: list[dict] = []
     license_spdx = {
         "hitchwiki": "CC-BY-SA-4.0",
-        "trashwiki": "CC-BY-NC-SA-3.0",
+        "trashwiki": "CC-BY-NC-SA-4.0",
         "nomadwiki": "CC-BY-SA-4.0",
         "trustroots": "CC-BY-SA-4.0",
     }[wiki]
     stubs = tuple(s.lower() for s in cfg.get("stub_if_title_contains") or ())
-    n = 0
+    counts = {"wrote": 0, "skip-lock": 0, "skip-omit": 0, "conflict": 0}
+
+    def record(result: str) -> None:
+        counts[result] = counts.get(result, 0) + 1
+
     for title in howto:
         text = pages.get(title)
         if not text:
@@ -278,19 +394,54 @@ def fetch_wiki(wiki: str, *, max_howto: int | None, max_countries: int | None, s
             )
         extra = "" if skip_images else fetch_page_images(cfg["api"], pages.get(title, ""), img_dir, manifest, limit=3)
         url = cfg["origin"] + title.replace(" ", "_")
-        write_chapter(book, cfg["part_howto"], title, text, url, extra, license_spdx)
-        n += 1
+        record(write_chapter(book, cfg["part_howto"], title, text, url, extra, license_spdx))
     for title in countries:
         text = pages.get(title)
         if not text:
             continue
         extra = "" if skip_images else fetch_page_images(cfg["api"], text, img_dir, manifest, limit=2)
         url = cfg["origin"] + title.replace(" ", "_")
-        write_chapter(book, cfg["part_country"], title, text, url, extra, license_spdx)
-        n += 1
+        record(write_chapter(book, cfg["part_country"], title, text, url, extra, license_spdx))
+    if wiki in CITY_MAP_LINKS:
+        part_city = cfg.get("part_city") or "03-cities"
+        notice = CITY_MAP_LINKS[wiki]
+        seen_cities: set[str] = set()
+        for name in CITY_SELECTION.get(wiki) or []:
+            chosen = None
+            for cand in city_candidates(name):
+                chosen = resolve_page(cand, pages)
+                if chosen:
+                    break
+            if not chosen:
+                continue
+            title, text = chosen
+            if title in seen_cities:
+                continue
+            seen_cities.add(title)
+            extra = "" if skip_images else fetch_page_images(cfg["api"], text, img_dir, manifest, limit=2)
+            url = cfg["origin"] + title.replace(" ", "_")
+            record(
+                write_chapter(
+                    book,
+                    part_city,
+                    title,
+                    text,
+                    url,
+                    extra,
+                    license_spdx,
+                    strip_spots=True,
+                    notice=notice,
+                )
+            )
+        print(f"  cities={len(seen_cities)}", flush=True)
     if manifest:
         write_manifest(img_dir / "images.json", manifest)
-    print(f"  wrote {n} chapters", flush=True)
+    extra = []
+    for key in ("skip-lock", "skip-omit", "conflict"):
+        if counts[key]:
+            extra.append(f"{key}={counts[key]}")
+    suffix = f" ({', '.join(extra)})" if extra else ""
+    print(f"  wrote {counts['wrote']} chapters{suffix}", flush=True)
 
 
 def main() -> None:
@@ -300,6 +451,7 @@ def main() -> None:
     p.add_argument("--max-howto", type=int, default=None)
     p.add_argument("--max-countries", type=int, default=None)
     p.add_argument("--skip-images", action="store_true")
+    p.add_argument("--cities-only", action="store_true")
     args = p.parse_args()
     wikis = list(WIKIS) if args.all or not args.wiki else args.wiki
     CACHE.mkdir(exist_ok=True)
@@ -309,6 +461,7 @@ def main() -> None:
             max_howto=args.max_howto,
             max_countries=args.max_countries,
             skip_images=args.skip_images,
+            cities_only=args.cities_only,
         )
 
 

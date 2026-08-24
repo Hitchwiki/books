@@ -1,3 +1,5 @@
+<!-- editorial:lock -->
+
 # Hospitality Exchange
 
 Compiled from [Trustroots Wiki](https://wiki.trustroots.org/) (formerly Couchwiki) and related projects: Casa Robino, ideas.trustroots.org, hospitalityguide.net (CC-BY), and — with permission — OpenCouchSurfing.

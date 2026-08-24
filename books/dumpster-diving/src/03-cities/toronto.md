@@ -1,0 +1,29 @@
+# Toronto
+
+> Named dumpsters and map pins go stale. For current spots use [dumpstermap.org](https://dumpstermap.org/) and the live Trashwiki page. This chapter is culture, legality, and general practice — not a dumpster list.
+
+![Dumpster diver in Markham, Toronto](Dumpster_diving_in_canada.jpg "Dumpster diver in Markham, Toronto"){width="250"} **Toronto** is the biggest city in [Canada](Canada "Canada"){.wikilink} located in the province of [Ontario](Ontario "Ontario"){.wikilink}. There are many excellent opportunities for free or cheap [food](food "food"){.wikilink} in the city including high quality, organic [produce](produce "produce"){.wikilink} and [bread](bread "bread"){.wikilink}.
+
+If you have just a little money to spend on food you can get some really nice stuff. In many of the busy grocery shopping areas (Bloor Street West, Kensington Market, China Town, etc.) shops have loonie bags of old produce, bread, etc. that they are trying to get rid of. [Kensington Market](http://en.wikipedia.org/wiki/Kensington_Market/) is particularly good for this where many of the produce shops have bags or boxes of [fruit](fruit "fruit"){.wikilink} and [vegetables](vegetables "vegetables"){.wikilink} that they will no longer be able to sell for full price but are still totally delicious, and in the case of [avocados](avocado "avocado"){.wikilink} or [tomatoes](tomato "tomato"){.wikilink} are likely just hitting their prime. At *My Market Bakery* they have gigantic dollar variety bags of day old bread.
+
+**Dumpster-diving**
+
+You might have particular success in dumpster diving along Bloor Street West between the Spadina and the Ossington metro stations. Just at Bloor and Spadina there is a small healthy foods store where you can find nice veggies and fruits is you find the back of the store through an alley (the alley is in the next street east of Spadina). Generally, it could be particularly fruitful to walk westward along this stretch hitting all the different locations. The first one is a chain [supermarket](supermarket "supermarket"){.wikilink} called *Metro*. Its on the corner of Bloor St. West and Robert Street. They have about 15 green organic waste bins in their southern parking lot where there is bound to be some good scores from time to time. Just two blocks over on the north side of Bloor St and Dalton there is Bloor St SuperFresh, a medium sized supermarket. They have a conspicuous dumpster on the side of the building. It seems to be a good all around dumpster where one can find juice, produce, bread, and other surprises. If you haven\'t got your fill from these locations, you can continue westward and there with be a few more small corner shops on the north side of Bloor St. (At Palmerston as well as Manning Ave) At these places you can go around the corner to the side of their buildings and look in their green organic waste bins for produce. `<small>`{=html}(Last checked: June 2014)`</small>`{=html}
+
+If all that wasn\'t enough, do the same stretch on College street. Two good stores that come to mind are near the crossing of Bathrust and College - a Shoppers store where one can find chocolate, milk, random cosmetics and even medicine (a big green dumpster at the parking lot). The other one is a small store called the Friendly Magnolia - you have to walk behind it through a back alley at the corner with Starbucks. At Magnolia there seems to always be a fill of delicious bagels and bread, expensive organic yogurts, as well as fruits and veggies and occasional fancy produce, such as organic spreads or ready meals (since it is a healthy foods store). `<small>`{=html}(Last checked: June 2014)`</small>`{=html}
+
+One can also find discarded fruits and veggies at Kensington market, which is quite a popular area to dumpsterdive among the people that live there. `<small>`{=html}(Last checked: June 2014)`</small>`{=html}
+
+**Harvesting** Toronto is full of stuff to pick. Early summer is full of mulberries, cherries, sour-cherries and saskatoon-berries. Aug-Oct you can find pears and apples. There is a group of volunteers that get together and pick the trees, one can get involved over their website: [NotFarFromTheTree](http://notfarfromthetree.org/)
+
+**Free Stuff** Every first Saturday of the month, there is a Really Really Free market that takes place at Campbell park. You can bring stuff, take stuff, volunteer, whatever. It\'s a good place to be since there are some really good things (even things like an occasional bike, a guitar or a tent). You can check the time and location on their blog: [FreeMarket](http://rrfmarket.blogspot.ca/)
+
+[hitch:Toronto](hitch:Toronto "hitch:Toronto"){.wikilink}
+
+
+
+
+---
+
+Source: [Toronto](https://trashwiki.org/en/Toronto)  
+License: CC-BY-NC-SA-4.0
