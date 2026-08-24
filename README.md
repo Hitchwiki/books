@@ -8,17 +8,17 @@ Each book has **its own license**. There is no repo-wide content license. Script
 | --- | --- |
 | Hitchwiki, Trustroots Wiki, Nomadwiki | Trashwiki, Random Roads, Dumpsterdam, Geldloos, Moneyless, Sin Dinero |
 
-| Book | License | Sources |
-| --- | --- | --- |
-| [The Hitchhiker's Guide to Hitchhiking](https://guaka.github.io/books/hitchhikers-guide/) | [![CC BY-SA 4.0](assets/cc-by-sa-4.0.png)](books/hitchhikers-guide/LICENSE) | Hitchwiki |
-| [Dumpster Diving](https://guaka.github.io/books/dumpster-diving/) | [![CC BY-NC-SA 4.0](assets/cc-by-nc-sa-4.0.png)](books/dumpster-diving/LICENSE) | Trashwiki |
-| [Random Roads](https://guaka.github.io/books/random-roads/) | [![CC BY-NC-SA 4.0](assets/cc-by-nc-sa-4.0.png)](books/random-roads/LICENSE) | randomroads.org |
-| [Dumpsterdam](https://guaka.github.io/books/dumpsterdam/) | [![CC BY-NC-SA 4.0](assets/cc-by-nc-sa-4.0.png)](books/dumpsterdam/LICENSE) | dumpsterdam.nl |
-| [Geldloos](https://guaka.github.io/books/geldloos/) | [![CC BY-NC-SA 4.0](assets/cc-by-nc-sa-4.0.png)](books/geldloos/LICENSE) | geldloos.nl |
-| [Hospitality Exchange](https://guaka.github.io/books/hospitality-exchange/) | [![CC BY-SA 4.0](assets/cc-by-sa-4.0.png)](books/hospitality-exchange/LICENSE) | Trustroots Wiki and related |
-| [Moneyless](https://guaka.github.io/books/moneyless/) | [![CC BY-NC-SA 4.0](assets/cc-by-nc-sa-4.0.png)](books/moneyless/LICENSE) | moneyless.org |
-| [Sin Dinero](https://guaka.github.io/books/sin-dinero/) | [![CC BY-NC-SA 4.0](assets/cc-by-nc-sa-4.0.png)](books/sin-dinero/LICENSE) | sindinero.net |
-| [Shoestring Nomad](https://guaka.github.io/books/shoestring-nomad/) | [![CC BY-SA 4.0](assets/cc-by-sa-4.0.png)](books/shoestring-nomad/LICENSE) | Nomadwiki, Casa Robino |
+| Book | Downloads | License | Sources |
+| --- | --- | --- | --- |
+| [The Hitchhiker's Guide to Hitchhiking](https://guaka.github.io/books/hitchhikers-guide/) | [EPUB 0.1 draft](https://guaka.github.io/books/downloads/hitchhikers-guide.epub) · [PDF 0.1 draft](https://guaka.github.io/books/downloads/hitchhikers-guide.pdf) | [![CC BY-SA 4.0](assets/cc-by-sa-4.0.png)](books/hitchhikers-guide/LICENSE) | Hitchwiki |
+| [Dumpster Diving](https://guaka.github.io/books/dumpster-diving/) | [EPUB 0.1 draft](https://guaka.github.io/books/downloads/dumpster-diving.epub) · [PDF 0.1 draft](https://guaka.github.io/books/downloads/dumpster-diving.pdf) | [![CC BY-NC-SA 4.0](assets/cc-by-nc-sa-4.0.png)](books/dumpster-diving/LICENSE) | Trashwiki |
+| [Random Roads](https://guaka.github.io/books/random-roads/) | [EPUB 0.1 draft](https://guaka.github.io/books/downloads/random-roads.epub) · [PDF 0.1 draft](https://guaka.github.io/books/downloads/random-roads.pdf) | [![CC BY-NC-SA 4.0](assets/cc-by-nc-sa-4.0.png)](books/random-roads/LICENSE) | randomroads.org |
+| [Dumpsterdam](https://guaka.github.io/books/dumpsterdam/) | [EPUB 0.1 draft](https://guaka.github.io/books/downloads/dumpsterdam.epub) · [PDF 0.1 draft](https://guaka.github.io/books/downloads/dumpsterdam.pdf) | [![CC BY-NC-SA 4.0](assets/cc-by-nc-sa-4.0.png)](books/dumpsterdam/LICENSE) | dumpsterdam.nl |
+| [Geldloos](https://guaka.github.io/books/geldloos/) | [EPUB 0.1 draft](https://guaka.github.io/books/downloads/geldloos.epub) · [PDF 0.1 draft](https://guaka.github.io/books/downloads/geldloos.pdf) | [![CC BY-NC-SA 4.0](assets/cc-by-nc-sa-4.0.png)](books/geldloos/LICENSE) | geldloos.nl |
+| [Hospitality Exchange](https://guaka.github.io/books/hospitality-exchange/) | [EPUB 0.1 draft](https://guaka.github.io/books/downloads/hospitality-exchange.epub) · [PDF 0.1 draft](https://guaka.github.io/books/downloads/hospitality-exchange.pdf) | [![CC BY-SA 4.0](assets/cc-by-sa-4.0.png)](books/hospitality-exchange/LICENSE) | Trustroots Wiki and related |
+| [Moneyless](https://guaka.github.io/books/moneyless/) | [EPUB 0.1 draft](https://guaka.github.io/books/downloads/moneyless.epub) · [PDF 0.1 draft](https://guaka.github.io/books/downloads/moneyless.pdf) | [![CC BY-NC-SA 4.0](assets/cc-by-nc-sa-4.0.png)](books/moneyless/LICENSE) | moneyless.org |
+| [Sin Dinero](https://guaka.github.io/books/sin-dinero/) | [EPUB 0.1 draft](https://guaka.github.io/books/downloads/sin-dinero.epub) · [PDF 0.1 draft](https://guaka.github.io/books/downloads/sin-dinero.pdf) | [![CC BY-NC-SA 4.0](assets/cc-by-nc-sa-4.0.png)](books/sin-dinero/LICENSE) | sindinero.net |
+| [Shoestring Nomad](https://guaka.github.io/books/shoestring-nomad/) | [EPUB 0.1 draft](https://guaka.github.io/books/downloads/shoestring-nomad.epub) · [PDF 0.1 draft](https://guaka.github.io/books/downloads/shoestring-nomad.pdf) | [![CC BY-SA 4.0](assets/cc-by-sa-4.0.png)](books/shoestring-nomad/LICENSE) | Nomadwiki, Casa Robino |
 
 ## Editorial progress
 

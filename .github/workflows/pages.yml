@@ -47,7 +47,7 @@ jobs:
           IMAGES_RELEASE_URL: https://github.com/${{ github.repository }}/releases/download/images/book-images.tar.gz
           GITHUB_TOKEN: ${{ github.token }}
         run: make images
-      - name: Build HTML and EPUB
+      - name: Build HTML, EPUB, and PDF
         run: make -j"$(nproc)" pages
       - uses: actions/upload-pages-artifact@v3
         with:

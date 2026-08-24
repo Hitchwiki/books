@@ -16,7 +16,7 @@ books: $(BOOKS)
 
 html epub pdf: books
 
-pages: FORMATS := html,epub
+pages: FORMATS := html,epub,pdf
 pages: all
 
 dumps:

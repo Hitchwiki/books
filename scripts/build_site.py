@@ -48,6 +48,7 @@ def main() -> None:
     when = build_when(version)
     built = when.strftime("%Y-%m-%d %H:%M")
     built_iso = when.strftime("%Y-%m-%dT%H:%M:00Z")
+    edition = version.split("-", 1)[0]
     out = Path(args.out)
     out.mkdir(parents=True, exist_ok=True)
     assets = out / "assets"
@@ -73,8 +74,8 @@ def main() -> None:
         license_id = meta.get("license", "")
         kicker = THEMES[slug]["kicker"]
         pdf = out / "downloads" / f"{slug}.pdf"
-        epub = f'<a href="./downloads/{slug}.epub">EPUB</a>'
-        pdf_link = f' · <a href="./downloads/{slug}.pdf">PDF</a>' if pdf.exists() else ""
+        epub = f'<a href="./downloads/{slug}.epub">EPUB {edition} draft</a>'
+        pdf_link = f' · <a href="./downloads/{slug}.pdf">PDF {edition} draft</a>' if pdf.exists() else ""
         cover = covers_src / f"{slug}.jpg"
         cover_html = ""
         if cover.exists():
