@@ -1,0 +1,14 @@
+# Trains and Snow
+
+December 14th. I spent the day today on the train, another stupid decision that weighs on my morals and will further reduce the time I spend with the people I love.
+I am alone in this car, and the snowy landscape rolls by more and more slowly as I approach the station at Modane. The snow I've dreamed of for the first time in years, is finally here. She appeared a little earlier, in the early afternoon on the edge of the railroad tracks. Already she seems to want to fade all traces of humanity, the landscape of roads and parking lots disappear, leaving only the small trees without any leaves, like death.
+After the landscape, it is the sky the snow is set to invade. Mountains begin to appear, yet these mountains seem to be a trap to keep in the oppressive haze. My eyes try desperately to find a path that will take them past the infinity of the railway tracks. In a few minutes the train will stop at Modane, near the Italian border. I will have to close my book again, and leave this train where I've had to shed tears of melancholie. Once again I'd be alone as I have always been, but it doesn't matter as I'll soon be far away.
+It is almost 20h now, and here I am, a new arrival at the station in the middle of the Alps. I was suppose to wait for a train to Milan for two hours, but it has now been 3 hours delayed because of the snow and mechanical problems. I really should have continued by hitchhiking. I say this every time I take the train. Maybe that would have left me more time to see her.
+When I arrived the snow was also there, and well present, she seems to have waited for me. Outside the snow is frozen and the pain of my ankle I broke a few months ago makes it hard to walk. Every step tells me that this not my place here either. I had impatiently saught after her. I didn't see her often, but she stayed marked in my memory forever. I had only buried her somewhere in my memory like the rest of my childhood, without even knowing it, but she was still there, I'd just looked in the wrong place and the wait didn't help me in any way.
+As expected I got off the train alone, and here too she seemed to want to hide the pathway. The presence of man is still more visible, but cracks in the sidewalk open up to allow her spaces, and for measure fill them up with a layer or ice as to resist even more. Remain lifeless for too long and you will get imprisoned. The snow defiled by man, regains immaculate whiteness by the morning.
+It finally seems that I am not so alone,. I find everywhere that I am these things that constitues who I am. I have to lighten my bag, yet I find it tugs at my body and my mind even more over the weeks that passed.
+Tonight I am far. I will finally see her for a few hours and everything will be fine. Until tomorrow.
+
+---
+
+Source: https://randomroads.org/story/trains-and-snow

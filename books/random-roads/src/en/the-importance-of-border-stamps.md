@@ -1,0 +1,20 @@
+# The Importance of Border Stamps
+
+Still filled with happiness in our hearts from the last ride, we walk up to the Ukrainian border guard. Hmmm, we could have known better. We give him our passports and as he flicks through them he says: "Where is your arrival stamp for the Ukraine?"
+"We didn't get one", I answered.
+"Impossible", was his simple reply.
+A couple of days earlier, while hitching from Moldava into the Ukraine, we ended up in a weird Moldavian transit zone. That's how we didn't get an arrival stamp when we got to the Ukraine, we explain. Apparently this is a big deal in the Ukraine. We got to sit on a wooden bench, while they drank beer, let Moldavians through, and sort of checked out our story.
+My mind and stomach wonder to our last ride. The lift took some getting, as we were waiting in the middle of nowhere which is usual in the Ukraine. But eventually we got a lift of an Ukrainian husband and wife. I was feeling pretty ill (reminder: don't eat prawns that you buy off the street in the Ukraine in summer) and I slept for the duration of most of the ride. At the end though they actually took us into their home for some food.
+It was a very basic dwelling, with hand washing outside from a can. The mother lived with them and was the main person preparing the pasta and soup. It was very tasty, but I couldn't eat much. We did have to say grace, but for such giving people and considering everything, it was not even a problem for me (due to my Atheism views). No worries.
+Some coffees later they gave us a bible (in Russian Cyrillic) and a watermelon which we carried for 3 countries before having to leave it behind. They did look at Felix and I as if we were from another planet and for all intents and purposes, that was true. They then dropped us at the border and we felt truly lucky to have met such nice people.
+Now it was getting to late evening and we were still waiting at the border. It took them three hours before they finally gave us an exit stamp. Finally free we walked across Moldova and after just some kilometers walk we arrived at yet the next border, the one between Romania and Moldova.
+"You can't walk across this border". Yet another borderguard stands in our way of crossing the border on foot. He speaks to us in Moldavian.
+Turns out we arrived at a no-walk-border. Not much traffic and who really wants to take two random dudes across the border at 10pm? Yes, the usual cons who want €20 for a 5km lift.
+Eventually though we get a lift with a couple, who are just anxious that we have the right passports. But we are with the right people. They turn out to be great friends with the border guards. I see 200 lei in their hands when we get to the Romanian border. Then Felix sees another 50 lei getting folded into one of the passports. Then just after we get into Romania, they stop and the remaining lei go to some random police-border guards.
+Only when we arrive in the closest town we find the reason. They are smuggling cigarettes. Two huge shopping bags filled with cigarette boxes come out from under the seats, and they are taken off to a nearby house. It's not the best neighborhood, so we just sit tight, feeling nervous. When they drop us off in another part of town, we are pretty relieved to say goodbye.
+Wandered along the highway out off town, getting surprised by wild dogs on the other side of a fence and very glad the fence was there as they seemed pretty keen to get to know us.
+That night ended at a train station though, where we took turns sleeping, with the awake person guarding our bags. We followed the highway, but it ended in a ferry crossing... At 11pm. Damn. We asked a couple for directions but they ended up taking us to the main train station (even though the guy was an off-duty taxi driver). Apparently at the station I got into a snoring competition with an elderly woman...
+
+---
+
+Source: https://randomroads.org/story/importance-border-stamps

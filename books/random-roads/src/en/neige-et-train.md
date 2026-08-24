@@ -1,0 +1,15 @@
+# Neige et train
+
+14 decembre
+J’ai passer la journée d’aujourd’hui dans le train, encore une décision stupide qui pese sur mon morale et va réduire encore plus le temps que je vais passer avec les gens que j’aime.
+Je suis seul dans ce wagon et le paysage enneiger défile de plus en plus lentement a l'approche de la gare de Modane, la neige que j’ai revu pour la première fois depuis des années est enfin la, elle apparu un peu plus tôt en début d’après midi sur les bords du chemin de fer et semble déjà vouloir uniformiser toute trace d’ humanité avec le paysage faisant disparaitre parking et routes, ne laissant que de petit arbre sans aucune feuille ce distinguer, comme mort.
+Après le paysage c’est le ciel que la neige c’est mis a envahir et des montagnes commencèrent a apparaitre, et ces montagne semblais n'être la que pour emprisonner qu'une brume oppressante et mon regard qui tente désespérément de trouver une voie moins infini que celle du chemin de fer a l’horizon. Dans quelque minute le train va stopper a Modane près de la frontière Italienne, je devrais refermer mon livre et quitter ce train qui m'auront fait couler quelque l’arme de mélancolie, encore une fois je serais seul comme je l’ai toujours été, mais peut importe je serais bientôt loin.
+Il est presque 20h maintenant et me voici arriver en gare, en plein milieu des alpes, je doit y attendre un train pour Milan dans 2h qui finalement n'arrivera qu'avec 3h de retard a cause de la neige et de problème mécanique, j’aurais vraiment du continuer en auto-stop comme je me le dit a chaque fois que je prends le train, peut être cela m'aurais laisser plus de temps pour la voir.
+La neige était aussi la et bien présente, semblant m’avoir attendu, a l'extérieure la neige glacé et la douleur de ma cheville que j'ai casser quelque mois auparavant rende chaque pas difficile semble vouloir me dire que je n’ai pas ma place ici non plus. Moi qui la recherchai impatiemment je ne l’avais pas vu souvent mais elle avais marquer ma mémoire a jamais, je l’avais seulement enfouis quelque par comme tout le reste de mon enfance sans même le savoir mais elle étais toujours la, je la cherchai juste au mauvais endroit et l’attendre ne servais a rien.
+Comme prévu je suis descendu seul du train, et ici aussi elle semble vouloir faire disparaitre tout chemin, la présence de l’homme y est aussi plus marque mais rien n’a faire, les trancher ouverte pour retrouver quelque espace praticable de trottoir ce referme au fur et a mesure par une couche de glace, comme pour résister encore plus, tout objet imprudemment rester inanimé trop longtemps ce fera emprisonner, et la neige souiller par l’homme regagnera ca blancheur immaculée au petit matin.
+Il semble finalement que je ne sois pas si seul, je retrouve partout ou je me trouve c’est chose qui me constitue, il faudra que j’allège mon sac, encore lui qui me tiraille mon corps et mon esprit plus les semaines passe.
+Ce soir je serais loin je la verrais enfin pour quelque heurs et tout ira bien, jusqu'à demain.
+
+---
+
+Source: https://randomroads.org/story/neige-et-train
