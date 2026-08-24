@@ -1,0 +1,12 @@
+# Make money babysitting
+
+Babysitting is one of the easiest ways to [make money](https://moneyless.org/how-make-money-internet) whilst still performing a convenient and necessary task. Furthermore, if you are a high school or university student (which most babysitters are) you can babysit for parents that go out for the night. This means that after you feed, entertain and tend to the needs of whoever’s child you are taking care of. You can then put them to bed, open up your laptop, and study for an exam or write a paper. This technique can make it easier to balance school work with financial gain.
+## How to find babysitting jobs
+You may be asking yourself, “how does one find parents who are in need of a babysitter?” It's actually quite simple. You might know friends and/or friends of friends or maybe a neighbor who has kids. If this is the case its as easy as asking them if they need help with their child/children. Another easy way to land a job as a babysitter is to advertise yourself on craigslist, or if you wanna take it one step further, you can join a babysitting agency. This option is less personal but it might be more fitting to your lifestyle.
+If you do go to a university or high school there is an even better opportunity. Parents of small children who are looking for child care are always looking for people they can trust, and if you go to a school there is a high chance that there are parents who have younger children who are looking for child care. Who knows, maybe you can land a job looking after your classmates little sibling. The easiest way to reach out to parents in your school community is by putting up a flyer on campus or on designated bulletin boards within your building. Parents will also prefer a member of the school community over a random stranger so if you have this opportunity I highly advise you give it a try.
+## How much can you make babysitting?
+If you are wondering how much babysitting pays, it depends primarily on a couple of factors, these being how financially stable the family you’re working for is and what kind of child care that you are providing (overnight, daycare, etc). My golden rule is that you should never be paid less than 10 euro/dollar/pound an hour, unless you’re helping out a friend of course. In closing, Babysitting can be some of the most rewarding work, especially if you enjoy the company of children and you like helping people out. A ready and able babysitter can help save the night of a parent in need.
+
+---
+
+Source: https://moneyless.org/make-money-babysitting

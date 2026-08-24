@@ -1,0 +1,13 @@
+# Reizen zonder geld
+
+Zonder geld reizen is een van de eenvoudigste dingen om te doen. Het is namelijk iets wat we elke dag doen: [lopen](/blog/op-reis-zonder-geld). Maar er zijn ook andere manieren om zonder geld op stap te gaan, zoals fietsen, zonder geld backpacken en [liften](/ga-lekker-liften). Je zal in de meeste gevallen geen geld nodig hebben om verder te komen. Bovendien is het avontuurlijk en superleerzaam.
+Om te overnachten kan je [in het wild](/ga-kamperen), in een park of bij iemand in de tuin in een tent of in een hangmat slapen. Als je aan het liften bent dan kan je 's avonds vaak ook wel een goed plekje vinden achter een wegrestaurant of tankstation. Om te douchen kan je bij campings aankloppen en om een douche vragen. In het buitenland kan je vaak ook terecht bij de grotere tankstations langs de snelweg.
+Je kan daarnaast ook gebruik maken van [gastvrijheidsnetwerken](http://moneyless.org/hospitality-exchange-networks). De meest bekende is wel Couchsurfing en [Bewelcome](http://www.bewelcome.org/), maar er is ook een speciaal netwerk voor fietsers dat [Warmshowers](https://www.warmshowers.org/) heet. Dankzij deze netwerken kan je in contact komen met mensen die gratis slaapruimte aanbieden aan reizigers.
+Aan je eten kan je komen door te gaan [dumpster diving](/ga-dumpster-diven), of je kan [om eten vragen](/geen-geld-voor-eten). Maar je hoeft echter niet helemaal hardcore te gaan, en je kan er ook voor kiezen om gewoon te betalen voor onderdak en of voor je eten. Er valt genoeg te leren door er al voor te kiezen om geen geld te gebruiken voor transport. Het is een super doeltreffende manier om met weinig geld rond te komen, vooral als je ook nog eens geen huurhuis hebt en er helemaal voor kiest om [nomadisch](http://nomadwiki.org) te gaan.
+Er zijn ook mensen die ervoor kiezen om tijdens het reizen wat geld te verdienen, om zo aan eten te komen. Je kan bijvoorbeeld op straat muziek maken. Met een uurtje spelen heb je vaak wel tien euro verdiend en soms wel meer. Na een paar uur heb je dan wel weer genoeg geld voor een week. Er zijn ook andere manieren van entertainment die je op straat kan uitoefenen, zoals jongleren bijvoorbeeld. Daarnaast kan je er ook voor kiezen om zelfgemaakte spullen te verkopen, zoals sierraden. Dat doen vooral veel reizigers uit Latijns-Amerika.
+Je kan er ook voor kiezen om een goed doel vast te binden aan je reis zonder geld. Je zal zien dat de liefdadigheid van mensen dan groter is, en het makkelijker is om bijvoorbeeld eten of een slaapplek te krijgen. Een voorbeeld hiervan is [Anywhere South Please](/nieuws/anywhere-south-please) van twee vrouwen uit Nederland.
+Foto credit: [Charlie](http://bicycle4earth.org)
+
+---
+
+Source: https://geldloos.nl/reizen-zonder-geld

@@ -1,0 +1,13 @@
+# Alles wijkt voor geld
+
+Geld doet rare dingen met mensen. De macht van geld legt zich vast in het hoofd van de mensen en manipuleert het hart. De liefde moet wijken voor het willen van altijd meer en meer. Meer geld, meer macht, meer onzin.
+Het is een verschijnsel waar ik al langer bekend mee ben, maar elke keer als ik ermee geconfronteerd word is het weer een klap in mijn gezicht. En de klap komt harder aan zodra de macht van het geld steeds dichterbij komt, een deel van de liefde weghaalt.
+Zo ben ik op dit moment superverontwaardigd over het plan van de stad Istanbul om het [Gezi park in Istanbul](http://naaristanbul.nl/rustig-bijkomen-in-gezi-park/), centraal naast het [Taksim plein](http://naaristanbul.nl/taksim-plein-istanbul/) en aan het eind van de beroemde winkelboulevard [Istiklal caddesi](http://naaristanbul.nl/istiklal-caddesi/) te slopen. Het is een postzegelparkje, klein maar enorm fijn dat het er is. Het is juist het feit dat het parkje zo centraal ligt betekent dat mensen er veel van genieten. En bovendien: er zijn niet veel van dit soort parkjes in Istanbul.
+Maar nu moet dit parkje wijken. Het moet weg vanwege de macht van het geld. Er moet een winkelcentrum komen. Alsof er al niet genoeg winkelcentra zijn in de Turkse superstad. Mensen protesteren hiertegen. En er is veel geweld, want de politie in Istanbul houdt niet van dit soort protest. Het is nog een vraag hoe het afloopt, maar misschien dat de mensen ook nog anders kunnen protesteren: door massaal [niets te kopen](/niets-kopen).
+Het park is een beschermd groen gebied in de stad. Maar zoals zo vaak gebeurt als het aankomt op groen dat moet wijken voor beton, haalt men een truc uit. Want hoewel het park niet mag wijken voor nieuwbouw, mag dat wel als het gaat om (re)constructiewerken van oude bouwwerken. Om het winkelcentrum te bouwen wilt het stadsdeel daarom de [Militaire Barakken](http://en.wikipedia.org/wiki/Taksim_Military_Barracks) van Taksim, een oud gebouw dat vroeger op die plek stond en meer dan zeventig jaar geleden is gesloopt, opnieuw bouwen en daar het winkelcentrum in huisvesten.
+Ik hoop echter met al mijn hart dat de volgende keer als ik [naar Istanbul](http://naaristanbul.nl/waarom-naar-istanbul) vertrek, ik weer fijn van het parkje genieten mag. Want Istanbul ligt dicht bij mijn hart en een parkje in het centrum van een stad geeft meer kwaliteit aan het leven dan nog meer winkels.
+Voor analyse over de situatie in Istanbul en Turkije adviseer ik het artikel *[The Turkish protests and the genie of revolution](http://roarmag.org/2013/06/tahrir-taksim-egypt-turkey-protests-revolution/)*
+
+---
+
+Source: https://geldloos.nl/blog/alles-wijkt-voor-geld
