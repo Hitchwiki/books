@@ -4,12 +4,14 @@ Living list of sites this repo may reuse. Add a row when we find another. Do not
 
 Permission grants for OpenCouchSurfing (and similar) go in the table at the bottom.
 
+How chapters are compiled and how to edit them without losing wiki updates: [EDITORIAL.md](EDITORIAL.md).
+
 ## Already feeding a v1 book
 
 | Site | License | Book |
 | --- | --- | --- |
 | hitchwiki.org, dumps.hitchwiki.org | CC-BY-SA-4.0 | Hitchhikers Guide |
-| trashwiki.org | CC-BY-NC-SA-3.0 | Dumpster Diving |
+| trashwiki.org | CC-BY-NC-SA-4.0 | Dumpster Diving |
 | nomadwiki.org | CC-BY-SA-4.0 | Shoestring Nomad |
 | wiki.trustroots.org | CC-BY-SA-4.0 | Hospitality Exchange |
 | ideas.trustroots.org | confirm CC-BY-SA with Trustroots Foundation | Hospitality Exchange |
@@ -37,8 +39,35 @@ Drupal node bodies for Random Roads, Dumpsterdam, Moneyless, and Casa Robino are
 | visawiki.org, cashwiki | historical; check dumps |
 | nomadbase.org / nomadbase.info | inactive; Guaka held domain |
 | hitchhiking.org, forum.hitchhiking.org, digihitch.hitchwiki.org | Hitchwiki orbit |
-| dumpstermap.org, maps.hitchwiki.org, hitchmap | maps/spots — not book gazetteers |
+| dumpstermap.org, maps.hitchwiki.org, hitchmap | live maps for spots — city chapters in the books point here, they do not copy pins |
 | rideshares.org, nos.trustroots.org | software; describe if relevant |
+
+## Wanted later (not v1)
+
+Philosophy book(s), original writing, **separate title(s)** — do not merge with the seven v1 books (BY-SA vs NC-SA still cannot be one work).
+
+Themes to cover when we start it:
+
+- How **free software** (GPL, AGPL, MIT code vs brand) relates to hitching, dumpster diving, hospitality exchange, moneyless, wikis
+- **Abundance** vs scarcity (food waste, empty seats, spare rooms, unused stuff)
+- **AI** — what to automate, what stays human, what not to scrape
+- **Wikis** as the form: Hitchwiki, Trashwiki, Nomadwiki, Trustroots Wiki; dumps; why live maps beat pin gazetteers in a book
+
+Possible sources to check later (license first): GNU/FSF essays (license varies), existing original chapter *How the free networks are built* in Hospitality Exchange (already CC-BY-SA here), ideas.trustroots.org if confirmed CC-BY-SA. Do not dump AGPL/GPL **code** into the book; describe it.
+
+Audiobooks (M4B) remain wanted later as well.
+
+Each book should get a **foreword by someone relevant in that space**, written for this edition (not scraped). Ask first; log license (prefer CC-BY or CC-BY-SA compatible with that book — NC books can take NC-SA; BY-SA books cannot take NC). Place as `src/00-foreword.md` when granted.
+
+| Book | Who (space) | Asked | Granted | License |
+| --- | --- | --- | --- | --- |
+| Hitchhikers Guide | Hitchwiki / hitching | | | |
+| Dumpster Diving | Trashwiki / dumpster diving | | | |
+| Random Roads | hitch storytellers / Robino orbit | | | |
+| Dumpsterdam | Robino / dumpster-diving Netherlands | | | |
+| Hospitality Exchange | Trustroots / BeWelcome / hospex | | | |
+| Moneyless | moneyless / gift economy | | | |
+| Shoestring Nomad | Nomadwiki / nomadbase | | | |
 
 ## Do not treat as free sources
 

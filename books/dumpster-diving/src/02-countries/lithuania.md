@@ -52,4 +52,4 @@ Every last Saturday of the month [Food not bombs](Food_not_bombs "Food not bombs
 ---
 
 Source: [Lithuania](https://trashwiki.org/en/Lithuania)  
-License: CC-BY-NC-SA-3.0
+License: CC-BY-NC-SA-4.0

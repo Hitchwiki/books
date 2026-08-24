@@ -42,4 +42,4 @@ While dumpster diving in England and Wales may qualify as theft within the *Thef
 ---
 
 Source: [United Kingdom](https://trashwiki.org/en/United_Kingdom)  
-License: CC-BY-NC-SA-3.0
+License: CC-BY-NC-SA-4.0

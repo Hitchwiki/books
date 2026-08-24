@@ -40,4 +40,4 @@ Many vendors don\'t care when people take their [waste](waste "waste"){.wikilink
 ---
 
 Source: [Iceland](https://trashwiki.org/en/Iceland)  
-License: CC-BY-NC-SA-3.0
+License: CC-BY-NC-SA-4.0

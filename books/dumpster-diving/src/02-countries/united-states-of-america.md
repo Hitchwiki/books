@@ -35,4 +35,4 @@ Some supermarkets have better dumpster diving possibilities than the others. See
 ---
 
 Source: [United States of America](https://trashwiki.org/en/United_States_of_America)  
-License: CC-BY-NC-SA-3.0
+License: CC-BY-NC-SA-4.0

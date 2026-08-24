@@ -16,4 +16,4 @@ In [Barcelona](Barcelona "Barcelona"){.wikilink}, [Spain](Spain "Spain"){.wikili
 ---
 
 Source: [Hard rubbish](https://trashwiki.org/en/Hard_rubbish)  
-License: CC-BY-NC-SA-3.0
+License: CC-BY-NC-SA-4.0

@@ -14,4 +14,4 @@ A lot of people dumpster dive and never take (or find) any food.
 ---
 
 Source: [Food](https://trashwiki.org/en/Food)  
-License: CC-BY-NC-SA-3.0
+License: CC-BY-NC-SA-4.0

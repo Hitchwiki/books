@@ -140,4 +140,4 @@ All links in Swedish unless noted otherwise.
 ---
 
 Source: [Sweden](https://trashwiki.org/en/Sweden)  
-License: CC-BY-NC-SA-3.0
+License: CC-BY-NC-SA-4.0

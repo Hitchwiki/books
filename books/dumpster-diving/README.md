@@ -1,3 +1,3 @@
 # Dumpster Diving
 
-Compiled from Trashwiki. **CC-BY-NC-SA-3.0**. See [LICENSE](LICENSE).
+Compiled from Trashwiki. **CC-BY-NC-SA-4.0**. See [LICENSE](LICENSE).

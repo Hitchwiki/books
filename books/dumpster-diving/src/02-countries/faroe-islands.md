@@ -19,4 +19,4 @@ The **Faroe Islands** are a paradise for [dumpster divers](dumpster_diver "dumps
 ---
 
 Source: [Faroe Islands](https://trashwiki.org/en/Faroe_Islands)  
-License: CC-BY-NC-SA-3.0
+License: CC-BY-NC-SA-4.0

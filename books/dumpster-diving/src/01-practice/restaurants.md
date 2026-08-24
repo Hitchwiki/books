@@ -16,4 +16,4 @@ Synonyms: Some people may say \"table diving\" instead of tabling, but tabling c
 ---
 
 Source: [Restaurants](https://trashwiki.org/en/Restaurants)  
-License: CC-BY-NC-SA-3.0
+License: CC-BY-NC-SA-4.0

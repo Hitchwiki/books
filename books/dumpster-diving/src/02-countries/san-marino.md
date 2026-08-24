@@ -12,4 +12,4 @@ Unclear if it\'s possible to dumpster dive here.
 ---
 
 Source: [San Marino](https://trashwiki.org/en/San_Marino)  
-License: CC-BY-NC-SA-3.0
+License: CC-BY-NC-SA-4.0

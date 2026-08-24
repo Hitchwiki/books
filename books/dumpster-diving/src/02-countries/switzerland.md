@@ -27,4 +27,4 @@ TV programms which covered [food](food "food"){.wikilink} [waste](waste "waste")
 ---
 
 Source: [Switzerland](https://trashwiki.org/en/Switzerland)  
-License: CC-BY-NC-SA-3.0
+License: CC-BY-NC-SA-4.0

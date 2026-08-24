@@ -375,4 +375,4 @@ In 2002, [WNYC](WNYC "WNYC"){.wikilink} reported that 40% of the garbage that Ne
 ---
 
 Source: [Recycling](https://trashwiki.org/en/Recycling)  
-License: CC-BY-NC-SA-3.0
+License: CC-BY-NC-SA-4.0

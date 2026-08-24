@@ -48,4 +48,4 @@ Media Coverage:
 ---
 
 Source: [Freight bicycle](https://trashwiki.org/en/Freight_bicycle)  
-License: CC-BY-NC-SA-3.0
+License: CC-BY-NC-SA-4.0

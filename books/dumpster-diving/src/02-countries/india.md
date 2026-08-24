@@ -24,4 +24,4 @@ There is a rich Indian tradition of up-cycling, known locally as *Jugaad*. There
 ---
 
 Source: [India](https://trashwiki.org/en/India)  
-License: CC-BY-NC-SA-3.0
+License: CC-BY-NC-SA-4.0

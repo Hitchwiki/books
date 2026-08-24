@@ -82,4 +82,4 @@ Dumpster diving is not illegal. Though people might tell you it is, because they
 ---
 
 Source: [Laws](https://trashwiki.org/en/Laws)  
-License: CC-BY-NC-SA-3.0
+License: CC-BY-NC-SA-4.0

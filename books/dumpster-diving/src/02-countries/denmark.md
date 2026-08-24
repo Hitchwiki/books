@@ -59,4 +59,4 @@ Since a lot of food that would normally end up in the dumpsters, is redirected t
 ---
 
 Source: [Denmark](https://trashwiki.org/en/Denmark)  
-License: CC-BY-NC-SA-3.0
+License: CC-BY-NC-SA-4.0

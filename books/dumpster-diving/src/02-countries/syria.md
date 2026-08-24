@@ -12,4 +12,4 @@
 ---
 
 Source: [Syria](https://trashwiki.org/en/Syria)  
-License: CC-BY-NC-SA-3.0
+License: CC-BY-NC-SA-4.0

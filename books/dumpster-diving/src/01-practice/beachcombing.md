@@ -18,4 +18,4 @@ See also [article on Wikipedia](http://en.wikipedia.org/wiki/Beachcombing).
 ---
 
 Source: [Beachcombing](https://trashwiki.org/en/Beachcombing)  
-License: CC-BY-NC-SA-3.0
+License: CC-BY-NC-SA-4.0

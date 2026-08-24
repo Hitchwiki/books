@@ -27,4 +27,4 @@
 ---
 
 Source: [Related websites](https://trashwiki.org/en/Related_websites)  
-License: CC-BY-NC-SA-3.0
+License: CC-BY-NC-SA-4.0

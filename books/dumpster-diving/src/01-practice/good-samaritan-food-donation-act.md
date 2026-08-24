@@ -20,4 +20,4 @@ The Federal Bill Emerson Good Samaritan Food Donation Act protects the donor and
 ---
 
 Source: [Good Samaritan Food Donation Act](https://trashwiki.org/en/Good_Samaritan_Food_Donation_Act)  
-License: CC-BY-NC-SA-3.0
+License: CC-BY-NC-SA-4.0

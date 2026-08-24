@@ -137,4 +137,4 @@ British television shows have even featured home renovations and decoration usin
 ---
 
 Source: [Dumpster diving](https://trashwiki.org/en/Dumpster_diving)  
-License: CC-BY-NC-SA-3.0
+License: CC-BY-NC-SA-4.0

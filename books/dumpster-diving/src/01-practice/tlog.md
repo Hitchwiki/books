@@ -24,4 +24,4 @@ Some basic TLogs have been listed on the [Ten Katestraat](Ten_Katestraat "Ten Ka
 ---
 
 Source: [TLog](https://trashwiki.org/en/TLog)  
-License: CC-BY-NC-SA-3.0
+License: CC-BY-NC-SA-4.0

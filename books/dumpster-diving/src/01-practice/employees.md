@@ -14,4 +14,4 @@ Some can be pure evil, though. For example, in [2008](2008 "2008"){.wikilink} em
 ---
 
 Source: [Employees](https://trashwiki.org/en/Employees)  
-License: CC-BY-NC-SA-3.0
+License: CC-BY-NC-SA-4.0

@@ -33,4 +33,4 @@ If you find yourself lost in Slovakia, dumpster-diving will be less comfortable 
 ---
 
 Source: [Slovakia](https://trashwiki.org/en/Slovakia)  
-License: CC-BY-NC-SA-3.0
+License: CC-BY-NC-SA-4.0

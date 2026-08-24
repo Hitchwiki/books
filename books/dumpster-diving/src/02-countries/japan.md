@@ -61,4 +61,4 @@ Japanese people get rid of things by leaving them on the streets for garbageman 
 ---
 
 Source: [Japan](https://trashwiki.org/en/Japan)  
-License: CC-BY-NC-SA-3.0
+License: CC-BY-NC-SA-4.0
