@@ -235,9 +235,8 @@ body.book-dumpsterdam .cover-title {
   line-height: 0.9;
 }
 body.book-dumpsterdam .cover-page {
-  background:
-    linear-gradient(var(--accent2), var(--accent2)) left / 12px 100% no-repeat,
-    var(--cover-bg);
+  border-left: 12px solid var(--accent2);
+  box-sizing: border-box;
 }
 body.book-dumpsterdam .cover-logo {
   background: #dcddcb;
@@ -315,6 +314,41 @@ body.book-dumpsterdam .cover-foot {
   letter-spacing: 0.08em;
   text-transform: uppercase;
 }
+
+body.book-dumpsterdam .cover-page.cover-has-photo {
+  min-height: 34rem;
+}
+body.book-dumpsterdam .cover-page.cover-has-photo::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  background-image:
+    linear-gradient(to top, #9a2016 8%, #9a2016d8 32%, #9a201600 62%),
+    url("covers/photo.jpg");
+  background-size: cover, cover;
+  background-position: bottom, center 35%;
+  background-repeat: no-repeat;
+  pointer-events: none;
+}
+body.book-dumpsterdam .cover-has-photo .cover-kicker,
+body.book-dumpsterdam .cover-has-photo .cover-main,
+body.book-dumpsterdam .cover-has-photo .cover-foot,
+body.book-dumpsterdam .cover-has-photo .cover-photo-credit,
+body.book-dumpsterdam .cover-has-photo .cover-logo-wrap {
+  position: relative;
+  z-index: 2;
+}
+body.book-dumpsterdam .cover-photo-credit {
+  margin: 0 0 0.35rem;
+  font-size: 0.68rem;
+  letter-spacing: 0.04em;
+  text-transform: none;
+  opacity: 0.78;
+  position: relative;
+  z-index: 2;
+}
+
 @media print {
   body.book-dumpsterdam { max-width: none; background: white; display: block; }
   body.book-dumpsterdam .book-banner,

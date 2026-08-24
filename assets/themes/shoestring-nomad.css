@@ -305,6 +305,41 @@ body.book-shoestring-nomad .cover-foot {
   letter-spacing: 0.08em;
   text-transform: uppercase;
 }
+
+body.book-shoestring-nomad .cover-page.cover-has-photo {
+  min-height: 34rem;
+}
+body.book-shoestring-nomad .cover-page.cover-has-photo::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  background-image:
+    linear-gradient(to top, #f6f3e9 8%, #f6f3e9d8 32%, #f6f3e900 62%),
+    url("covers/photo.jpg");
+  background-size: cover, cover;
+  background-position: bottom, center 58%;
+  background-repeat: no-repeat;
+  pointer-events: none;
+}
+body.book-shoestring-nomad .cover-has-photo .cover-kicker,
+body.book-shoestring-nomad .cover-has-photo .cover-main,
+body.book-shoestring-nomad .cover-has-photo .cover-foot,
+body.book-shoestring-nomad .cover-has-photo .cover-photo-credit,
+body.book-shoestring-nomad .cover-has-photo .cover-logo-wrap {
+  position: relative;
+  z-index: 2;
+}
+body.book-shoestring-nomad .cover-photo-credit {
+  margin: 0 0 0.35rem;
+  font-size: 0.68rem;
+  letter-spacing: 0.04em;
+  text-transform: none;
+  opacity: 0.78;
+  position: relative;
+  z-index: 2;
+}
+
 @media print {
   body.book-shoestring-nomad { max-width: none; background: white; display: block; }
   body.book-shoestring-nomad .book-banner,

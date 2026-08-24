@@ -12,7 +12,8 @@ from PIL import Image, ImageDraw, ImageFont
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
-from common import ROOT, get
+from common import ROOT, get, mw_api
+from images import to_rgb
 from themes import (
     FONT_URL_FALLBACKS,
     FONT_URLS,
@@ -22,15 +23,90 @@ from themes import (
     covers_dir,
     fonts_dir,
     logos_dir,
+    photos_dir,
     write_css_files,
 )
 
-W, H = 1400, 2100
+W, H = 1480, 2100  # A5
 
 
 def hex_rgb(value: str) -> tuple[int, int, int]:
     v = value.lstrip("#")
     return int(v[0:2], 16), int(v[2:4], 16), int(v[4:6], 16)
+
+
+def fetch_cover_photo(slug: str) -> Path | None:
+    t = THEMES[slug]
+    photo = t.get("cover_photo") or {}
+    dest = photos_dir() / f"{slug}.jpg"
+    if dest.exists() and dest.stat().st_size > 8000:
+        return dest
+    dest.parent.mkdir(parents=True, exist_ok=True)
+    url = photo.get("url")
+    commons = photo.get("commons")
+    if commons:
+        data = mw_api(
+            "https://commons.wikimedia.org/w/api.php",
+            {
+                "action": "query",
+                "titles": f"File:{commons}",
+                "prop": "imageinfo",
+                "iiprop": "url",
+                "iiurlwidth": "2000",
+            },
+        )
+        for page in data.get("query", {}).get("pages", {}).values():
+            info = (page.get("imageinfo") or [None])[0]
+            if info:
+                url = info.get("thumburl") or info.get("url")
+                break
+    if not url:
+        return None
+    print(f"  photo {slug}")
+    r = get(url, timeout=120, retries=3)
+    im = to_rgb(Image.open(io.BytesIO(r.content)))
+    w, h = im.size
+    max_edge = 2000
+    if max(w, h) > max_edge:
+        scale = max_edge / max(w, h)
+        im = im.resize((max(1, int(w * scale)), max(1, int(h * scale))), Image.Resampling.LANCZOS)
+    im.save(dest, "JPEG", quality=88, optimize=True)
+    return dest
+
+
+def cover_crop(src: Image.Image, w: int, h: int, focus: tuple[float, float] = (0.5, 0.45)) -> Image.Image:
+    im = src.convert("RGB")
+    sw, sh = im.size
+    scale = max(w / max(sw, 1), h / max(sh, 1))
+    nw, nh = max(w, int(sw * scale + 0.5)), max(h, int(sh * scale + 0.5))
+    im = im.resize((nw, nh), Image.Resampling.LANCZOS)
+    fx, fy = focus
+    left = int((nw - w) * min(max(fx, 0.0), 1.0))
+    top = int((nh - h) * min(max(fy, 0.0), 1.0))
+    left = max(0, min(left, nw - w))
+    top = max(0, min(top, nh - h))
+    return im.crop((left, top, left + w, top + h))
+
+
+def wash(img: Image.Image, rgb: tuple[int, int, int], alpha: int) -> Image.Image:
+    if alpha <= 0:
+        return img.convert("RGB")
+    base = img.convert("RGBA")
+    overlay = Image.new("RGBA", base.size, (*rgb, max(0, min(alpha, 255))))
+    return Image.alpha_composite(base, overlay).convert("RGB")
+
+
+def scrim(img: Image.Image, rgb: tuple[int, int, int], start: float = 0.42) -> Image.Image:
+    base = img.convert("RGBA")
+    overlay = Image.new("RGBA", base.size, (0, 0, 0, 0))
+    d = ImageDraw.Draw(overlay)
+    w, h = base.size
+    y0 = int(h * start)
+    for y in range(y0, h):
+        t = (y - y0) / max(h - y0, 1)
+        a = int(20 + 210 * (t ** 1.15))
+        d.line([(0, y), (w, y)], fill=(*rgb, a))
+    return Image.alpha_composite(base, overlay).convert("RGB")
 
 
 def paste_logo(img: Image.Image, slug: str, *, x: int, y: int, max_h: int = 280, max_w: int = 900) -> int:
@@ -126,11 +202,18 @@ def wrap(draw: ImageDraw.ImageDraw, text: str, font, width: int) -> list[str]:
 
 def paint(slug: str, meta: dict) -> Image.Image:
     t = THEMES[slug]
-    img = Image.new("RGB", (W, H), hex_rgb(t["cover_bg"]))
+    photo_meta = t.get("cover_photo") or {}
+    photo_path = photos_dir() / f"{slug}.jpg"
+    if photo_path.exists():
+        src = Image.open(photo_path)
+        img = cover_crop(src, W, H, photo_meta.get("focus", (0.5, 0.45)))
+        img = wash(img, hex_rgb(t["cover_bg"]), int(photo_meta.get("wash", 70)))
+        img = scrim(img, hex_rgb(t["cover_bg"]), start=0.48)
+    else:
+        img = Image.new("RGB", (W, H), hex_rgb(t["cover_bg"]))
     d = ImageDraw.Draw(img)
     motif = t["motif"]
     fg = hex_rgb(t["cover_fg"])
-    accent = hex_rgb(t["accent"])
     accent2 = hex_rgb(t["accent2"])
     display = load_font(t["display_file"], 118)
     small = load_font(t.get("body_file") or t["display_file"], 36)
@@ -143,60 +226,58 @@ def paint(slug: str, meta: dict) -> Image.Image:
     logo_y = 110
     logo_h = 280
     logo_w = 720
+    y_title = 1320
+    kicker_y = 1180
 
     if motif == "hitchwiki":
         d.rectangle([0, H - 28, W, H], fill=hex_rgb("#b73327"))
-        y_title = 620
-        kicker_y = 480
+        y_title = 1380
+        kicker_y = 1240
     elif motif == "trashwiki":
-        y_title = 640
-        kicker_y = 500
         logo_h = 320
+        y_title = 1360
+        kicker_y = 1220
     elif motif == "masthead":
         d.rectangle([0, 0, W, 90], fill=accent2)
         d.rectangle([0, H - 90, W, H], fill=accent2)
-        fg = hex_rgb(t["cover_fg"])
-        y_title = 720
-        kicker_y = 560
         logo_w = 1100
         logo_h = 160
         logo_x = -1
+        logo_y = 130
+        y_title = 1400
+        kicker_y = 1260
     elif motif == "slab":
         d.rectangle([0, 0, 70, H], fill=accent2)
         display = load_font(t["display_file"], 150)
-        y_title = 720
-        kicker_y = 560
         logo_x = 130
+        y_title = 1360
+        kicker_y = 1220
     elif motif == "door":
-        d.rectangle([0, 0, W, H], fill=hex_rgb(t["bg"]))
-        d.rectangle([70, 70, W - 70, H - 70], fill=accent2)
-        d.rectangle([110, 110, W - 110, H - 110], fill=hex_rgb(t["cover_bg"]))
-        y_title = 980
-        kicker_y = 820
+        d.rectangle([0, 0, W, 70], fill=hex_rgb(t["bg"]))
+        d.rectangle([0, H - 70, W, H], fill=hex_rgb(t["bg"]))
+        d.rectangle([0, 70, W, 92], fill=accent2)
+        d.rectangle([0, H - 92, W, H - 70], fill=accent2)
         logo_x = -1
-        logo_y = 180
-        logo_h = 360
-    elif motif == "spare":
-        d.rectangle([0, 0, W, H], fill=hex_rgb(t["cover_bg"]))
-        fg = hex_rgb(t["cover_fg"])
-        y_title = 1480
+        logo_y = 140
+        logo_h = 300
+        y_title = 1420
         kicker_y = 1280
+    elif motif == "spare":
         display = load_font(t["display_file"], 88)
         logo_w = 1100
         logo_h = 220
         logo_x = 110
         logo_y = 160
+        y_title = 1480
+        kicker_y = 1340
     elif motif == "grid":
         d.rectangle([0, 0, W, 70], fill=hex_rgb("#ffdc18"))
         d.rectangle([0, H - 70, W, H], fill=hex_rgb("#ffdc18"))
-        y_title = 820
-        kicker_y = 660
-        logo_h = 360
+        logo_h = 300
         logo_x = -1
-        logo_y = 140
-    else:
-        y_title = 640
-        kicker_y = 500
+        logo_y = 120
+        y_title = 1400
+        kicker_y = 1260
 
     paste_logo(img, slug, x=logo_x, y=logo_y, max_h=logo_h, max_w=logo_w)
 
@@ -212,6 +293,10 @@ def paint(slug: str, meta: dict) -> Image.Image:
             y += 12
             d.text((110, y), line, font=small, fill=fg)
             y += 48
+    credit = photo_meta.get("author") or ""
+    lic = photo_meta.get("license") or ""
+    if credit or lic:
+        d.text((110, H - 190), f"Photo: {' · '.join(p for p in (credit, lic) if p)}", font=tiny, fill=fg)
     d.text((110, H - 140), f"books.hitchwiki.org  ·  {license_id}", font=tiny, fill=fg)
     return img
 
@@ -234,6 +319,12 @@ def main() -> None:
         except Exception as exc:
             print(f"  WARN {name}: {exc}", file=sys.stderr)
     write_css_files()
+    print("photos")
+    for slug in THEMES:
+        try:
+            fetch_cover_photo(slug)
+        except Exception as exc:
+            print(f"  WARN photo {slug}: {exc}", file=sys.stderr)
     out = covers_dir()
     out.mkdir(parents=True, exist_ok=True)
     for slug in THEMES:

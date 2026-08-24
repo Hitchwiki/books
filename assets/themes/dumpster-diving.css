@@ -309,6 +309,41 @@ body.book-dumpster-diving .cover-foot {
   letter-spacing: 0.08em;
   text-transform: uppercase;
 }
+
+body.book-dumpster-diving .cover-page.cover-has-photo {
+  min-height: 34rem;
+}
+body.book-dumpster-diving .cover-page.cover-has-photo::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  background-image:
+    linear-gradient(to top, #dcddcb 8%, #dcddcbd8 32%, #dcddcb00 62%),
+    url("covers/photo.jpg");
+  background-size: cover, cover;
+  background-position: bottom, center 42%;
+  background-repeat: no-repeat;
+  pointer-events: none;
+}
+body.book-dumpster-diving .cover-has-photo .cover-kicker,
+body.book-dumpster-diving .cover-has-photo .cover-main,
+body.book-dumpster-diving .cover-has-photo .cover-foot,
+body.book-dumpster-diving .cover-has-photo .cover-photo-credit,
+body.book-dumpster-diving .cover-has-photo .cover-logo-wrap {
+  position: relative;
+  z-index: 2;
+}
+body.book-dumpster-diving .cover-photo-credit {
+  margin: 0 0 0.35rem;
+  font-size: 0.68rem;
+  letter-spacing: 0.04em;
+  text-transform: none;
+  opacity: 0.78;
+  position: relative;
+  z-index: 2;
+}
+
 @media print {
   body.book-dumpster-diving { max-width: none; background: white; display: block; }
   body.book-dumpster-diving .book-banner,

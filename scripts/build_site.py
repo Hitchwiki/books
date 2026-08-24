@@ -76,7 +76,7 @@ def main() -> None:
         cover_html = ""
         if cover.exists():
             shutil.copy2(cover, covers_dest / f"{slug}.jpg")
-            cover_html = f'<a href="./{slug}/"><img src="./assets/covers/{slug}.jpg" alt=""></a>'
+            cover_html = f'<a class="cover" href="./{slug}/"><img src="./assets/covers/{slug}.jpg" alt=""></a>'
         logo_name = THEMES[slug].get("logo")
         if logo_name:
             src_logo = logos_dir() / logo_name

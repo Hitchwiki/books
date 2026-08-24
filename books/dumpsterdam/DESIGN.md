@@ -37,4 +37,8 @@ From dumpsterdam.nl aggregated Drupal CSS (not an invented orange):
 
 ## Applied
 
-Brick-red field, olive side bar, Trasher mark. Distinct from Trashwiki’s green-on-olive even though the dumpster drawing is shared.
+Brick-red wash over an open dumpster, olive side bar, Trasher mark. Distinct from Trashwiki’s green-on-olive even though the dumpster drawing is shared.
+
+## Cover photo
+
+[An empty, clean container from a food retailer](https://commons.wikimedia.org/wiki/File:An_empty,_clean_container_from_a_food_retailer.jpg) — PizzaToast, [CC0](https://creativecommons.org/publicdomain/zero/1.0/).

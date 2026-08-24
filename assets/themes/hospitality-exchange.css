@@ -307,6 +307,41 @@ body.book-hospitality-exchange .cover-foot {
   letter-spacing: 0.08em;
   text-transform: uppercase;
 }
+
+body.book-hospitality-exchange .cover-page.cover-has-photo {
+  min-height: 34rem;
+}
+body.book-hospitality-exchange .cover-page.cover-has-photo::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  background-image:
+    linear-gradient(to top, #edf5f1 8%, #edf5f1d8 32%, #edf5f100 62%),
+    url("covers/photo.jpg");
+  background-size: cover, cover;
+  background-position: bottom, center 32%;
+  background-repeat: no-repeat;
+  pointer-events: none;
+}
+body.book-hospitality-exchange .cover-has-photo .cover-kicker,
+body.book-hospitality-exchange .cover-has-photo .cover-main,
+body.book-hospitality-exchange .cover-has-photo .cover-foot,
+body.book-hospitality-exchange .cover-has-photo .cover-photo-credit,
+body.book-hospitality-exchange .cover-has-photo .cover-logo-wrap {
+  position: relative;
+  z-index: 2;
+}
+body.book-hospitality-exchange .cover-photo-credit {
+  margin: 0 0 0.35rem;
+  font-size: 0.68rem;
+  letter-spacing: 0.04em;
+  text-transform: none;
+  opacity: 0.78;
+  position: relative;
+  z-index: 2;
+}
+
 @media print {
   body.book-hospitality-exchange { max-width: none; background: white; display: block; }
   body.book-hospitality-exchange .book-banner,

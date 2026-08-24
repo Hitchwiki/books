@@ -43,4 +43,8 @@ Not a generic red “no money” mark. The live site is teal/cyan on light (head
 
 ## Applied
 
-Black cover with the cyan wordmark; body on light grey with teal links.
+Black wash over a wheat field from the source site, cyan wordmark; body on light grey with teal links.
+
+## Cover photo
+
+Wheat field published on [moneyless.org](https://moneyless.org/en/free-pictures) (`beautiful-sky-wheat.jpg`). Same [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) as this book.

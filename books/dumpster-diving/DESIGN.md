@@ -37,4 +37,8 @@ Trashwiki is system-ui on MonoBook. This book uses **Oswald** on the cover (shor
 
 ## Applied
 
-Olive canvas, black dumpster mark, forest-green links. No diagonal hazard stripes.
+Olive canvas over a dumpster-diving haul, black Trasher mark, forest-green links. No diagonal hazard stripes.
+
+## Cover photo
+
+[Edible food from a food retailer's container](https://commons.wikimedia.org/wiki/File:Edible_food_from_a_food_retailer%27s_container.jpg) — PizzaToast, [CC0](https://creativecommons.org/publicdomain/zero/1.0/).

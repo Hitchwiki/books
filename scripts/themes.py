@@ -31,6 +31,16 @@ THEMES: dict[str, dict] = {
         "kicker": "From Hitchwiki",
         "logo": "hitchhikers-guide.png",
         "logo_alt": "Hitchwiki",
+        "cover_photo": {
+            "commons": "Hitchhiker-Luxemburg-1977.jpg",
+            "author": "Roger McLassus",
+            "license": "CC BY-SA 3.0",
+            "page": "https://commons.wikimedia.org/wiki/File:Hitchhiker-Luxemburg-1977.jpg",
+            "caption": "Hitchhiker in Luxembourg, August 1977 — also used on hitchhiking.org",
+            "focus": (0.52, 0.38),
+            "pos": "center 28%",
+            "wash": 72,
+        },
     },
     "dumpster-diving": {
         "motif": "trashwiki",
@@ -52,6 +62,16 @@ THEMES: dict[str, dict] = {
         "kicker": "From Trashwiki",
         "logo": "dumpster-diving.png",
         "logo_alt": "Trashwiki",
+        "cover_photo": {
+            "commons": "Edible food from a food retailer's container.jpg",
+            "author": "PizzaToast",
+            "license": "CC0",
+            "page": "https://commons.wikimedia.org/wiki/File:Edible_food_from_a_food_retailer%27s_container.jpg",
+            "caption": "Edible food recovered from a food retailer's container",
+            "focus": (0.5, 0.48),
+            "pos": "center 42%",
+            "wash": 58,
+        },
     },
     "random-roads": {
         "motif": "masthead",
@@ -74,6 +94,16 @@ THEMES: dict[str, dict] = {
         "logo": "random-roads.png",
         "logo_alt": "Random Roads",
         "logo_wide": True,
+        "cover_photo": {
+            "commons": "Walker Evans Hitchhidkers Vicksburg (vicinity) March 1936.jpg",
+            "author": "Walker Evans / Farm Security Administration",
+            "license": "Public domain",
+            "page": "https://commons.wikimedia.org/wiki/File:Walker_Evans_Hitchhidkers_Vicksburg_(vicinity)_March_1936.jpg",
+            "caption": "Hitchhikers near Vicksburg, March 1936 — already on randomroads.org",
+            "focus": (0.78, 0.52),
+            "pos": "center 48%",
+            "wash": 64,
+        },
     },
     "dumpsterdam": {
         "motif": "slab",
@@ -95,6 +125,16 @@ THEMES: dict[str, dict] = {
         "kicker": "Voedselactivisme uit Amsterdam",
         "logo": "dumpsterdam.png",
         "logo_alt": "Dumpsterdam",
+        "cover_photo": {
+            "commons": "An empty, clean container from a food retailer.jpg",
+            "author": "PizzaToast",
+            "license": "CC0",
+            "page": "https://commons.wikimedia.org/wiki/File:An_empty,_clean_container_from_a_food_retailer.jpg",
+            "caption": "Open food-retail dumpster",
+            "focus": (0.5, 0.42),
+            "pos": "center 35%",
+            "wash": 96,
+        },
     },
     "hospitality-exchange": {
         "motif": "door",
@@ -116,6 +156,16 @@ THEMES: dict[str, dict] = {
         "kicker": "From Trustroots Wiki",
         "logo": "hospitality-exchange.png",
         "logo_alt": "Trustroots",
+        "cover_photo": {
+            "commons": "Namche Bazaar, Homestay, Nepal.jpg",
+            "author": "Vyacheslav Argenberg",
+            "license": "CC BY 4.0",
+            "page": "https://commons.wikimedia.org/wiki/File:Namche_Bazaar,_Homestay,_Nepal.jpg",
+            "caption": "Homestay kitchen, Namche Bazaar",
+            "focus": (0.42, 0.38),
+            "pos": "center 32%",
+            "wash": 70,
+        },
     },
     "moneyless": {
         "motif": "spare",
@@ -138,6 +188,16 @@ THEMES: dict[str, dict] = {
         "logo": "moneyless.png",
         "logo_alt": "Moneyless.org",
         "logo_wide": True,
+        "cover_photo": {
+            "url": "https://moneyless.org/sites/moneyless.org/files/beautiful-sky-wheat.jpg",
+            "author": "moneyless.org",
+            "license": "CC BY-NC-SA 4.0",
+            "page": "https://moneyless.org/en/free-pictures",
+            "caption": "Wheat field, from the moneyless.org article Free pictures",
+            "focus": (0.5, 0.58),
+            "pos": "center 55%",
+            "wash": 118,
+        },
     },
     "shoestring-nomad": {
         "motif": "grid",
@@ -159,6 +219,16 @@ THEMES: dict[str, dict] = {
         "kicker": "From Nomadwiki",
         "logo": "shoestring-nomad.png",
         "logo_alt": "Nomadwiki",
+        "cover_photo": {
+            "commons": "Tents1.jpg",
+            "author": "Sujay Kulkarni",
+            "license": "Public domain",
+            "page": "https://commons.wikimedia.org/wiki/File:Tents1.jpg",
+            "caption": "Dome tents on a shoestring campsite",
+            "focus": (0.58, 0.62),
+            "pos": "center 58%",
+            "wash": 64,
+        },
     },
 }
 
@@ -214,6 +284,10 @@ def logos_dir() -> Path:
     return ROOT / "assets" / "logos"
 
 
+def photos_dir() -> Path:
+    return ROOT / "assets" / "covers" / "photos"
+
+
 def cover_html(slug: str, meta: dict) -> str:
     t = THEMES[slug]
     title = meta.get("title", slug)
@@ -229,14 +303,23 @@ def cover_html(slug: str, meta: dict) -> str:
             f'<img class="cover-logo" src="logos/{logo}" alt="{alt}">'
             f"</p>"
         )
-    return f"""<section class="cover-page" aria-label="Cover">
+    photo_class = " cover-has-photo" if t.get("cover_photo") else ""
+    credit = ""
+    photo = t.get("cover_photo") or {}
+    if photo:
+        who = photo.get("author") or ""
+        lic = photo.get("license") or ""
+        bit = " · ".join(p for p in (who, lic) if p)
+        if bit:
+            credit = f'\n  <p class="cover-photo-credit">Photo: {bit}</p>'
+    return f"""<section class="cover-page{photo_class}" aria-label="Cover">
   {logo_html}
   <p class="cover-kicker">{t["kicker"]}</p>
   <div class="cover-main">
     <h1 class="cover-title">{title}</h1>
     <p class="cover-sub">{sub}</p>
     <p class="cover-read"><a href="#TOC">Read the book</a></p>
-  </div>
+  </div>{credit}
   <p class="cover-foot">books.hitchwiki.org · {license_id}</p>
 </section>
 """
@@ -277,6 +360,7 @@ body.book-SLUG .cover-page::after {
   position: absolute;
   left: 0; right: 0; bottom: 0;
   height: 10px;
+  z-index: 3;
   background: var(--accent2);
 }
 """,
@@ -311,9 +395,8 @@ body.book-SLUG .cover-title {
   line-height: 0.9;
 }
 body.book-SLUG .cover-page {
-  background:
-    linear-gradient(var(--accent2), var(--accent2)) left / 12px 100% no-repeat,
-    var(--cover-bg);
+  border-left: 12px solid var(--accent2);
+  box-sizing: border-box;
 }
 body.book-SLUG .cover-logo {
   background: #dcddcb;
@@ -350,6 +433,46 @@ def book_css(slug: str, *, font_prefix: str = "fonts/") -> str:
     italic = "italic" if slug in {"random-roads", "shoestring-nomad"} else "normal"
     extra = MOTIF_CSS[t["motif"]].replace("SLUG", slug)
     logo_max = "16rem" if t.get("logo_wide") else "6.2rem"
+    photo = t.get("cover_photo") or {}
+    photo_css = ""
+    if photo:
+        pos = photo.get("pos", "center")
+        bg = t["cover_bg"]
+        photo_css = f"""
+body.book-{slug} .cover-page.cover-has-photo {{
+  min-height: 34rem;
+}}
+body.book-{slug} .cover-page.cover-has-photo::before {{
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  background-image:
+    linear-gradient(to top, {bg} 8%, {bg}d8 32%, {bg}00 62%),
+    url("covers/photo.jpg");
+  background-size: cover, cover;
+  background-position: bottom, {pos};
+  background-repeat: no-repeat;
+  pointer-events: none;
+}}
+body.book-{slug} .cover-has-photo .cover-kicker,
+body.book-{slug} .cover-has-photo .cover-main,
+body.book-{slug} .cover-has-photo .cover-foot,
+body.book-{slug} .cover-has-photo .cover-photo-credit,
+body.book-{slug} .cover-has-photo .cover-logo-wrap {{
+  position: relative;
+  z-index: 2;
+}}
+body.book-{slug} .cover-photo-credit {{
+  margin: 0 0 0.35rem;
+  font-size: 0.68rem;
+  letter-spacing: 0.04em;
+  text-transform: none;
+  opacity: 0.78;
+  position: relative;
+  z-index: 2;
+}}
+"""
     drop = ""
     if slug == "random-roads":
         drop = """
@@ -642,6 +765,7 @@ body.book-{slug} .cover-foot {{
   letter-spacing: 0.08em;
   text-transform: uppercase;
 }}
+{photo_css}
 @media print {{
   body.book-{slug} {{ max-width: none; background: white; display: block; }}
   body.book-{slug} .book-banner,
@@ -717,14 +841,11 @@ body.catalog .lede {{
 }}
 .grid {{
   display: grid;
-  gap: 1.25rem;
-  grid-template-columns: repeat(2, 1fr);
+  gap: 1.5rem;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
 }}
-@media (min-width: 640px) {{
-  .grid {{ gap: 1.5rem; grid-template-columns: repeat(3, 1fr); }}
-}}
-@media (min-width: 960px) {{
-  .grid {{ gap: 1.5rem; grid-template-columns: repeat(4, 1fr); }}
+@media (min-width: 720px) {{
+  .grid {{ grid-template-columns: repeat(3, minmax(0, 1fr)); }}
 }}
 .card {{
   border: 2px solid;
@@ -741,18 +862,19 @@ body.catalog .lede {{
 }}
 .card .formats {{ position: relative; z-index: 2; }}
 .card .formats a {{ position: relative; z-index: 2; }}
-.card > a:not(.open) {{
+.card > a.cover {{
   display: block;
   flex: none;
-  line-height: 0;
-}}
-.card img {{
-  width: 100%;
-  height: auto;
   aspect-ratio: 148 / 210;
+  overflow: hidden;
+  line-height: 0;
+  background: #222;
+}}
+.card .cover img {{
+  width: 100%;
+  height: 100%;
   object-fit: cover;
   display: block;
-  background: #222;
 }}
 .card .card-body {{ padding: 0.75rem 0.85rem 0.9rem; }}
 .card h2 {{ font-size: 1.05rem; margin: 0 0 0.3rem; line-height: 1.2; }}

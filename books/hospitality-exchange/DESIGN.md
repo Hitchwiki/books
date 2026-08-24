@@ -41,4 +41,8 @@ Wiki/app stack: system-ui / Helvetica Neue. This book uses **Source Serif 4** fo
 
 ## Applied
 
-Mint canvas, Trustroots tree, teal-green links. No unrelated terracotta “hospitality” accent.
+Mint wash over a homestay kitchen, Trustroots tree, teal-green links. No unrelated terracotta “hospitality” accent.
+
+## Cover photo
+
+[Homestay, Namche Bazaar, Nepal](https://commons.wikimedia.org/wiki/File:Namche_Bazaar,_Homestay,_Nepal.jpg) — Vyacheslav Argenberg, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).

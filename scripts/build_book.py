@@ -17,7 +17,7 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from common import rewrite_html_images, wiki_image_map
 from editorial import is_omitted_chapter, is_redirect_chapter
-from themes import THEMES, cover_html, fonts_dir, logos_dir, write_css_files
+from themes import THEMES, cover_html, fonts_dir, logos_dir, photos_dir, write_css_files
 from titles import geo_src_key
 from toc import enhance_html
 
@@ -91,6 +91,11 @@ def copy_theme_assets(slug: str, html_dir: Path) -> Path | None:
             dest_logos = html_dir / "logos"
             dest_logos.mkdir(exist_ok=True)
             shutil.copy2(src_logo, dest_logos / logo_name)
+    photo = photos_dir() / f"{slug}.jpg"
+    if photo.exists():
+        dest_covers = html_dir / "covers"
+        dest_covers.mkdir(exist_ok=True)
+        shutil.copy2(photo, dest_covers / "photo.jpg")
     if cover.exists():
         shutil.copy2(cover, html_dir / "cover.jpg")
         img = html_dir / "images"

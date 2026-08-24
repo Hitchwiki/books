@@ -38,4 +38,8 @@ Wiki is system-ui. This book uses **Source Serif 4** on titles and **Source Sans
 
 ## Applied
 
-Cream canvas, yellow globe, ochre links. No steel-blue “nomad grid” invented for this repo.
+Cream wash over a campsite, yellow globe and yellow bands, ochre links. No steel-blue “nomad grid” invented for this repo.
+
+## Cover photo
+
+[Tents1.jpg](https://commons.wikimedia.org/wiki/File:Tents1.jpg) — Sujay Kulkarni, public domain.

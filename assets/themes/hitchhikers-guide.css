@@ -238,6 +238,7 @@ body.book-hitchhikers-guide .cover-page::after {
   position: absolute;
   left: 0; right: 0; bottom: 0;
   height: 10px;
+  z-index: 3;
   background: var(--accent2);
 }
 
@@ -312,6 +313,41 @@ body.book-hitchhikers-guide .cover-foot {
   letter-spacing: 0.08em;
   text-transform: uppercase;
 }
+
+body.book-hitchhikers-guide .cover-page.cover-has-photo {
+  min-height: 34rem;
+}
+body.book-hitchhikers-guide .cover-page.cover-has-photo::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  background-image:
+    linear-gradient(to top, #f7df79 8%, #f7df79d8 32%, #f7df7900 62%),
+    url("covers/photo.jpg");
+  background-size: cover, cover;
+  background-position: bottom, center 28%;
+  background-repeat: no-repeat;
+  pointer-events: none;
+}
+body.book-hitchhikers-guide .cover-has-photo .cover-kicker,
+body.book-hitchhikers-guide .cover-has-photo .cover-main,
+body.book-hitchhikers-guide .cover-has-photo .cover-foot,
+body.book-hitchhikers-guide .cover-has-photo .cover-photo-credit,
+body.book-hitchhikers-guide .cover-has-photo .cover-logo-wrap {
+  position: relative;
+  z-index: 2;
+}
+body.book-hitchhikers-guide .cover-photo-credit {
+  margin: 0 0 0.35rem;
+  font-size: 0.68rem;
+  letter-spacing: 0.04em;
+  text-transform: none;
+  opacity: 0.78;
+  position: relative;
+  z-index: 2;
+}
+
 @media print {
   body.book-hitchhikers-guide { max-width: none; background: white; display: block; }
   body.book-hitchhikers-guide .book-banner,

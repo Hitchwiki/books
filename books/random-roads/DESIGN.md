@@ -38,4 +38,8 @@ Magazine masthead: **Playfair Display** for titles, **Source Serif 4** for stori
 
 ## Applied
 
-Teal masthead bars, cream paper, zine wordmark on the cover — not a generic burgundy “literary magazine” invented for this repo.
+Walker Evans’s 1936 hitchhikers (already on the magazine site) under teal masthead bars, cream paper, white zine wordmark — not a generic burgundy “literary magazine” invented for this repo.
+
+## Cover photo
+
+[Hitchhikers near Vicksburg, March 1936](https://commons.wikimedia.org/wiki/File:Walker_Evans_Hitchhidkers_Vicksburg_(vicinity)_March_1936.jpg) — Walker Evans / Farm Security Administration, public domain. Used on [randomroads.org](https://randomroads.org/).

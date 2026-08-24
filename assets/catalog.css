@@ -36,14 +36,11 @@ body.catalog .lede {
 }
 .grid {
   display: grid;
-  gap: 1.25rem;
-  grid-template-columns: repeat(2, 1fr);
+  gap: 1.5rem;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
 }
-@media (min-width: 640px) {
-  .grid { gap: 1.5rem; grid-template-columns: repeat(3, 1fr); }
-}
-@media (min-width: 960px) {
-  .grid { gap: 1.5rem; grid-template-columns: repeat(4, 1fr); }
+@media (min-width: 720px) {
+  .grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
 }
 .card {
   border: 2px solid;
@@ -60,18 +57,19 @@ body.catalog .lede {
 }
 .card .formats { position: relative; z-index: 2; }
 .card .formats a { position: relative; z-index: 2; }
-.card > a:not(.open) {
+.card > a.cover {
   display: block;
   flex: none;
-  line-height: 0;
-}
-.card img {
-  width: 100%;
-  height: auto;
   aspect-ratio: 148 / 210;
+  overflow: hidden;
+  line-height: 0;
+  background: #222;
+}
+.card .cover img {
+  width: 100%;
+  height: 100%;
   object-fit: cover;
   display: block;
-  background: #222;
 }
 .card .card-body { padding: 0.75rem 0.85rem 0.9rem; }
 .card h2 { font-size: 1.05rem; margin: 0 0 0.3rem; line-height: 1.2; }
