@@ -1,0 +1,33 @@
+# Uganda
+
+The Republic of **Uganda** is a landlocked country in [Eastern Africa](Eastern_Africa "Eastern Africa"){.wikilink}. It is bordered on the east by [Kenya](Kenya "Kenya"){.wikilink}, on the north by [South Sudan](South_Sudan "South Sudan"){.wikilink}, on the west by the [Democratic Republic of the Congo](Democratic_Republic_of_the_Congo "Democratic Republic of the Congo"){.wikilink}, on the southwest by [Rwanda](Rwanda "Rwanda"){.wikilink}, and on the south by [Tanzania](Tanzania "Tanzania"){.wikilink}.
+
+## Hitchhiking
+
+Hitching is the main way of transportation for many Ugandans. But not for free. You are expected to pay approximately half of the bus fare for the same trip when being picked up by a truck or pickup. At little more if you want to sit inside the cabin. Taxis (the local matatu\'s: small 13-seater minibusses) are little more expensive, and are usually packed with people, goats, chicken and luggage to the point where it gets hard to breath. All the tarmac roads in the country are quite heavily traveled, except on sundays and at night. Every single vehicle that passes you with room for an extra passenger will pick you up. In three months of hitching in Uganda I never saw a car drive past me ([JeppeRobert](http://hitchwiki.org/community/members/JeppeRobert/).
+
+[Sieve](http://hitchwiki.org/en/User:Sieve) agrees to most things JeppeRobert mentioned and he also hitched around the country for 3 months covering every paved long-distance road and countless kilometers on unpaved roads in rural areas. Still, there are some disagreements. First, hitching is not the main way of transport for most Ugandans as they use matatus even in the most rural areas. Of course pick ups and trucks function as public transport as well as usual sedan cars (packed with 8 people) but that\'s not hitching. It\'s possible to hitchhike Uganda for free on the main roads with dense traffic, in the rural parts this is very challenging and you probably want to pay your share (what\'s in africa imo fair anyway) until you wait for another hour for the next car passing by. It\'s not generally half the bus fare now - it\'s usually the bus fare, and the bus fare now is approximately 700-1000UGX for each 10km, a little less if you have a rather long lift, a little more if the road is in very bad condition. Cars do pass by and don\'t stop for you even though they have space for extra people and it happens quite often, both in the countryside and on the major roads. Many cars will stop to offer you their \"special hire\" services, which is very expensive and can be annoying. Don\'t signal anything to cars you suspect to function as public transport and try to get lifts with private cars, you\'ll learn to distinct them easily, but again, it can take a while until a private car passes by, really most of the cars function as public transport, so be prepared for longer waits in the equatorial sun. I\'d say Uganda is not a good country for hitching compared to other East African countries if hitchhiking is interpretated in a western way. Especially in the north of the country you either have to bring plenty plenty plenty of time to wait for a free lift or use the trucks and pickups that will come along your way - but you\'ll have to pay. In conclusion it\'s possible to travel the entire country without using matatus, special hires or other public means but bring time!
+
+The thumbs up sign is not used in Uganda. They will think you are complimenting the awesomeness of their ride. The most used gestures to stop a vehicle is waving at the driving, pointing on the road with you index finger or (this is my favorite) clapping your hands twice, then put your hand in the air.
+
+From [Kampala](Kampala "Kampala"){.wikilink} there is four main roads. One going west towards Masindi. One north-west towards Packwach-Arua-Koboko-Sudan, one south towards Mbarara-Rwanda/Tanzania and one east towards Jinja-kenya splitting with a road going to mbale-moroto-sudan. All are very trafficked, and hitching a ride is no problem.
+
+## Legality of Hitchhiking {#legality_of_hitchhiking}
+
+*The law here has not been checked.* Nobody has yet read the road traffic rules in force in Uganda against the official text, so this section cannot tell you what they say, and nothing elsewhere on this page should be read as a statement of the law. What holds almost everywhere is that hitchhiking is not an offence in itself and that what the traffic code regulates is where a pedestrian may stand --- off the carriageway, and off motorway-class roads and their slip roads altogether --- but whether that is true here is simply unknown. Ask locally before standing on a major road, and treat the rest of this article as what hitchhikers report rather than as a rule you can rely on. If you can read the official text, please replace this paragraph with the provision it turns on and a link to it.
+
+## Mzungu hitching (a.k.a. white man\'s hitching) {#mzungu_hitching_a.k.a._white_mans_hitching}
+
+Many roads, especially around the UN depot in Entebbe and close to the borders of DR Congo and Sudan, are used by NGO\'s and UN agencies. They drive in big SUV\'s or pick up trucks, often with a huge antenna on the front. Most of them are white (UN, DED etc.) or red (ActionAid, MSF, Save the children etc.). They are usually driven by educated locals or foreign aid workers, and they are not allowed to act like a bus service, meaning they don\'t pick up locals wanting a ride. But they do pick up backpackers, and they dont charge for the service. On top of this, they are often covering huge distances. [JeppeRobert](http://hitchwiki.org/community/members/JeppeRobert/) once got a ride from Kampala all the way to Yei in Sudan by a UN worker met on a bar the night before. This can be called mzungu hitching because drivers know all white people standing alone on the side of the road are not locals. [JeppeRobert](http://hitchwiki.org/community/members/JeppeRobert/)\'s black friend, who was also a backpacker from Europe, didn\'t get the same cars to stop.
+
+## Personal Experiences {#personal_experiences}
+
+[Category:Eastern Africa](Category:Eastern_Africa "Category:Eastern Africa"){.wikilink} [Category:Africa](Category:Africa "Category:Africa"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+
+
+
+
+---
+
+Source: [Uganda](https://hitchwiki.org/en/Uganda)  
+License: CC-BY-SA-4.0
