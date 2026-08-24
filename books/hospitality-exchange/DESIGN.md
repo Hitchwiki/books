@@ -37,7 +37,7 @@ Inspired by “a house you are staying in,” not sampled from trustroots.org CS
 
 ## Applied
 
-Homestay kitchen photograph, dark warm fade, cream title, sage links. Catalog kicker is “A handbook of staying.”
+Homestay kitchen photograph, dark warm fade, cream title, sage links. Catalog kicker is the contributor estimate (“By 30+ people”).
 
 ## Cover photo
 

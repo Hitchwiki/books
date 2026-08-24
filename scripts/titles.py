@@ -156,7 +156,7 @@ WIKIS = {
         "country_categories": ["Category:Countries", "Category:Europe", "Category:Asia"],
         "book": "hospitality-exchange",
         "part_howto": "01-practice",
-        "part_country": "02-countries",
+        "part_country": "03-countries",
         "skip_title_prefixes": ("User:", "Talk:", "File:", "Template:", "Category:", "Trustroots Wiki:"),
     },
 }
@@ -893,27 +893,29 @@ def city_rank(slug: str) -> int:
 
 
 def geo_src_key(rel: Path) -> tuple:
-    """Sort key for src-relative paths: practice, then geo (Europe, then North America), then the rest."""
+    """Sort parts numerically and place chapters geographically within a countries part."""
     parts = Path(rel).parts
     top = parts[0]
     m = re.match(r"^(\d{2})", top)
     part_n = int(m.group(1)) if m else 80
     posix = "/".join(parts)
-    if top != "02-countries" and top != "02-countries.md":
+    country_parts = {"02-countries", "03-countries"}
+    country_intros = {f"{part}.md" for part in country_parts}
+    if top not in country_parts and top not in country_intros:
         return (part_n, posix)
-    if top == "02-countries.md" or len(parts) == 1:
-        return (2, -1, 0, 0, 0, "")
+    if top in country_intros or len(parts) == 1:
+        return (part_n, -1, 0, 0, 0, "")
     name = Path(parts[-1]).stem
     if name.startswith("_"):
         rid = name[1:]
-        return (2, _REGION_INDEX.get(rid, len(GEO_REGIONS)), -1, 0, 0, name)
+        return (part_n, _REGION_INDEX.get(rid, len(GEO_REGIONS)), -1, 0, 0, name)
     if len(parts) == 2:
         ri, ci = country_geo_index(name)
-        return (2, ri, ci, 0, 0, name)
+        return (part_n, ri, ci, 0, 0, name)
     country = parts[1]
     city = name
     ri, ci = country_geo_index(country)
-    return (2, ri, ci, 1, city_rank(city), city)
+    return (part_n, ri, ci, 1, city_rank(city), city)
 
 CITY_MAP_LINKS = {
     "hitchwiki": (

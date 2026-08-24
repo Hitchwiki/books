@@ -4,4 +4,3 @@ Random Roads need writers, artists and photographers to publish their work. We a
 
 ---
 
-Source: https://randomroads.org/about/your-role

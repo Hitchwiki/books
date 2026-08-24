@@ -12,4 +12,3 @@ We parted in Tilburg and we never shared names.
 
 ---
 
-Source: https://randomroads.org/story/we-never-shared-names

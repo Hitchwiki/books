@@ -1,2 +1,14 @@
 # Wiki titles, slugs, or src-relative paths to leave out of this book.
 # You can also put <!-- editorial:omit --> in the chapter.
+
+# Duplicate Drupal routes: keep the clean, non-numbered canonical copy.
+en/about-random-roads-8215.md
+en/are-you-a-designer-271.md
+en/background-258.md
+en/be-a-writer-269.md
+en/become-an-editor-270.md
+en/hitchhiking-in-reverse-navigating-the-uncharted-roads-of-adventure-100.md
+en/hitching-to-zion-361.md
+en/join-random-roads-265.md
+en/proofreaders-266.md
+en/submit-your-work-267.md

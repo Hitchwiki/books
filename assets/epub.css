@@ -5,8 +5,8 @@ body.book-hitchhikers-guide h1, body.book-hitchhikers-guide h2 { font-family: Pa
 body.book-dumpster-diving { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; color: #1f241c; }
 body.book-dumpster-diving h1, body.book-dumpster-diving h2 { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; }
 
-body.book-random-roads { font-family: Georgia, "Times New Roman", serif; color: #261c14; }
-body.book-random-roads h1, body.book-random-roads h2 { font-family: Georgia, "Times New Roman", serif; }
+body.book-random-roads { font-family: Georgia, "Times New Roman", Times, serif; color: #261c14; }
+body.book-random-roads h1, body.book-random-roads h2 { font-family: Georgia, "Times New Roman", Times, serif; }
 
 body.book-dumpsterdam { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; color: #111111; }
 body.book-dumpsterdam h1, body.book-dumpsterdam h2 { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; }

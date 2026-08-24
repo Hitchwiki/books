@@ -19,4 +19,3 @@ I didn’t care, we were going to get in his car anyway.
 
 ---
 
-Source: https://randomroads.org/story/rules-thumb-tales-road

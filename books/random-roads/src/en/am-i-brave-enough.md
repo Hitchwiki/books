@@ -9,4 +9,3 @@ It was an exciting day, I had an adventure that would stay with me for a long ti
 
 ---
 
-Source: https://randomroads.org/story/am-i-brave-enough

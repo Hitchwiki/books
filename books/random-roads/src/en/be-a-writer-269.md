@@ -4,4 +4,3 @@ Write a story, make a photo-report, share an anecdote, upload a photo, send us a
 
 ---
 
-Source: https://randomroads.org/about/be-writer

@@ -12,4 +12,3 @@ Ce soir je serais loin je la verrais enfin pour quelque heurs et tout ira bien, 
 
 ---
 
-Source: https://randomroads.org/story/neige-et-train

@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import argparse
 import datetime as dt
+import html
 import re
 import shutil
 import subprocess
@@ -15,7 +16,7 @@ import yaml
 
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from common import rewrite_html_images, wiki_image_map
+from common import github_icon_link, rewrite_html_images, wiki_image_map
 from editorial import is_omitted_chapter, is_redirect_chapter
 from themes import THEMES, cover_html, fonts_dir, logos_dir, photo_credit_markdown, photos_dir, write_css_files
 from titles import geo_src_key
@@ -40,7 +41,23 @@ def chapter_files(book: Path) -> list[Path]:
         and not is_omitted_chapter(book, p)
         and not is_redirect_chapter(book, p)
     ]
-    return sorted(files, key=lambda p: geo_src_key(p.relative_to(src)))
+    fallback = sorted(files, key=lambda p: geo_src_key(p.relative_to(src)))
+    order_path = book / "editorial" / "order.txt"
+    if not order_path.exists():
+        return fallback
+    rank: dict[str, int] = {}
+    for line in order_path.read_text(encoding="utf-8").splitlines():
+        rel = line.strip()
+        if rel and not rel.startswith("#") and rel not in rank:
+            rank[rel] = len(rank)
+    return sorted(
+        fallback,
+        key=lambda p: (
+            0 if p.relative_to(src).as_posix() in rank else 1,
+            rank.get(p.relative_to(src).as_posix(), 0),
+            geo_src_key(p.relative_to(src)),
+        ),
+    )
 
 
 def run_pandoc(defaults: Path) -> bool:
@@ -80,7 +97,7 @@ def copy_theme_assets(slug: str, html_dir: Path) -> Path | None:
         font_dest = html_dir / "fonts"
         font_dest.mkdir(exist_ok=True)
         t = THEMES.get(slug) or {}
-        for key in ("display_file", "body_file", "body_bold"):
+        for key in ("display_file", "body_file", "body_bold", "ui_file", "ui_bold"):
             name = t.get(key)
             if name and (font_src / name).exists():
                 shutil.copy2(font_src / name, font_dest / name)
@@ -168,13 +185,23 @@ def build(slug: str, version: str, formats: list[str], out: Path) -> None:
         index = html_dir / "index.html"
         if index.exists():
             html = index.read_text(encoding="utf-8")
+            title = html.escape(str(meta.get("title", slug)))
             banner = (
-                f'<header class="book-banner"><p>'
-                f'<a href="../">books.hitchwiki.org</a> · {meta.get("title", slug)} · {version}'
-                f' · <a href="#TOC">Contents</a>'
-                f' · <a href="../downloads/{slug}.epub">EPUB</a>'
-                f' · <a href="../downloads/{slug}.pdf">PDF</a>'
-                f"</p></header>\n"
+                '<header class="book-banner">'
+                '<div class="book-banner-inner">'
+                '<div class="book-banner-title">'
+                '<a class="book-banner-site" href="../">books.hitchwiki.org</a>'
+                f'<span class="book-banner-book-title">{title}</span>'
+                f'<span class="book-banner-version">{version}</span>'
+                '</div>'
+                '<nav class="book-banner-actions" aria-label="Book links">'
+                '<a href="#TOC">Contents</a>'
+                f'<a href="../downloads/{slug}.epub">EPUB</a>'
+                f'<a href="../downloads/{slug}.pdf">PDF</a>'
+                f'{github_icon_link()}'
+                '</nav>'
+                '</div>'
+                '</header>\n'
             )
             cover = cover_html(slug, meta)
             html = html.replace(

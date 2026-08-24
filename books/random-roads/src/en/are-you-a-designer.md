@@ -4,4 +4,3 @@ Do you like to make art? Do you have drawings or icons that can make this websit
 
 ---
 
-Source: https://randomroads.org/join/are-you-designer

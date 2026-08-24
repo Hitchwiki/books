@@ -4,4 +4,3 @@ After articles are proof-read they need to be selected and approved for publicat
 
 ---
 
-Source: https://randomroads.org/join/become-editor

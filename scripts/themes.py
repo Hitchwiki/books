@@ -59,7 +59,7 @@ THEMES: dict[str, dict] = {
         "body_bold": "SourceSans3-Bold.ttf",
         "fallback": '"Helvetica Neue", Helvetica, Arial, sans-serif',
         "measure": "40rem",
-        "kicker": "From Trashwiki",
+        "kicker": "By 230+ dumpster divers",
         "logo": "dumpster-diving.png",
         "logo_alt": "Trashwiki",
         "cover_photo": {
@@ -83,26 +83,26 @@ THEMES: dict[str, dict] = {
         "rule": "#d3d7d9",
         "cover_fg": "#ffffff",
         "cover_bg": "#0ca6bb",
-        "display": "Playfair Display",
-        "display_file": "PlayfairDisplay-Bold.ttf",
-        "body": "Source Serif 4",
-        "body_file": "SourceSerif4-Regular.ttf",
-        "body_bold": "SourceSerif4-Bold.ttf",
-        "fallback": 'Georgia, "Times New Roman", serif',
+        "display": "Georgia",
+        "body": "Georgia",
+        "fallback": 'Georgia, "Times New Roman", Times, serif',
+        "ui": "Open Sans",
+        "ui_file": "OpenSans-Regular.ttf",
+        "ui_bold": "OpenSans-Bold.ttf",
         "measure": "36rem",
         "kicker": "A hitchhiking zine",
         "logo": "random-roads.png",
         "logo_alt": "Random Roads",
         "logo_wide": True,
         "cover_photo": {
-            "commons": "Walker Evans Hitchhidkers Vicksburg (vicinity) March 1936.jpg",
-            "author": "Walker Evans / Farm Security Administration",
-            "license": "Public domain",
-            "page": "https://commons.wikimedia.org/wiki/File:Walker_Evans_Hitchhidkers_Vicksburg_(vicinity)_March_1936.jpg",
-            "caption": "Hitchhikers near Vicksburg, March 1936 — already on randomroads.org",
-            "focus": (0.78, 0.52),
-            "pos": "center 48%",
-            "wash": 64,
+            "commons": "Country Road Hitchhiker (Unsplash).jpg",
+            "author": "Seth Doyle",
+            "license": "CC0 1.0",
+            "page": "https://commons.wikimedia.org/wiki/File:Country_Road_Hitchhiker_(Unsplash).jpg",
+            "caption": "Country road hitchhiker, 2017",
+            "focus": (0.54, 0.5),
+            "pos": "center 45%",
+            "wash": 24,
         },
     },
     "dumpsterdam": {
@@ -183,7 +183,7 @@ THEMES: dict[str, dict] = {
         "body_bold": "SourceSerif4-Bold.ttf",
         "fallback": "Georgia, Palatino, serif",
         "measure": "38rem",
-        "kicker": "A handbook of staying",
+        "kicker": "By 30+ people",
         "cover_photo": {
             "commons": "Namche Bazaar, Homestay, Nepal.jpg",
             "author": "Vyacheslav Argenberg",
@@ -290,7 +290,8 @@ FONT_URLS = {
     "SourceSans3-Regular.ttf": "https://cdn.jsdelivr.net/gh/adobe-fonts/source-sans@3.052R/release/TTF/SourceSans3-Regular.ttf",
     "SourceSans3-Bold.ttf": "https://cdn.jsdelivr.net/gh/adobe-fonts/source-sans@3.052R/release/TTF/SourceSans3-Bold.ttf",
     "Oswald-Bold.ttf": "https://github.com/googlefonts/OswaldFont/raw/main/fonts/ttf/Oswald-Bold.ttf",
-    "PlayfairDisplay-Bold.ttf": "https://github.com/google/fonts/raw/main/ofl/playfairdisplay/PlayfairDisplay%5Bwght%5D.ttf",
+    "OpenSans-Regular.ttf": "https://cdn.jsdelivr.net/gh/googlefonts/opensans@main/fonts/ttf/OpenSans-Regular.ttf",
+    "OpenSans-Bold.ttf": "https://cdn.jsdelivr.net/gh/googlefonts/opensans@main/fonts/ttf/OpenSans-Bold.ttf",
     "IBMPlexSerif-Regular.ttf": "https://github.com/IBM/plex/raw/master/packages/plex-serif/fonts/complete/ttf/IBMPlexSerif-Regular.ttf",
     "IBMPlexSans-Regular.ttf": "https://github.com/IBM/plex/raw/master/packages/plex-sans/fonts/complete/ttf/IBMPlexSans-Regular.ttf",
     "IBMPlexSans-Bold.ttf": "https://github.com/IBM/plex/raw/master/packages/plex-sans/fonts/complete/ttf/IBMPlexSans-Bold.ttf",
@@ -298,6 +299,12 @@ FONT_URLS = {
 
 FONT_URL_FALLBACKS = {
     "Oswald-Bold.ttf": ["https://github.com/google/fonts/raw/main/ofl/oswald/Oswald%5Bwght%5D.ttf"],
+    "OpenSans-Regular.ttf": [
+        "https://github.com/googlefonts/opensans/raw/main/fonts/ttf/OpenSans-Regular.ttf"
+    ],
+    "OpenSans-Bold.ttf": [
+        "https://github.com/googlefonts/opensans/raw/main/fonts/ttf/OpenSans-Bold.ttf"
+    ],
     "IBMPlexSerif-Regular.ttf": [
         "https://github.com/IBM/plex/raw/master/IBM-Plex-Serif/fonts/complete/ttf/IBMPlexSerif-Regular.ttf"
     ],
@@ -404,8 +411,10 @@ def _font_faces(t: dict, prefix: str) -> str:
         (t["display"], t.get("display_file"), "600"),
         (t["body"], t.get("body_file"), "400"),
         (t["body"], t.get("body_bold"), "700"),
+        (t.get("ui"), t.get("ui_file"), "400"),
+        (t.get("ui"), t.get("ui_bold"), "700"),
     ):
-        if not name or (family, name) in seen:
+        if not family or not name or (family, name) in seen:
             continue
         seen.add((family, name))
         faces.append(
@@ -453,9 +462,20 @@ body.book-SLUG .cover-page {
   border-bottom: 14px solid var(--accent2);
 }
 body.book-SLUG .cover-title {
-  font-style: italic;
+  font-style: normal;
+  font-weight: 700;
+  text-transform: uppercase;
   border-bottom: 1px solid currentColor;
   padding-bottom: 0.6rem;
+}
+body.book-SLUG .cover-kicker,
+body.book-SLUG .cover-foot,
+body.book-SLUG .cover-read,
+body.book-SLUG .book-banner,
+body.book-SLUG nav#TOC,
+body.book-SLUG .toc-jump {
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-style: normal;
 }
 body.book-SLUG .cover-kicker { letter-spacing: 0.28em; }
 """,
@@ -507,8 +527,8 @@ body.book-SLUG .cover-title { font-style: italic; }
 
 def book_css(slug: str, *, font_prefix: str = "fonts/") -> str:
     t = THEMES[slug]
-    italic = "italic" if slug in {"random-roads", "shoestring-nomad"} else "normal"
-    cover_italic = "italic" if slug in {"random-roads", "shoestring-nomad", "hospitality-exchange"} else italic
+    italic = "italic" if slug in {"shoestring-nomad"} else "normal"
+    cover_italic = "italic" if slug in {"shoestring-nomad", "hospitality-exchange"} else italic
     extra = MOTIF_CSS[t["motif"]].replace("SLUG", slug)
     if t.get("logo_small"):
         logo_max, logo_max_h = "2.5rem", "2.5rem"
@@ -557,7 +577,7 @@ body.book-{slug} .photo-credit {{
         drop = """
 body.book-random-roads h1 + p::first-letter {
   float: left;
-  font-family: "Playfair Display", Georgia, serif;
+  font-family: Georgia, "Times New Roman", Times, serif;
   font-size: 3.4rem;
   line-height: 0.85;
   padding-right: 0.35rem;
@@ -576,7 +596,7 @@ body.book-{slug} {{
   --cover-fg: {t["cover_fg"]};
   --measure: {t["measure"]};
   --toc: 20rem;
-  --banner: 3.15rem;
+  --banner: 4.25rem;
   background: var(--bg);
   color: var(--fg);
   font-family: "{t["body"]}", {t["fallback"]};
@@ -601,6 +621,25 @@ body.book-{slug} h1 {{ font-size: 2.15rem; margin: 2.4rem 0 0.8rem; }}
 body.book-{slug} h2 {{ font-size: 1.45rem; margin-top: 2rem; }}
 body.book-{slug} a {{ color: var(--accent); }}
 body.book-{slug} hr {{ border: 0; border-top: 1px solid var(--rule); }}
+body.book-{slug} .chapter-heading {{
+  display: flex;
+  align-items: baseline;
+  gap: 0.75rem;
+}}
+body.book-{slug} .chapter-heading h1 {{ flex: 1 1 auto; }}
+body.book-{slug} .chapter-edit {{
+  flex: 0 0 auto;
+  color: var(--muted);
+  font-family: {t["fallback"]};
+  font-size: 0.72rem;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.03em;
+  text-decoration: none;
+  border-bottom: 1px dotted currentColor;
+}}
+body.book-{slug} .chapter-edit:hover,
+body.book-{slug} .chapter-edit:focus-visible {{ color: var(--accent); }}
 body.book-{slug} img {{ max-width: 100%; height: auto; }}
 body.book-{slug} #title-block-header {{ display: none; }}
 body.book-{slug} .visually-hidden {{
@@ -754,11 +793,87 @@ body.book-{slug} .book-banner {{
   background: {t["cover_bg"]};
   color: {t["cover_fg"]};
   margin: 0 -1.25rem 0;
-  padding: 0.85rem 1.25rem;
-  font-size: 0.82rem;
-  letter-spacing: 0.04em;
+  padding: 0.75rem 1.25rem 0.8rem;
+  font-size: 0.78rem;
+  letter-spacing: 0.03em;
+}}
+body.book-{slug} .book-banner-inner {{
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  min-height: 2.7rem;
+}}
+body.book-{slug} .book-banner-title {{
+  display: flex;
+  align-items: baseline;
+  flex: 1 1 auto;
+  min-width: 0;
+  gap: 0.7rem;
+  line-height: 1.15;
+}}
+body.book-{slug} .book-banner-site {{
+  flex: 0 0 auto;
+  color: inherit;
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  opacity: 0.72;
+  text-decoration: none;
+  text-transform: uppercase;
+}}
+body.book-{slug} .book-banner-book-title {{
+  overflow: hidden;
+  color: inherit;
+  font-family: "{t["display"]}", {t["fallback"]};
+  font-size: clamp(1.15rem, 2vw, 1.55rem);
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: -0.015em;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}}
+body.book-{slug} .book-banner-version {{
+  flex: 0 0 auto;
+  color: inherit;
+  font-size: 0.65rem;
+  opacity: 0.62;
+}}
+body.book-{slug} .book-banner-actions {{
+  display: flex;
+  align-items: center;
+  flex: 0 0 auto;
+  gap: 0.8rem;
+  white-space: nowrap;
+}}
+body.book-{slug} .book-banner-actions a {{
+  color: inherit;
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.07em;
+  text-decoration: none;
+  text-transform: uppercase;
+}}
+body.book-{slug} .book-banner-actions a:hover,
+body.book-{slug} .book-banner-actions a:focus-visible {{
+  text-decoration: underline;
 }}
 body.book-{slug} .book-banner a {{ color: inherit; text-decoration: underline; }}
+body.book-{slug} .book-banner a.github {{
+  display: inline-flex;
+  align-items: center;
+  vertical-align: -0.15em;
+  text-decoration: none;
+}}
+body.book-{slug} .book-banner a.github svg {{ width: 1.1em; height: 1.1em; display: block; }}
+@media (max-width: 40rem) {{
+  body.book-{slug} .book-banner-inner {{
+    align-items: flex-start;
+    flex-wrap: wrap;
+    gap: 0.55rem 1rem;
+  }}
+  body.book-{slug} .book-banner-title {{ width: 100%; }}
+  body.book-{slug} .book-banner-actions {{ margin-left: auto; }}
+}}
 @media (min-width: 56rem) {{
   body.book-{slug} {{
     max-width: min(100%, calc(var(--toc) + var(--measure) + 3rem));
@@ -866,6 +981,7 @@ body.book-{slug} .cover-foot {{
   body.book-{slug} {{ max-width: none; background: white; display: block; }}
   body.book-{slug} .book-banner,
   body.book-{slug} .toc-jump,
+  body.book-{slug} .chapter-edit,
   body.book-{slug} nav#TOC .toc-filter-wrap,
   body.book-{slug} nav#TOC .toc-empty {{ display: none; }}
   body.book-{slug} .book-layout {{ display: block; }}

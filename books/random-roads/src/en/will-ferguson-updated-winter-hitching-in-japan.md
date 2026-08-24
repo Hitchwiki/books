@@ -19,4 +19,3 @@ Eventually, we made it. Albeit with some difficulty and some acrobatic hostel-co
 
 ---
 
-Source: https://randomroads.org/story/will-ferguson-updated-winter-hitching-japan

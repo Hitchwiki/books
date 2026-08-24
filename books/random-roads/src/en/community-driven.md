@@ -4,4 +4,3 @@ We are a community driven magazine and only volunteers are behind everything we 
 
 ---
 
-Source: https://randomroads.org/about/community-driven

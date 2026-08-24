@@ -18,4 +18,3 @@ But if you do need to get quick money, you can find black market work. In Amster
 
 ---
 
-Source: https://randomroads.org/story/not-knowing-what-would-happen-next

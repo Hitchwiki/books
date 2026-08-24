@@ -4,6 +4,8 @@
 
 Compiled from [Trashwiki](https://trashwiki.org/), the collaborative world-wide guide to creating value from trash.
 
+More than **230** named dumpster divers have edited the pages collected here, plus anonymous edits. That is an estimate from Trashwiki’s contributor lists for this edition’s chapters, not a headcount of every account on the wiki.
+
 License: **CC-BY-NC-SA-4.0**. Non-commercial ShareAlike.
 
 This edition starts with practice (how to dive anywhere), then a geographic half (each country, with city chapters nested where Trashwiki actually has them), then websites still worth knowing, and ends by sending you out to look and back to the wiki. It does **not** include dumpster-map coordinates or named bins. Those go stale; use [dumpstermap.org](https://dumpstermap.org/) and the live wiki.

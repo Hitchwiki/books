@@ -22,4 +22,3 @@ The rolling fields tended by early morning tractors, moving off in the distance 
 
 ---
 
-Source: https://randomroads.org/story/some-journeys-thankfully-just-dont-end

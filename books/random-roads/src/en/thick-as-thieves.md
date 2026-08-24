@@ -63,4 +63,3 @@ And then falls the night. Showing stars that were never gone, only hidden for a 
 
 ---
 
-Source: https://randomroads.org/story/thick-thieves

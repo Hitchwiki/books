@@ -6,4 +6,4 @@ Tips en verhalen voor leven met minder geld, of zonder. Samengesteld uit [geldlo
 
 Licentie: **CC-BY-NC-SA-4.0**.
 
-Recensies van andermans auteursrechtelijk beschermde boeken blijven weg.
+Advertentie- en leenpagina’s blijven weg. Recensies van andermans auteursrechtelijk beschermde boeken blijven weg.

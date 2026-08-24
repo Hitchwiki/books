@@ -65,4 +65,3 @@ The story continues with http://viewsfromthebridge.org/journeys/hitchiking-serie
 
 ---
 
-Source: https://randomroads.org/story/hitching-zion-1-hitchhiker

@@ -53,4 +53,3 @@ And the best thing to come out of it all? My mind is free.
 
 ---
 
-Source: https://randomroads.org/story/slower-caveman-rolling-down-hill

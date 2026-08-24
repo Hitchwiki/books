@@ -7,4 +7,3 @@ I look forward to more of your comments and further suggestions to improve the w
 
 ---
 
-Source: https://randomroads.org/news/new-feature-postcards

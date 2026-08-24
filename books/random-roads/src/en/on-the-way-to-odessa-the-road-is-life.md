@@ -39,4 +39,3 @@ Full moon here and there. On the road and on the mountains at Rainbow. The energ
 
 ---
 
-Source: https://randomroads.org/story/way-odessa-road-life

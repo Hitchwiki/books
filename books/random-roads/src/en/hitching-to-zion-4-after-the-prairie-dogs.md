@@ -39,4 +39,3 @@ To continue see [Hitching to Zion #5: Road to Minneapolis](http://larryrussick.w
 
 ---
 
-Source: https://randomroads.org/story/hitching-zion-4-after-prairie-dogs

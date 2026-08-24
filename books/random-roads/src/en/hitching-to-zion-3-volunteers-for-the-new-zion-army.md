@@ -47,4 +47,3 @@ To continue see Hitching to [Zion #4: After the Prairie Dogs](http://randomroads
 
 ---
 
-Source: https://randomroads.org/story/hitching-zion-3-volunteers-new-zion-army

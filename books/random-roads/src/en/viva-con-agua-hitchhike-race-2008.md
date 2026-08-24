@@ -19,4 +19,3 @@ In the end our project was pretty successful: we had two great weeks of hitchhik
 
 ---
 
-Source: https://randomroads.org/story/viva-con-agua-hitchhike-race-2008

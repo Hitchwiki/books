@@ -17,4 +17,3 @@ At last, I guess that nearly all drivers who took me for just some kilometers up
 
 ---
 
-Source: https://randomroads.org/story/one-more-cup-coffee-hitchhiking-syria

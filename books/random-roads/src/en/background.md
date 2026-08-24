@@ -5,4 +5,3 @@ Ideas were floating around, a documentary-movie was made, we set up more meeting
 
 ---
 
-Source: https://randomroads.org/[vocab]/background

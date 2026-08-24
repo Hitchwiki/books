@@ -56,6 +56,25 @@ body.book-hitchhikers-guide h1 { font-size: 2.15rem; margin: 2.4rem 0 0.8rem; }
 body.book-hitchhikers-guide h2 { font-size: 1.45rem; margin-top: 2rem; }
 body.book-hitchhikers-guide a { color: var(--accent); }
 body.book-hitchhikers-guide hr { border: 0; border-top: 1px solid var(--rule); }
+body.book-hitchhikers-guide .chapter-heading {
+  display: flex;
+  align-items: baseline;
+  gap: 0.75rem;
+}
+body.book-hitchhikers-guide .chapter-heading h1 { flex: 1 1 auto; }
+body.book-hitchhikers-guide .chapter-edit {
+  flex: 0 0 auto;
+  color: var(--muted);
+  font-family: Palatino, "Palatino Linotype", Georgia, serif;
+  font-size: 0.72rem;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.03em;
+  text-decoration: none;
+  border-bottom: 1px dotted currentColor;
+}
+body.book-hitchhikers-guide .chapter-edit:hover,
+body.book-hitchhikers-guide .chapter-edit:focus-visible { color: var(--accent); }
 body.book-hitchhikers-guide img { max-width: 100%; height: auto; }
 body.book-hitchhikers-guide #title-block-header { display: none; }
 body.book-hitchhikers-guide .visually-hidden {
@@ -214,6 +233,13 @@ body.book-hitchhikers-guide .book-banner {
   letter-spacing: 0.04em;
 }
 body.book-hitchhikers-guide .book-banner a { color: inherit; text-decoration: underline; }
+body.book-hitchhikers-guide .book-banner a.github {
+  display: inline-flex;
+  align-items: center;
+  vertical-align: -0.15em;
+  text-decoration: none;
+}
+body.book-hitchhikers-guide .book-banner a.github svg { width: 1.1em; height: 1.1em; display: block; }
 @media (min-width: 56rem) {
   body.book-hitchhikers-guide {
     max-width: min(100%, calc(var(--toc) + var(--measure) + 3rem));
@@ -365,6 +391,7 @@ body.book-hitchhikers-guide .photo-credit {
   body.book-hitchhikers-guide { max-width: none; background: white; display: block; }
   body.book-hitchhikers-guide .book-banner,
   body.book-hitchhikers-guide .toc-jump,
+  body.book-hitchhikers-guide .chapter-edit,
   body.book-hitchhikers-guide nav#TOC .toc-filter-wrap,
   body.book-hitchhikers-guide nav#TOC .toc-empty { display: none; }
   body.book-hitchhikers-guide .book-layout { display: block; }

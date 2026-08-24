@@ -11,4 +11,3 @@ Tonight I am far. I will finally see her for a few hours and everything will be 
 
 ---
 
-Source: https://randomroads.org/story/trains-and-snow

@@ -13,4 +13,3 @@ I hate driving. Plus, holding the wheel had the awkward inconvenience of being l
 
 ---
 
-Source: https://randomroads.org/story/not-average-ride

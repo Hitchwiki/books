@@ -2,7 +2,12 @@
 # You can also put <!-- editorial:lock --> at the top of a chapter.
 
 00-frontmatter.md
-03-history/hospitality-club-power-and-strategy.md
-03-history/opencouchsurfing.md
-03-history/hospitalityguide-net.md
-03-software/how-the-free-networks-are-built.md
+01-practice.md
+02-networks.md
+02-networks/trustroots.md
+02-networks/couchsurfing.md
+02-networks/couchsurfing/opencouchsurfing.md
+02-networks/hospitality-club/hospitality-club-power-and-strategy.md
+02-networks/hospitalityguidenet/hospitalityguide-net.md
+02-networks/how-the-free-networks-are-built.md
+03-countries.md

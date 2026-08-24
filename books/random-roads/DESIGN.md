@@ -34,12 +34,16 @@ Cover sits the white wordmark on teal so the transparent PNG reads.
 
 ## Type
 
-Magazine masthead: **Playfair Display** for titles, **Source Serif 4** for stories (drop cap on chapter openings).
+Magazine type as on [randomroads.org](https://randomroads.org/): **Georgia** for stories and titles (the Drupal body face), **Open Sans** for chrome (kicker, banner, TOC — the Google Font the moneyless theme loads). The masthead is still the PNG wordmark, not a webfont.
 
 ## Applied
 
-Walker Evans’s 1936 hitchhikers (already on the magazine site) under teal masthead bars, cream paper, white zine wordmark — not a generic burgundy “literary magazine” invented for this repo.
+Seth Doyle’s bright 2017 country-road hitchhiker photograph under teal masthead bars, cream paper, white zine wordmark, Georgia titles. Drop cap in Georgia. Walker Evans’s 1936 hitchhikers photograph is retained as an interior historical image.
 
 ## Cover photo
 
-[Hitchhikers near Vicksburg, March 1936](https://commons.wikimedia.org/wiki/File:Walker_Evans_Hitchhidkers_Vicksburg_(vicinity)_March_1936.jpg) — Walker Evans / Farm Security Administration, public domain. Used on [randomroads.org](https://randomroads.org/).
+[Country Road Hitchhiker](https://commons.wikimedia.org/wiki/File:Country_Road_Hitchhiker_(Unsplash).jpg) — Seth Doyle, CC0 1.0.
+
+## Interior historical photo
+
+[Hitchhikers near Vicksburg, March 1936](https://commons.wikimedia.org/wiki/File:Walker_Evans_Hitchhidkers_Vicksburg_(vicinity)_March_1936.jpg) — Walker Evans / Farm Security Administration, public domain. Also used on [randomroads.org](https://randomroads.org/).

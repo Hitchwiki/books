@@ -13,12 +13,25 @@ import requests
 
 ROOT = Path(__file__).resolve().parents[1]
 CACHE = ROOT / "dumps"
+GITHUB_URL = "https://github.com/guaka/books"
+GITHUB_ICON_SVG = (
+    '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16" aria-hidden="true">'
+    '<path fill="currentColor" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27s1.36.09 2 .27c1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0 0 16 8c0-4.42-3.58-8-8-8"/>'
+    "</svg>"
+)
 USER_AGENT = (
-    "books.hitchwiki.org/0.1 (+https://github.com/guaka/books; "
+    f"books.hitchwiki.org/0.1 (+{GITHUB_URL}; "
     "compiler for CC-licensed books)"
 )
 SESSION = requests.Session()
 SESSION.headers.update({"User-Agent": USER_AGENT, "Accept": "*/*"})
+
+
+def github_icon_link() -> str:
+    return (
+        f'<a class="github" href="{GITHUB_URL}" aria-label="Source on GitHub">'
+        f"{GITHUB_ICON_SVG}</a>"
+    )
 
 
 def utc_version(prefix: str = "0.1") -> str:
@@ -58,6 +71,13 @@ def wiki_image_map(images_dir: Path) -> dict[str, str]:
 
 _IMG_SRC = re.compile(r'(<img\b)([^>]*?\bsrc=")([^"]+)(")', re.I | re.S)
 
+_WIKI_HOSTS = {
+    "hitchwiki.org",
+    "nomadwiki.org",
+    "trashwiki.org",
+    "wiki.trustroots.org",
+}
+
 
 def rewrite_html_images(html: str, mapping: dict[str, str]) -> str:
     def repl(m: re.Match[str]) -> str:
@@ -71,6 +91,20 @@ def rewrite_html_images(html: str, mapping: dict[str, str]) -> str:
         return f"{attrs}{src_out}{end}"
 
     return _IMG_SRC.sub(repl, html)
+
+
+def wiki_edit_url(url: str) -> str | None:
+    """Return a MediaWiki edit URL for the wikis compiled into these books."""
+    parsed = urlparse(url)
+    host = (parsed.hostname or "").lower().removeprefix("www.")
+    if parsed.scheme not in {"http", "https"} or host not in _WIKI_HOSTS:
+        return None
+    query = parsed.query
+    if re.search(r"(?:^|&)action=", query):
+        query = re.sub(r"(^|&)action=[^&]*", r"\1action=edit", query)
+    else:
+        query = f"{query}&action=edit" if query else "action=edit"
+    return parsed._replace(query=query, fragment="").geturl()
 
 
 def get(url: str, *, timeout: int = 60, retries: int = 4, **kwargs) -> requests.Response:

@@ -17,8 +17,6 @@ Daraa checkpoint: It is not permitted to walk across the border, and any cars go
 **Iraq borders Syria to the East.** 
 Iraq has three border checkpoints with Syria: one near the town of Abu Kamal, another near Attanf, and a third in the north-eastern corner of the country. There are good roads to travel on in the case of the first two. To enter Iraq, a visa must be purchased in advance, as visas are not obtainable on arrival at the borders.
 ---
-source: adapted from http://hitchwiki.org/en/Syria
 
 ---
 
-Source: https://randomroads.org/story/featured-country-syria

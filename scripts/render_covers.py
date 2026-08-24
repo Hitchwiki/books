@@ -167,13 +167,14 @@ def fetch_font(name: str) -> Path:
     raise RuntimeError(f"could not download {name}: {last}")
 
 
-def load_font(name: str, size: int) -> ImageFont.FreeTypeFont | ImageFont.ImageFont:
-    path = fonts_dir() / name
-    if path.exists():
-        try:
-            return ImageFont.truetype(str(path), size=size)
-        except OSError:
-            pass
+def load_font(name: str | None, size: int) -> ImageFont.FreeTypeFont | ImageFont.ImageFont:
+    if name:
+        path = fonts_dir() / name
+        if path.exists():
+            try:
+                return ImageFont.truetype(str(path), size=size)
+            except OSError:
+                pass
     for fallback in (
         "/System/Library/Fonts/Supplemental/Georgia.ttf",
         "/usr/share/fonts/truetype/dejavu/DejaVuSerif.ttf",
@@ -215,9 +216,10 @@ def paint(slug: str, meta: dict) -> Image.Image:
     motif = t["motif"]
     fg = hex_rgb(t["cover_fg"])
     accent2 = hex_rgb(t["accent2"])
-    display = load_font(t["display_file"], 118)
-    small = load_font(t.get("body_file") or t["display_file"], 36)
-    tiny = load_font(t.get("body_file") or t["display_file"], 28)
+    display = load_font(t.get("display_file") or "Georgia.ttf", 118)
+    chrome = t.get("ui_file") or t.get("body_file") or t.get("display_file") or "Georgia.ttf"
+    small = load_font(chrome, 36)
+    tiny = load_font(chrome, 28)
     title = meta.get("title", slug)
     sub = meta.get("subtitle", "")
     license_id = meta.get("license", "")

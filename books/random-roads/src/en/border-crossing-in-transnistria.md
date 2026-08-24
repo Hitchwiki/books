@@ -13,4 +13,3 @@ After around 30 minutes I got a lift from an old guy driving to the border. When
 
 ---
 
-Source: https://randomroads.org/story/border-crossing-transnistria

@@ -8,4 +8,3 @@ So far the blogs are mostly about hitchhiking, but soon we also want to add more
 
 ---
 
-Source: https://randomroads.org/news/bringing-blogs-together

@@ -12,4 +12,3 @@ Then they’re on their way. The overwhelming sense of freedom is instantaneous,
 
 ---
 
-Source: https://randomroads.org/story/miserable-hitcher

@@ -27,4 +27,3 @@ My last ride was going to Liège, which is about 20 kilometers away from my dest
 
 ---
 
-Source: https://randomroads.org/story/zoës-first-time-hitchhiking

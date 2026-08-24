@@ -31,4 +31,3 @@ We leave him and the men who look like their women and tattoos and tequila and b
 
 ---
 
-Source: https://randomroads.org/story/butterflies-invading-rabbit-holes

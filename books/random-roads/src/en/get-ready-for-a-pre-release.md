@@ -7,4 +7,3 @@ This information will also be used in the printed edition, so if you haven't upd
 
 ---
 
-Source: https://randomroads.org/news/get-ready-pre-release

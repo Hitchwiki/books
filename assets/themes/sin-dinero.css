@@ -56,6 +56,25 @@ body.book-sin-dinero h1 { font-size: 2.15rem; margin: 2.4rem 0 0.8rem; }
 body.book-sin-dinero h2 { font-size: 1.45rem; margin-top: 2rem; }
 body.book-sin-dinero a { color: var(--accent); }
 body.book-sin-dinero hr { border: 0; border-top: 1px solid var(--rule); }
+body.book-sin-dinero .chapter-heading {
+  display: flex;
+  align-items: baseline;
+  gap: 0.75rem;
+}
+body.book-sin-dinero .chapter-heading h1 { flex: 1 1 auto; }
+body.book-sin-dinero .chapter-edit {
+  flex: 0 0 auto;
+  color: var(--muted);
+  font-family: Georgia, Palatino, serif;
+  font-size: 0.72rem;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.03em;
+  text-decoration: none;
+  border-bottom: 1px dotted currentColor;
+}
+body.book-sin-dinero .chapter-edit:hover,
+body.book-sin-dinero .chapter-edit:focus-visible { color: var(--accent); }
 body.book-sin-dinero img { max-width: 100%; height: auto; }
 body.book-sin-dinero #title-block-header { display: none; }
 body.book-sin-dinero .visually-hidden {
@@ -214,6 +233,13 @@ body.book-sin-dinero .book-banner {
   letter-spacing: 0.04em;
 }
 body.book-sin-dinero .book-banner a { color: inherit; text-decoration: underline; }
+body.book-sin-dinero .book-banner a.github {
+  display: inline-flex;
+  align-items: center;
+  vertical-align: -0.15em;
+  text-decoration: none;
+}
+body.book-sin-dinero .book-banner a.github svg { width: 1.1em; height: 1.1em; display: block; }
 @media (min-width: 56rem) {
   body.book-sin-dinero {
     max-width: min(100%, calc(var(--toc) + var(--measure) + 3rem));
@@ -363,6 +389,7 @@ body.book-sin-dinero .photo-credit {
   body.book-sin-dinero { max-width: none; background: white; display: block; }
   body.book-sin-dinero .book-banner,
   body.book-sin-dinero .toc-jump,
+  body.book-sin-dinero .chapter-edit,
   body.book-sin-dinero nav#TOC .toc-filter-wrap,
   body.book-sin-dinero nav#TOC .toc-empty { display: none; }
   body.book-sin-dinero .book-layout { display: block; }

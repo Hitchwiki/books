@@ -1,2 +1,15 @@
 # Wiki titles, slugs, or src-relative paths to leave out of this book.
 # You can also put <!-- editorial:omit --> in the chapter.
+
+# Loan ads
+nl/sociale-banken.md
+
+# Drupal duplicates (same article, node-id slug). Keep the canonical path.
+nl/boek-arm-door-geld-63.md
+nl/die-andere-wereld-74.md
+nl/mark-boyle-mijn-jaar-zonder-geld-40.md
+nl/op-reis-zonder-geld-22.md
+nl/schulden-en-geen-geld-60.md
+nl/tijdschrift-genoeg-64.md
+nl/weggeefwinkel-29.md
+nl/zelf-brood-bakken-35.md

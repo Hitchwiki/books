@@ -5,4 +5,3 @@ Hitchhiking isn't the only form of traveling that we cover at Random Roads. We a
 
 ---
 
-Source: https://randomroads.org/about/basic-idea

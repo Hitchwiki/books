@@ -24,4 +24,3 @@ Interview of [Reese](/profile/r3353), by [Robino](/profile/robino). November 200
 
 ---
 
-Source: https://randomroads.org/story/when-you-are-all-whatever-it-all-clicks-together

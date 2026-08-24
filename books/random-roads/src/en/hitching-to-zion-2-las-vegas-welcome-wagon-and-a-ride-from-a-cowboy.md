@@ -70,4 +70,3 @@ To continue see Hitching to Zion #3: [Volunteers for the New Zion Army](http://r
 
 ---
 
-Source: https://randomroads.org/story/hitching-zion-2-las-vegas-welcome-wagon-and-ride-cowboy

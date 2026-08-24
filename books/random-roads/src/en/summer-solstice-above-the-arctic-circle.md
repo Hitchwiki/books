@@ -22,4 +22,3 @@ In total this trip lasted about 10 days and I crossed a great many Swedish melee
 
 ---
 
-Source: https://randomroads.org/story/summer-solstice-above-arctic-circle

@@ -5,4 +5,3 @@ Showing your driver something tangible like a traveling magazine is a great way 
 
 ---
 
-Source: https://randomroads.org/about/hitchhiking-magazine

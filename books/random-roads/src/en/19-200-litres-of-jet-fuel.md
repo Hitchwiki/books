@@ -16,4 +16,3 @@ He discussed politics and spirituality,‭ helped a woman decide what to do with
 
 ---
 
-Source: https://randomroads.org/story/19-200-litres-jet-fuel

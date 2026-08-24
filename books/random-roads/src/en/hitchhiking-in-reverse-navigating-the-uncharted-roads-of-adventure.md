@@ -14,4 +14,3 @@ As you approach that special spot, remember that it's not just about where you s
 
 ---
 
-Source: https://randomroads.org/story/hitch-hiking-reverse

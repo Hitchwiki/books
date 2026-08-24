@@ -18,4 +18,3 @@ The author [Paxus Calta-Star](/users/paxus) is organizing a tree house sustainab
 
 ---
 
-Source: https://randomroads.org/story/ten-different-captains

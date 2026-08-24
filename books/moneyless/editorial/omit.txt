@@ -1,2 +1,52 @@
 # Wiki titles, slugs, or src-relative paths to leave out of this book.
 # You can also put <!-- editorial:omit --> in the chapter.
+
+# Loan and finance ads
+en/401k-loans.md
+en/how-to-borrow-money-from-people-when-the-chips-are-down.md
+en/crowdfunding-platforms.md
+en/what-if-i-cant-pay-mortgage-because-of-coronavirus.md
+en/cant-pay-rent-because-of-covid-19.md
+en/money-transfer-to-india.md
+en/money-transfer-to-the-philippines.md
+en/bitcoin-remittance.md
+en/bitcoin-saving-account.md
+en/blockchain-advertising.md
+
+# Content-mill "make money" series (affiliate footer / payday funnel)
+en/make-money-with-paid-online-surveys.md
+en/make-money-selling-iphones-on-craigslist.md
+en/be-a-sperm-donor.md
+en/make-money-medical-testing.md
+en/make-money-renting-your-car.md
+en/make-money-with-alibaba.md
+en/make-money-ebay-sniping.md
+en/flipping-cars.md
+en/how-to-find-movie-extra-jobs.md
+en/make-money-freelance-writing.md
+en/make-money-with-translations.md
+en/make-with-with-yardsales.md
+en/how-to-write-on-the-internet.md
+
+# Ad-stuffed English rewrites (no usable original in this language)
+en/free-stuff-70.md
+en/no-money-for-food-how-to-get-free-food-76.md
+
+# Drupal duplicates: leftover Dutch (or worse English). Keep the English translation.
+en/about-moneylessorg.md
+en/bake-your-own-bread.md
+en/bartering.md
+en/book-moneyless-manifesto.md
+en/book-steps-towards-inner-peace.md
+en/camping-with-no-money.md
+en/dutch-magazines-mosquito-enough-happy.md
+en/find-edible-plants.md
+en/free-stuff.md
+en/living-moneyless-mark-boyle.md
+en/money-economy.md
+en/not-buying-anything-for-one-year.md
+en/pregnant-and-no-money.md
+en/privacy.md
+en/share-stuff.md
+en/social-money.md
+en/use-a-sewing-machine.md

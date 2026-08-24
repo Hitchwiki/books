@@ -5,4 +5,3 @@ We will be in need for funding. We want to be able to give the magazine away on 
 
 ---
 
-Source: https://randomroads.org/about/printed-magazine

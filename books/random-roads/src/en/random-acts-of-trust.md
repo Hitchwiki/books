@@ -19,4 +19,3 @@ A polite request. An awkward decline. The resignation of a young woman that she 
 
 ---
 
-Source: https://randomroads.org/story/random-acts-trust

@@ -16,4 +16,3 @@ I know she will go back home, after this new adventure, playing with stories and
 
 ---
 
-Source: https://randomroads.org/story/one-day-i-will-go-malmo

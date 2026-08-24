@@ -22,4 +22,3 @@ Leaving tomorrow by thumb to Ankara.
 
 ---
 
-Source: https://randomroads.org/story/train-thoughts-catching-letting-go

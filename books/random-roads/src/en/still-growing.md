@@ -7,4 +7,3 @@ Get on the [e-maillist](http://lists.freeactive.net/listinfo.cgi/randomroads-fre
 
 ---
 
-Source: https://randomroads.org/news/still-growing

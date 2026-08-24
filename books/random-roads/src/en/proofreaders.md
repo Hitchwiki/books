@@ -4,4 +4,3 @@ Every story that gets submitted will show up straight on the website. But for th
 
 ---
 
-Source: https://randomroads.org/join/proofreaders

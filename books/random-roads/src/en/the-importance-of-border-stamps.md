@@ -17,4 +17,3 @@ That night ended at a train station though, where we took turns sleeping, with t
 
 ---
 
-Source: https://randomroads.org/story/importance-border-stamps

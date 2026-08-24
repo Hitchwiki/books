@@ -18,4 +18,3 @@ Que tengan un buen viaje y nos vemos en la ruta
 
 ---
 
-Source: https://randomroads.org/story/going-north-chile

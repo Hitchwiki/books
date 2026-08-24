@@ -7,4 +7,3 @@ Currently we are also enabling better photo-reports and a new section on postcar
 
 ---
 
-Source: https://randomroads.org/news/first-publication-coming-soon

@@ -5,4 +5,3 @@ Interested in submitting your work? [Create an account](/user/register) or [cont
 
 ---
 
-Source: https://randomroads.org/about/submit-your-work

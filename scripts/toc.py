@@ -7,9 +7,13 @@ import re
 from collections import defaultdict
 from pathlib import Path
 
+from common import github_icon_link, wiki_edit_url
+
 PART_LABELS = {
     "01-practice": "Practice",
     "02-countries": "Places",
+    "02-networks": "Networks",
+    "03-countries": "Places",
     "03-history": "History",
     "03-resources": "Resources",
     "03-software": "Software",
@@ -24,6 +28,7 @@ PART_LABELS = {
 
 GAZETTEER = {
     "02-countries",
+    "03-countries",
     "03-stories",
     "en",
     "nl",
@@ -34,6 +39,10 @@ GAZETTEER = {
 HEADING = re.compile(r"^# (.+)$", re.M)
 INTRO_STEM = re.compile(r"^\d{2}-")
 ATTR = re.compile(r"\s*\{[^}]*\}\s*$")
+SOURCE_LINK = re.compile(
+    r"^Source:\s*(?:\[[^]]+\]\((https?://[^)\s]+)\)|<?(https?://[^>\s]+)>?)",
+    re.I | re.M,
+)
 H1_RE = re.compile(r"<h1\b([^>]*)>(.*?)</h1>", re.I | re.S)
 NAV_RE = re.compile(r"<nav id=\"TOC\"[^>]*>.*?</nav>\s*", re.I | re.S)
 QUOTES = str.maketrans(
@@ -63,6 +72,13 @@ def chapter_title(path: Path) -> str:
     m = HEADING.search(text)
     title = m.group(1).strip() if m else path.stem.replace("-", " ").title()
     return ATTR.sub("", title).strip()
+
+
+def chapter_edit_url(path: Path) -> str | None:
+    match = SOURCE_LINK.search(path.read_text(encoding="utf-8"))
+    if not match:
+        return None
+    return wiki_edit_url(match.group(1) or match.group(2))
 
 
 def is_part_intro(src: Path, path: Path) -> bool:
@@ -141,6 +157,7 @@ def toc_entries(chapters: list[Path], doc: str, src: Path) -> list[dict]:
                 "region": path.stem.startswith("_"),
                 "parent": parent,
                 "slug": path.stem,
+                "edit_url": chapter_edit_url(path),
             }
         )
     return entries
@@ -409,8 +426,37 @@ def wrap_body(html_doc: str, toc: str) -> str:
                     f' · <a href="../downloads/{slug}.pdf">PDF</a>'
                 )
                 text = text.replace("</p></header>", extra + "</p></header>", 1)
+        if 'class="github"' not in text:
+            text = text.replace(
+                "</p></header>",
+                f" · {github_icon_link()}</p></header>",
+                1,
+            )
         if text != banner.group(0):
             html_doc = html_doc.replace(banner.group(0), text, 1)
+    return html_doc
+
+
+def add_chapter_edit_links(html_doc: str, entries: list[dict]) -> str:
+    for entry in entries:
+        edit_url = entry.get("edit_url")
+        if not edit_url:
+            continue
+        heading_id = re.escape(entry["href"])
+        pattern = re.compile(
+            rf'<h1(?P<attrs>\b[^>]*\bid="{heading_id}"[^>]*)>(?P<body>.*?)</h1>',
+            re.I | re.S,
+        )
+        href = html.escape(edit_url, quote=True)
+        title = html.escape(entry["title"], quote=True)
+        replacement = (
+            '<div class="chapter-heading">'
+            r'<h1\g<attrs>>\g<body></h1>'
+            f'<a class="chapter-edit" href="{href}" '
+            f'aria-label="Edit {title} on the wiki">Edit on wiki</a>'
+            '</div>'
+        )
+        html_doc = pattern.sub(replacement, html_doc, count=1)
     return html_doc
 
 
@@ -419,4 +465,5 @@ def enhance_html(html_doc: str, chapters: list[Path], src: Path) -> str:
     expected = sum(1 for p in chapters if not p.name.startswith("00-frontmatter"))
     if len(entries) != expected:
         print(f"  toc: matched {len(entries)}/{expected} chapters", flush=True)
+    html_doc = add_chapter_edit_links(html_doc, entries)
     return wrap_body(html_doc, render_toc(entries))

@@ -6,4 +6,4 @@ Consejos e historias para vivir con menos dinero, o sin él. Compilado de [sindi
 
 Licencia: **CC-BY-NC-SA-4.0**.
 
-Las reseñas de libros ajenos con copyright se omiten.
+Las páginas de créditos, préstamos y publicidad se omiten. Las reseñas de libros ajenos con copyright se omiten.

@@ -37,7 +37,7 @@ Trashwiki is system-ui on MonoBook. This book uses **Oswald** on the cover (shor
 
 ## Applied
 
-Olive canvas over a dumpster-diving haul, black Trasher mark, forest-green links. No diagonal hazard stripes.
+Olive canvas over a dumpster-diving haul, black Trasher mark, forest-green links. Kicker is the contributor estimate (“By 230+ dumpster divers”), not “From Trashwiki.” No diagonal hazard stripes.
 
 ## Cover photo
 

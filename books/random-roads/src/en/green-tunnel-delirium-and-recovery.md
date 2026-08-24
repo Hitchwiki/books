@@ -15,4 +15,3 @@ On the morning we drink api, a hot drink made of corn, sugar and cinnamon. I wan
 
 ---
 
-Source: https://randomroads.org/story/green-tunnel-delirium-and-recovery

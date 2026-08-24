@@ -4,4 +4,3 @@ We want your content, your stories! We want hitchhiking stories, about the cultu
 
 ---
 
-Source: https://randomroads.org/join/join-random-roads

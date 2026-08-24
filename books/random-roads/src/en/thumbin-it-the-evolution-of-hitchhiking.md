@@ -6,6 +6,11 @@ With his thumb pointed skyward, saying ‘no’ would be an insult to the speake
 In his 22 years, Keenan Recker had heard enough gruesome campfire stories to know the fate of hapless hitchhikers. He imagined the horrors in store should he join this stranger. Torture. Decapitation. Ritual sacrifice.
 “Be dark bout’n hour or two,” offered the grizzly. Keenan looked at the horizon, looked at his watch, and opened the car door.
 The act of bumming a ride has existed ever since people discovered modes of transportation superior to ambulation. The history of the word ‘hitchhike’, however, is as bewildering as the identity of those who pioneered the tradition.
+
+![Two hitchhikers near Vicksburg, Mississippi, March 1936.](walker-evans-hitchhikers.jpg)
+
+*Walker Evans / Farm Security Administration. Public domain.*
+
 One popular, though highly disputed, theory traces these origins to the 18th century. In 1737, David Garrick and Samuel Johnson completed a 150 mile journey with only one horse between the two of them. Because of this transportation constraint, they were forced to devise a system that wouldn’t overburden the creature.
 They concluded that one man would ride a certain distance, hitch the steed to a tree and begin hiking, thereby allowing his companion—once he reached the horse—the opportunity for a restful ride before switching off again. This practice was likely as old as the domestication of horses, but Garrick and Johnson were the first recorded travelers to employ the method.
 Though delightfully quaint, many etymologists find this anecdote too tailored to be true. The journey itself is not doubted, but its direct connection to the word ‘hitchhiker’ certainly is.
@@ -26,4 +31,3 @@ Though a cultural emphasis on technology has upgraded our generation to hitchhik
 
 ---
 
-Source: https://randomroads.org/story/thumbin-it-evolution-hitchhiking

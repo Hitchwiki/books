@@ -31,4 +31,3 @@ by Lauren Williams
 
 ---
 
-Source: https://randomroads.org/story/hitchhiking-blazing-path-life

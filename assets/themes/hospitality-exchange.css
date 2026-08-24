@@ -56,6 +56,25 @@ body.book-hospitality-exchange h1 { font-size: 2.15rem; margin: 2.4rem 0 0.8rem;
 body.book-hospitality-exchange h2 { font-size: 1.45rem; margin-top: 2rem; }
 body.book-hospitality-exchange a { color: var(--accent); }
 body.book-hospitality-exchange hr { border: 0; border-top: 1px solid var(--rule); }
+body.book-hospitality-exchange .chapter-heading {
+  display: flex;
+  align-items: baseline;
+  gap: 0.75rem;
+}
+body.book-hospitality-exchange .chapter-heading h1 { flex: 1 1 auto; }
+body.book-hospitality-exchange .chapter-edit {
+  flex: 0 0 auto;
+  color: var(--muted);
+  font-family: Georgia, Palatino, serif;
+  font-size: 0.72rem;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.03em;
+  text-decoration: none;
+  border-bottom: 1px dotted currentColor;
+}
+body.book-hospitality-exchange .chapter-edit:hover,
+body.book-hospitality-exchange .chapter-edit:focus-visible { color: var(--accent); }
 body.book-hospitality-exchange img { max-width: 100%; height: auto; }
 body.book-hospitality-exchange #title-block-header { display: none; }
 body.book-hospitality-exchange .visually-hidden {
@@ -214,6 +233,13 @@ body.book-hospitality-exchange .book-banner {
   letter-spacing: 0.04em;
 }
 body.book-hospitality-exchange .book-banner a { color: inherit; text-decoration: underline; }
+body.book-hospitality-exchange .book-banner a.github {
+  display: inline-flex;
+  align-items: center;
+  vertical-align: -0.15em;
+  text-decoration: none;
+}
+body.book-hospitality-exchange .book-banner a.github svg { width: 1.1em; height: 1.1em; display: block; }
 @media (min-width: 56rem) {
   body.book-hospitality-exchange {
     max-width: min(100%, calc(var(--toc) + var(--measure) + 3rem));
@@ -357,6 +383,7 @@ body.book-hospitality-exchange .photo-credit {
   body.book-hospitality-exchange { max-width: none; background: white; display: block; }
   body.book-hospitality-exchange .book-banner,
   body.book-hospitality-exchange .toc-jump,
+  body.book-hospitality-exchange .chapter-edit,
   body.book-hospitality-exchange nav#TOC .toc-filter-wrap,
   body.book-hospitality-exchange nav#TOC .toc-empty { display: none; }
   body.book-hospitality-exchange .book-layout { display: block; }

@@ -8,4 +8,3 @@ For more information, see the [draft manifesto](http://hitchwiki.org/en/Random_R
 
 ---
 
-Source: https://randomroads.org/news/free-fall-travel-nomadic-culture

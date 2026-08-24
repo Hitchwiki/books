@@ -1,2 +1,22 @@
 # Wiki titles, slugs, or src-relative paths to leave out of this book.
 # You can also put <!-- editorial:omit --> in the chapter.
+
+# Credit / loan ads
+es/el-acceso-de-créditos-en-españa.md
+es/situación-crediticia-en-méxico.md
+es/american-dream-o-el-sueño-americano.md
+
+# Drupal duplicates: leftover Dutch/English. Keep the Spanish translation.
+es/acerca-de-sindineronet.md
+es/buscando-plantas-comestibles.md
+es/compartir-cosas.md
+es/consejos-para-buscar-en-un-basurero.md
+es/economía-monetaria.md
+es/ingreso-básico-113.md
+es/libro-pasos-hacia-la-paz-interior.md
+es/no-dinero.md
+es/personas-haciendo-trueque.md
+es/privacy.md
+es/redes-de-intercambio-de-hospitalidad-117.md
+es/usar-una-máquina-de-coser.md
+es/vivir-en-una-tienda-de-campaña.md
