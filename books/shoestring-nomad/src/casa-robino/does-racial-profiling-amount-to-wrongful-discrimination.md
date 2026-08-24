@@ -1,0 +1,7 @@
+# Does racial profiling amount to wrongful discrimination?
+
+This is the essay title i am currently working on and in my research i have uncovered some horrifying facts. For example, sections 44 and 45 of the Terrorism Act 2000 allow police to stop and search individuals or vehicles "whether or not the constable has grounds for suspecting the presence of articles of that kind", here articles of that kind is defined as "articles of a kind which could be used in connection with terrorism" HA! What would they consider those to be?! Using this piece of legislation a uniformed police officer in England can search you and all of your belongings and even "headgear, footwear, an outer coat, a jacket or gloves" for no reason at all. This legislation has been deemed by the Strasbourg Court to go against article 8 of the Human Rights act, the right to private and family life, yet it is still being used! This law is used by the police to display openly racist behaviour as they are now able to target potential terrorists based on nothing but individual prejudices. Through this legislation ethnic minorities are openly linked to criminal behaviour and stigmatised by the public. Unfortunately the only thing i can do for now is vent my frustration through my essays, but mark my words, one day i will be qualified and i will be doing everything i can to stop those in power from abusing it further.
+
+---
+
+Source: https://casarobino.org/2010/03/does-racial-profiling-amount-wrongful-discrimination

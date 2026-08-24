@@ -1,0 +1,15 @@
+# 789 angel
+
+yes, finally i will wright something about the 789project, i tried before but the computer unplugged half way through and i didnt have anything saved.
+well there is so much to tell about so i just want to narrow it down to one man who picked me up in ukraine, getting there and back is a big part about what the gathering was about.
+so i was on the ring road outside l'viv, it was getting dark and was poring rain and i knew it would be a cold night. i thought the best thing to do was to keep hitching and maybe get a truck driving into poland.
+i had my harmonica blowing and was humming some words like 'send me an angel'. a few min later my 7th ride back home pulled up, he spoke english as much as i speak russian so communication was fun, i dig that stuff. i showed him on the map where we were headed and he was going that direction to his village about 20km from the polish border. we were rolling and the rain was coming down hard. he asked where we would sleep, i said at a gas station so we could have a roof to go under. he was an angel so he invited us to his house to sleep, gladly i said yes and thanks.
+we pulled up a mud road to his house where we met his family who were surprised to see us of course. he also invited his neighbours over because one could speak good english.
+this mans house was great, he set us up in our own huge room with a table on which he loaded too much food to eat, even though his family had already eaten. along with the food was drinks, wine, beer and 7 or 8 vodka shots which he made us drink continuously, there was no refusing allowed. i was really digging getting drunk with these people, we were very interested in each other. with the help of his neighbour we learned a lot about each other and laughed while the thunder and lightning crashed outside and knocked out the power, with candles lit he insisted i play them a song on my guitar. that night i slept beautifully (vodka helped) and in the morning was the same thing, he laid the table with way to much food to possibly finish and another beer with 2 vodka shots. he wanted to give me a pair of shoes but i said no because i didnt need them. after a shower and exchanging addresses he gave us a ride before he went to work, 20km out of his way to the polish border. we said our goodbyes and i shook his hand, then he tried to give me 50euro, i had to refuse, he already did too much for us and that is a lot of money in ukraine. my mother wouldnt even give me that much money. i got out and closed the door and he got out and came around the car and put the money in my pocket, i went to reach for it and he held my arm, he wouldnt let me refuse it.
+man, i was very close to tears as he was driving away.
+i hear from lots of people that i should be crazy for hitchhiking so much and anything terrible could happen. i know i would never have met this family and felt their kindness if i didnt hitchhike.they brightened my already existing faith in the good people of our world and that is just one of the 37 rides i had in those 2 weeks.
+we are the majority!!!
+
+---
+
+Source: https://casarobino.org/2009/08/789-angel

@@ -1,0 +1,16 @@
+# Casa Bike Locks
+
+**Casa bike locks are old and tricky.** So far, though, every one I've tried has a trick to getting it open, quickly and reliably. Even if you've already read this, feel free to ask me or someone else who's read this or been shown these tricks - sometimes a personal demonstration helps, too. Enjoy:
+There are two common **tricky points **that make casa locks confusing...
+1) sometimes twisting the *key* doesn't actually "unlock" the lock (the key doesn't do anything unless you twist it in just the right way), and
+2) sometimes, even when the lock is "unlocked" on the inside, the *clasp* is still closed and won't "open" easily because it is sticky or just needs to be jiggled. (note my usage difference between "unlock" and "open")
+It is usually unclear, while using a lock, whether #1 (*the key*) or #2 (*the clasp*) is the problem at any given time, make it difficult to know what to do to open the lock.
+**Some tips** to figuring out a particular lock...
+If you're going to use a lock more than one time, take a minute to figure out how the key works in it. This is done easiest in daylight or with a "torch" as people seem to call flashlights around here. The first time you get the lock open (with the clasp out/off/undone), leave it open and look inside the body of the lock while playing with the key. By looking inside the lock, you can see the piece(s) that hold(s) the lock closed, and you can see when they move (or can move) out of the way and when they don't/can't, based on how you move the key. The next time you want to open (or close) the lock, you will know how to turn the key to open the lock and then jiggle the clasp.
+**An example for each type** of tricky point...
+2) (The clasp is the primary problem) Anarco's lock (the black and red bike, key has an A in a circle taped to it): If you manage to twist the key around until it stops, you have opened the lock. This is not true of all casa locks and is significant, so I write again, if you manage to twist the key around until it stops, you have opened the lock. So first jiggle the key and twist until it turns clockwise. The key will come to rest in the same position as you inserted it (parallel to the body of the lock), but you won't be able to remove it. Now the clasp is sometimes sticky. Push it in and jiggle it and pull it out. To relock it is easier - just insert the clasp, twist and jiggle the key, remove the key, and it's locked. With these tips and a minute of practice, this lock is openable within 10 seconds.
+1) (The key is the primary problem) The key with the solid green tag is the opposite of Anarco - once the lock is "unlocked", the lock just falls open, so the whole trick is knowing how to twist the key to actually affect the lock. The problem here is that the key just keeps turning and turning and it's not clear why. Easiest, again, is to open it once and then play with the key while watching the inside of the lock to see how it works. In case it helps, holding the end of the chain \*into\* the lock while pushing the key in and twisting \*clockwise\* will unlock it. Holding the end of the chain into the lock while pushing the key in and twisting \*counter-clockwise\* will lock it.****
+
+---
+
+Source: https://casarobino.org/2010/04/casa-bike-locks

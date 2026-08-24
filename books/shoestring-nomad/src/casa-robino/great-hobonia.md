@@ -1,0 +1,10 @@
+# Great Hobonia
+
+Great Hobonia is an independent country without any defined borders and without hierarchies or leaders. It is situated in the south end of the Balkans, and is circled by Greece. It aims to be a sustainable community of open-minded people, who choose to live a rural anarchist life. The number of inhabitants varies between 0 and 15. We have some infrastructure that we are working with and we are trying to improve what we already have and expand as and when necessary to reach the ultimate goal of complete self-sustainability. There is a bricks and mortar house, a similar warehouse, a total of 12 acres of land (of which we are only using 1 currently), 3 motor vehicles (2 that can be lived in), a caravan (that can be lived in), a shed, 3 bicycles and several parts for building more, a recording studio (still in boxes, waiting to be set up), way too many musical instruments, a workshop for vehicles, metalworking, woodworking, electronics, some basic farming equipment, firewood chopping equipment, and probably more that I'm forgetting. We mainly use wood for heating, we try to establish permaculture gardens, and retreat from all addictions of modern capitalist life. We don't have direct access to the internet, but there is internet access hotspots nearby for the recovering addicts. But we are working on having a HoboNet instead of the internet, kind of redesigning the whole concept so that it cannot be hijacked or censored.
+We have experimented with many different ways of accepting guests or long-term residents, without too much success. We need a better way of filtering out people who are not yet ready to live that kind of life, or people who exploit what is on offer for their personal gain without any regard for community life.
+At present we have a couchsurfing profile, which is less than ideal for that kind of thing, and we also use email a lot and face-to-face communication.
+I thought that this might be of interest to many Casaists, so if you're interested, if you would like to know more, or if you would like to come over, please do contact me.
+
+---
+
+Source: https://casarobino.org/2011/12/great-hobonia
