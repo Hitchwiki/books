@@ -14,7 +14,7 @@ Also, keep in mind that according to Transnistrian rules you have to register at
 
 ## Personal Experiences {#personal_experiences}
 
-[ ](Category:Moldova " "){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+  
 
 ---
 

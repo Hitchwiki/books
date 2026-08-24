@@ -14,7 +14,7 @@ Within the [EU](EU "EU"){.wikilink} things are fairly well organized, but not to
 - [Money supermarket](http://www.moneysupermarket.com/travel-insurance/)
 - [Compare the Market](http://www.comparethemarket.com/travel-insurance/)
 
-[Category:Money](Category:Money "Category:Money"){.wikilink}
+
 
 ---
 

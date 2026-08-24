@@ -188,7 +188,7 @@ i obtained my visa in Hong Kong (UK nationals can get it here due to 6 months vi
 - [Russian](http://ru_autostop.livejournal.com) hitchhiking communities., but you can ask questions and get replies in
 - [Hitchhiking in the Russian far east](http://takemeeast.blogspot.com/search/label/russia)
 
-[ ](Category:Russia " "){.wikilink} [Category:Eastern Europe](Category:Eastern_Europe "Category:Eastern Europe"){.wikilink} [Category:Asia](Category:Asia "Category:Asia"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+    
 
 ---
 

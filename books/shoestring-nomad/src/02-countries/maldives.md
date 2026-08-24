@@ -1,6 +1,6 @@
 # Maldives
 
-[Category:Island](Category:Island "Category:Island"){.wikilink}
+
 
 ---
 

@@ -12,7 +12,7 @@ You can hitch at the entrance of the bridge going to the Immigration building on
 
 ## Personal Experiences {#personal_experiences}
 
-[Category:China](Category:China "Category:China"){.wikilink} [Category:Asia](Category:Asia "Category:Asia"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+   
 
 ---
 

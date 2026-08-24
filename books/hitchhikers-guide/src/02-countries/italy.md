@@ -105,7 +105,7 @@ For detailed information on speaking Italian check the [Italian phrasebook](Sout
 
 \[\[Category:Italy\]
 
-[Category:Southern Europe](Category:Southern_Europe "Category:Southern Europe"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+  
 
 ---
 

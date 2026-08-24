@@ -95,7 +95,7 @@ Courtyards: A courtyard might have several building doors that it can be accesse
 
 - Ring the buzzer: Sometimes one of the doorbells for the building is a company, business or a practice(doctor, dentist). Sometimes ringing those doorbells automatically opens the door. Other times you have to wait a bit and they open the door for you like for a client. You can also ring other doorbells and depending on your language level say that you are delivering advertising or just hope they don\'t ask who it is and just buzz you in.
 
-[Category:General info](Category:General_info "Category:General info"){.wikilink} [Category:Dumpster diving](Category:Dumpster_diving "Category:Dumpster diving"){.wikilink}
+ 
 
 ![Sulo_dumpster.jpeg](../../images/sulo_dumpsterjpeg.jpg)
 

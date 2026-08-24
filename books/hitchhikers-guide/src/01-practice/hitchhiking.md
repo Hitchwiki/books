@@ -28,7 +28,7 @@ There are [several types of hitchhiking](Hitchable_vehicles "several types of hi
 
 Please check [Wikipedia\'s article for more encyclopaedic information about hitchhiking](http://en.wikipedia.org/wiki/Hitchhiking).
 
-[Category:General info](Category:General_info "Category:General info"){.wikilink}
+
 
 ---
 

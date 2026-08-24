@@ -56,7 +56,7 @@ Dumpster diving is not illegal. Though people might tell you it is, because they
 
 <references />
 
-[Category:General info](Category:General_info "Category:General info"){.wikilink} [Category:Dumpster diving](Category:Dumpster_diving "Category:Dumpster diving"){.wikilink}
+ 
 
 [^1]: \"Dumpster Diving.\" Wikipedia. <http://en.wikipedia.org/wiki/Dumpster_diving#Legal_status> Retrieved 22 July 2011.
 

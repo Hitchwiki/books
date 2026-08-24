@@ -30,7 +30,7 @@ From Timor-Leste to Indonesia When you arrive at the border, if you are European
 
 ## Personal Experiences {#personal_experiences}
 
-[Category:East Timor](Category:East_Timor "Category:East Timor"){.wikilink} [Category:Asia](Category:Asia "Category:Asia"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+   
 
 ---
 

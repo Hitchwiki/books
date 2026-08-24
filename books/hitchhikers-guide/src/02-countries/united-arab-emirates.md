@@ -75,7 +75,7 @@ Update: I see others are curious about the ferry from Bandar Abbas to Sharjah. I
 
 ## Links
 
-[Category:Western Asia](Category:Western_Asia "Category:Western Asia"){.wikilink} [Category:Middle East](Category:Middle_East "Category:Middle East"){.wikilink} [Category:East Route from North Cape to Cape of Good Hope](Category:East_Route_from_North_Cape_to_Cape_of_Good_Hope "Category:East Route from North Cape to Cape of Good Hope"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink}
+   
 
 ---
 

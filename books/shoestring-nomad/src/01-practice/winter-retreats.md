@@ -26,7 +26,7 @@ Very nice weathers, probably one of the warmest spots in EU during the winter. S
 
 The Azores are a group of several volcanic islands situated in the middle of the Atlantic, owned by Portugal - more correctly, they are a distanced autonomous region of Portugal.
 
-[Category:Accommodation](Category:Accommodation "Category:Accommodation"){.wikilink} [Category:Guides](Category:Guides "Category:Guides"){.wikilink} [Category:Nomadbase](Category:Nomadbase "Category:Nomadbase"){.wikilink}
+  
 
 ---
 

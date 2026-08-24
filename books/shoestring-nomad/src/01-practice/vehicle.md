@@ -107,7 +107,7 @@ Suitable wild camping areas
 - If you have to run your engine to charge your leisure batteries, do so during the day, and not at night or early morning.
 - Don\'t ever use a generator, as they are noisy and everyone will hear it. If you need mains electricity then you probably need a campsite.
 
-[Category:Transport](Category:Transport "Category:Transport"){.wikilink} [Category:Accommodation](Category:Accommodation "Category:Accommodation"){.wikilink}
+ 
 
 ---
 

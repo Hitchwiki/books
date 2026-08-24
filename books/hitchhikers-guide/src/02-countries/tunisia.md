@@ -61,7 +61,7 @@ Out of the thirty countries [JanV](User:JanV "JanV"){.wikilink} has hitchhiked T
 </div>
 </div>
 
-[Category:Northern Africa](Category:Northern_Africa "Category:Northern Africa"){.wikilink} [Category:Africa](Category:Africa "Category:Africa"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+   
 
 ---
 

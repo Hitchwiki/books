@@ -1461,7 +1461,7 @@ You can always buy ticket in train (if conductor go) or from conductor that watc
 
 If you want to go another way that through turnstile and you want to cross track, do not do it. There are cameras and penalty is pounds 1000. And trains are very fast and not all trains stops in all stops, it is variable -- so crossing track is very dangerous. One train stop, but another train run through station 250 kph.
 
-[ ](Category:Trains " "){.wikilink} [Category:General info](Category:General_info "Category:General info"){.wikilink}
+ 
 
 ---
 

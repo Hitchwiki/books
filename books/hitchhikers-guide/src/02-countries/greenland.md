@@ -14,7 +14,7 @@ Greenland has its own traffic act rather than [Denmark](Denmark "Denmark"){.wiki
 
 ## Personal Experiences {#personal_experiences}
 
-[Category:North America](Category:North_America "Category:North America"){.wikilink} [Category:Denmark](Category:Denmark "Category:Denmark"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+   
 
 ---
 

@@ -35,7 +35,7 @@ We (a couple - man and woman) traveled for more than a week in Luxembourg, almos
 </div>
 </div>
 
-[Category:E25](Category:E25 "Category:E25"){.wikilink} [Category:E44](Category:E44 "Category:E44"){.wikilink} [Category:Luxembourg](Category:Luxembourg "Category:Luxembourg"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+    
 
 ---
 

@@ -9,7 +9,7 @@ Places:
 - [Riga](Riga "Riga"){.wikilink}
 - `<small>`{=html}add more?`</small>`{=html}
 
-[Category:Latvia](Category:Latvia "Category:Latvia"){.wikilink}
+
 
 ---
 

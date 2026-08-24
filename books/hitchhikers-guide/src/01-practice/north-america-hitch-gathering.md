@@ -188,7 +188,7 @@ Possible quotes and phrases for the event to be used on web posters, hand-outs, 
 
 The active development of this project is open to anyone. Edit and update this page as you wish, link it to anyone you believe may be interested. Art-work, media, documents and such can be linked here or anywhere you think is proper. If you really have a question, email me: elephantson@gmail.com and we\'ll learn to inspire and empower ourselves. Love and light!
 
-[General info](Category:General_info "General info"){.wikilink} [Category:North America](Category:North_America "Category:North America"){.wikilink} [Category:Hitchgathering](Category:Hitchgathering "Category:Hitchgathering"){.wikilink}
+  
 
 ---
 

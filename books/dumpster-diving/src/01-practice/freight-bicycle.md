@@ -37,7 +37,7 @@ Media Coverage:
 - [Couriers pedaling full speed ahead](http://www.jsonline.com/bym/news/oct03/178108.asp) Pair\'s delivery service firms are finding their stride amid an uphill job market
 - [Building a Better Bike Lane](http://online.wsj.com/article_email/SB117823466296891497-lMyQjAxMDE3NzA4NDIwMzQ0Wj.html) An interesting article featuring freight bikes
 
-[Category:General info](Category:General_info "Category:General info"){.wikilink}
+
 
 ![Workcycles-bakfiets-medium.jpg](../../images/workcycles-bakfiets-mediumjpg.jpg)
 

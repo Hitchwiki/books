@@ -6,7 +6,7 @@ A host is a member of a [hospitality exchange](hospitality_exchange "hospitality
 
 [How to be a good host](How_to_be_a_good_host "How to be a good host"){.wikilink}
 
-[Category:Concepts](Category:Concepts "Category:Concepts"){.wikilink}
+
 
 ---
 

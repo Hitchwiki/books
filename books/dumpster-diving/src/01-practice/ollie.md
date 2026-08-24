@@ -28,7 +28,7 @@ The story according to [indymedia.be](http://indymedia.be/en/node/32038) (3rd of
 
 - [A similar case in 2011](http://www.dewereldmorgen.be/artikels/2011/03/14/parket-dendermonde-dagvaardt-skipper-voor-oudbakken-muffins) *(in Dutch)*
 
-[Category:Belgium](Category:Belgium "Category:Belgium"){.wikilink} [Category:People](Category:People "Category:People"){.wikilink} [Category:Dumpster diving](Category:Dumpster_diving "Category:Dumpster diving"){.wikilink} [Category:2009](Category:2009 "Category:2009"){.wikilink}
+   
 
 ---
 

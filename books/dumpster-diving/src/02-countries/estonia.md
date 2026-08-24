@@ -16,7 +16,7 @@ Places:
 - [Tartu](Tartu "Tartu"){.wikilink}
 - `<small>`{=html}add more?`</small>`{=html}
 
-[Category:Estonia](Category:Estonia "Category:Estonia"){.wikilink}
+
 
 ---
 

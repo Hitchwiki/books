@@ -41,7 +41,7 @@ You can check roughly how long an item of food can last or whether it is freezab
 - [Mold](Mold "Mold"){.wikilink}
 - [Preservation](Preservation "Preservation"){.wikilink}
 
-[Category:General info](Category:General_info "Category:General info"){.wikilink} [Category:Dumpster diving](Category:Dumpster_diving "Category:Dumpster diving"){.wikilink}
+ 
 
 ![Black bananas.jpg](../../images/black-bananasjpg.jpg)
 

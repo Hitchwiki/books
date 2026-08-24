@@ -71,7 +71,7 @@ I hitchhiked around the country in the summer of 2024 (Helsinki-Tampere-Turku-Va
 - [Liftausvinkkejä](http://www.cs.helsinki.fi/u/ssmoland/peukalo/) − hitchhiking tips in Finnish
 - [List of Laavus](http://laavu.org/) − a site with all the Laavus (hiking shelters) in Finland. [Download](http://laavu.org/lataa.php?paikkakunta=kaikki/) the gpx-file.
 
-[ ](Category:Finland " "){.wikilink} [Category:Northern Europe](Category:Northern_Europe "Category:Northern Europe"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+   
 
 ---
 

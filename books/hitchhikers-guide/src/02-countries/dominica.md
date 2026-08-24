@@ -33,7 +33,7 @@ Hitchhikernick- hitched here for week in may 2024. some of the more remote roads
 </div>
 </div>
 
-[Category:Caribbean](Category:Caribbean "Category:Caribbean"){.wikilink} [Category:Island](Category:Island "Category:Island"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+   
 
 ---
 

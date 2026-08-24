@@ -45,7 +45,7 @@ Be careful, because sometimes a wait of a few hours might be unavoidable, and du
 - Forecasts and statistics for every possible city: [yr.no](http://www.yr.no) ( is in Norwegian )
 - Forecasts for Sweden and other Nordic countries: [smhi.se](http://smhi.se/) (english) is in Swedish but has good info
 
-[Category:Practical info](Category:Practical_info "Category:Practical info"){.wikilink} [Category:General info](Category:General_info "Category:General info"){.wikilink}
+ 
 
 ---
 

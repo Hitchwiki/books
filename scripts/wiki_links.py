@@ -1,4 +1,4 @@
-"""Drop MediaWiki interwiki links. They do not resolve in the book."""
+"""Drop MediaWiki metadata and interwiki links that do not belong in books."""
 
 from __future__ import annotations
 
@@ -44,6 +44,17 @@ _HTML_IW = re.compile(
     re.I | re.S,
 )
 
+# A MediaWiki category assignment has no leading colon.  A deliberate link to
+# a category page does (``[[:Category:Europe|Europe]]``), so leave those alone.
+_WIKITEXT_CATEGORY = re.compile(r"\[\[\s*Category\s*:[^\]]+\]\]", re.I)
+_MD_CATEGORY = re.compile(
+    r"\[[^\]]*\]\(\s*"
+    r"Category:(?:[^()\s]|\([^)]*\))*"
+    r'(?:\s+"[^"]*")?\s*\)'
+    r"(?:\{\.wikilink\})?",
+    re.I,
+)
+
 
 def is_interwiki_prefix(prefix: str) -> bool:
     p = prefix.lower().lstrip(":")
@@ -83,6 +94,11 @@ def strip_interwiki_wikitext(text: str) -> str:
     return _tidy(_WIKITEXT_IW.sub(repl, text))
 
 
+def strip_category_wikitext(text: str) -> str:
+    """Remove page category assignments while preserving category-page links."""
+    return _WIKITEXT_CATEGORY.sub("", text)
+
+
 def strip_interwiki_markdown(text: str) -> str:
     def repl(m: re.Match) -> str:
         label, target = m.group(1), m.group(2)
@@ -91,6 +107,12 @@ def strip_interwiki_markdown(text: str) -> str:
         return _keep_label(label, target)
 
     return _tidy(_MD_IW.sub(repl, text))
+
+
+def strip_category_markdown(text: str) -> str:
+    """Remove category assignments emitted as links by Pandoc's wiki reader."""
+    text = _MD_CATEGORY.sub("", text)
+    return re.sub(r"(?m)^[ \t]+$", "", text)
 
 
 def strip_interwiki_html(text: str) -> str:

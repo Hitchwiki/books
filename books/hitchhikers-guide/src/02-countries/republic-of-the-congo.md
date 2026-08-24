@@ -8,7 +8,7 @@ The **Republic of the Congo** is in Central Africa. Sometimes it\'s called **Con
 
 ## Personal Experiences {#personal_experiences}
 
-[Category:Africa](Category:Africa "Category:Africa"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+  
 
 ---
 

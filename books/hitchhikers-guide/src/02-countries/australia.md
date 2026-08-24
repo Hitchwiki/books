@@ -193,7 +193,7 @@ Easy peasy to camp, just make sure you have a tent to stop the creepy crawlies a
 
 [Backpacker Lifts Australia](https://www.shareyourride.net/carpool/Australia/)
 
-[Category:Australia](Category:Australia "Category:Australia"){.wikilink} [Category:Oceania](Category:Oceania "Category:Oceania"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+   
 
 ---
 

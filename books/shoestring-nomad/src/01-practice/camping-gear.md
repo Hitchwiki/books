@@ -14,7 +14,7 @@
 
 - [Gear](Gear "Gear"){.wikilink}
 
-[Category:Camping](Category:Camping "Category:Camping"){.wikilink} [Category:Gear](Category:Gear "Category:Gear"){.wikilink} [Category:Accommodation](Category:Accommodation "Category:Accommodation"){.wikilink}
+  
 
 ![Tents1.jpg](../../images/tents1jpg.jpg)
 

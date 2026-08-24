@@ -11,7 +11,7 @@ See also:
 - [Unlocking dumpsters](Unlocking_dumpsters "Unlocking dumpsters"){.wikilink}
 - [Compactor](Compactor "Compactor"){.wikilink}
 
-[Category:General info](Category:General_info "Category:General info"){.wikilink}
+
 
 ![Dumpster in Groningen.JPG](../../images/dumpster-in-groningenjpg.jpg)
 

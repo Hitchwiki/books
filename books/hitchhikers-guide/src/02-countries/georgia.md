@@ -70,7 +70,7 @@ Georgia is one the easiest place to hitch a ride just got to be ready for some c
 </div>
 </div>
 
-[Category:Middle East](Category:Middle_East "Category:Middle East"){.wikilink} [\*](Category:Georgia "*"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+   
 
 ---
 

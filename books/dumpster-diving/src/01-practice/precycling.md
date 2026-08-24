@@ -9,7 +9,7 @@ Some ideas:
 - Sort resources
 - `<small>`{=html}*add more?*`</small>`{=html}
 
-[Category:General info](Category:General_info "Category:General info"){.wikilink}
+
 
 ---
 

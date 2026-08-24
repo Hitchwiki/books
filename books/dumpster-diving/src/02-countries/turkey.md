@@ -48,7 +48,7 @@ Personal experience: \"Pardon, atılacak yemek var mı?\" for food and \"Pardon,
 - [Olympos](Olympos_(Turkey) "Olympos"){.wikilink}
 - `<small>`{=html}*add more?*`</small>`{=html}
 
-[Category:Turkey](Category:Turkey "Category:Turkey"){.wikilink}
+
 
 ---
 

@@ -268,7 +268,7 @@ It would be great to add additional existing records:
 - The longest train ride
 - The longest plane ride
 
-[Category:General info](Category:General_info "Category:General info"){.wikilink}
+
 
 ---
 

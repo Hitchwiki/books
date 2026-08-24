@@ -50,7 +50,7 @@ might be interesting to check out
 - <https://www.guesttoguest.com/en/>
 - <https://www.gocampr.com/>
 
-[Category:Hospitality exchange networks](Category:Hospitality_exchange_networks "Category:Hospitality exchange networks"){.wikilink}
+
 
 ---
 

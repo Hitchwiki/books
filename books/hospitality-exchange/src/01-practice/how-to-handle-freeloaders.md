@@ -45,7 +45,7 @@ There are quite a few people who live completely without money, or with very lit
 - [Brand New Members](Brand_New_Members "Brand New Members"){.wikilink}
 - [Empty Profiles](Empty_Profiles "Empty Profiles"){.wikilink}
 
-[Category:Tips](Category:Tips "Category:Tips"){.wikilink}
+
 
 ---
 

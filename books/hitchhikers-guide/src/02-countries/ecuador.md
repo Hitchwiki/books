@@ -175,7 +175,7 @@ In March 2022 you can still see people a little bit affraid because of the covid
 
 Image:Katja and Augustas in Ecuador.JPG\|Hitchhikers [Katja and Augustas](Katja_and_Augustas "Katja and Augustas"){.wikilink} traveling in the back of a pick-up in Ecuador. Image:Ecuador.JPG\|A hitchhiker having a ride with\... a cow! Image:Ecuador Katja and Augustas.jpg\|Free ride in the back of a a pick-up - very usual for this country. Image:Hitchinecuador.jpg\|[themodernnomad](User:Themodernnomad "themodernnomad"){.wikilink} hitchhiking in the rain in the jungle near Macaus, trusty tarp in hand <File:Eric> pics 131.jpg\|[Eripson](User:Eripson "Eripson"){.wikilink} (right) with friend Gaston hitching from Baños to Quito.
 
-[\*](Category:Ecuador "*"){.wikilink} [Category:South America](Category:South_America "Category:South America"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+   
 
 ---
 

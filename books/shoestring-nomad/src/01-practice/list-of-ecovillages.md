@@ -141,7 +141,7 @@ A more complete listing of ecovillages can be found on the external website [ic.
 - [Red Ibérica de Ecoaldeas (Iberian network ecovillages)](http://www.ecoaldeas.org/?q=frontpage)
 - [Ecobasa](http://ecobasa.org/en/), directory of sustainable communities, eco-villages and individuals looking for alternative ways of living
 
-[Category:Accommodation](Category:Accommodation "Category:Accommodation"){.wikilink} [Category:Food](Category:Food "Category:Food"){.wikilink}
+ 
 
 ---
 

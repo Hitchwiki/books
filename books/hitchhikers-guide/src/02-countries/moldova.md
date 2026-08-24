@@ -44,7 +44,7 @@ While entering **Moldova**, you could face some problems when you entered from U
 
 ## Personal Experiences {#personal_experiences}
 
-[ ](Category:Moldova " "){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+  
 
 ---
 

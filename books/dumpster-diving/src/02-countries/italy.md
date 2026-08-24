@@ -4,7 +4,7 @@
 
 In [2000](2000 "2000"){.wikilink}, a law was issued which declared [dumpster diving](dumpster_diving "dumpster diving"){.wikilink} to be [legal](law "legal"){.wikilink}.
 
-[Category:Italy](Category:Italy "Category:Italy"){.wikilink}
+
 
 ---
 

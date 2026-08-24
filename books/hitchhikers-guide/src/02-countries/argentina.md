@@ -390,7 +390,7 @@ I'm a young blonde girl and I'm very sure that helped me in at least some situat
 
 ## Resources
 
-[Category:Argentina](Category:Argentina "Category:Argentina"){.wikilink} [Category:South America](Category:South_America "Category:South America"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+   
 
 ---
 

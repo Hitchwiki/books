@@ -41,7 +41,7 @@ Read the small print of the insurance contract very well so you know when they w
 
 - [worldnomads.com](http://worldnomads.com) - quite expensive
 
-[Category:General info](Category:General_info "Category:General info"){.wikilink}
+
 
 ---
 

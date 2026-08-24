@@ -46,7 +46,7 @@ Promotions & error fares:
 
 - [Use a fake location for cheap airfare](http://www.businessinsider.com/use-a-fake-location-for-cheap-airfare-2014-6)
 
-[Category:Guides](Category:Guides "Category:Guides"){.wikilink} [Category:Transport](Category:Transport "Category:Transport"){.wikilink}
+ 
 
 ![Ryan.b737.750pix.jpg](../../images/ryanb737750pixjpg.jpg)
 

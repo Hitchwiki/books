@@ -26,7 +26,7 @@ The first dive, by the way, might not bring anything - try different places on d
 - [Meetings](Meetings "Meetings"){.wikilink}
 - [Preservation](Preservation "Preservation"){.wikilink}
 
-[Category:Dumpster diving](Category:Dumpster_diving "Category:Dumpster diving"){.wikilink}
+
 
 ![2008 dd day 010.06.JPG](../../images/2008-dd-day-01006jpg.jpg)
 

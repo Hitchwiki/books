@@ -60,7 +60,7 @@ During the Iraqi invasion lots of landmines have been laid in Kuwait. Though mos
 
 ## Personal Experiences {#personal_experiences}
 
-[Category:Asia](Category:Asia "Category:Asia"){.wikilink} [Category:Kuwait](Category:Kuwait "Category:Kuwait"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+   
 
 ---
 

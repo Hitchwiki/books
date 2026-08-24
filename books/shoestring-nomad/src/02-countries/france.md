@@ -1,6 +1,6 @@
 # France
 
-[Category:National parks](Category:National_parks "Category:National parks"){.wikilink}
+
 
 ---
 

@@ -109,7 +109,7 @@ We hitchhiked a lot during our trip to the DR, mostly in the mountainous area in
 </div>
 </div>
 
-[Category:Island](Category:Island "Category:Island"){.wikilink} [Category:Caribbean](Category:Caribbean "Category:Caribbean"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+   
 
 ---
 

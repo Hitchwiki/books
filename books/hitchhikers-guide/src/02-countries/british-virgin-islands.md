@@ -20,7 +20,7 @@ The final paragraph below placed here previously is not only incorrect and obvio
 
 ## Personal Experiences {#personal_experiences}
 
-[Category:Island](Category:Island "Category:Island"){.wikilink} [Category:Caribbean](Category:Caribbean "Category:Caribbean"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+   
 
 ---
 

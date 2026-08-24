@@ -81,7 +81,7 @@ They thought he was lost and called the police, who sent him to a military base 
 - Interview about hitchhiking in **Syria**
 - [Reminiscences of Syria before the war by a hitchhiker](http://youarealltourists.blogspot.nl/2015/10/what-was-syria-like-before-war.html)
 
-[\*](Category:Syria "*"){.wikilink} [Category:E91](Category:E91 "Category:E91"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink}
+  
 
 ---
 

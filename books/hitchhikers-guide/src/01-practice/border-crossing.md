@@ -14,7 +14,7 @@ If you are entering a country you need a visa for and just plan to transit, it c
 
 It can be a good idea to turn off your phone and other digital devices before crossing borders.
 
-[Category:General info](Category:General_info "Category:General info"){.wikilink} [Category:Border crossings](Category:Border_crossings "Category:Border crossings"){.wikilink}
+ 
 
 ---
 

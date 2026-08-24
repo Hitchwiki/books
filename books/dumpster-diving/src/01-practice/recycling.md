@@ -208,7 +208,7 @@ In 2002, [WNYC](WNYC "WNYC"){.wikilink} reported that 40% of the garbage that Ne
 
 - [Sustainability](Sustainability "Sustainability"){.wikilink}
 
-[Category:General info](Category:General_info "Category:General info"){.wikilink}
+
 
 [^1]:
 

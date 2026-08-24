@@ -16,7 +16,7 @@ Interchanges where this phenomenon might be in place are:
 - [Hermsdorfer Kreuz](Hermsdorfer_Kreuz "Hermsdorfer Kreuz"){.wikilink}, [Jena](Jena "Jena"){.wikilink}
 - [Kreuz Feuchtwangen/Crailsheim](Kreuz_Feuchtwangen/Crailsheim "Kreuz Feuchtwangen/Crailsheim"){.wikilink}
 
-[Category:General info](Category:General_info "Category:General info"){.wikilink}
+
 
 ---
 

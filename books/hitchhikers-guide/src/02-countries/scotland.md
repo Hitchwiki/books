@@ -82,7 +82,7 @@ Scotland has hundreds of islands, of which about 90 are populated, many coastal 
 
 ## Personal Experiences {#personal_experiences}
 
-[Highlands](Category:Highland_Council "Highlands"){.wikilink} [ ](Category:Scotland " "){.wikilink} [Category:Northern Europe](Category:Northern_Europe "Category:Northern Europe"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+    
 
 ---
 

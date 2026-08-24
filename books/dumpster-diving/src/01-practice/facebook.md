@@ -49,7 +49,7 @@
 
 - [Freegan LT: mostly Kaunas and Vilnius](https://www.facebook.com/groups/661379370612851/)
 
-[Category:General info](Category:General_info "Category:General info"){.wikilink}
+
 
 ---
 

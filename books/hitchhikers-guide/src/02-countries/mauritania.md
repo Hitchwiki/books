@@ -69,7 +69,7 @@ South of Nouakchott been recommended to take a cheap bus as I was told lot more 
 </div>
 </div>
 
-[Category:Mauritania](Category:Mauritania "Category:Mauritania"){.wikilink} [Category:Africa](Category:Africa "Category:Africa"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+   
 
 ---
 

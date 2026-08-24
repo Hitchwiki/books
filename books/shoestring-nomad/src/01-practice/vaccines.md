@@ -17,7 +17,7 @@ For vaccination it is good to do it 3 months in advance because some of them nee
 
 But no worries, everything is going to be alright!
 
-[Category:Health](Category:Health "Category:Health"){.wikilink}
+
 
 ---
 

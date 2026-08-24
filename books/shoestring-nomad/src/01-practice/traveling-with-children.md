@@ -13,7 +13,7 @@ While being a nomad is sometimes traveling alone, it often may mean traveling wi
 - [Traveling with Children in Central America](http://www.irishtimes.com/life-and-style/travel/long-haul/central-america-with-all-the-family-1.1772631) on the Irish Times Newspaper.
 - [Petit Bibi on the road](http://en.bibiontheroad.net/) - Sitarane\'s ordeal hitchhiking around the world with Weirdo and Cranky
 
-[Category:People](Category:People "Category:People"){.wikilink} [Category:Transport](Category:Transport "Category:Transport"){.wikilink}
+ 
 
 ---
 

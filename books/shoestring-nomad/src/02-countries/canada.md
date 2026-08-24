@@ -1,6 +1,6 @@
 # Canada
 
-[Category:North America](Category:North_America "Category:North America"){.wikilink}
+
 
 ---
 

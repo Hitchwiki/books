@@ -24,7 +24,7 @@
 - Be patient, but realistic; if everyone is eating their entire meals and throwing their food away, it might just be a bad day to table dive.
 - Keep cultural differences in mind; what may work in one country, may not work in another.
 
-[Category:General info](Category:General_info "Category:General info"){.wikilink}
+
 
 ---
 

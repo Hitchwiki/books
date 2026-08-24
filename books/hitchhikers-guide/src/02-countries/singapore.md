@@ -116,7 +116,7 @@ The Marina Bay Sands Casino offers unlimited free drinks. Coffee, soda, juice, e
 
 ## Personal Experiences {#personal_experiences}
 
-[Category:Asia](Category:Asia "Category:Asia"){.wikilink} [Category:Singapore](Category:Singapore "Category:Singapore"){.wikilink} [Category:Cities](Category:Cities "Category:Cities"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+    
 
 ---
 

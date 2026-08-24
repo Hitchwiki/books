@@ -51,7 +51,7 @@ French speaking organizations involved in Upcycling:
 
 Place: Andenne, Braine-le-Comte, Bruxelles(°), Charleroi, Court-Saint-Etienne, Eghezée, Grez-Doiceau, Hannut, Haren, Jette, Lasne, Liège, dans la province de Luxembourg, à Mons, Namur, Nivelles, Helmet (Schaerbeek), Seneffe, Sombreffe-Gembloux, Verviers, à Villers-la-Ville et à Walhain.
 
-[Category:Belgium](Category:Belgium "Category:Belgium"){.wikilink}
+
 
 ---
 

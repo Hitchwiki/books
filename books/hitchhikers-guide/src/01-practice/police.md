@@ -12,7 +12,7 @@ In [France](France "France"){.wikilink} it\'s mostly a bad idea to be on the mot
 
 Some hitchhikers complain that their identifications are asked by the police while hitchhiking. It can be useful to keep a form of identification in your pocket for the police so as not to aggravate them. [Fabzgy](User:Fabzgy "Fabzgy"){.wikilink} blogged about [his experiences](http://blogs.hitchwiki.org/fabzgy/2008/10/28/are-hitchhikers-suspicious/) here and some others added their experiences in the comments. (feel free to submit your experiences)
 
-[Category:General info](Category:General_info "Category:General info"){.wikilink}
+
 
 ---
 

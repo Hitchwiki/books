@@ -1,6 +1,6 @@
 # Sri Lanka
 
-[Category:Island](Category:Island "Category:Island"){.wikilink}
+
 
 ---
 

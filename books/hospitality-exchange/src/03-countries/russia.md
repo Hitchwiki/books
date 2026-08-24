@@ -2,7 +2,7 @@
 
 Russia is a country in [Europe](Europe "Europe"){.wikilink} and [Asia](Asia "Asia"){.wikilink}.
 
-[Category:Asia](Category:Asia "Category:Asia"){.wikilink}
+
 
 ---
 

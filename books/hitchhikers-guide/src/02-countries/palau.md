@@ -12,7 +12,7 @@ Hitchhikernick - visited in October 2023 for a week. Average waiting time was 10
 
 ## Personal Experiences {#personal_experiences}
 
-[Category:Oceania](Category:Oceania "Category:Oceania"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+  
 
 ---
 

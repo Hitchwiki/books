@@ -20,7 +20,7 @@ Insurance fees vary hugely between different European countries. Consider regist
 
 ## Repair
 
-[Category:Transport](Category:Transport "Category:Transport"){.wikilink}
+
 
 ---
 

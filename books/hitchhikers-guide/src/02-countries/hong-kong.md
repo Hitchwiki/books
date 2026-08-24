@@ -12,7 +12,7 @@ Add info pls
 
 ## Personal Experiences {#personal_experiences}
 
-[Category:Asia](Category:Asia "Category:Asia"){.wikilink} [Category:China](Category:China "Category:China"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+   
 
 ---
 

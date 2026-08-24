@@ -1,6 +1,6 @@
 # Dominican Republic
 
-[Category:Island](Category:Island "Category:Island"){.wikilink}
+
 
 ---
 

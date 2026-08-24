@@ -20,7 +20,7 @@ Make sure to have enough water with you and something to cover you head. The adv
 
 ## Personal Experiences {#personal_experiences}
 
-[ ](Category:Mali " "){.wikilink} [Category:Africa](Category:Africa "Category:Africa"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+   
 
 ---
 

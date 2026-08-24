@@ -116,7 +116,7 @@ I was hitchhiking between Bilbao, Barcelona, Madrid, [petrol station hitchhiking
 
 - [Facebook group for hitchhiking in Spain](https://www.facebook.com/groups/174166089591892/)
 
-[Category:Spain](Category:Spain "Category:Spain"){.wikilink} [Category:Europe](Category:Europe "Category:Europe"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+   
 
 ---
 

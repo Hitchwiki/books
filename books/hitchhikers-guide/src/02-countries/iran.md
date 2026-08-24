@@ -206,7 +206,7 @@ I noticed some different things while hitchhiking in Iran. Firstly, (as a guy), 
 
 - User [TheNomadFamily](User:TheNomadFamily "TheNomadFamily"){.wikilink} wrote a guide in English about Hitchhiking in Iran; sharing experiences, tips and info he gathered after hitching 3 months around the country: [Hitchhiking in Iran](https://www.thenomadfamily.org/hitchhiking-in-iran/)
 
-[Category:Iran](Category:Iran "Category:Iran"){.wikilink} [Category:Southern Asia](Category:Southern_Asia "Category:Southern Asia"){.wikilink} [Category:East Route from North Cape to Cape of Good Hope](Category:East_Route_from_North_Cape_to_Cape_of_Good_Hope "Category:East Route from North Cape to Cape of Good Hope"){.wikilink} [Category:E80](Category:E80 "Category:E80"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+     
 
 ---
 

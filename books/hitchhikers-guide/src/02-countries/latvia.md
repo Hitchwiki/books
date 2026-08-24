@@ -61,7 +61,7 @@ Good and easy hitchhiking experience. You rarely wait a long time and you have a
 </div>
 </div>
 
-[ ](Category:Latvia " "){.wikilink} [Category:Northern Europe](Category:Northern_Europe "Category:Northern Europe"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+   
 
 ---
 

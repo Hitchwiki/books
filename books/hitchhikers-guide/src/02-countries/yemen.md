@@ -20,7 +20,7 @@
 
 ## Links
 
-[Category:Yemen](Category:Yemen "Category:Yemen"){.wikilink} [Category:Middle East](Category:Middle_East "Category:Middle East"){.wikilink} [Category:East Route from North Cape to Cape of Good Hope](Category:East_Route_from_North_Cape_to_Cape_of_Good_Hope "Category:East Route from North Cape to Cape of Good Hope"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+    
 
 ---
 

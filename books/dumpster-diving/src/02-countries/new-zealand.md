@@ -20,7 +20,7 @@ As of May 2011, things seem to be getting better, as somebody arrested for dumps
 - [Freestuff](http://freestuff.co.nz/) where one can find free stuff and/or list items to give away.
 - [New Zealand food share map](https://www.google.com/maps/d/u/0/viewer?mid=zDmpvgICAwkk.kizpiFBt6ocg&hl=en&ie=UTF8&oe=UTF8&msa=0&ll=-41.310824,173.891602&spn=13.855902,15.380859&z=5&source=embed)
 
-[Category:New Zealand](Category:New_Zealand "Category:New Zealand"){.wikilink}
+
 
 ---
 

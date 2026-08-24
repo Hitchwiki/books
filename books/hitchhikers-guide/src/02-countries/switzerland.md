@@ -80,7 +80,7 @@ Hitchhiked from Zurich south toward Italy, met an incredible old Swiss man who d
 </div>
 </div>
 
-[ ](Category:Switzerland " "){.wikilink} [Category:Western Europe](Category:Western_Europe "Category:Western Europe"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+   
 
 ---
 

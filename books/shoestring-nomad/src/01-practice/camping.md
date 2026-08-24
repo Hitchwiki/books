@@ -40,7 +40,7 @@ In Western Europe it\'s not legal to just put your tent anywhere. It\'s still ve
 
 - Moneyless.org
 
-[Category:Accommodation](Category:Accommodation "Category:Accommodation"){.wikilink}
+
 
 ![Itajuru20.jpg](../../images/itajuru20jpg.jpg)
 

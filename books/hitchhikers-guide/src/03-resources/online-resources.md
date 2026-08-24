@@ -21,7 +21,7 @@ Hospitality exchange networks require a bit more planning, but are **very** valu
 - [Trustroots](https://www.trustroots.org/)
 - [BeWelcome](https://www.bewelcome.org/)
 
-[Category:General info](Category:General_info "Category:General info"){.wikilink}
+
 
 ---
 

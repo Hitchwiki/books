@@ -28,7 +28,7 @@ Knowing that you are not going on a vacation spending your time with a scrooge, 
 
 No matter what, stay calm and be correct. Make the best of it yourself. Unless they are really unfair, in that case you are able to give a negative advice. If the host is rude you are able to complain with the [community](community "community"){.wikilink}.
 
-[Category:Tips](Category:Tips "Category:Tips"){.wikilink}
+
 
 ---
 

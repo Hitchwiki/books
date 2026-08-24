@@ -116,7 +116,7 @@ Kyrgyzstan is super easy to get every where with your thumb as yeah public trans
 </div>
 </div>
 
-[Category:Asia](Category:Asia "Category:Asia"){.wikilink} [Category:Central Asia](Category:Central_Asia "Category:Central Asia"){.wikilink} [Category:Kyrgyzstan](Category:Kyrgyzstan "Category:Kyrgyzstan"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+    
 
 ---
 

@@ -30,7 +30,7 @@
 
 - <https://ideas.trustroots.org/comparison-of-hospitality-exchange-platforms/>
 
-[Category:Hospitality exchange networks](Category:Hospitality_exchange_networks "Category:Hospitality exchange networks"){.wikilink}
+
 
 ---
 

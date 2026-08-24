@@ -12,7 +12,7 @@
 
 - Estamira: a documentary about a very crazy (and lucid at the same time) woman living all her life into a huge dumpster - <https://www.youtube.com/watch?v=uFQl3uGV7Ss>
 
-[Category:Brazil](Category:Brazil "Category:Brazil"){.wikilink} [Category:South America](Category:South_America "Category:South America"){.wikilink}
+ 
 
 ---
 

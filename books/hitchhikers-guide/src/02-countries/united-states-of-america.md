@@ -199,7 +199,7 @@ I have hitched around the US many times, only 3 short of doing every state 3 tim
 
 Analyses of hitchhiking in the USA by [Korn](User:Korn "Korn"){.wikilink} on warmroads.de [- Hitchhiking in the USA.](https://warmroads.de/en/hitchhiking-in-19-the-usa/)
 
-[ ](Category:United_States " "){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+  
 
 ---
 

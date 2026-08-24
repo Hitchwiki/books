@@ -14,7 +14,7 @@ The region close to Mali is not very safe. Read up on [safety](hitchhiker's_safe
 
 ## Personal Experiences {#personal_experiences}
 
-[Category:Africa](Category:Africa "Category:Africa"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+  
 
 ---
 

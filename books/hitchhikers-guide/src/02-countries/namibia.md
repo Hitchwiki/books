@@ -92,7 +92,7 @@ If you don\'t feel secure with wilderness camping going to pretty much any lodge
 
 ## Personal Experiences {#personal_experiences}
 
-[Category:Africa](Category:Africa "Category:Africa"){.wikilink} [Category:Namibia](Category:Namibia "Category:Namibia"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+   
 
 ---
 

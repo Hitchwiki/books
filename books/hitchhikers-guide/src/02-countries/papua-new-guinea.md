@@ -61,7 +61,7 @@ This country does not compare to any other place on this planet. It stole a bit 
 
 - [Zenit](User:Zenit "Zenit"){.wikilink}\'s [blog](http://www.mygrannyisonfire.wordpress.com) including entries on PNG.
 
-[Category:Oceania](Category:Oceania "Category:Oceania"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+  
 
 ---
 

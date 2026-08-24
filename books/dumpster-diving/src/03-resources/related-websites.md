@@ -19,7 +19,7 @@
 - Cory Doctorow on [dumpster diving](http://www.boingboing.net/2003/01/30/dumpster-diving-an-e.html) [tech stuff](http://www.wired.com/wired/archive/5.09/es_dumpster.html)
 - Boing Boing TV interviews [Dumpsterologist Darren Atkinson](http://tv.boingboing.net/2008/05/14/cory-cory-doctorow-s.html)
 
-[Category:General info](Category:General_info "Category:General info"){.wikilink}
+
 
 ---
 

@@ -18,7 +18,7 @@ Travel by bike is also a very good option for free travels
 
 Take trains or public transportation without a valid ticket is easier than what people think, especially if you are abroad from your residential country. Fine can hardly be sent outside of the country they are issued and controllers can´t really force you to pay cash if you say you have no money. A good excuse, story will make everything easier for you.
 
-[Category:Transport](Category:Transport "Category:Transport"){.wikilink}
+
 
 ---
 

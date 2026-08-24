@@ -40,7 +40,7 @@ See also:
 
 - [2 hours radio program](http://www.UnwelcomeGuests.net/534) on planned obsolescence and invented \"needs\" such as bottled water.
 
-[Category:General info](Category:General_info "Category:General info"){.wikilink}
+
 
 ---
 

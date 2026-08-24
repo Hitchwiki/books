@@ -17,7 +17,7 @@ Some more tips before leaving:
 
 : *See also [some of the routes](:Category:Routes "some of the routes"){.wikilink} that have been documented on Hitchwiki.*
 
-[Category:General info](Category:General_info "Category:General info"){.wikilink}
+
 
 ---
 

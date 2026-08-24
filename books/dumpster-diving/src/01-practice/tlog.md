@@ -16,7 +16,7 @@ These records are connected to the detailed sites for a particular location ([ma
 
 Some basic TLogs have been listed on the [Ten Katestraat](Ten_Katestraat "Ten Katestraat"){.wikilink}.
 
-[Category:General info](Category:General_info "Category:General info"){.wikilink}
+
 
 ---
 

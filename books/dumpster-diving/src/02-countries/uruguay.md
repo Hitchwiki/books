@@ -7,7 +7,7 @@
 - [Montevideo](Montevideo "Montevideo"){.wikilink}
 - `<small>`{=html}add more?`</small>`{=html}
 
-[Category:Uruguay](Category:Uruguay "Category:Uruguay"){.wikilink}
+
 
 ---
 

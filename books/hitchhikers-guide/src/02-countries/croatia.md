@@ -85,7 +85,7 @@ Pls add info
 
 - When travelling to the islands, you can use the *katamaran*. It is a faster and cheaper passenger ferry than the car ferry.
 
-[ ](Category:Croatia " "){.wikilink} [Category:Southern Europe](Category:Southern_Europe "Category:Southern Europe"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+   
 
 ---
 

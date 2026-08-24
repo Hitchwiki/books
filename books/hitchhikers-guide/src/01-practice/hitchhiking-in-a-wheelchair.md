@@ -47,7 +47,7 @@ Hitchhiking outside of western countries in a wheelchair shouldn\'t be too hard 
 
 Of course, almost all the aforementioned skills become twice as necessary once you leave the so-called first world. The number of truck rides will drastically increase, and truck drivers are not always prone to waiting or wasting effort for you, so you\'d better train your truck-climbing a little bit. Learning to jump steps is mandatory, and you should really, really consider learning to come up/descend entire stairs too. Aside from that, there isn\'t really much difference to be noticed for disabled people, except for the fact that a lone western handicapped hitchhiker in a country like [Somalia](Somalia "Somalia"){.wikilink} will probably create such a wave of admiration and solidarity that he\'ll find it practically impossible to avoid being constantly followed, congratulated and helped in any conceivable way by some dozens of locals wherever he goes.
 
-[Category:General info](Category:General_info "Category:General info"){.wikilink}
+
 
 ---
 

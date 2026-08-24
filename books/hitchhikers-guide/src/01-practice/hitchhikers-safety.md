@@ -150,7 +150,7 @@ See also [Wikivoyage about war zone safety](https://en.wikivoyage.org/wiki/War_z
 
 - Bad hitchhiking - Sharing stories? in CouchSurfing group about hitchhiking.
 
-[Category:Safety](Category:Safety "Category:Safety"){.wikilink}
+
 
 ---
 

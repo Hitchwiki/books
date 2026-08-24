@@ -219,7 +219,7 @@ Only good experiences - please give a few quetzales for gas if/where you can. Hi
 
 There are of course many ways to get to Guatemala. The way you choose to go depends on where you want to travel. One of the most thrilling ways is by sailboat. You can find many sailing vessels in the Rio Dulce area. The more experience you have the cheaper your fare is. My ride was free and the experience was beyond what I ever expected.
 
-[Category:Central America](Category:Central_America "Category:Central America"){.wikilink} [\*](Category:Guatemala "*"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+   
 
 ---
 

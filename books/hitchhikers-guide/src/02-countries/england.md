@@ -41,7 +41,7 @@ Nationalrail website will offer fares at four times discount in advance one or t
 
 A rather extensive [overview on hitching in England](http://www.chooseachallenge.com/hitch/bristol-jailbreak/about/faq/) is offered on the website of \"Bristol Jailbreak\"
 
-[Category:Ferries](Category:Ferries "Category:Ferries"){.wikilink} [Category:England](Category:England "Category:England"){.wikilink} [Category:Northern Europe](Category:Northern_Europe "Category:Northern Europe"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+    
 
 ---
 

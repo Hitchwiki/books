@@ -162,7 +162,7 @@ Hitchhiking races become popular thing among university students, especially in 
 
 *See also [hitchhiking for charity](hitchhiking_for_charity "hitchhiking for charity"){.wikilink}*
 
-[Category:General info](Category:General_info "Category:General info"){.wikilink} [Category:Contests](Category:Contests "Category:Contests"){.wikilink}
+ 
 
 ---
 

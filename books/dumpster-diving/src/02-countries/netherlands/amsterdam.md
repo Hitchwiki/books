@@ -149,7 +149,7 @@ Another directory and portable application is [Boskoi](http://www.boskoi.org/).
 
 - [Dumpster diving guide at Casa Robino](http://casarobino.org/2011/03/dumpster-diving).
 
-[Category:Amsterdam](Category:Amsterdam "Category:Amsterdam"){.wikilink}
+
 
 ---
 

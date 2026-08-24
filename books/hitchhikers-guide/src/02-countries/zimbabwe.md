@@ -12,7 +12,7 @@ Apparently people (mostly women) have started to pick up males and drug, beat an
 
 ## Personal Experiences {#personal_experiences}
 
-[Category:Eastern Africa](Category:Eastern_Africa "Category:Eastern Africa"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+  
 
 ---
 

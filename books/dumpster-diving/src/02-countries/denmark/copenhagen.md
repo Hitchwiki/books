@@ -32,7 +32,7 @@ Facebook: [Flydende By-Floating City of Copenhagen](http://www.facebook.com/grou
 
 <File:2012.07> eurotrip Copenhagen II 09.jpg\|One of the boats that was built by Floating City guys. <File:2012.07> eurotrip Copenhagen II 07.jpg\|Freeshop in Floating City.
 
-[Category:Copenhagen](Category:Copenhagen "Category:Copenhagen"){.wikilink}
+
 
 ---
 

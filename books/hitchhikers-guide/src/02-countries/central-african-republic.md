@@ -14,7 +14,7 @@ On top of that, armed gangs are common. Hitchhiking is not recommended here.
 
 ## Personal Experiences {#personal_experiences}
 
-[Category:Africa](Category:Africa "Category:Africa"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+  
 
 ---
 

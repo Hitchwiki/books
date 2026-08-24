@@ -97,7 +97,7 @@ Hitchhiked east to west in summer 2023, everything and everybody was great excep
 </div>
 </div>
 
-[Category:Slovenia](Category:Slovenia "Category:Slovenia"){.wikilink} [Category:Southern Europe](Category:Southern_Europe "Category:Southern Europe"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+   
 
 ---
 

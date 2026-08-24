@@ -14,7 +14,7 @@ It is the simplest and easiest way to perform fasting. We are used to think that
 
 In several kinds of diet fasting seriously (from 1 to 3 days to 1 week or longer period) is more than recommended to cure intestine and stomach diseases as to keep them healthy and strong. While fasting your body get disintoxicated from all toxines it can\'t get rid of while you keep eating. **It is often recommended to drink a lot** while fasting intentionally as it helps the body get out toxines, though there is also a \'dry\' kind of fasting which consist in not drinking either (as muslims do in daytime during ramadan) but which should never last more thna 24 or exceptionally 48hrs.. Consult a real and serious doctor (not normal big pharma cheaters..) about it or ask people with experience on it can be a help to the main info you find on the internet.
 
-[Category:Guides](Category:Guides "Category:Guides"){.wikilink} [Category:Food](Category:Food "Category:Food"){.wikilink}
+ 
 
 ---
 

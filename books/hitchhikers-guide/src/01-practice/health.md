@@ -34,7 +34,7 @@ Don\'t drink alcohol or consume drugs while hitchhiking.
 
 Also don\'t overestimate these issues. Truck drivers have to deal with diesel fumes most of the time.
 
-[Category:General info](Category:General_info "Category:General info"){.wikilink} [Category:Health](Category:Health "Category:Health"){.wikilink}
+ 
 
 ---
 

@@ -100,7 +100,7 @@ Your driver will also get a cabin with his ticket with four bunkbeds in it, so y
 </div>
 </div>
 
-[Category:United Kingdom](Category:United_Kingdom "Category:United Kingdom"){.wikilink} [Category:Northern Europe](Category:Northern_Europe "Category:Northern Europe"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+   
 
 ---
 

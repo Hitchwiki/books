@@ -16,7 +16,7 @@ On major highways it is easy to get a lift. All the roads between Kathmandu, Pok
 
 Pls add info
 
-[Category:Asia](Category:Asia "Category:Asia"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+  
 
 ---
 

@@ -10,7 +10,7 @@
 
 See also [Phrasebook](Phrasebook "Phrasebook"){.wikilink}
 
-[Category:General info](Category:General_info "Category:General info"){.wikilink}
+
 
 ---
 

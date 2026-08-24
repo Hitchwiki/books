@@ -24,7 +24,7 @@ It is very hard to hitch a ride on the vatican territory - the parkings and the 
 
 ## Personal Experiences {#personal_experiences}
 
-[Category:Italy](Category:Italy "Category:Italy"){.wikilink} [Category:Europe](Category:Europe "Category:Europe"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+   
 
 ---
 

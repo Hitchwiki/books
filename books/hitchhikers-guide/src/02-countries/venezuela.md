@@ -101,7 +101,7 @@ I was there for 10 days in August 2017. I started off in Tucupita, after getting
 
 Image:Changing hitched trucks in Venezuela.jpg\|Hitchhiker [Augustas](Katja_and_Augustas "Augustas"){.wikilink} changing hitched trucks in Venezuela. Image:Katja in Venezuela.JPG\|Hitchhiker [Katja](Katja_and_Augustas "Katja"){.wikilink} in the back of a hitched pickup. Image:Katja and Augustas in a pickup in Venezuela heading to Puerto Paez.jpg\|[Katja and Augustas](Katja_and_Augustas "Katja and Augustas"){.wikilink} in a pickup heading to [Puerto Paez](Puerto_Paez "Puerto Paez"){.wikilink}. Image:Toll road in Venezuela.JPG\|A [toll road](toll_road "toll road"){.wikilink} in Venezuela.
 
-[Category:Venezuela](Category:Venezuela "Category:Venezuela"){.wikilink} [Category:South America](Category:South_America "Category:South America"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+   
 
 ---
 

@@ -121,7 +121,7 @@ All links in Swedish unless noted otherwise.
 - [skänkes.se](http://www.skänkes.se/)
 - [bjussa.se](http://www.bjussa.se/) - Give away or find free stuff
 
-[Category:Sweden](Category:Sweden "Category:Sweden"){.wikilink}
+
 
 ![2008 dd day 016.00.JPG](../../images/2008-dd-day-01600jpg.jpg)
 

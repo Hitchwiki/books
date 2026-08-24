@@ -116,7 +116,7 @@ British television shows have even featured home renovations and decoration usin
 - [Trash Hunting and tips for life](http://theurbantreasurehunter.blogspot.com)
 - [\"My Dumpster Diving Adventures\"](http://mydumpsterdive.blogspot.com/), a blog with pictures
 
-[ ](Category:Dumpster_diving " "){.wikilink}
+
 
 ![Divyman.png](../../images/divymanpng.jpg)
 

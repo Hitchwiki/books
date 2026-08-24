@@ -20,7 +20,7 @@ People may recommend against hitchhiking or camping around urban areas like Nass
 
 ## Personal Experiences {#personal_experiences}
 
-[Category:Island](Category:Island "Category:Island"){.wikilink} [Category:Caribbean](Category:Caribbean "Category:Caribbean"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+   
 
 ---
 

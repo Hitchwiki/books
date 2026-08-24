@@ -18,7 +18,7 @@ No porto recicla-se normalmente comida juntos dos Pingo Doce\'s. Por vezes ha su
 
 O mercado abastecedor também é um bom sitio para se arranjar vegetais e fruta, em razoaveis quantidades. E em alguns mercados locais (Bolhão. por ex.) não é dificil arranjar quem \"dê qualquer coisinha que já não esteja muito boa para vender\".
 
-[Category:Português](Category:Português "Category:Português"){.wikilink}
+
 
 ---
 

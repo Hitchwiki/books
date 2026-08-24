@@ -9,7 +9,7 @@
 
 Seldom any particular person belongs to any particular group. Typically, it is a combination of, for example, hippies, tourists, or tourists, athletes.
 
-[Category:General info](Category:General_info "Category:General info"){.wikilink}
+
 
 ---
 

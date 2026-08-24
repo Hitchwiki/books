@@ -190,7 +190,7 @@ All borders by land to [Argentina](Argentina "Argentina"){.wikilink} and [Brazil
 
 Borders with Brazil are open. You need vaccination and PCR.
 
-[Category:General info](Category:General_info "Category:General info"){.wikilink}
+
 
 ---
 

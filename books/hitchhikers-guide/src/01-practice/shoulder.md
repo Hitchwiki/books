@@ -15,7 +15,7 @@ Image:Ramp_os_nahne.jpg\|Hard shoulder along an on-ramp in [Germany](Germany "Ge
 
  "wikipedia:Shoulder (road)"){.wikilink}
 
-[Category:General info](Category:General_info "Category:General info"){.wikilink} [Category:Roads](Category:Roads "Category:Roads"){.wikilink}
+ 
 
 ---
 

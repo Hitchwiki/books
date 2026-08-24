@@ -36,7 +36,7 @@ As an organization, we have a democratic structure. Democracy guarantees many of
 
 Friendship is not something that obeys to any rules or statutes: friendship results from the delight you have while spending time with other people. We hope you find a lot of them in BeVolunteer!
 
-[Category:BeWelcome](Category:BeWelcome "Category:BeWelcome"){.wikilink}
+
 
 ---
 

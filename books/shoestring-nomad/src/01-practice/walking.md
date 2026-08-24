@@ -6,7 +6,7 @@
 
 It can be nice to combine walking with [hitchhiking](hitchhiking "hitchhiking"){.wikilink}.
 
-[Category:Transport](Category:Transport "Category:Transport"){.wikilink}
+
 
 ![Stjacquescompostelle1.png](../../images/stjacquescompostelle1png.jpg)
 

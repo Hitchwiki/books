@@ -278,7 +278,7 @@ A list of foreign embassies in Germany and of German representatives abroad can 
 
 ## Related Links: {#related_links}
 
-[Category:Europe](Category:Europe "Category:Europe"){.wikilink}
+
 
 ---
 

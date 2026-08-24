@@ -55,7 +55,7 @@ The situation at the borders changes frequently in this part of the world. Check
 
 - [Lot of information, tips and personal experiences of hitch-hiking in Central Asia ([Kazakhstan](Kazakhstan "Kazakhstan"){.wikilink}, [Kyrgyzstan](Kyrgyzstan "Kyrgyzstan"){.wikilink}, [Tajikistan](Tajikistan "Tajikistan"){.wikilink} and [Uzbekistan](Uzbekistan "Uzbekistan"){.wikilink}). Only in spanish](http://marcandoelpolo.com/como-es-viajar-a-dedo-por-asia-central-kazajistan-kirguistan-tayikistan-uzbekistan/)
 
-[Category:Asia](Category:Asia "Category:Asia"){.wikilink} [Category:Central Asia](Category:Central_Asia "Category:Central Asia"){.wikilink} [\*](Category:Tajikistan "*"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+    
 
 ---
 

@@ -73,7 +73,7 @@ I hitchhiked from Amsterdam across the German border to Osnabrück in one day, m
 </div>
 </div>
 
-[Category:Western Europe](Category:Western_Europe "Category:Western Europe"){.wikilink} [\*](Category:Netherlands "*"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+   
 
 ---
 

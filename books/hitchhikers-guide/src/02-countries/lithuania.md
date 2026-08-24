@@ -75,7 +75,7 @@ Lithuania is the kind of country where you will get picked up by the whole spect
 </div>
 </div>
 
-[ ](Category:Lithuania " "){.wikilink} [Category:Northern Europe](Category:Northern_Europe "Category:Northern Europe"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+   
 
 ---
 

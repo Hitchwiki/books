@@ -10,7 +10,7 @@ The largest island is the site of a joint military facility of the UK and [USA](
 
 ## Personal Experiences {#personal_experiences}
 
-[Category:Island](Category:Island "Category:Island"){.wikilink} [Category:United Kingdom](Category:United_Kingdom "Category:United Kingdom"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+   
 
 ---
 

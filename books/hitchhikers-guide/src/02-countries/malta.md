@@ -43,7 +43,7 @@ I really enjoyed hitchhiking around Malta, Gozo and Comino for the three weeks I
 </div>
 </div>
 
-[ ](Category:Malta " "){.wikilink} [Category:Cities](Category:Cities "Category:Cities"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+   
 
 ---
 

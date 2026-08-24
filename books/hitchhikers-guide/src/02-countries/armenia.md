@@ -140,7 +140,7 @@ People are friendly and we didn\'t have to pay for any rides so far, but the cou
 </div>
 </div>
 
-[\*](Category:Armenia "*"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+  
 
 ---
 

@@ -12,7 +12,7 @@ Hitching in Benin is very easy, just stick out your thumb or wave down a car any
 
 ## Personal Experiences {#personal_experiences}
 
-[Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+ 
 
 ---
 

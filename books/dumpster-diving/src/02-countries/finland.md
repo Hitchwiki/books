@@ -98,7 +98,7 @@ There are a few establishments in Finland for getting rid of your surplus [stuff
 
 - [Siltala-Huovinen, Tarja: Roskisdyykkarin käsikirja](http://www.like.fi/kirja.php?detail_id=384) (Like Kustannus) (\"Dumpster-diver\'s Handbook\") [Some](http://hirvasnoro.blogspot.com/2005/04/dyykkaus-on-kunniallista-ja-rehellist.html) [reviews](http://www.ylioppilaslehti.fi/2002/020226/tehtavat.html)
 
-[Category:Finland](Category:Finland "Category:Finland"){.wikilink}
+
 
 ---
 

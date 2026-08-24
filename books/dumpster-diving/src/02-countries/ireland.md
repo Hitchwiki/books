@@ -9,7 +9,7 @@
 - [Drogheda](Drogheda "Drogheda"){.wikilink}
 - `<small>`{=html}*add more?*`</small>`{=html}
 
-[Category:Ireland](Category:Ireland "Category:Ireland"){.wikilink}
+
 
 ---
 

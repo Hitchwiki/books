@@ -269,7 +269,7 @@ Will Ferguson has written a number of informative and entertaining books about h
 - **Hitchhiker\'s Guide to Japan** (ISBN 0-8048-2068-6) --- practical guide to hitchhiking with a number of tested itineraries
 - **Hokkaido Highway Blues** (ISBN 1-56947-234-3) --- the story of an epic hitchhiking trip across the entire country
 
-[\*](Category:Japan "*"){.wikilink} [Category:Asia](Category:Asia "Category:Asia"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+   
 
 ---
 

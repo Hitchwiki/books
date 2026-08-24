@@ -87,7 +87,7 @@ Kharasho - good
 
 - [Lot of information, tips and personal experiences of hitch-hiking in Central Asia (Kazakhstan, Kyrgyzstan, Tajikistan and Uzbekistan). Only in spanish](http://marcandoelpolo.com/como-es-viajar-a-dedo-por-asia-central-kazajistan-kirguistan-tayikistan-uzbekistan/)
 
-[Category:Central Asia](Category:Central_Asia "Category:Central Asia"){.wikilink} [Category:Asia](Category:Asia "Category:Asia"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+   
 
 ---
 

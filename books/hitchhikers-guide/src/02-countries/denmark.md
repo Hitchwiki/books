@@ -137,7 +137,7 @@ Crossing into Denmark from Puttgarden, I ended up drawn in by the sea and forgot
 </div>
 </div>
 
-[ ](Category:Denmark " "){.wikilink} [Category:Northern Europe](Category:Northern_Europe "Category:Northern Europe"){.wikilink} [Category:East Route from North Cape to Cape of Good Hope](Category:East_Route_from_North_Cape_to_Cape_of_Good_Hope "Category:East Route from North Cape to Cape of Good Hope"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+    
 
 ---
 

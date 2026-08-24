@@ -10,7 +10,7 @@ At times beachcombing was popular in the [Netherlands](Netherlands "Netherlands"
 
 See also [article on Wikipedia](http://en.wikipedia.org/wiki/Beachcombing).
 
-[Category:General info](Category:General_info "Category:General info"){.wikilink}
+
 
 ---
 

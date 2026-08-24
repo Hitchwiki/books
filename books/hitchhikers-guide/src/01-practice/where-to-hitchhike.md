@@ -124,7 +124,7 @@ When leaving the vehicle, if you are planning to look for another ride immediate
 
 It is easy to lose hours by making mistakes such as standing on the wrong road, or the wrong side of the road. Make sure you know which road you want to be on, and keep checking the road signs so that you know where you are on your map and where you will leave the vehicle. This is especially important when traveling across cities.
 
-[Category:Practical info](Category:Practical_info "Category:Practical info"){.wikilink}
+
 
 ---
 

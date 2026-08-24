@@ -89,7 +89,7 @@ I traveled all the ring road and the west peninsula between July and August 2015
 </div>
 </div>
 
-[Category:Iceland](Category:Iceland "Category:Iceland"){.wikilink} [Category:Island](Category:Island "Category:Island"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+   
 
 ---
 

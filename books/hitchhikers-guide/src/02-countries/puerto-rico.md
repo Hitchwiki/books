@@ -30,7 +30,7 @@ Very easy to hitchhike around this small island off the East Coast, especially i
 
 ## Personal Experiences {#personal_experiences}
 
-[Category:Island](Category:Island "Category:Island"){.wikilink} [Category:Puerto Rico](Category:Puerto_Rico "Category:Puerto Rico"){.wikilink} [Category:United States of America](Category:United_States_of_America "Category:United States of America"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+    
 
 ---
 

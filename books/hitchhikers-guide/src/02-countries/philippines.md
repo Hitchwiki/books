@@ -93,7 +93,7 @@ Air Asia has discount flights to [Malaysia](Malaysia "Malaysia"){.wikilink}.
 - [Information, tips and personal experiences of hitchhiking in The Philippines. A 3244 km journey on 72 vehicles (only in spanish)](http://marcandoelpolo.com/viajar-a-dedo-autostop-filipina/), by Marcando el Polo
 - [Facebook group \"Hitchhikers Pilipinas\"](https://www.facebook.com/groups/489961387753875/)
 
-[\*](Category:Philippines "*"){.wikilink} [Category:Asia](Category:Asia "Category:Asia"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+   
 
 ---
 

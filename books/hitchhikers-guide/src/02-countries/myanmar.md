@@ -106,7 +106,7 @@ traveled from Mandalay to Kawthaung over 28 days in January 2020 with partner. T
 - [Information, tips and personal experiences of hitch-hiking in Myanmar](http://marcandoelpolo.com/como-es-viajar-a-dedo-autostop-en-myanmar/). A 1545 km journey on 33 vehicles (only in Spanish), by Marcando el Polo.
 - [How to cross from Myanmar to India overland at Tamu - Moreh](http://rovingsnails.com/2015/03/10/hitchhiking-from-myanmar-to-india-overland-crossing-at-tamu-moreh/) Bureaucracy and tips by [ RovingSnails](User:_Rovingsnails " RovingSnails"){.wikilink}
 
-[Category:Asia](Category:Asia "Category:Asia"){.wikilink} [\*](Category:Myanmar "*"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink}
+  
 
 ---
 

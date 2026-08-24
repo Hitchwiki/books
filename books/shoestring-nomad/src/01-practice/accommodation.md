@@ -100,7 +100,7 @@ www.travelersfortravelers.com
 
 www.tripping.com
 
-[Category:Accommodation](Category:Accommodation "Category:Accommodation"){.wikilink}
+
 
 ---
 

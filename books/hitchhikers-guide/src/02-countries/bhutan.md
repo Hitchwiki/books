@@ -22,7 +22,7 @@ There is a nice film called \"Travellers & Magicians\" which gives you a feeling
 
 ## Personal Experiences {#personal_experiences}
 
-[Category:Southern Asia](Category:Southern_Asia "Category:Southern Asia"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+  
 
 ---
 

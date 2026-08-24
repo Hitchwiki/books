@@ -48,7 +48,7 @@ As for sleeping when you\'re not invited back, best bring a nice thick sleeping 
 - Trashwiki
 - Moneyless.org contains some tips about living and traveling without money (or with much less money).
 
-[Category:General info](Category:General_info "Category:General info"){.wikilink}
+
 
 ---
 

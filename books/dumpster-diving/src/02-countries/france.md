@@ -60,7 +60,7 @@ Consider browsing:
 - [secours catholique france](http://www.secours-catholique.org/)
 - [croix rouge francaise](http://www.croix-rouge.fr/)
 
-[Category:France](Category:France "Category:France"){.wikilink}
+
 
 ![LyonDiveGoods1.jpg](../../images/lyondivegoods1jpg.jpg)
 

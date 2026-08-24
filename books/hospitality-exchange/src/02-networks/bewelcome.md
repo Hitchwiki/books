@@ -55,7 +55,7 @@ more?
 
 : *From <http://www.hospitalityguide.net/hg/wiki/index.php?title=BeWelcome&action=edit&oldid=5616>*
 
-[Category:BeWelcome](Category:BeWelcome "Category:BeWelcome"){.wikilink}
+
 
 ---
 

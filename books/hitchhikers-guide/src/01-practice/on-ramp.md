@@ -4,7 +4,7 @@
 
 **On-ramp** is a segment of roadway that directs vehicular traffic from ordinary roads onto a [highway](highway "highway"){.wikilink} (equivalent term in the UK and Ireland is **on-slip**). On-ramps are very common place to get a ride. However, to avoid legal troubles it is advised to thumb before the motorway sign.
 
-[Category:General info](Category:General_info "Category:General info"){.wikilink}
+
 
 ---
 

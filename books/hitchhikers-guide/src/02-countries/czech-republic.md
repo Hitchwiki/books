@@ -73,7 +73,7 @@ On normal roads I get usually lift in about ten minutes even though I look male 
 </div>
 </div>
 
-[Category:Czech Republic](Category:Czech_Republic "Category:Czech Republic"){.wikilink} [Category:Eastern Europe](Category:Eastern_Europe "Category:Eastern Europe"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+   
 
 ---
 

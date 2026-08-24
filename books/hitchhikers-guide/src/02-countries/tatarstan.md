@@ -29,7 +29,7 @@ Tatarstan is a federal subject of [Russia](Russia "Russia"){.wikilink} and road 
 
 ## Personal Experiences {#personal_experiences}
 
-[Category:Russia](Category:Russia "Category:Russia"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+  
 
 ---
 

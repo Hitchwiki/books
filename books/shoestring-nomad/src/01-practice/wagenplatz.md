@@ -17,7 +17,7 @@ The trailer scene is linked to the new age traveller movement.
 - [Wagendorf](http://www.wagendorf.de).
 - [Squat!net](http://en.squat.net/weblinks/deutschland/).
 
-[Category:Accommodation](Category:Accommodation "Category:Accommodation"){.wikilink}
+
 
 ---
 

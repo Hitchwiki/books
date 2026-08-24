@@ -40,7 +40,7 @@ The Netherlands seems to be quite good for getting things for free; as most bank
 - [Haal gratis af](http://www.haalgratisaf.nl) (in Dutch)
 - [Bulletin board at Starpagina](http://gratis.startpagina.nl/prikbord) (in Dutch)
 
-[Category:Netherlands](Category:Netherlands "Category:Netherlands"){.wikilink}
+
 
 ![Freegan rotterdam.jpg](../../images/freegan-rotterdamjpg.jpg)
 

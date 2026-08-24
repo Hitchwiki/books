@@ -138,7 +138,7 @@ License plates show the numbers of the region the car is from. This can help a l
 
 - [Service Stations Network](http://www.vinci-autoroutes.com/system/files/pdf/2012/12/carte_reseau_vinci_autoroutes.pdf), a pdf file that shows all service station on major routes in southern France.
 
-[ ](Category:France " "){.wikilink} [Category:Western Europe](Category:Western_Europe "Category:Western Europe"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+   
 
 ---
 

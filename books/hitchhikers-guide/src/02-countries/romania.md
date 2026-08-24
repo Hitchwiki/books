@@ -83,7 +83,7 @@ In total I spent around three months in Romania. I hitchhiked from Bucharest to 
 </div>
 </div>
 
-[ ](Category:Romania " "){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+  
 
 ---
 

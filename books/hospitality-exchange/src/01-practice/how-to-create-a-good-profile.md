@@ -30,7 +30,7 @@ After having met another Trustrooter you can describe your experience. The exper
 
 Once you have stayed with a person, or met another trustrooter in some other way you can add them as a contact. It will make it easier to stay in touch.
 
-[Category:Tips](Category:Tips "Category:Tips"){.wikilink}
+
 
 ---
 

@@ -13,7 +13,7 @@
 - [Slovakia](Slovakia "Slovakia"){.wikilink}
 - [Ukraine](Ukraine "Ukraine"){.wikilink}
 
-[Category:Europe](Category:Europe "Category:Europe"){.wikilink}
+
 
 ---
 

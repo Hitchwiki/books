@@ -81,7 +81,7 @@ hitched from Kulata (Bulgaria-Greece border) to Thessaloniki then to Evia (Islan
 </div>
 </div>
 
-[Turkey](Category:Route_to_Istanbul#From_Greece "Turkey"){.wikilink} [ ](Category:Greece " "){.wikilink} [Category:Southern Europe](Category:Southern_Europe "Category:Southern Europe"){.wikilink} [Category:E75](Category:E75 "Category:E75"){.wikilink} [Category:Route Athens - Thessaloniki](Category:Route_Athens_-_Thessaloniki "Category:Route Athens - Thessaloniki"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+      
 
 ---
 

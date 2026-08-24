@@ -26,7 +26,7 @@ Autonomic Islands or Regions:
 - [Isle of Man](Isle_of_Man "Isle of Man"){.wikilink}
 - [Svalbard and Jan Mayen Islands](Svalbard_and_Jan_Mayen_Islands "Svalbard and Jan Mayen Islands"){.wikilink}
 
-[Category:Europe](Category:Europe "Category:Europe"){.wikilink}
+
 
 ---
 

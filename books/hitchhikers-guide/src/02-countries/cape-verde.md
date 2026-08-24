@@ -53,7 +53,7 @@ Etiquette: please be careful with closing the doors of your Yasi\'s, as some of 
 </div>
 </div>
 
-[Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+ 
 
 ---
 

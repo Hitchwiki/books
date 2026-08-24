@@ -54,7 +54,7 @@ You can also walk from Monaco toward France, near the Route de la Plage Marquet 
 
 ## Personal Experiences {#personal_experiences}
 
-[Category:Europe](Category:Europe "Category:Europe"){.wikilink} [Category:France](Category:France "Category:France"){.wikilink} [Category:Cities](Category:Cities "Category:Cities"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+    
 
 ---
 

@@ -6,7 +6,7 @@
 
 ![](EU_and_EFTA.svg "EU_and_EFTA.svg")
 
-[Category:Health](Category:Health "Category:Health"){.wikilink}
+
 
 ![Carte Européenne d'Assurance Maladie France.jpg](../../images/carte-européenne-dassurance-maladie-francejpg.jpg)
 

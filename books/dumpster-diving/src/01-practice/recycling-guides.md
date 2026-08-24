@@ -26,7 +26,7 @@ Not surprisingly, used mattresses are costly to haul and dispose of in a landfil
 - <http://www.einfaelle-statt-abfaelle.de/>
 - <https://www.wastedisposalsolutions.com/blog/Recycling-Hard-to-Recycle-Items>
 
-[Category:General info](Category:General_info "Category:General info"){.wikilink}
+
 
 ---
 

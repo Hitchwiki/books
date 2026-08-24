@@ -116,7 +116,7 @@ I am from this place. Just by living here you can regularly see people on highwa
 - [Comprehensive guide about hitchhiking in Germany](https://warmroads.de/en/hitchhiking-in-17-germany/) by [Korn](User:Korn "Korn"){.wikilink} on <https://warmroads.de>
 - [Overview of autobahns in Germany](http://upload.wikimedia.org/wikipedia/commons/e/e5/Autobahn_1-999.png)
 
-[ ](Category:Germany " "){.wikilink} [Category:Western Europe](Category:Western_Europe "Category:Western Europe"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+   
 
 ---
 

@@ -8,7 +8,7 @@ Check the website of local councils to see when the next scheduled collection da
 
 In [Barcelona](Barcelona "Barcelona"){.wikilink}, [Spain](Spain "Spain"){.wikilink}, this system works every day. All city is separated into seven districts (Sagrera, Horta and Sant Andreu, for an example) and every district has it\'s own day of the week when people can throw their furniture and stuff out on the streets. Some people collected electronics every day, fixed those and sold these in the [market](market "market"){.wikilink}.
 
-[Category:General info](Category:General_info "Category:General info"){.wikilink}
+
 
 ---
 

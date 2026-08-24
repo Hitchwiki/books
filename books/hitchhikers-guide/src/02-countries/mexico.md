@@ -239,7 +239,7 @@ ANDALE! México remains my favorite place to catch a ride- starting in san diego
 </div>
 </div>
 
-[ ](Category:Mexico " "){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+  
 
 ---
 

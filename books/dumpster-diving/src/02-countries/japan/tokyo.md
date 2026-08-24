@@ -47,7 +47,7 @@ People in Tokyo get rid of things by leaving them on the streets for garbageman 
 - [*Tokyo Freegan* blog](http://tokyofreegan.blogspot.com/) *(not updated anymore)*
 - [Tokyo Freecycle group](http://groups.yahoo.com/group/tokyofreecycle/)
 
-[Category:Japan](Category:Japan "Category:Japan"){.wikilink}
+
 
 ---
 

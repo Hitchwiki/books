@@ -21,7 +21,7 @@ If you find yourself lost in Slovakia, dumpster-diving will be less comfortable 
 - [Ružomberok](Ružomberok "Ružomberok"){.wikilink}
 - `<small>`{=html}edit to add more!`</small>`{=html}
 
-[Category:Slovakia](Category:Slovakia "Category:Slovakia"){.wikilink}
+
 
 ---
 

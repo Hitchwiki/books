@@ -134,7 +134,7 @@ Average waiting time was about 2 hours. Mostly cars picked me up. i saw single g
 </div>
 </div>
 
-[Colombia](Category:Colombia "Colombia"){.wikilink} [Category:South America](Category:South_America "Category:South America"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+   
 
 ---
 

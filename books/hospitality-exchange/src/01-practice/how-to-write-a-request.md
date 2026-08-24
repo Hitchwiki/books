@@ -28,7 +28,7 @@ Probably for most hosts a request like this won\'t do it. So for those, who have
 
 - It\'s not just about a place to crash. But what\'s than? What do you want to provide, what do you want to learn?
 
-[Category:Etiquette Guides](Category:Etiquette_Guides "Category:Etiquette Guides"){.wikilink}
+
 
 ---
 

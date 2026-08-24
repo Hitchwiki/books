@@ -34,7 +34,7 @@ Martinique is a very nice place to dumpster dive. In Le Marin, go to Simply Mark
 
 ## Personal Experiences {#personal_experiences}
 
-[Category:France](Category:France "Category:France"){.wikilink} [Category:Island](Category:Island "Category:Island"){.wikilink} [Category:Caribbean](Category:Caribbean "Category:Caribbean"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+    
 
 ---
 

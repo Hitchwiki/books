@@ -20,7 +20,7 @@ The most basic way is the A-frame. You ridge your paracord between two trees, to
 - [Rigging a tarp](http://www.youtube.com/watch?v=bjMmla9DSzo), YouTube-Video about setting up an A-frame
 - [Different tarp shelters](http://www.bushwalking.org.au/FAQ/tarp/TarpShel.htm)
 
-[Category:Accommodation](Category:Accommodation "Category:Accommodation"){.wikilink}
+
 
 ---
 

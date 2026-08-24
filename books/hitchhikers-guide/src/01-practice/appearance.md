@@ -48,7 +48,7 @@ If you\'re likely to be perceived as a woman, don\'t behave and look too salacio
 
 If you\'ve been waiting a long time it might be good to do something funny, like waving at random cars or play some small musical instrument. Hitchhiking a bike or a motorbike will also cheer you up easily---they always look so funny showing that they would love to take you but don\'t have the space.
 
-[Category:Practical info](Category:Practical_info "Category:Practical info"){.wikilink}
+
 
 ---
 

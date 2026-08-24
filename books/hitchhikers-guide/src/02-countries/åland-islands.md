@@ -27,7 +27,7 @@ From Turku, you can also try to hitch-hike via the archipelago. You can get a ma
 
 ## Personal Experiences {#personal_experiences}
 
-[Category:Island](Category:Island "Category:Island"){.wikilink} [Category:Finland](Category:Finland "Category:Finland"){.wikilink} [Category:Northern Europe](Category:Northern_Europe "Category:Northern Europe"){.wikilink} [Category:Ferries](Category:Ferries "Category:Ferries"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+     
 
 ---
 

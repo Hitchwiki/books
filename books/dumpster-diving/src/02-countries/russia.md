@@ -34,7 +34,7 @@ Have a nice day - *\[Vsego horoshego\]*
 
 Dumpster\'s contents belong either to someone who produced that trash (e.g. a supermaket) or to the waste company ([1](https://news.solidwaste.ru/2019/01/musor-v-kontejnere-chej-po-zakonu/) in russian). So theoretically dumpster diving could be qualified as theft. However there are no reports of such cases. Its more likely that one could be charged with trespassing if the container is located on private property.
 
-[Category:Russia](Category:Russia "Category:Russia"){.wikilink} [Category:Asia](Category:Asia "Category:Asia"){.wikilink}
+ 
 
 ![St.p. homeless.jpg](../../images/stp-homelessjpg.jpg)
 

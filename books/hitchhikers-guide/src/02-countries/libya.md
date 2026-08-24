@@ -31,7 +31,7 @@ There are checkpoints when entering and leaving most of the cities. Furthermore 
 
 ## External links {#external_links}
 
-[Category:Northern Africa](Category:Northern_Africa "Category:Northern Africa"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+  
 
 ---
 

@@ -208,7 +208,7 @@ Portugal does not recognize Spanish sovereignty over the territory of Olivenza b
 
 This data was collected on <https://www.cia.gov/cia/publications/factbook/geos/po.html>
 
-[Category:Portugal](Category:Portugal "Category:Portugal"){.wikilink} [Category:Europe](Category:Europe "Category:Europe"){.wikilink}
+ 
 
 ---
 

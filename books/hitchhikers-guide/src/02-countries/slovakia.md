@@ -125,7 +125,7 @@ one of the worst experience in our hitchhikers life. A girl and a man, from Tatr
 </div>
 </div>
 
-[ ](Category:Slovakia " "){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+  
 
 ---
 

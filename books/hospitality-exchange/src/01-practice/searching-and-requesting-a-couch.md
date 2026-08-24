@@ -72,7 +72,7 @@ Stay at a hostel or look for a camping site. I. e. check out these sites:
 - <http://www.hostelworld.com/en/index.html>
 - <http://www.itravelnet.com/> directories/camping.html
 
-[Category:Travel](Category:Travel "Category:Travel"){.wikilink} [Category:Tips](Category:Tips "Category:Tips"){.wikilink} [Category:Couchsurfing](Category:Couchsurfing "Category:Couchsurfing"){.wikilink}
+  
 
 ---
 

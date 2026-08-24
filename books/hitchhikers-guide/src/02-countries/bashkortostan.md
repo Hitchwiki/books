@@ -45,7 +45,7 @@ There are over 13,000 rivers and 2,700 lakes in the Republic.
 
 Bashkortostan is a federal subject of [Russia](Russia "Russia"){.wikilink} and road traffic is federal competence, so the law here is exactly the law described under Russia, and there is no offence of hitchhiking (*автостоп*). [Clause 16.1 of the *Правила дорожного движения*](https://base.garant.ru/1305770/), made by Government Decree No. 1090 of 23 October 1993, bans pedestrians from an *автомагистраль* and forbids a driver to stop anywhere but the parking areas marked by sign 6.4 or 7.11; clause 16.3 applies the whole section to roads signed 5.3. Those clauses turn on the signs, not on a road\'s number --- so what decides whether you may stand on the M5 or the M7 across the republic is whether the blue motorway sign is up, not that the road is federal. Away from such a stretch nothing prohibits waiting on the verge and thumbing. There is no republican traffic code adding to any of this: a roadside check in Bashkortostan is the federal ГИБДД applying the federal rules.
 
-[Category:Russia](Category:Russia "Category:Russia"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+  
 
 ---
 

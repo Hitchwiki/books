@@ -20,7 +20,7 @@ If hitchhiking, locals will almost always offer you a place to stay for the nigh
 
 ## Personal Experiences {#personal_experiences}
 
-[Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+ 
 
 ---
 

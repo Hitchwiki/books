@@ -15,7 +15,7 @@ More information about hitchhiking boats:
 - Hitchwiki.
 - Randomroads.org story with some special considerations for hitching on boats
 
-[Category:Transport](Category:Transport "Category:Transport"){.wikilink}
+
 
 ![Ankerspill.jpg](../../images/ankerspilljpg.jpg)
 

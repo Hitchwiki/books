@@ -22,7 +22,7 @@ Hitching onto boats: It\'s easy to watch seafarers dock at the port and then wai
 
 ## Personal Experiences {#personal_experiences}
 
-[Category:Island](Category:Island "Category:Island"){.wikilink} [Category:Caribbean](Category:Caribbean "Category:Caribbean"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+   
 
 ---
 

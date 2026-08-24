@@ -21,7 +21,7 @@ Aldi works quite good for dumpsterdiving in Portugal.
 - [Viana do Castelo](Viana_do_Castelo "Viana do Castelo"){.wikilink}
 - *`<small>`{=html}add more?`</small>`{=html}*
 
-[Category:Portugal](Category:Portugal "Category:Portugal"){.wikilink} [Category:Europe](Category:Europe "Category:Europe"){.wikilink}
+ 
 
 ---
 

@@ -40,7 +40,7 @@ Since a lot of food that would normally end up in the dumpsters, is redirected t
 - [Lorry.dk TV article](http://lorry.dk/moduler/nyheder/showregvideo.asp?dato=30-01-2009&cID=1&vId=466788)
 - [Metro Denmark article](http://www.e-pages.dk/metroxpressdk/483/)
 
-[Category:Denmark](Category:Denmark "Category:Denmark"){.wikilink}
+
 
 ![2011.08 CPH trashdigger vegan.JPG](../../images/201108-cph-trashdigger-veganjpg.jpg)
 

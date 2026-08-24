@@ -20,7 +20,7 @@ Exceptions (in following locations to stand on a highway is not a crime):
 
 Routing on [Hitchwiki Maps](https://maps.hitchwiki.org/) can recommend you good spots to get on the highway as well as good rest stations to switch rides.
 
-[Category:General info](Category:General_info "Category:General info"){.wikilink} [Category:Motorways](Category:Motorways "Category:Motorways"){.wikilink}
+ 
 
 ---
 

@@ -74,7 +74,7 @@ Hitchwiki user [Gutuater](user:Gutuater "Gutuater"){.wikilink} was there during 
 
 ## Personal Experiences {#personal_experiences}
 
-[Category:Northern Europe](Category:Northern_Europe "Category:Northern Europe"){.wikilink} [Category:Denmark](Category:Denmark "Category:Denmark"){.wikilink} [Category:Excellent Articles](Category:Excellent_Articles "Category:Excellent Articles"){.wikilink} [Category:Island](Category:Island "Category:Island"){.wikilink} [Category:Cities](Category:Cities "Category:Cities"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+      
 
 ---
 

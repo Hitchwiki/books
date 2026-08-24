@@ -88,7 +88,7 @@ E-book readers can be useful for killing boredom, especially for long-term or sl
 
 - [SECRET GADGETS for HITCHHIKING (Tutorial 5: #hitchhiking apps and accessories)](https://www.youtube.com/watch?v=GWca6WTXQf8&list=PLTl6wHsuItETZmkfuI6AO5_xh8qiwtlzy&index=6)
 
-[Category:General info](Category:General_info "Category:General info"){.wikilink} [Category:Equipment](Category:Equipment "Category:Equipment"){.wikilink}
+ 
 
 ---
 

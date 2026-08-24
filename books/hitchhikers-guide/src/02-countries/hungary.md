@@ -85,7 +85,7 @@ I (27M) and a friend (25F) passed trough Hungary to go to Romania. Austria was h
 </div>
 </div>
 
-[ ](Category:Hungary " "){.wikilink} [Category:Eastern Europe](Category:Eastern_Europe "Category:Eastern Europe"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+   
 
 ---
 

@@ -6,7 +6,7 @@
 
 **Slip road** is a segment of roadway that joins a [motorway](highway "motorway"){.wikilink} to ordinary roads (in either direction) on an [interchange](interchange "interchange"){.wikilink}.
 
-[Category:General info](Category:General_info "Category:General info"){.wikilink}
+
 
 ---
 

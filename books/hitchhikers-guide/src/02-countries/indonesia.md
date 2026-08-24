@@ -50,7 +50,7 @@ I got picked up by cars, trucks, bikes, and some strange looking cart/tractors. 
 </div>
 </div>
 
-[Category:Indonesia](Category:Indonesia "Category:Indonesia"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+  
 
 ---
 

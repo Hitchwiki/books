@@ -25,7 +25,7 @@ There\'s tons of **info on [dumpster diving](dumpster_diving "dumpster diving"){
 
 ## [Trashwiki](http://www.couchsurfing.org/group.html?gid=24931)
 
-[Category:General info](Category:General_info "Category:General info"){.wikilink}
+
 
 ---
 

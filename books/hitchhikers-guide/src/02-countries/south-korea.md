@@ -87,7 +87,7 @@ Experience Winter 2025: Hitchiking Jeju Island was easy as a couple. There is li
 </div>
 </div>
 
-[Category:South Korea](Category:South_Korea "Category:South Korea"){.wikilink} [Category:Asia](Category:Asia "Category:Asia"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+   
 
 ---
 

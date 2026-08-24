@@ -140,7 +140,7 @@ As I was leaving The police-woman from yesterday asked me if I learned not to tr
 </div>
 </div>
 
-[Category:Belize](Category:Belize "Category:Belize"){.wikilink} [Category:Central America](Category:Central_America "Category:Central America"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+   
 
 ---
 

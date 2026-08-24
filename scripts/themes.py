@@ -844,7 +844,7 @@ body.book-{slug} .book-banner {{
 }}
 body.book-{slug} .book-banner-inner {{
   display: flex;
-  align-items: center;
+  align-items: baseline;
   gap: 1.5rem;
   min-height: 2.7rem;
 }}
@@ -889,12 +889,26 @@ body.book-{slug} .book-banner-version {{
 }}
 body.book-{slug} .book-banner-actions {{
   display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  flex: 0 1 auto;
-  gap: 0.8rem;
-  justify-content: flex-end;
+  align-items: baseline;
+  flex: 1 1 22rem;
+  gap: 1rem;
+  min-width: min(20rem, 100%);
+  white-space: nowrap;
+}}
+body.book-{slug} .book-banner-contents {{ flex: 0 0 auto; }}
+body.book-{slug} .book-banner-utility {{
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.25rem;
   margin-left: auto;
+}}
+body.book-{slug} .book-banner-project,
+body.book-{slug} .book-banner-downloads {{
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 0.65rem;
   white-space: nowrap;
 }}
 body.book-{slug} .book-banner-actions a {{
@@ -928,7 +942,7 @@ body.book-{slug} .book-banner a.github svg {{ width: 1.1em; height: 1.1em; displ
   body.book-{slug} .book-banner-title {{ width: 100%; }}
   body.book-{slug} .book-banner-site,
   body.book-{slug} .book-banner-version {{ flex-shrink: 1; }}
-  body.book-{slug} .book-banner-actions {{ margin-left: auto; max-width: 100%; }}
+  body.book-{slug} .book-banner-actions {{ width: 100%; max-width: 100%; }}
 }}
 @media (min-width: 56rem) {{
   body.book-{slug} {{

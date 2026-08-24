@@ -15,7 +15,7 @@ Feel free to add your own discoveries as well!
 
 - Started up by the group [*FoAM*](http://fo.am/), the [*Urban Edibles*](http://urbanedibles.blogspot.com/) site maps out wild food sources in [Amsterdam](Amsterdam "Amsterdam"){.wikilink}.
 
-[Category:General info](Category:General_info "Category:General info"){.wikilink}
+
 
 ---
 

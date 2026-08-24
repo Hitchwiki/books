@@ -89,7 +89,7 @@ Remember, one man\'s trash is another man\'s treasure!
 
 <http://groups.yahoo.com/group/Ohiodumpsterdivers/more> photos then other sites
 
-[Category:Dumpster diving](Category:Dumpster_diving "Category:Dumpster diving"){.wikilink} [Category:Trashwiki](Category:Trashwiki "Category:Trashwiki"){.wikilink}
+ 
 
 ---
 

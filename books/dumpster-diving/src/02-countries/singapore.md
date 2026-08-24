@@ -18,7 +18,7 @@ The majority of Singaporeans live in blocks of flats. There are centralised tras
 
 The Singapore [Freecycle](Freecycle "Freecycle"){.wikilink} mailing list can be found [here](http://groups.yahoo.com/group/SgFreecycle). Yahoo Groups membership is required to view and post messages.
 
-[Category:Singapore](Category:Singapore "Category:Singapore"){.wikilink} [Category:Asia](Category:Asia "Category:Asia"){.wikilink}
+ 
 
 ---
 

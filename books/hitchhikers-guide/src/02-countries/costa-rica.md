@@ -84,7 +84,7 @@ Image:Fabzgy_costarica.JPG\|[Fabzgy](User:fabzgy "Fabzgy"){.wikilink} hitchhikin
 </div>
 </div>
 
-[Category:Central America](Category:Central_America "Category:Central America"){.wikilink} [Category:Costa Rica](Category:Costa_Rica "Category:Costa Rica"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+   
 
 ---
 

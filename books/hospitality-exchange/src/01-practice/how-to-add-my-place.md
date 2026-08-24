@@ -16,7 +16,7 @@ Templates are nice as they save a lot of work and make similar pages look the sa
   - City
     - If suitable: City Parts (Hamburg -\>Altona, New York -\>Brooklyn, Cairo -\>Giza)
 
-[Category:Help](Category:Help "Category:Help"){.wikilink}
+
 
 ---
 

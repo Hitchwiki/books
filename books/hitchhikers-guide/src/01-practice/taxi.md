@@ -8,7 +8,7 @@ In some [African](Africa "Africa"){.wikilink} or [Asian](Asia "Asia"){.wikilink}
 
 Common mode of public transportation in many countries both within and between the cities. It can be the cheapest alternative to hitchhiking. [More information at wikipedia](http://en.wikipedia.org/wiki/Share_taxi)
 
-[Category:General info](Category:General_info "Category:General info"){.wikilink}
+
 
 ---
 

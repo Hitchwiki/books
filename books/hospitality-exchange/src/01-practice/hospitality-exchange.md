@@ -80,7 +80,7 @@ Some networks offer specialised hospitality services. There are at least 15 (spe
 
 - [Article on www.wikivoyage.org](http://en.wikivoyage.org/wiki/Hospitality_exchange)
 
-[Category:Hospitality exchange networks](Category:Hospitality_exchange_networks "Category:Hospitality exchange networks"){.wikilink} [Category:Concepts](Category:Concepts "Category:Concepts"){.wikilink}
+ 
 
 [^1]: [HospEx - Hospitality Exchange Networks Overview](http://www.hospitalityguide.net/)
 

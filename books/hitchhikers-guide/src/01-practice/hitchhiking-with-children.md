@@ -28,7 +28,7 @@ In 2021 [Quarim](User:Quarim "Quarim"){.wikilink} hitchhiked with his three year
 
 - [FB group discussion: Hitchhiking with child](https://www.facebook.com/groups/FREE.NOMADS/permalink/1611253142419734/), 2015
 
-[Category:General info](Category:General_info "Category:General info"){.wikilink}
+
 
 ---
 

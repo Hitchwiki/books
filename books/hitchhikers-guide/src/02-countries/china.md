@@ -188,7 +188,7 @@ Maps.me may have wrong distances( for e.g. chengdu/kunming). There is a free map
 - [Information, tips and personal experiences of hitch-hiking in China (East and West). A 7645 km journey on 50 vehicles (only in spanish)](http://marcandoelpolo.com/como-es-viajar-a-dedo-autostop-por-china/)
 - [Hitchhiking 15.000 km through China](https://warmroads.de/en/hitchhiking-15-000-km-through-china-15/). A little exploration tour by [Korn](User:Korn "Korn"){.wikilink}.
 
-[Category:China](Category:China "Category:China"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+  
 
 ---
 

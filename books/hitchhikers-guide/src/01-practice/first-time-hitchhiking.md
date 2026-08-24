@@ -45,7 +45,7 @@ It can be a good idea to participate in [charity hitchhiking events](hitchhiking
 
 - [Hitchhikers\' guide; a tutorial](https://www.youtube.com/watch?v=S5Iay0Qv93o&t=1223s) by Christof Middeke
 
-[Category:General info](Category:General_info "Category:General info"){.wikilink}
+
 
 ---
 

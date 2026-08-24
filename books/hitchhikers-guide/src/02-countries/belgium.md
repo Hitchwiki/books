@@ -62,7 +62,7 @@ Also make sure you try out the beer. Belgians have the most and best types of be
 
 [Facebook group Hitchhiking in Belgium and the Netherlands](https://www.facebook.com/groups/467054706678994/)
 
-[Category:Belgium](Category:Belgium "Category:Belgium"){.wikilink} [Category:Western Europe](Category:Western_Europe "Category:Western Europe"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+   
 
 ---
 

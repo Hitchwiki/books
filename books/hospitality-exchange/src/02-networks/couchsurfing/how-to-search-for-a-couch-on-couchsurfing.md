@@ -59,7 +59,7 @@ Fill out your [Couchsurfing profile](Couchsurfing_profile "Couchsurfing profile"
 
 ## Step 7: {#step_7}
 
-[Category:Tips](Category:Tips "Category:Tips"){.wikilink} [Category:Couchsurfing](Category:Couchsurfing "Category:Couchsurfing"){.wikilink}
+ 
 
 ---
 

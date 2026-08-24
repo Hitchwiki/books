@@ -47,7 +47,7 @@ Pointless to go the cities. See the nature instead. Go to the hill country and v
 
 ## Personal Experiences {#personal_experiences}
 
-[Category:Southern Asia](Category:Southern_Asia "Category:Southern Asia"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+  
 
 ---
 

@@ -12,7 +12,7 @@ Since buses and taxis are really cheap in **Trinidad and Tobago**, there is real
 
 ## Personal Experiences {#personal_experiences}
 
-[Category:Caribbean](Category:Caribbean "Category:Caribbean"){.wikilink} [Category:Island](Category:Island "Category:Island"){.wikilink} [Category:Trinidad and Tobago](Category:Trinidad_and_Tobago "Category:Trinidad and Tobago"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+    
 
 ---
 

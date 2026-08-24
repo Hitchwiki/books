@@ -44,7 +44,7 @@ Is there such a pamphlet? I have found several that are aimed to encourage peopl
 
 English is useful for a couple of countries but ideally we want some translations.
 
-[Category:Dumpster diving](Category:Dumpster_diving "Category:Dumpster diving"){.wikilink} [Category:Ideas](Category:Ideas "Category:Ideas"){.wikilink}
+ 
 
 ---
 

@@ -32,7 +32,7 @@ The medical supply is far below western standards, stay clean and healthy!
 
 [<http://www.friendsofmalawi.org/>](http://www.friendsofmalawi.org/)
 
-[Category:Africa](Category:Africa "Category:Africa"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+  
 
 ---
 

@@ -69,7 +69,7 @@ Pls add info
 
 - [Information, tips and personal experiences of hitch-hiking in Thailand. A 3437 km journey in 96 vehicles](http://marcandoelpolo.com/viajar-a-dedo-tailandia/) (only in Spanish), by Marcando el Polo
 
-[Category:Asia](Category:Asia "Category:Asia"){.wikilink} [\*](Category:Thailand "*"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+   
 
 ---
 

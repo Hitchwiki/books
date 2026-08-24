@@ -20,7 +20,7 @@ Same as in the rest of Scandinavia you can collect plastic bottles and cans, tak
 
 - [frigan.no](http://www.frigan.no) has info on freeganism in Norway, and a [forum](http://forum.frigan.no) for freegans.
 
-[Category:Norway](Category:Norway "Category:Norway"){.wikilink}
+
 
 ![Trashbooze.jpg](../../images/trashboozejpg.jpg)
 

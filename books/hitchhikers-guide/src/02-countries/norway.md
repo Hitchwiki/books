@@ -313,7 +313,7 @@ Hitchhiked all the Norway from far North to South in 20 days (Alta-Stavanger-Osl
 
 [Hitchhikers in Norway](https://www.facebook.com/groups/hitchhikersnorway/) FB group
 
-[E6](Category:E6 "E6"){.wikilink} [Category:Norway](Category:Norway "Category:Norway"){.wikilink} [Category:Northern Europe](Category:Northern_Europe "Category:Northern Europe"){.wikilink} [Category:East Route from North Cape to Cape of Good Hope](Category:East_Route_from_North_Cape_to_Cape_of_Good_Hope "Category:East Route from North Cape to Cape of Good Hope"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+     
 
 ---
 

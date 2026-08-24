@@ -275,7 +275,7 @@ Hitchhiking in Turkey for Girls:
 - [YouTube guide sharing practical tips on how to hitchhike safely as a girl](http://https://www.youtube.com/watch?v=RxfCLJZtboY)
 - A book about a solo female hitchhiking in 70 countries [Solo Female Traveller: What I Learnt from Hitchhiking in 70 Countries](http://mikastories.eu)
 
-[Category:General info](Category:General_info "Category:General info"){.wikilink}
+
 
 ---
 

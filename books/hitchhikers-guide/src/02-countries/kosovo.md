@@ -75,7 +75,7 @@ Albanian is the most commonly spoken language. Older people usually speak Serbia
 
 ## Personal Experiences {#personal_experiences}
 
-[Category:Europe](Category:Europe "Category:Europe"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+  
 
 ---
 

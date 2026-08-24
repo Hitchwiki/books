@@ -17,7 +17,7 @@ TV programms which covered [food](food "food"){.wikilink} [waste](waste "waste")
 - [www.foodwaste.ch](http://www.foodwaste.ch/) (covers dumpster diving in Switzerland and food waste related topics)
 - [Blick.ch: Der Müll-Protest](http://www.blick.ch/news/wirtschaft/der-muell-protest-id1881521.html)
 
-[Category:Switzerland](Category:Switzerland "Category:Switzerland"){.wikilink}
+
 
 ---
 

@@ -13,7 +13,7 @@
 - **[Swiss knife](https://en.wikipedia.org/wiki/Swiss_Army_knife)** are a bit more heavy and expensive but have more possibilities and the blade is of a nice quality.
 - Another French knife, **[Laguiole](https://en.wikipedia.org/wiki/Laguiole_knife)**. They are quite expensive but of a good quality, and often have a corkscrew which is missing on the Opinel and without all the other debatable accessories of the Swiss knife. Be careful, the brand \'Laguiole\' is not legally protected so there are many fake Laguiole, from Asia or even [France](France "France"){.wikilink}, make sure you get a real one if you pay the price for it.
 
-[Category:Food](Category:Food "Category:Food"){.wikilink}
+
 
 ---
 

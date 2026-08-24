@@ -73,7 +73,7 @@ Also, it\'s just polite to **write back to everyone who replied to you, to thank
 
 Remember, read the host profiles carefully and follow any instructions they include when writing your request.
 
-[Category:Tips](Category:Tips "Category:Tips"){.wikilink}
+
 
 ---
 

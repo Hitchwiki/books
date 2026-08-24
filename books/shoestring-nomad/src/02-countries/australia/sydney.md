@@ -8,7 +8,7 @@
 
 - **[Blue Mountains](Blue_Mountains "Blue Mountains"){.wikilink}** are some nice mountains that you can access driving a few hours from Sydney. Some places there are really touristic, some not at all and offer great walks!
 
-[Category:National parks](Category:National_parks "Category:National parks"){.wikilink}
+
 
 ---
 

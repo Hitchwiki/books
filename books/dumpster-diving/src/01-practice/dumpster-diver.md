@@ -67,7 +67,7 @@ Image:Guaka Getting Free Food.jpg\|If you ask nicely at [food markets](food_mark
 
 - [Dumpster diving](Dumpster_diving "Dumpster diving"){.wikilink}
 
-[Category:Philosophy](Category:Philosophy "Category:Philosophy"){.wikilink} [Category:Dumpster diving](Category:Dumpster_diving "Category:Dumpster diving"){.wikilink}
+ 
 
 ![Dumpster diving in canada.jpg‎](../../images/dumpster-diving-in-canadajpg.jpg)
 

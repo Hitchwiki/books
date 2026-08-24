@@ -88,7 +88,7 @@ I hitchhiked through the entirety of Serbia (North to South) in a single summer 
 
 [Lana in Serbia](http://lana-in-serbia.blogspot.com/2010/09/hrvatska-and-crna-gora-part-1.html) (hitchhiking through the Balkans)
 
-[Category:Serbia](Category:Serbia "Category:Serbia"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+  
 
 ---
 

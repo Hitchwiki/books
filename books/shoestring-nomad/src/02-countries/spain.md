@@ -1,6 +1,6 @@
 # Spain
 
-[Category:Spain](Category:Spain "Category:Spain"){.wikilink}
+
 
 ---
 

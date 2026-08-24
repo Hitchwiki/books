@@ -204,7 +204,7 @@ On all smartphones, there are mapping applications. Check [High-tech hitchhiking
 
 For maps regarding dumpster diving etc. see:.
 
-[Category:Equipment](Category:Equipment "Category:Equipment"){.wikilink}
+
 
 ---
 

@@ -110,7 +110,7 @@ While they are glad to please you when you visit them at an aquarium, please do 
 
 Please share what transports you have had with hitchhiking various transports.
 
-[Category:General info](Category:General_info "Category:General info"){.wikilink}
+
 
 ---
 

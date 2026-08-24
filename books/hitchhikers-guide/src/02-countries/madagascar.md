@@ -27,7 +27,7 @@ In late 2022, [Iris from Mind of a Hitchhiker](User:MOAH "Iris from Mind of a Hi
 </div>
 </div>
 
-[Category:Eastern Africa](Category:Eastern_Africa "Category:Eastern Africa"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+  
 
 ---
 

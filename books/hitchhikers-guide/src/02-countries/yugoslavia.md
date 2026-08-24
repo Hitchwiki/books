@@ -10,7 +10,7 @@ Starting in 1991, the country broke up in [Slovenia](Slovenia "Slovenia"){.wikil
 
 ## Personal Experiences {#personal_experiences}
 
-[Category:Europe](Category:Europe "Category:Europe"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+  
 
 ---
 

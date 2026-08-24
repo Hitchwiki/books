@@ -14,7 +14,7 @@ Hitching is very easy on Niue; almost anyone will pick you up. Traffic is genera
 
 ## Personal Experiences {#personal_experiences}
 
-[Category:Oceania](Category:Oceania "Category:Oceania"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+  
 
 ---
 

@@ -16,7 +16,7 @@ The independence was unbloody, but it\'s very possible that the old conflict wit
 
 ## Personal Experiences {#personal_experiences}
 
-[Category:Northern Africa](Category:Northern_Africa "Category:Northern Africa"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+  
 
 ---
 

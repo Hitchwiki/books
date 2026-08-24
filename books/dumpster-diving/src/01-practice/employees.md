@@ -6,7 +6,7 @@ If your actions go along with [diver\'s etiquette](diver's_etiquette "diver's et
 
 Some can be pure evil, though. For example, in [2008](2008 "2008"){.wikilink} employees of German \"[Lidl](Lidl "Lidl"){.wikilink}\" in [Stockholm](Stockholm "Stockholm"){.wikilink} [poured a corrosive liquid](http://translate.google.com/translate?u=http%3A%2F%2Fwww.dn.se%2FDNet%2Fjsp%2Fpolopoly.jsp%3Fa%3D851248&hl=en&ie=UTF-8&sl=sv&tl=en), the equivalent of chlorine, on food that would be discarded, in order to keep homeless people away from dumpster diving (this case was filed for police investigation, and the managing director of *Lidl Sweden* called the incident \"extremely regrettable\").
 
-[Category:Dumpster diving](Category:Dumpster_diving "Category:Dumpster diving"){.wikilink}
+
 
 ---
 

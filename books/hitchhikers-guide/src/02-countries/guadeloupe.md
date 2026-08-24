@@ -22,7 +22,7 @@ Guadeloupe is an overseas department, so the French *code de la route* applies i
 
 ## Personal Experiences {#personal_experiences}
 
-[Category:Island](Category:Island "Category:Island"){.wikilink} [Category:France](Category:France "Category:France"){.wikilink} [Category:Overseas departments and territories of France](Category:Overseas_departments_and_territories_of_France "Category:Overseas departments and territories of France"){.wikilink} [Category:South America](Category:South_America "Category:South America"){.wikilink} [Category:Caribbean](Category:Caribbean "Category:Caribbean"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+      
 
 ---
 

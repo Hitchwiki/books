@@ -6,7 +6,7 @@ English channel is #hitchhiking on Libera.chat
 
 - <https://en.wikipedia.org/wiki/Irc>
 
-[Category:General info](Category:General_info "Category:General info"){.wikilink}
+
 
 ---
 

@@ -28,7 +28,7 @@ In a lot of [European](Europe "Europe"){.wikilink} countries, most of the [truck
 
 In general, because of the length of the days and the cold [Winter](Winter "Winter"){.wikilink} is bad, Autumn is also not that great, especially late Autumn. Spring and Summer are best, especially around the longest day, 21st of June (in the Northern hemisphere of course).
 
-[Category:General info](Category:General_info "Category:General info"){.wikilink}
+
 
 ---
 

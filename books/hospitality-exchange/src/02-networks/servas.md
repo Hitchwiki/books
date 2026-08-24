@@ -21,7 +21,7 @@ Unlike other hospitality exchange networks, Servas makes a clear distinction bet
 
 (Each National Servas Country can have its own website, usually reachable from the main international site.)
 
-[Category:Hospitality exchange networks](Category:Hospitality_exchange_networks "Category:Hospitality exchange networks"){.wikilink}
+
 
 ---
 

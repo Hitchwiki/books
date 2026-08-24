@@ -74,7 +74,7 @@ Some Beeline SIM-cards a bit expensive but no need any ID(2010). SMS 0,05USD. Mo
 - Analyses on [- Hitchhiking in Kazakhztan.](https://warmroads.de/en/hitchhiking-in-20-kazakhztan/) by [Korn](User:Korn "Korn"){.wikilink} on <https://warmroads.de>
 - [Lot of information, tips and personal experiences of hitch-hiking in Central Asia (Kazakhstan, Kyrgyzstan, Tajikistan and Uzbekistan). Only in spanish](http://marcandoelpolo.com/como-es-viajar-a-dedo-por-asia-central-kazajistan-kirguistan-tayikistan-uzbekistan/)
 
-[Category:Asia](Category:Asia "Category:Asia"){.wikilink} [Category:Central Asia](Category:Central_Asia "Category:Central Asia"){.wikilink} [\*](Category:Kazakhstan "*"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+    
 
 ---
 

@@ -63,7 +63,7 @@ I hitchhiked from HO chi Minh to Hanoi February 2024 and it was super easy! neve
 </div>
 </div>
 
-[Category:Vietnam](Category:Vietnam "Category:Vietnam"){.wikilink} [Category:Asia](Category:Asia "Category:Asia"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+   
 
 ---
 

@@ -140,7 +140,7 @@ It was my starting location and final one, so it\'s my home country. Some people
 </div>
 </div>
 
-[ ](Category:Estonia " "){.wikilink} [Category:Northern Europe](Category:Northern_Europe "Category:Northern Europe"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+   
 
 ---
 

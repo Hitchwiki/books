@@ -32,7 +32,7 @@ Mind you, [Sao Miguel](Sao_Miguel "Sao Miguel"){.wikilink} is the most populated
 
 ## Personal Experiences {#personal_experiences}
 
-[Category:Portugal](Category:Portugal "Category:Portugal"){.wikilink} [Category:Southern Europe](Category:Southern_Europe "Category:Southern Europe"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+   
 
 ---
 

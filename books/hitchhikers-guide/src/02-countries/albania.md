@@ -66,7 +66,7 @@ Best to not try and stop a car until you\'re past the taxi stands and out of sig
 
 [Albania](http://en.wikivoyage.org/wiki/Albania) on Wikivoyage
 
-[Category:Albania](Category:Albania "Category:Albania"){.wikilink} [Category:Southern Europe](Category:Southern_Europe "Category:Southern Europe"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+   
 
 ---
 

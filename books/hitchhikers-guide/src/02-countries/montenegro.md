@@ -78,7 +78,7 @@ Experience learns that it is best to ASK people directly! Also, if you are heade
 
 ## Personal Experiences {#personal_experiences}
 
-[ ](Category:Montenegro " "){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+  
 
 ---
 

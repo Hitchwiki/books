@@ -93,7 +93,7 @@ Regarding sleeping bags for extreme winter conditions (below -40C), forget about
 
 Image:2001_Hitch-hiking_in_Russia.jpg\|Hitchhiking in [Russia](Russia "Russia"){.wikilink} Image:2002_hitch_hiking_in_Norway.jpg\|Hitchhiking in [Norway](Norway "Norway"){.wikilink} Image:Parnu-riga.jpg\|Hitchhiking in [Estonia](Estonia "Estonia"){.wikilink} Image:Erzurum.JPG\|Early morning and -25°C in [Erzurum](Erzurum "Erzurum"){.wikilink}, one of the coldest places in [Turkey](Turkey "Turkey"){.wikilink}; leaving the town towards West. <File:Lisa> in the Snow.jpeg\|Towards Karlsruhe.
 
-[Category:General info](Category:General_info "Category:General info"){.wikilink} [Category:General info](Category:General_info "Category:General info"){.wikilink} [Category:Winter](Category:Winter "Category:Winter"){.wikilink}
+  
 
 ---
 

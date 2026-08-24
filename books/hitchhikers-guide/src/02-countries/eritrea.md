@@ -14,7 +14,7 @@ There are landmines in all border regions of Eritrea, avoid crossing illegal!
 
 ## Personal Experiences {#personal_experiences}
 
-[Category:Eastern Africa](Category:Eastern_Africa "Category:Eastern Africa"){.wikilink} [Category:Africa](Category:Africa "Category:Africa"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+   
 
 ---
 

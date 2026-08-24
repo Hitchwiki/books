@@ -54,7 +54,7 @@ When you are travelling without a bike, sometimes you miss so much to ride on a 
 - Make a sign on the street saying \"I am looking for a free/cheap bike\" while [busking](busking "busking"){.wikilink} (or not).
 - Go in some small villages and ask the grand pa\'s or grand ma\'s if they have old bike rusting in the basement. Sometimes you\'ll find really awesome bikes!
 
-[Category:Transport](Category:Transport "Category:Transport"){.wikilink}
+
 
 ---
 

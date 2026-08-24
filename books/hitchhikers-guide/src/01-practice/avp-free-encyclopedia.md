@@ -10,7 +10,7 @@
 
 - <http://ve.free-travels.ru/>
 
-[Category:General info](Category:General_info "Category:General info"){.wikilink}
+
 
 ---
 

@@ -26,7 +26,7 @@ For the growth to be healthy we need to have a good group of people who are able
 - More coders, higher code [pulse](https://github.com/Trustroots/trustroots/pulse) and more [commit activity](https://github.com/Trustroots/trustroots/graphs/commit-activity)
 - Outreach on social media ([Facebook](Facebook "Facebook"){.wikilink}) and to classic media
 
-[Category:CouchSurfing](Category:CouchSurfing "Category:CouchSurfing"){.wikilink}
+
 
 ---
 

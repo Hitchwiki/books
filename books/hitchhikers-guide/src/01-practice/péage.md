@@ -17,7 +17,7 @@ Some *barrière de péage* are really good, some are not. If you\'ve been waitin
 
 While on a toll road, you can always try hitchhiking from one [petrol station](petrol_station_hitchhiking "petrol station"){.wikilink} to another, either asking drivers while they refill, or thumbing at the exit of the [service area](rest_area "service area"){.wikilink}. The staff usually doesn\'t mind hitchhikers.
 
-[Category:General info](Category:General_info "Category:General info"){.wikilink}
+
 
 ---
 

@@ -29,7 +29,7 @@ The EU doesn\'t recognise the Turkish right to put a border, so if you have a pa
 
 ## Personal Experiences {#personal_experiences}
 
-[Category:Europe](Category:Europe "Category:Europe"){.wikilink} [Category:Middle East](Category:Middle_East "Category:Middle East"){.wikilink} [Category:Western Asia](Category:Western_Asia "Category:Western Asia"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+    
 
 ---
 

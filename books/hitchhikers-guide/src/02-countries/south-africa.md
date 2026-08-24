@@ -65,7 +65,7 @@ South Africa is a must stop for yachts sailing around the world, as the Red Sea 
 
 - How to Hitchhike in Southern Africa: 15 Tips [1](http://matadortrips.com/how-to-hitchhike-in-southern-africa-15-tips)
 
-[Category:Africa](Category:Africa "Category:Africa"){.wikilink} [Category:South Africa](Category:South_Africa "Category:South Africa"){.wikilink} [Category:East Route from North Cape to Cape of Good Hope](Category:East_Route_from_North_Cape_to_Cape_of_Good_Hope "Category:East Route from North Cape to Cape of Good Hope"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+    
 
 ---
 

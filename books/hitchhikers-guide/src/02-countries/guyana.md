@@ -31,7 +31,7 @@ in august 2024 for 10 days, i hitched from lethem to Mabura, after waiting 7 hou
 </div>
 </div>
 
-[ ](Category:Guyana " "){.wikilink} [Category:South America](Category:South_America "Category:South America"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+   
 
 ---
 

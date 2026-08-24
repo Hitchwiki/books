@@ -157,7 +157,7 @@ The border crossing at Tonpheung is only open for locals.
 
 [Information, tips and personal experiences of hitch-hiking in Laos. A 1707 km journey on 26 vehicles (only in spanish)](http://marcandoelpolo.com/viajar-dedo-por-laos-mision-imposible/), by Marcando el Polo
 
-[Category:Asia](Category:Asia "Category:Asia"){.wikilink} [\*](Category:Laos "*"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+   
 
 ---
 

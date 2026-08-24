@@ -71,7 +71,7 @@ A blog about the stories of a hitchhiker with [many stories about Pakistan from 
 
 [The road from Pakistan to China in detail (August 2017)](https://www.facebook.com/tripsandquips/posts/1676525842391885)
 
-[Category:Southern Asia](Category:Southern_Asia "Category:Southern Asia"){.wikilink} [Category:Pakistan](Category:Pakistan "Category:Pakistan"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+   
 
 ---
 

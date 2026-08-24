@@ -32,7 +32,7 @@ Some non-technical areas to explore are:
 
 [Decentralized networks](Decentralized_networks "Decentralized networks"){.wikilink}
 
-[Category:P2P Hospitality](Category:P2P_Hospitality "Category:P2P Hospitality"){.wikilink}
+
 
 ---
 

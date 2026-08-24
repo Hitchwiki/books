@@ -14,7 +14,7 @@ See also:
 
 - <http://www.fsis.usda.gov/FactSheets/Molds_On_Food/#16>
 
-[Category:Dumpster diving](Category:Dumpster_diving "Category:Dumpster diving"){.wikilink} [Category:General info](Category:General_info "Category:General info"){.wikilink}
+ 
 
 ---
 

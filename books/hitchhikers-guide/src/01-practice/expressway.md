@@ -6,7 +6,7 @@ An \'\'\'\'\'\' is usually a road with a standard less than a [motorway](motorwa
 
 But these roads need not to be a national road, they can be long distance roads, but they can also only short pieces like bypasses.
 
-[Category:General info](Category:General_info "Category:General info"){.wikilink} [Category:Expressways](Category:Expressways "Category:Expressways"){.wikilink} [Category:Roads](Category:Roads "Category:Roads"){.wikilink}
+  
 
 ---
 

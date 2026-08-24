@@ -135,7 +135,7 @@ I entered Kurdistan from Turkey at Ibrahim Khalil and hitchhiked around Kurdista
 </div>
 </div>
 
-[Category:Middle East](Category:Middle_East "Category:Middle East"){.wikilink} [Category:E90](Category:E90 "Category:E90"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+   
 
 ---
 

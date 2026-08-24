@@ -9,7 +9,7 @@ Croatia gets quite touristic during the summer months and visiting in autumn mig
 - [Plitvička Jezera](Plitvička_Jezera "Plitvička Jezera"){.wikilink} national park
 - Bay of the abandoned hotels in [Kupari](Kupari "Kupari"){.wikilink}
 
-[Category:National parks](Category:National_parks "Category:National parks"){.wikilink}
+
 
 ![Croatia_minefields.png](../../images/croatia_minefieldspng.jpg)
 

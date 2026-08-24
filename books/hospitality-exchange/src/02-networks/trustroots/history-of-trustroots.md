@@ -33,7 +33,7 @@ abunding, abundice, abundness, abundly, abundeous, axessible, axess, trusteous, 
 - Tribal community
 - Welcome home
 
-[Category:Trustroots](Category:Trustroots "Category:Trustroots"){.wikilink}
+
 
 ---
 

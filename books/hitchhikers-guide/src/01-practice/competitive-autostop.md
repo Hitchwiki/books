@@ -40,7 +40,7 @@ In order to organize and connect the various international **competitive autosto
 - [PASL](https://new.vk.com/pasl_beginners) group page
 - [Minsk](https://new.vk.com/event91105322) Sport Hitchhiking Event for Belarus
 
-[Category:General info](Category:General_info "Category:General info"){.wikilink}
+
 
 ---
 

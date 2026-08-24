@@ -46,7 +46,7 @@ Hitchhiking in the mountains and near/towards the beach might be quite easy, whi
 
 *The law here has not been checked.* Nobody has yet read the road traffic rules in force in Lebanon against the official text, so this section cannot tell you what they say, and nothing elsewhere on this page should be read as a statement of the law. What holds almost everywhere is that hitchhiking is not an offence in itself and that what the traffic code regulates is where a pedestrian may stand --- off the carriageway, and off motorway-class roads and their slip roads altogether --- but whether that is true here is simply unknown. Ask locally before standing on a major road, and treat the rest of this article as what hitchhikers report rather than as a rule you can rely on. If you can read the official text, please replace this paragraph with the provision it turns on and a link to it.
 
-[Category:Middle East](Category:Middle_East "Category:Middle East"){.wikilink} [Category:Lebanon](Category:Lebanon "Category:Lebanon"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+   
 
 ---
 

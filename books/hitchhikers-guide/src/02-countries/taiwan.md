@@ -77,7 +77,7 @@ Taiwan is quite a developed country, as you will see when first entering Taipei.
 
 - [Information, tips and personal experiences of hitch-hiking in Taiwan. A 785 km journey on 24 vehicles (only in spanish)](http://marcandoelpolo.com/viajar-a-dedo-taiwan-autostop/)
 
-[Category:Asia](Category:Asia "Category:Asia"){.wikilink} [Category:Taiwan](Category:Taiwan "Category:Taiwan"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+   
 
 ---
 

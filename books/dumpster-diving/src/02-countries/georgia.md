@@ -12,7 +12,7 @@ In big cities containers are not bad and people care less about it, once again: 
 
  "hitch:Georgia (country)"){.wikilink}
 
-[Category:Georgia](Category:Georgia "Category:Georgia"){.wikilink}
+
 
 ---
 

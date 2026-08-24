@@ -75,7 +75,7 @@ Let\'s see what happens with messages mentioning other websites such as:
 - couchsurfing.org/group_read.html?gid=10&post=1013924 Warning about systematic censorship on the HC forum, May 14, 2008
 - couchsurfing.org/group_read.html?gid=10&post=542120 HC/CS meeting censorship\... November 30th, 2007
 
-[Category:Censorship](Category:Censorship "Category:Censorship"){.wikilink}
+
 
 ---
 

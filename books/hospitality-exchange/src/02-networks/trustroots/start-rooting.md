@@ -101,7 +101,7 @@ Check our page about [safety](safety "safety"){.wikilink} to read more about exa
 
 This whole platform is designed and maintained by volunteers. You can be a part of it! We have a small team and work by the principle of do-ocracy. Therefore no one is told what to do and everyone works on the projects/tasks they like. This also means that sometimes it can take a while before we can fix things, get back to you or be active through social channels for example. Be patient, stay positive but even better: think about what you could do to push things forward yourself. Our team is open for everyone and even the smallest task or temporarily help is greatly appreciated. You can get in touch with support[11](https://www.trustroots.org/support) to get an invite to our slack channel.
 
-[Category:Tips](Category:Tips "Category:Tips"){.wikilink}
+
 
 ---
 

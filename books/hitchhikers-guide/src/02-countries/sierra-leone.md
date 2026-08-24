@@ -14,7 +14,7 @@ Since the end of the civil war in 2002 the situation has drastically improved an
 
 ## Personal Experiences {#personal_experiences}
 
-[Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+ 
 
 ---
 

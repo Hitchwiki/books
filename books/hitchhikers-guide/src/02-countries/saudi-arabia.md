@@ -99,7 +99,7 @@ In 2015 I was able to get a 3 day transit visa at the vfs Tasheel office in Amma
 </div>
 </div>
 
-[Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+ 
 
 ---
 

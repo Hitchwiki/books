@@ -22,7 +22,7 @@
 
 *\" I have hitchhiked just few days around Poland but from my experiences Poland is great country for dumpster diving. Many supermarkets have open dumpsters so you can simply come and take whatever you want. For sure you shouldn´t be hungry in this country*\" - Kral vsech mori, July 2017
 
-[Category:Poland](Category:Poland "Category:Poland"){.wikilink}
+
 
 ---
 

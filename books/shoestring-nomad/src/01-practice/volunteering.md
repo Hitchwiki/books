@@ -68,7 +68,7 @@ You can add yourself here if you\'re ready to host volunteers. Be aware that thi
 
 This page from the Facebook group cannot be copied here: <https://www.facebook.com/groups/FREE.NOMADS/doc/1417143698497347/>
 
-[Category:Volunteering](Category:Volunteering "Category:Volunteering"){.wikilink}
+
 
 ---
 

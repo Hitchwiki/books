@@ -8,7 +8,7 @@ They are marked by a rectangular blue sign bearing a white letter P.
 
 At some larger lay-bys mobile catering is provided by vendors operating from converted caravans, trailers or coaches. These facilities generally offer much better value for money than roadside restaurants and therefore tend to be popular with truckers.
 
-[Category:General info](Category:General_info "Category:General info"){.wikilink}
+
 
 ---
 

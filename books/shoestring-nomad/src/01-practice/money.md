@@ -40,7 +40,7 @@ While not a new concept, a growing of nomads are seeking to travel and live mone
 - [How to travel the world with almost no money - Tomislav Perko](https://www.youtube.com/watch?v=R7vmHGAshi8)
 - [Travelling without spending money](https://www.youtube.com/watch?v=Q_c8dsisHAc) \| Simon Dabbicco \| TEDxCrocettaSalon
 
-[Category:Money](Category:Money "Category:Money"){.wikilink}
+
 
 ---
 

@@ -170,7 +170,7 @@ Hitchhiked along the Black Sea Coast from Georgia to Bulgaria. Turkey was easy e
 - [Hitchhiking Guide to Turkey for girls](http://youarealltourists.blogspot.com/2008/04/hitchhiking-guide-to-turkey-for-girls.html)
 - User [Craig](User:Halt,_Stop!_Reudnitz_kommt. "Craig"){.wikilink} hitched along the Silk Road and wrote about his experiences here: [Thumbing Asia From West to East](http://thumbingasia.blogspot.com/) Turkey was big fun to hitch-hike. People are really hospitable everywhere - from Istanbul to Capaddocia, from Antep to Kurdistan!
 
-[Category:Turkey](Category:Turkey "Category:Turkey"){.wikilink} [Category:Western Asia](Category:Western_Asia "Category:Western Asia"){.wikilink} [Category:Southern Europe](Category:Southern_Europe "Category:Southern Europe"){.wikilink} [Category:East Route from North Cape to Cape of Good Hope](Category:East_Route_from_North_Cape_to_Cape_of_Good_Hope "Category:East Route from North Cape to Cape of Good Hope"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+     
 
 ---
 

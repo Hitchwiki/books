@@ -16,7 +16,7 @@ Viti Levu is well attended by public transport. Cities as Suva, Nadi, Lautoka ar
 
 ## Personal Experiences {#personal_experiences}
 
-[Category:Oceania](Category:Oceania "Category:Oceania"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+  
 
 ---
 

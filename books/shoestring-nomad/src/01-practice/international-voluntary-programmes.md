@@ -14,7 +14,7 @@ Grundtvig programs are similar to Youth in Action, but without age restriction. 
 
 The European Voluntary Service (EVS) provides young [Europeans](Europe "Europe"){.wikilink} with the unique chance to express their personal commitment through unpaid and full-time voluntary activities in a foreign country within or outside the EU. In this way, it seeks to develop solidarity, mutual understanding and tolerance among young people, thus contributing to reinforcing social cohesion in the European Union and to promoting young people\'s active citizenship. It\'s free for volunteers, and you receive free accommodation and food, insurance and pocket money. The only thing you might have to pay is a small part (maximum 10%) of your travel costs. Usually volunteers must be 18 - 30 years old on the application deadline. - <http://ec.europa.eu/youth/youth-in-action-programme/european-voluntary-service_en.htm>
 
-[Category:Volunteering](Category:Volunteering "Category:Volunteering"){.wikilink}
+
 
 ---
 

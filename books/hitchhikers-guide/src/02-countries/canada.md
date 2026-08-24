@@ -73,7 +73,7 @@ Canada is pretty easy to hitch in the whole country except maybe for Wawa aka hi
 </div>
 </div>
 
-[ ](Category:Canada " "){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+  
 
 ---
 

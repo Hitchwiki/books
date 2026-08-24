@@ -10,7 +10,7 @@
 - [Usti nad labem](Usti_nad_labem "Usti nad labem"){.wikilink}
 - `<small>`{=html}add more?`</small>`{=html}
 
-[Category:Czech Republic](Category:Czech_Republic "Category:Czech Republic"){.wikilink}
+
 
 ---
 

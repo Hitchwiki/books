@@ -10,7 +10,7 @@
 - [Train](Train "Train"){.wikilink}
 - [Airplane](Airplane "Airplane"){.wikilink}, [Hitchhiking airplanes](Hitchhiking_airplanes "Hitchhiking airplanes"){.wikilink}
 
-[Category:Transport](Category:Transport "Category:Transport"){.wikilink}
+
 
 ---
 

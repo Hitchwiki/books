@@ -12,7 +12,7 @@ was created to encourage food donation to nonprofit organizations by minimizing 
 
 The Federal Bill Emerson Good Samaritan Food Donation Act protects the donor and the recipient agency against liability, excepting only gross negligence and/or intentional misconduct. In addition, each state has passed Good Samaritan Laws that provide liability protection to good faith donors.
 
-[ ](Category:Dumpster_diving " "){.wikilink} [ ](Category:Law " "){.wikilink}
+ 
 
 ---
 

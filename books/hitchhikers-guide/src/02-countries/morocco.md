@@ -115,7 +115,7 @@ Surprisingly I the first one to wright about a past experience about hitchhiking
 </div>
 </div>
 
-[Category:Northern Africa](Category:Northern_Africa "Category:Northern Africa"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+  
 
 ---
 

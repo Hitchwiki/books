@@ -121,7 +121,7 @@
 - [Studcouch](http://vk.com/studcouch) (The most popular travel group in Ukraine, mainly for couchsurfing and hitchhiking. Doesn\'t have FB page, only Vkontakte)
 - [Let\'s go fest](http://vk.com/gayda_fest) (Annual festival with special stage for hitchhikers)
 
-[Category:General info](Category:General_info "Category:General info"){.wikilink} [Category:Clubs](Category:Clubs "Category:Clubs"){.wikilink} [Category:Organizations](Category:Organizations "Category:Organizations"){.wikilink}
+  
 
 ---
 

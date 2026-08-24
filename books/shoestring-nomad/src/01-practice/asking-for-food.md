@@ -12,7 +12,7 @@ It will be up to your honesty evaluate if you can\'t actually afford to spend mo
 
 The situation can be really awkward and strange from the emotional point of view especially if you are not used to it.
 
-[Category:Guides](Category:Guides "Category:Guides"){.wikilink} [Category:Food](Category:Food "Category:Food"){.wikilink}
+ 
 
 ---
 

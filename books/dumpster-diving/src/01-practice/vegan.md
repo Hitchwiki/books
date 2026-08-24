@@ -10,7 +10,7 @@ Among [freegans](freegan "freegan"){.wikilink} and [dumpster divers](dumpster_di
 
 Whilst the act of salvaging animal products is ethically vegan, it makes sense to distinguish the act of eating not-dietary vegan food as doing something freegan.
 
-[Category:General info](Category:General_info "Category:General info"){.wikilink}
+
 
 ![V for vegan relief frosted glass reedited.png](../../images/v-for-vegan-relief-frosted-glass-reeditedpng.jpg)
 

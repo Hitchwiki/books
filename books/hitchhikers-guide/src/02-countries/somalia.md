@@ -12,7 +12,7 @@ It\'s not a very good place to hitchhike. Check out [Puntland](Puntland "Puntlan
 
 ## Personal Experiences {#personal_experiences}
 
-[Category:Africa](Category:Africa "Category:Africa"){.wikilink} [Category:Eastern Africa](Category:Eastern_Africa "Category:Eastern Africa"){.wikilink} [Category:Somalia](Category:Somalia "Category:Somalia"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+    
 
 ---
 

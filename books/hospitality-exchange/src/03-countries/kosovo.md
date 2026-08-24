@@ -166,7 +166,7 @@ We are working on making streetmaps of kosovo. you can help out! couchsurfing.or
 
 couchsurfing.com/group.html?gid=8608
 
-[Category:Europe](Category:Europe "Category:Europe"){.wikilink}
+
 
 ---
 

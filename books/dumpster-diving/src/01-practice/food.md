@@ -4,7 +4,7 @@
 
 A lot of people dumpster dive and never take (or find) any food.
 
-[Category:Food](Category:Food "Category:Food"){.wikilink}
+
 
 ---
 

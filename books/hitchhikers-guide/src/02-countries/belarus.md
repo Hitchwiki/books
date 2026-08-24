@@ -124,7 +124,7 @@ Please note that while there is no border control between Belarus and Russia Bel
 
 Pls add info
 
-[ ](Category:Belarus " "){.wikilink} [Category:Eastern Europe](Category:Eastern_Europe "Category:Eastern Europe"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+   
 
 ---
 

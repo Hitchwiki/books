@@ -25,7 +25,12 @@ from titles import (
     city_part,
     country_slug_for_city,
 )
-from wiki_links import strip_interwiki_markdown, strip_interwiki_wikitext
+from wiki_links import (
+    strip_category_markdown,
+    strip_category_wikitext,
+    strip_interwiki_markdown,
+    strip_interwiki_wikitext,
+)
 
 FILE_RE = re.compile(r"\[\[\s*(?:File|Image|file|image)\s*:\s*([^|\]]+)", re.I)
 NS = {"mw": "http://www.mediawiki.org/xml/export-0.11/"}
@@ -214,6 +219,7 @@ def resolve_page(title: str, pages: dict[str, str]) -> tuple[str, str] | None:
 
 def wikitext_to_markdown(wikitext: str, *, strip_spots: bool = False) -> str:
     wikitext = strip_templates(wikitext)
+    wikitext = strip_category_wikitext(wikitext)
     wikitext = strip_interwiki_wikitext(wikitext)
     if strip_spots:
         wikitext = strip_spot_sections(wikitext)
@@ -227,7 +233,7 @@ def wikitext_to_markdown(wikitext: str, *, strip_spots: bool = False) -> str:
             check=False,
         )
         if proc.returncode == 0 and proc.stdout.strip():
-            return strip_interwiki_markdown(proc.stdout)
+            return strip_category_markdown(strip_interwiki_markdown(proc.stdout))
     except (FileNotFoundError, subprocess.TimeoutExpired):
         pass
     text = re.sub(r"\{\{[^}]+\}\}", "", wikitext)
@@ -235,7 +241,7 @@ def wikitext_to_markdown(wikitext: str, *, strip_spots: bool = False) -> str:
     text = re.sub(r"\[\[([^\]]+)\]\]", r"\1", text)
     text = re.sub(r"'''(.+?)'''", r"**\1**", text)
     text = re.sub(r"''(.+?)''", r"*\1*", text)
-    return strip_interwiki_markdown(text)
+    return strip_category_markdown(strip_interwiki_markdown(text))
 
 
 def collect_titles(wiki: str, cfg: dict) -> tuple[list[str], list[str]]:

@@ -45,7 +45,7 @@ Pls add info
 
 [Information, tips and personal experiences of hitch-hiking in Cambodia. A 2103 km journey on 40 vehicles and 1 boat! (only in spanish)](http://marcandoelpolo.com/viajar-dedo-autostop-camboya/), by Marcando el Polo
 
-[Category:Cambodia](Category:Cambodia "Category:Cambodia"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+  
 
 ---
 

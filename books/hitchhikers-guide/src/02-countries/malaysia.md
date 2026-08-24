@@ -93,7 +93,7 @@ User [Craig](User:Halt,_Stop!_Reudnitz_kommt. "Craig"){.wikilink} hitched along 
 - [Information, tips and personal experiences of hitch-hiking in Malaysia. A 2021 km journey on 40 vehicles (only in spanish)](http://marcandoelpolo.com/como-es-viajar-a-dedo-autostop-por-malasia/), by Marcando el Polo
 - An aimless hitchhiker thinks Malaysia is a really easy country to hitchhike! Read about her experiences [here](https://anaimlesshitchhiker.com/2016/10/31/hitchhiking-hiking-camping-malaysia/)
 
-[Category:Malaysia](Category:Malaysia "Category:Malaysia"){.wikilink} [Category:Asia](Category:Asia "Category:Asia"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+   
 
 ---
 

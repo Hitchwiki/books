@@ -56,7 +56,7 @@ Some materials bring higher prices. A useful site for learning what types of ele
 - [Coin](Coin "Coin"){.wikilink}
 - Moneyless.org
 
-[Category:General info](Category:General_info "Category:General info"){.wikilink} [Category:Ideas](Category:Ideas "Category:Ideas"){.wikilink}
+ 
 
 ![Scheisegal20 sirla.jpg](../../images/scheisegal20-sirlajpg.jpg)
 

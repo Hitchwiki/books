@@ -16,7 +16,7 @@ If heading from [Bandar Seri Begawan](Bandar_Seri_Begawan "Bandar Seri Begawan")
 
 Pls add info
 
-[Category:Brunei](Category:Brunei "Category:Brunei"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+  
 
 ---
 

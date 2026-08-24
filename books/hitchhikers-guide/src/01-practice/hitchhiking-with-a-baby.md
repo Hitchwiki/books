@@ -32,7 +32,7 @@ In addition to that, many drivers drive around with an empty baby seat. Those wi
 - C\'est comment voyager à la dure avec un bébe by [Bibi\'s dad](User:Sitarane "Bibi's dad"){.wikilink}
 - [Viajando con un bébé - preguntas frecuentes](http://es.bibiontheroad.net/?p=178), by Bibi\'s mother
 
-[Category:General info](Category:General_info "Category:General info"){.wikilink}
+
 
 ---
 

@@ -151,7 +151,7 @@ Small. Close to Wakō-shi. Often omitted even from highway maps since it doesn\'
 
 Etc <https://www.tsunagujapan.com/o-gui-eating-challenges-in-tokyo/>
 
-[Category:Cities](Category:Cities "Category:Cities"){.wikilink} [Category:Japan](Category:Japan "Category:Japan"){.wikilink}
+ 
 
 ---
 

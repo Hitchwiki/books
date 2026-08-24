@@ -100,7 +100,7 @@ I even managed to take some photos with the taliban 😁. This may come across a
 
 - [e-ariana](http://www.e-ariana.com/)
 
-[Category:Asia](Category:Asia "Category:Asia"){.wikilink} [Category:Southern Asia](Category:Southern_Asia "Category:Southern Asia"){.wikilink} [Category:Afghanistan](Category:Afghanistan "Category:Afghanistan"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+    
 
 ---
 

@@ -68,7 +68,7 @@ I spent one month in El Salvador between february and march 2016 using mostly my
 
 ![A \"traffic jam\" on the roads of El Salvador](El_Salvador_traffic_jam.jpg "A "traffic jam" on the roads of El Salvador"){width="220"}
 
-[Category:El Salvador](Category:El_Salvador "Category:El Salvador"){.wikilink} [Category:Central America](Category:Central_America "Category:Central America"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+   
 
 ---
 

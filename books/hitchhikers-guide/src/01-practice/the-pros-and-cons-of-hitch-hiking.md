@@ -21,7 +21,7 @@
 - Some drivers are far less talkative than what you would feel yourself comfortable.
 - [Traveling at night](Hitchhiking_at_night "Traveling at night"){.wikilink} saves a lot of time, but it can be difficult to hitchhike at night.
 
-[Category:General info](Category:General_info "Category:General info"){.wikilink}
+
 
 ---
 

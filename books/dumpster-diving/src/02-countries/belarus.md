@@ -7,7 +7,7 @@
 - [Minsk](Minsk "Minsk"){.wikilink}
 - *add more?*
 
-[Category:Belarus](Category:Belarus "Category:Belarus"){.wikilink} [Category:Europe](Category:Europe "Category:Europe"){.wikilink}
+ 
 
 ---
 

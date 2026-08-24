@@ -21,7 +21,7 @@ Last but not least small street bins (wall hung round style) in touristic places
 - [Cluj-Napoca](Cluj-Napoca "Cluj-Napoca"){.wikilink}
 - [Sibiu](Sibiu "Sibiu"){.wikilink}
 
-[Category:Romania](Category:Romania "Category:Romania"){.wikilink}
+
 
 ---
 

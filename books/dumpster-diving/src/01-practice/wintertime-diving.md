@@ -24,7 +24,7 @@ If you want to take the frozen fruits and vegetables anyway, you should store yo
 
 - [Preservation](Preservation "Preservation"){.wikilink}
 
-[Category:Dumpster diving](Category:Dumpster_diving "Category:Dumpster diving"){.wikilink}
+
 
 ---
 

@@ -12,7 +12,7 @@ Hitchhiking is not easy on the island, but not impossible. You will probably wai
 
 ## Personal Experiences {#personal_experiences}
 
-[Category:Caribbean](Category:Caribbean "Category:Caribbean"){.wikilink} [Category:Island](Category:Island "Category:Island"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+   
 
 ---
 

@@ -78,7 +78,7 @@ Feasible DIY medicine
 
 - <http://www.telegraph.co.uk/finance/personalfinance/insurance/travel/8615933/What-does-my-EHIC-entitle-me-to.html>
 
-[Category:Health](Category:Health "Category:Health"){.wikilink}
+
 
 ---
 

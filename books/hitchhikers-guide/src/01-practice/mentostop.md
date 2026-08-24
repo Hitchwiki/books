@@ -32,7 +32,7 @@ In Mauritania, there\'s a police checkpoint every 20 kilometers or so. Most poli
 
 There are many police checkpoints (often, but not always in use) at the entrance to major cities. The officers were always helpful, and amongst food and mate, every truck driver passing through was queried on their destination to assist hitch-hikers.
 
-[Category:General info](Category:General_info "Category:General info"){.wikilink}
+
 
 ---
 

@@ -41,7 +41,7 @@ As a result of a disagreement between Veit Kühne and active Hospitality Club vo
 
 - [Detailed Volunteer Information](http://web.archive.org/web/20080202024205/http://secure.hospitalityclub.org/hc/volunteerinfo.php)
 
-[Category:Hospitality exchange networks](Category:Hospitality_exchange_networks "Category:Hospitality exchange networks"){.wikilink}
+
 
 [^1]: Based on statistics from [Hospitality Club \'Main Menu\'](http://secure.hospitalityclub.org/hc/menu.php) page visible for logged-in members only; retrieved on August 8, 2009.
 

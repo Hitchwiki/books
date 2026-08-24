@@ -4,7 +4,7 @@ Circles are collections of people who share an interest. Joining them helps you 
 
 Joining a [circle](https://www.trustroots.org/circles/) is easy. Just go the \[circles\] page, see which ones you feel are right for you and click join. If there are any circles you think are missing you can send the volunteers a [suggestions](https://docs.google.com/forms/d/e/1FAIpQLSfJrw7Iche4mpgXgJ-FPyyQeyMGftRIz2t004kcIBtgPQQC2w/viewform).
 
-[Category:Trustroots](Category:Trustroots "Category:Trustroots"){.wikilink}
+
 
 ---
 

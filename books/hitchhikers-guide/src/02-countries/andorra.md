@@ -36,7 +36,7 @@ It\'s recommended to ask people at the petrol stations, gas is cheaper in Andorr
 
 \[\[ru:Андорра\]
 
-[ ](Category:Andorra " "){.wikilink} [Category:Southern Europe](Category:Southern_Europe "Category:Southern Europe"){.wikilink} [Category:Cities](Category:Cities "Category:Cities"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+    
 
 ---
 

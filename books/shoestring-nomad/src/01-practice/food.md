@@ -56,7 +56,7 @@ Ligging, blagging, or eventing may be a source of free food and drinks.
 
 - moneyless.org has an article about getting food without money
 
-[Category:Food](Category:Food "Category:Food"){.wikilink}
+
 
 ---
 

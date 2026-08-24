@@ -124,7 +124,7 @@ This is only landborder Israel/Jordan that you can cross by walking! At this lan
 
 ## Personal Experiences {#personal_experiences}
 
-[Category:Israel](Category:Israel "Category:Israel"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+  
 
 ---
 

@@ -169,7 +169,7 @@ I transited through Poland in 2011, and it was ok, even though roads were not th
 </div>
 </div>
 
-[ ](Category:Poland " "){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+  
 
 ---
 

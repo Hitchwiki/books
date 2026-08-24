@@ -74,7 +74,7 @@ Getting rides around Algarve is very easy due to the many tourists who come from
 </div>
 </div>
 
-[Category:Southern Europe](Category:Southern_Europe "Category:Southern Europe"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+  
 
 ---
 

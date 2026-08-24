@@ -78,7 +78,7 @@ Free wireless and Apple demo computers with limited internet access at Apple Sto
 
 ## Take care of your bag and money there are alot of brave and fast thieves around!!! {#take_care_of_your_bag_and_money_there_are_alot_of_brave_and_fast_thieves_around}
 
-[Category:Spain](Category:Spain "Category:Spain"){.wikilink} [Category:E15](Category:E15 "Category:E15"){.wikilink} [Category:E9](Category:E9 "Category:E9"){.wikilink} [Category:E90](Category:E90 "Category:E90"){.wikilink} [Category:Cities](Category:Cities "Category:Cities"){.wikilink}
+    
 
 ---
 

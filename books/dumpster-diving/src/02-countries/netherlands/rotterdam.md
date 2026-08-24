@@ -38,7 +38,7 @@ The *[Rotterdamse Oogst](http://rotterdamseoogst.nl)* (*Rotterdam Harvest*) is a
 - [Dumpster diving in Rotterdam](http://www.genoeg.nl/nieuws/dumpster-diving-in-rotterdam)
 - [Leven van afval. Dumpsterdiver Robin laat zien hoe je dat doet](http://www.deweekkrant.nl/print?printid=1722170)
 
-[Category:Rotterdam](Category:Rotterdam "Category:Rotterdam"){.wikilink}
+
 
 ---
 

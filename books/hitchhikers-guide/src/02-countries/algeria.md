@@ -61,7 +61,7 @@ it feels a bit stupid writing about Algeria on hitchwiki since we barely did any
 </div>
 </div>
 
-[Category:Algeria](Category:Algeria "Category:Algeria"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+  
 
 ---
 

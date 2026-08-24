@@ -87,7 +87,7 @@ Out of five South American countries I\'ve been to ([Peru](Peru "Peru"){.wikilin
 </div>
 </div>
 
-[Category:South America](Category:South_America "Category:South America"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+  
 
 ---
 

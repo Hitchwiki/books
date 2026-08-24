@@ -33,7 +33,7 @@ The basic idea is to breath in and out of the holes, sometimes in chords and oth
 
 ..
 
-[Category:General_info](Category:General_info "Category:General_info"){.wikilink}
+
 
 ---
 

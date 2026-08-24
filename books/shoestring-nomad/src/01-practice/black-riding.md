@@ -22,7 +22,7 @@ On night trains, it\'s a bit more complicated since all the cabins are reserved 
 
 It\'s a bit harder than the previous but it does work and especially in some expensive country like [Norway](Norway "Norway"){.wikilink} it does represent a good option to move with no money. You have to mingle with the cars. Stay away from other backpackers/travelers on foot if they have the ticket, if they don\'t and want to come with you split in small groups. Sometimes (almost always in Norway) tickets are issued and paid on the land by some workers from the company who come to you at the harbour and ask you if you need to buy the ticket. Hide from them and wait for the ferry to come, once they start to board people just go in walking, ticket sellers should be quite busy with cars. This is also one of the few way (with plane hitchhiking from [Scotland](Scotland "Scotland"){.wikilink}) to get to [Iceland](Iceland "Iceland"){.wikilink} for free from [Denmark](Denmark "Denmark"){.wikilink}, to go to [Greece](Greece "Greece"){.wikilink} from [Italy](Italy "Italy"){.wikilink} and viceversa or to go around Egean Sea (Greek islands) with no money.
 
-[Category:Transport](Category:Transport "Category:Transport"){.wikilink}
+
 
 ---
 

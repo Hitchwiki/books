@@ -12,7 +12,7 @@
 
 [Israeli freegan Facebook group](https://www.facebook.com/groups/549517991787804/)
 
-[Category:Israel](Category:Israel "Category:Israel"){.wikilink}
+
 
 ![Noam-and-kasper-dumpster-diving.jpg](../../images/noam-and-kasper-dumpster-divingjpg.jpg)
 

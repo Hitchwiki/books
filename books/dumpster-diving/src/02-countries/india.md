@@ -12,7 +12,7 @@ There is a rich Indian tradition of up-cycling, known locally as *Jugaad*. There
 
 - [Conserve](Conserve "Conserve"){.wikilink}
 
-[Category:India](Category:India "Category:India"){.wikilink}
+
 
 ---
 

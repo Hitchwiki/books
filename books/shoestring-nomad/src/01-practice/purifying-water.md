@@ -21,7 +21,7 @@ Good, cheap and light commercial water filters are:
 - [Life Straw](http://www.buylifestraw.com/)
 - [Sawyer Mini](http://sawyereurope.com/sp128)
 
-[Category:Health](Category:Health "Category:Health"){.wikilink}
+
 
 ---
 

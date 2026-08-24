@@ -24,7 +24,7 @@ Police are rare and don\'t bother you.
 
 ## Personal Experiences {#personal_experiences}
 
-[Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+ 
 
 ---
 

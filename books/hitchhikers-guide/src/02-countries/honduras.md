@@ -47,7 +47,7 @@ hichhiked between march to mid april 2016(as well as using buses). The public tr
 </div>
 </div>
 
-[Category:Countries](Category:Countries "Category:Countries"){.wikilink}
+
 
 ---
 

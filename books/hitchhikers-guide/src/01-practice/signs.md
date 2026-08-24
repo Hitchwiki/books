@@ -222,7 +222,7 @@ I, [Dr.Keith](User:Dr.Keith "Dr.Keith"){.wikilink} developed the technique for u
 
 [Nathan](User:Nathan "Nathan"){.wikilink} and [Bob](User:Rocky "Bob"){.wikilink}, who hitched through France had great help writing \'2 belges\' on their sign. [guaka](User:Guaka "guaka"){.wikilink} was successful with a sign \"from Holland\" in both [New Zealand](New_Zealand "New Zealand"){.wikilink} and in several parts of the [United States](United_States_of_America "United States"){.wikilink}, once by a Dutch girl living in [Santa Cruz](Santa_Cruz "Santa Cruz"){.wikilink}, most people were happy to pick him up just because they thought Holland was cool (oh and one guy was smoking weed in the car).
 
-[Category:Equipment](Category:Equipment "Category:Equipment"){.wikilink} [Category:Signs](Category:Signs "Category:Signs"){.wikilink}
+ 
 
 ---
 

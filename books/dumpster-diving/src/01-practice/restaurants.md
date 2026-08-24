@@ -8,7 +8,7 @@ Associated with restaurants is the concept and act of **tabling** which is the s
 
 Synonyms: Some people may say \"table diving\" instead of tabling, but tabling could also just be a shortened form of table diving.
 
-[Category:Location types](Category:Location_types "Category:Location types"){.wikilink} [Category:Dumpster diving](Category:Dumpster_diving "Category:Dumpster diving"){.wikilink}
+ 
 
 ---
 

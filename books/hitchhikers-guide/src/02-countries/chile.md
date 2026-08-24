@@ -287,7 +287,7 @@ Chile was lovely. Almost no waiting time, a lot of people how offered me food/dr
 </div>
 </div>
 
-[ ](Category:Chile " "){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+  
 
 ---
 

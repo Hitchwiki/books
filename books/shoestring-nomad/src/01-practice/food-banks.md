@@ -13,7 +13,7 @@ As a nomad, utilizing a food bank brings forth many ethical questions, since the
 
 - [Singapore Buddhist Lodge](http://www.sbl.org.sg/) offers free vegetarian food.
 
-[Category:Food](Category:Food "Category:Food"){.wikilink}
+
 
 ---
 

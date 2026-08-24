@@ -4,7 +4,7 @@
 
 For more tips on toll station hitchhiking see article on [péage](péage "péage"){.wikilink} (French word for toll road in [France](France "France"){.wikilink} and other French speaking countries).
 
-[Category:General info](Category:General_info "Category:General info"){.wikilink} [Category:Roads](Category:Roads "Category:Roads"){.wikilink}
+ 
 
 ---
 

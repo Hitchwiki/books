@@ -6,7 +6,7 @@ However, in some parts in this world it\'s officially **illegal to hitchhike**. 
 
 See also [the list of places in where you have to be more careful](:Category:Illegal_to_hitchhike "the list of places in where you have to be more careful"){.wikilink}.
 
-[Category:General info](Category:General_info "Category:General info"){.wikilink}
+
 
 ---
 

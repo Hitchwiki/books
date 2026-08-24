@@ -68,7 +68,7 @@ All websites are in German unless otherwise noted.
 - [ebay-kleinanzeigen second-hand selling plattform, also has a donate-section](https://www.ebay-kleinanzeigen.de/)
 - [quoka - second-hand selling plattform, also has a donate-section](https://www.quoka.de/)
 
-[Category:Germany](Category:Germany "Category:Germany"){.wikilink}
+
 
 ---
 

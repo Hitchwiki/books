@@ -1012,7 +1012,7 @@ And read this [Guide Wiki CS (Fr)](Le_Guide_Wiki_CS "Guide Wiki CS (Fr)"){.wikil
 
 [Read here](Customize_Your_Profile "Read here"){.wikilink}.
 
-[Category:France](Category:France "Category:France"){.wikilink} [Category:Europe](Category:Europe "Category:Europe"){.wikilink}
+ 
 
 ---
 

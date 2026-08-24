@@ -34,7 +34,7 @@ Intentional communities come in myriad different shapes, sizes, and scenarios. F
 
 - [The intentional communities directory](http://www.diggersanddreamers.org.uk) is a guide to communal living in the [United Kingdom](United_Kingdom "United Kingdom"){.wikilink}.
 
-[Category:Accommodation](Category:Accommodation "Category:Accommodation"){.wikilink}
+
 
 ---
 

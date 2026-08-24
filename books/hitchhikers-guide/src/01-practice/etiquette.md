@@ -38,7 +38,7 @@ Here are some suggestions for snappy answers to tricky questions.
 
 There are some fairly basic rules that are mostly dictated by common sense about how to treat other hitchhikers such as, when you come to a place where there already is a hitchhiker, to stand down the road behind him and not in front of him.
 
-[Category:General info](Category:General_info "Category:General info"){.wikilink}
+
 
 ---
 

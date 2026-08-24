@@ -94,7 +94,7 @@ hitched from Vienna airport to Kitzbuhel in January 2024, took me 3 days which i
 </div>
 </div>
 
-[Category:Western Europe](Category:Western_Europe "Category:Western Europe"){.wikilink} [\*](Category:Austria "*"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+   
 
 ---
 

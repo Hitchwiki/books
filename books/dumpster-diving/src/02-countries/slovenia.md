@@ -18,7 +18,7 @@ Slovenia has a law that forces [supermarkets](supermarket "supermarket"){.wikili
 - [Piran](Piran "Piran"){.wikilink}
 - `<small>`{=html}*add more?*`</small>`{=html}
 
-[Category:Slovenia](Category:Slovenia "Category:Slovenia"){.wikilink}
+
 
 ![stirfry.jpeg](../../images/stirfryjpeg.jpg)
 

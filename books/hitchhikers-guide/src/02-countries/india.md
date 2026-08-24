@@ -144,7 +144,7 @@ EDIT 2017: Obtaining a cross border permit from Myanmar\'s government is no long
 
 [Pakistan](Pakistan "Pakistan"){.wikilink}: [Wagah](Wagah "Wagah"){.wikilink} is the only road border crossing between Pakistan and India that is open to foreigners, and lies between [Amritsar](Amritsar "Amritsar"){.wikilink} and [Lahore](Lahore "Lahore"){.wikilink}, on the [Grand Trunk Road](Grand_Trunk_Road "Grand Trunk Road"){.wikilink}.
 
-[Category:Southern Asia](Category:Southern_Asia "Category:Southern Asia"){.wikilink} [Category:India](Category:India "Category:India"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+   
 
 ---
 

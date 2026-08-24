@@ -22,7 +22,7 @@ In some countries there\'s also a more institutionalized form, in the [Netherlan
 
 - [http://www.luxuryhousesitting.com/ Luxury House Sitting](http://www.luxuryhousesitting.com/_Luxury_House_Sitting "http://www.luxuryhousesitting.com/ Luxury House Sitting"){.wikilink} has a small 10\$(£6.50, 7.50€) per year membership cost, which is much lower than the rest. Still a good idea to give a look from time to time, and spend a free vacation in a luxury house!
 
-[Category:Accommodation](Category:Accommodation "Category:Accommodation"){.wikilink}
+
 
 ---
 

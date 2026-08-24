@@ -4,7 +4,7 @@ Street performance or \'\'\'\'\'\' is the act of performing in public places for
 
 See also: [Musical instruments](Musical_instruments "Musical instruments"){.wikilink} `</br>`{=html} `</br>`{=html}
 
-[Category:General info](Category:General_info "Category:General info"){.wikilink}
+
 
 ---
 

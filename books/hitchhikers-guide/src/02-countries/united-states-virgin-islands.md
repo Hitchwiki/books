@@ -18,7 +18,7 @@ Ferries to hop about the US Virgin Islands also exist.
 
 ## Personal Experiences {#personal_experiences}
 
-[Category:Caribbean](Category:Caribbean "Category:Caribbean"){.wikilink} [Category:Island](Category:Island "Category:Island"){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+   
 
 ---
 

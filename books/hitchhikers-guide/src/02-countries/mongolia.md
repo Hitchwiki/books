@@ -76,7 +76,7 @@ Most Mongolians, in the south, don\'t speak English, and only have the slightest
 
 ## Personal Experiences {#personal_experiences}
 
-[ ](Category:Mongolia " "){.wikilink} [Category:Countries](Category:Countries "Category:Countries"){.wikilink} [Category:Legal to hitchhike](Category:Legal_to_hitchhike "Category:Legal to hitchhike"){.wikilink}
+  
 
 ---
 

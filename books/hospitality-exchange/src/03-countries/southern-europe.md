@@ -24,7 +24,7 @@ Autonomic Regions:
 - [Gibraltar](Gibraltar "Gibraltar"){.wikilink}
 - [Vatican](Vatican "Vatican"){.wikilink}
 
-[Category:Europe](Category:Europe "Category:Europe"){.wikilink}
+
 
 ---
 

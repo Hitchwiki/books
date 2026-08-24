@@ -14,7 +14,7 @@ In the Netherlands, squatting is illegal since October 2010. However, when you d
 
 - <http://planet.squat.net/>
 
-[Category:Accommodation](Category:Accommodation "Category:Accommodation"){.wikilink}
+
 
 ---
 

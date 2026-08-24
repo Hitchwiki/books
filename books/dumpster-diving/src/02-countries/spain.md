@@ -10,7 +10,7 @@ It is difficult to find good food diving in containers of chain [supermarkets](s
 
 Spanish people tend to just leave on the street the [stuff](stuff "stuff"){.wikilink} they don\'t want anymore. In the case of clothes, they will often leave them clean and neatly folded on top of a trash [container](container "container"){.wikilink}.
 
-[Category:Spain](Category:Spain "Category:Spain"){.wikilink}
+
 
 ![Runingarden.png](../../images/runingardenpng.jpg)
 

@@ -83,7 +83,7 @@ Dining hall *Little Creatures* at 222 Brunswick Street, Fitzroy is offering [fre
 - \*ON HIATUS\* **Free Feed Street Kitchen** 7pm every Wednesday at on the footpath at 161 Smith street, Collingwood. ´Free Feed´ is a non-faith based street kitchen providing rescued food from local restaurants for free. Facebook: [Free Feed](https://www.facebook.com/FreeFeedMelbourne/).
 - \*SHUT DOWN\* **Lentils as Anything** is a chain of 4 vegetarian restaurants with buffet, based on donations and a \"pay as you feel\" philosophy.
 
-[Category:Australia](Category:Australia "Category:Australia"){.wikilink}
+
 
 ---
 

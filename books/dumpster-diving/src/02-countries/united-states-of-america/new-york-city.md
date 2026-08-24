@@ -67,7 +67,7 @@ You can definitely find nice random stuff in the street. [guaka](User:Guaka "gua
 - [Freegan.info](http://freegan.info) - a NYC-based informational website for [freegans](freeganism "freegans"){.wikilink} and [dumpster divers](dumpster_diver "dumpster diver"){.wikilink}. They organize meetings, trash and wild food tours, repair workshops and free film nights around NYC. Some events are open to media with prior appointment.
 - [TV article](http://km42.spiegel.de/home/index.php?directid=4177) about dumpster diving in New York, found on German spiegel.de
 
-[Category:New York City](Category:New_York_City "Category:New York City"){.wikilink}
+
 
 ---
 

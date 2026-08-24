@@ -7,7 +7,7 @@
 - [Valletta](Valletta "Valletta"){.wikilink}
 - add more?
 
-[Category:Malta](Category:Malta "Category:Malta"){.wikilink}
+
 
 ---
 

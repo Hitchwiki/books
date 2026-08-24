@@ -46,7 +46,7 @@ Most countries have laws about what is required from you to enter with a pet. If
 - make sure not to get motion sickness!
 - *`<small>`{=html}add more info?:)`</small>`{=html}*
 
-[Category:General info](Category:General_info "Category:General info"){.wikilink}
+
 
 ---
 

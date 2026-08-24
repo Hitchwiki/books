@@ -75,7 +75,7 @@ Education and awareness in the area of waste and waste management is increasingl
 - [How to Start Scrapping Metal](http://scrappingmetal.blogspot.com/p/how-to-start-scrapping-metal.html)
 - [Blog of Eskilstuna, SE based 1-year course in sustainable development and recycling technologies](http://recycle-design.blogspot.com/)
 
-[Category:General info](Category:General_info "Category:General info"){.wikilink}
+
 
 [^1]: Torbay Council (2006) Municipal Waste Management Strategy for Torbay, Consultation Draft
 
