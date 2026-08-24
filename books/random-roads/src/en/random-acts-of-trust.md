@@ -1,0 +1,22 @@
+# Random Acts of Trust
+
+The sun was going down somewhere behind the rain clouds and we weren't even halfway to our destination. After a series of rides off the beaten path from Amsterdam to Northern Germany, my partner and I ended up in a "not-so-good" place, where nobody seemed to be going anywhere that was even remotely relevant to us.
+What seemed like a well-connected central city on the map, ended up feeling bleak and largely disconnected once we arrived. The destination was Munich, the present location Munster. We were still 700 kilometers of highway away. I didn’t really care though. But at the same time I couldn’t deny it was rainy, becoming colder and that my mind was wandering to the question of where we would sleep.
+A young couple pulled up the petrol station in a silver station wagon; they were from Frankfurt we could tell by the numbers on their plate. I couldn’t help but enthusiastically hold up my sign high in their direction. We had been checking plates out of desperation. Finally, someone came by that was going our way!
+The man said he would ask his girlfriend if he could take us. He asked her, then put his hands up and nodded his head no. Bummer.
+I walked around the station a few times and passed them as they were eating, “I’m not stalking you, I promise,” I told her as I smiled awkwardly.
+I didn’t know why she said no, but I certainly didn’t want her to think I was bothering her. Really, I was just circling around looking for new cars. As far as I was concerned, no was no. And who knows, perhaps they were in the midst of a heated argument and she was doing us a favor.
+Twenty minutes later, he came around and surprise got us, “come on, get in the car.” We were ecstatic.
+She told us that hitching was dangerous. That her mother said under no circumstances should she ever do this. He told us that she picked us up because she was worried something might happen to us. People couldn’t be trusted. She asked us about our journey, our choice of hitching, where we had been, where we were going…
+I told her about hitching, hospitality and the spreading of trust networks. She said she always wanted to try something like that. We got on the phone to have someone put in a last-minute couch request (on Couchsurfing) for Frankfurt because we weren’t making too good of time. It was cold, rainy and we had no outside gear.
+Hearing my conversation, they didn't hesitate and offered us their home, which I eagerly accepted.
+They insisted on cooking us a dinner and pressed me for some sort of request. “Whatever is local and special,” I replied.
+They brought us to their beautiful home in Frankfurt and offered us a room upstairs. Warm blankets, a soft bed and a hot shower. So it turns out that in the end all those “bad rides” that held us up, brought us to here. I guess they weren’t so bad after all. Getting left at a 15-car parking lot on the Autobahn in the pouring rain with no shelter. Being driven around in circles through some city for two hours of rain and traffic. Finding ourselves in tiny gas stations in tiny towns. It was all part of the plan, or lack of plan, that brought us to this wonderful place, to these wonderful people.
+They entertained us without end. Fresh tea. Offers of warm socks. Good wine. It was clear they were a young couple hungry for guests. They had every type of wine glass and every type of wine. A beautiful home. Lovely art. Full of books.
+But empty. According to them, they had never entertained. And you could tell they really enjoyed entertaining. Waiting on us, granting our wishes, seeing our smiles. They were living inside the shell of their lives and reached out to us.
+For dinner, we had boiled eggs, potatoes, salad, sausage and a special sauce. It’s called "green sauce" and is made from an herb only grown in Frankfurt. It was amazingly tasty. We drank a few bottles of wine. Stayed up late chatting. Slept in a little bit. They made us an amazing breakfast and gave us some advice on traveling in Germany. It was actually their enthusiasm that led me to some places later in my trip.
+A polite request. An awkward decline. The resignation of a young woman that she couldn’t let us just be. Strangers together in a car, making their way in the rain. New friends having dinner together. That night as I nestled under the warm fluffy blankets, I felt great warmth. Not just from the blankets or the body heat of my partner next to me, but from my renewed faith in random acts of trust.
+
+---
+
+Source: https://randomroads.org/story/random-acts-trust

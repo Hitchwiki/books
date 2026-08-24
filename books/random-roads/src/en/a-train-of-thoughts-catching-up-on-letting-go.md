@@ -1,0 +1,25 @@
+# A Train of Thoughts: Catching Up on Letting Go
+
+I left Haydarpaşa a few hours ago and have been very sleepy during the first few hours of the ride. Waking up every now and then from my snooze, I would see large quays, harbour areas in the middle of nowhere and huge oil transformation complexes.
+I went on reading the guidebook to Turkey Daniel gave me as he was flying back to Australia, diving into it for the first time. What do I know about a country before I get there? Nothing. I knew nothing about the Bosphorus, the Dardanelles and the gap between two continents that Istanbul was trying to bridge. I knew nothing of this language so full of harmonies. I knew nothing, apart maybe from the kebab.
+Train rides do that to me sometimes, and the sleep I had earlier eased my melancholic moods. The route I'm taking now reaches to a certain aesthetic; the Marmara Sea, plain but wild, unfolded to my right side with grace, though the small beach resorts on the way were plainly ugly. Now, the rocky hills have a deserted but untamable look, just like the small stream we just went past. Peasants are burning some wooden debris; women wear long skirts, head-scarves... and look folklorically beautiful. There are less and less olive trees. We must have gained altitude now because the landscape is mainly punctuated with evergreens.
+My bald head feels funny, I want to scratch it, it tickles, even with the headscarf on. Last night, I was feeling cold while attempting to sleep, and realized that a great deal of that feeling was because of my naked head. This journey will be bald and bold, and I will learn to hitch alone in Turkey, celebrating in my own ways Pippa Bacca's death, almost exactly a year after her raped and lifeless body was unearthed, a few kilometres away from the tracks I am riding today. Hitchhiking from Italy to Jerusalem with a wedding gown for only baggage, she wanted to prove that people could encounter peace and trust on their path in the world.
+They say History proved her wrong.
+I want to prove her right.
+But for now I'm just eating leblebi – roasted chick peas – and enjoying the train ride, biting in a lemon every once in a while. I wish I'd have taken some salt and chillies with me because I prefer to eat lemons dipped in this intense mix at flavours that spurs saliva in my throat... I like lemons alone nevertheless. I decided to like them after reading a short story where a girl ate lemon and mustard on bread because it makes her feel like she's living life more on the edge. She also collected means of suicide, even a guillotine! In the end, she dies of laughter. Oh, how I love the taste of lemons now!
+We just went past a train station called Bicelik and I can count on my hand the amount of women without head-scarves. I wonder if this is the same in Azerbaijan. Is Taylor there already? A few kilometres before the last station, we passed abandoned and crashed wagons. Does anybody record that? Does anybody care about that? I'd like them to talk, to tell me stories... The story about the crash, the spill, the stream. I wonder what Taylor wonders about when he sees such things. I wonder how his eyes look at things from a wide angle.. Or if he's nervous to be hitching alone there, or if he's tired of talking to himself...
+I love the noise and the swinging one feels in trains; I'm reassured by them. In that regard, this train sure is a paradise, with tracks that click-a-click like on a road bridge every second or so.
+Click – a – click – a – click …
+–
+Playing poïs with street musicians in Eskişehir. I enjoy their music, accents of the Balkans, but can't juggle for long. It's so easy to be part of it; I really suck at poïs, but who knows it? Who notices it? The rule of the street seems to be something like "just to it". Well, let's kill Nike, because they made of a pure statement pure commercial bullshit... And now artists certainly have something to teach people.
+Just do it. I'm just doing it.
+No excuses. Are you just doing it?
+The wheel of sharing is spinning again, and I have a new camping mat. What a chance I didn't buy the ones I found at the market. Do you realize I would have lost an opportunity to receive? Not only did I spare 10 Turkish Liras, but I received an item with some history, a life, a concert, a festival, a merry merry time with merry merry friends. I received a gift, that person is now bound to me by solidarity. And it made me feel better on this rainy day.
+I still miss my partner, but today it has nothing to do with suffering. I'd like him to see what I strive for, to witness bits and pieces of my life. To encourage me with one look. Or maybe just to exist.
+Am I on a way to letting go? This can only come with renouncement or self-realization. I've been trying to go both ways at the same time.
+I'm catching up on life.
+Leaving tomorrow by thumb to Ankara.
+
+---
+
+Source: https://randomroads.org/story/train-thoughts-catching-letting-go

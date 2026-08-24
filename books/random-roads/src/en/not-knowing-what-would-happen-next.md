@@ -1,0 +1,21 @@
+# Not Knowing What Would Happen Next
+
+I travel without a plan to go home. I have no exit plan, just a one-way ticket. I have my guitar, a harmonica and I make jewelery.
+I left Canada with 4000 euros, which is actually quite a lot. I worked in a restaurant in Canada for eight months. I had free food from the restaurant and cheap rent - my lifestyle was based on [saving money](https://moneyless.org/tags/saving-money). Not spending it, not buying anything useless.
+Since I arrived in Europe, I traveled until I ran out of money. I didn't think about my money until I ran out of it. Once you are traveling and you stay in a city for a bit longer, you meet people from all over the place who you can meet again in their cities. As you keep on traveling, you keep on expanding your network and you get more opportunities on the way.
+When I almost ran out of my money during this trip, I choose to go to Dublin. I did some couchsurfing and I was staying at different places. I asked people in Dublin for tips on how to find a job and a room. I let them know that since I was low on money, I couldn't pay rent straight away. Several people gave me good leads for jobs and through a friend of a girl I actually got a room and work.
+**First Time**
+The first time traveling I had no money either. I had a backpack and a ticket to Costa Rica. I thought I would go there, get a bus to the beach and put up my tent. I met other people who were sleeping on the beach for free, including many people who had been doing that for years.
+I was living mostly on coconuts and bananas that I found. Other people who I met there were surprised. How can you travel without money? They said that I was naïve. But it helps being naïve, I guess. It makes you realize that it is possible to travel and life life like this. I later hitchhiked back from Costa Rica to Canada.
+It has been seven years since my Costa Rica adventure and people still say that I am wasting my life; that I have to grow up. As I see it though, I am growing and learning everyday. Nothing can stop that. Unlike most people I am free to go where I want, live how I want, and do what I want. I don't feel like falling into society's many traps. I don't own a house, pay for a car, have a huge credit debt, or watch the idiot box!
+**Deportation**
+Eventually at the end of 2008 after almost a year of Europe, I went back to Canada because I was deported from the U.K. The authorities didn't like my beard and dirty hitchhiking clothes. And my answers to their questions about what I have been doing and where I have been living didn't help me in making friends with them. Reason for deportation: they didn't take my word for it that I wouldn't make money in England without a work permit.
+In Canada my nomadic lifestyle continued. Not having my own place, I lived with my bag always packed and I slept on friends couches and floors. Some money from the government, some money from an American phone company, and money from selling weed to friends - and I was back hitching overseas, half a year later.
+**Word of Mouth**
+The essential thing is that you realize you [don't need money to travel](https://moneyless.org/how-travel-no-money). You come to this point when you realize the different things you can do to get by. When I have no money, I go to the bakery during closing time and ask them if they have any food they're going to throw away. You can do the same thing at food markets, and so on. Grocery stores throw away their old food too, but sometimes it is still really good - you just have to cut off the bad pieces.
+And there is always music I can play. For example, I got coins playing the guitar in the streets of Madrid. I learned also to play the harmonica, which I recommend for anyone. It fits in your pocket easily and has the same volume as an acoustic guitar.
+But if you do need to get quick money, you can find black market work. In Amsterdam, one year later, I helped someone with painting stairs. And that turned into helping someone paint a boat. And that turned into washing windows for someones warehouse, which that turned into helping someone in the warehouse make clay tiles for an art project. Word of mouth, connections made. It happens everywhere.
+
+---
+
+Source: https://randomroads.org/story/not-knowing-what-would-happen-next

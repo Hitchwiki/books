@@ -1,0 +1,27 @@
+# When You Are All Whatever It All Clicks Together
+
+I don't like to think how hard something might be, I just go on the road to find my way by doing it. Believe it can be done and you will see it will happen. It is sometimes hard to figure out 'where is this damn highway' but once you are on the road, it feels really good.
+I have been traveling in Europe for two and one half years now with a no/low-budget. I mostly get by with whatever I find on my road, or whatever finds me.
+For example when I was traveling through Akureyri to Reykjavik when I was in Iceland for the second time I spent more time writing Reykjavik than holding the sign. The driver who picked me up had a friend organizing an art exhibition. He asked if I wanted to work for him, being paid in cash. Things like this happen. You just have to get to know the people and network around that.
+There are many examples of how things fit together when you travel like this. When you don't really have plans you come to see it all falls into place. I always wanted to go to Finland. And then, while I was in Iceland, I met someone who offered me a job and a place to stay in Finland. It did take me a while to figure out how to survive there, but even without papers (I am from the US and have no working permit) this proved possible.
+It seems that things fall together in that way when you have less expectations and when you worry less. But when you need to be somewhere at a certain time, it gets much more stressful to find your food and to find those rides. When you are all "whatever," it all clicks together. It's about letting go.
+**Learning process**
+The first times I came to Europe, I had a budget and a return ticket. I was on holidays, visiting Europe, using my credit card. I always had to go back to the United States to work and pay off my debts that I made while traveling. But now I don't do that anymore - I have no return ticket and basically no budget. Two and a half years ago I left the U.S. with only 250 dollars and I made my way to Iceland for a job. That was the first time I was there.
+I ended up working 90 hours a month in a youth hostel just to sleep in a dormitory. To actually earn some money, I had to work 120 hours a month. Iceland is expensive though, so I ended up with nothing. And at the end of those first three months, I was about to overstay my tourist visa. The hostel helped me and arranged a ticket for me to the United Kingdom to get out.
+I left Iceland broke and wanted to go to Ireland to volunteer at a hostel on the Aran Islands. But with no money at all, I got detained at customs and got sent back to the UK. They detained me for seven hours in an empty room and returned me for free to the UK. Then I stayed at the London airport for a night walking pass the restaurant area with no money at all. That was hard, seeing all those people eating. I could have done it differently by obtaining a work-visa so that I could have stayed in a rather normal way but I prefer not to have that responsibility, it is a different mentality.
+I stayed in the UK and through a friend I went to a Wwoofing farm where they paid me 70 pounds a week, for 40 hours labor.
+I still wanted to go to this hostel in Ireland, that I really wanted to visit for nine years now. It was worth it I believed, it is a special place. So when I got some more money, I finally managed to make my way to Ireland. After that I traveled through mainland Europe, moved back to Ireland, got kicked out again, and so on.
+The hardest moments? Finding food is actually the hardest part. Every morning you have that same thing again - you feel hungry and need food. Sometimes it can be really hard when you wake up hungry. Or at night, when you are wandering around a random city and you really want to have a decent hot meal, a nice cold beer and you see people having those meals.
+**Slow Travel**
+My traveling is now a lot slower than in the beginning. I now have a system of finding a place to stay, getting a routine, obtaining some work and then look for where I want to go next.
+In the beginning it seemed forever to stay at one spot for six weeks but now six weeks is nothing - you go to a place, find a job, a place to stay and those six weeks are over in a blip.
+The jobs I do vary a lot. To get by, I sometimes just go out on the street and collect bottles with deposit. But you can also do Wwoofing or construction work. My favorite work to do is some bartending, which is pretty easy to get a job in.
+Bartending is a good way for meeting people. When you are on a construction site, you only meet the crew. What is essential about traveling like this is to meet the local people. You also depend on them, to get what you need you know.
+In the way that I was traveling before, I was working and living in youth hostels, I met a lot of travelers. So wherever I was living, I always met the same sort of travelers. It didn't matter where I was, the experience was all the same.
+But now that I stopped traveling like this, I interact with others much more. When I wander around in a city I force myself to interact with people. Good things happen out of that. Either they buy you a beer and you get by for some hours. Or if you hitchhike, you get further on your way to a new destination. Or when you tell your story to your driver they sometimes even help you with a surprise.
+---
+Interview of [Reese](/profile/r3353), by [Robino](/profile/robino). November 2008
+
+---
+
+Source: https://randomroads.org/story/when-you-are-all-whatever-it-all-clicks-together
