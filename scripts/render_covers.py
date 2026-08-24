@@ -220,10 +220,12 @@ def paint(slug: str, meta: dict) -> Image.Image:
     chrome = t.get("ui_file") or t.get("body_file") or t.get("display_file") or "Georgia.ttf"
     small = load_font(chrome, 36)
     tiny = load_font(chrome, 28)
-    title = meta.get("title", slug)
-    sub = meta.get("subtitle", "")
+    title = "" if t.get("cover_logo_is_title") else meta.get("title", slug)
+    sub = "" if t.get("cover_hide_subtitle") else meta.get("subtitle", "")
     license_id = meta.get("license", "")
-    kicker = t["kicker"].upper()
+    kicker = "" if t.get("cover_hide_kicker") else t["kicker"].upper()
+    if sub.casefold() == kicker.casefold():
+        sub = ""
     logo_x = 110
     logo_y = 110
     logo_h = 280
@@ -276,8 +278,9 @@ def paint(slug: str, meta: dict) -> Image.Image:
     paste_logo(img, slug, x=logo_x, y=logo_y, max_h=logo_h, max_w=logo_w)
 
     max_w = W - 220
-    d.text((110, kicker_y), kicker, font=tiny, fill=fg)
-    lines = wrap(d, title, display, max_w)
+    if kicker:
+        d.text((110, kicker_y), kicker, font=tiny, fill=fg)
+    lines = wrap(d, title, display, max_w) if title else []
     y = y_title
     for line in lines:
         d.text((110, y), line, font=display, fill=fg)
@@ -287,7 +290,10 @@ def paint(slug: str, meta: dict) -> Image.Image:
             y += 12
             d.text((110, y), line, font=small, fill=fg)
             y += 48
-    d.text((110, H - 140), f"books.hitchwiki.org  ·  {license_id}", font=tiny, fill=fg)
+    footer_y = H - 140
+    d.text((110, footer_y), "0.1  ·  books.hitchwiki.org", font=tiny, fill=fg)
+    license_x = W - 110 - int(d.textlength(license_id, font=tiny))
+    d.text((license_x, footer_y), license_id, font=tiny, fill=fg)
     return img
 
 

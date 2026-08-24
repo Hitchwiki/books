@@ -486,6 +486,9 @@ body.book-shoestring-nomad .cover-sub {
 }
 body.book-shoestring-nomad .cover-foot {
   margin: 0;
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
   font-size: 0.78rem;
   letter-spacing: 0.08em;
   text-transform: uppercase;

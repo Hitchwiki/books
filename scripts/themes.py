@@ -94,6 +94,7 @@ THEMES: dict[str, dict] = {
         "logo": "random-roads.png",
         "logo_alt": "Random Roads",
         "logo_wide": True,
+        "cover_logo_is_title": True,
         "cover_photo": {
             "commons": "Country Road Hitchhiker (Unsplash).jpg",
             "author": "Seth Doyle",
@@ -273,6 +274,8 @@ THEMES: dict[str, dict] = {
         "kicker": "From Nomadwiki",
         "logo": "shoestring-nomad.png",
         "logo_alt": "Nomadwiki",
+        "cover_hide_kicker": True,
+        "cover_hide_subtitle": True,
         "cover_photo": {
             "commons": "Tents1.jpg",
             "author": "Sujay Kulkarni",
@@ -354,8 +357,11 @@ def cover_html(slug: str, meta: dict) -> str:
 
     t = THEMES[slug]
     labels = ui_strings(str(meta.get("lang", "en")))
-    title = meta.get("title", slug)
-    sub = meta.get("subtitle", "")
+    title = "" if t.get("cover_logo_is_title") else meta.get("title", slug)
+    sub = "" if t.get("cover_hide_subtitle") else meta.get("subtitle", "")
+    kicker = "" if t.get("cover_hide_kicker") else t["kicker"]
+    if sub.casefold() == kicker.casefold():
+        sub = ""
     license_id = meta.get("license", "")
     logo = t.get("logo")
     wide = " cover-logo-wide" if t.get("logo_wide") else ""
@@ -370,13 +376,13 @@ def cover_html(slug: str, meta: dict) -> str:
     photo_class = " cover-has-photo" if t.get("cover_photo") else ""
     return f"""<section class="cover-page{photo_class}" aria-label="{labels['cover']}">
   {logo_html}
-  <p class="cover-kicker">{t["kicker"]}</p>
+  {f'<p class="cover-kicker">{kicker}</p>' if kicker else ''}
   <div class="cover-main">
-    <h1 class="cover-title">{title}</h1>
-    <p class="cover-sub">{sub}</p>
+    {f'<h1 class="cover-title">{title}</h1>' if title else ''}
+    {f'<p class="cover-sub">{sub}</p>' if sub else ''}
     <p class="cover-read"><a href="#TOC">{labels['read_book']}</a></p>
   </div>
-  <p class="cover-foot">books.hitchwiki.org · {license_id}</p>
+  <p class="cover-foot"><span>0.1 · books.hitchwiki.org</span><span>{license_id}</span></p>
 </section>
 """
 
@@ -1048,6 +1054,9 @@ body.book-{slug} .cover-sub {{
 }}
 body.book-{slug} .cover-foot {{
   margin: 0;
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
   font-size: 0.78rem;
   letter-spacing: 0.08em;
   text-transform: uppercase;
