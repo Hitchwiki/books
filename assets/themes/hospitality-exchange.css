@@ -433,23 +433,6 @@ body.book-hospitality-exchange .cover-page {
   position: relative;
   overflow: hidden;
 }
-body.book-hospitality-exchange .cover-read {
-  margin: 1.4rem 0 0;
-  position: relative;
-  z-index: 2;
-}
-body.book-hospitality-exchange .cover-read a {
-  color: inherit;
-  border: 1px solid currentColor;
-  padding: 0.35rem 0.75rem;
-  text-decoration: none;
-  display: inline-block;
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
-  font-size: 0.78rem;
-  font-style: normal;
-  font-family: Georgia, Palatino, serif;
-}
 body.book-hospitality-exchange .cover-logo-wrap {
   margin: 0 0 1.2rem;
   position: relative;
@@ -506,7 +489,7 @@ body.book-hospitality-exchange .cover-page.cover-has-photo::before {
     linear-gradient(to top, #2c2824 8%, #2c2824d8 32%, #2c282400 62%),
     url("covers/photo.jpg");
   background-size: cover, cover;
-  background-position: bottom, center 32%;
+  background-position: bottom, 45% center;
   background-repeat: no-repeat;
   pointer-events: none;
 }

@@ -267,7 +267,7 @@ def paint(slug: str, meta: dict) -> Image.Image:
         d.rectangle([0, 0, W, 70], fill=hex_rgb("#ffdc18"))
         d.rectangle([0, H - 70, W, H], fill=hex_rgb("#ffdc18"))
         logo_h = 300
-        logo_x = -1
+        logo_x = 110
         logo_y = 120
         y_title = 1400
         kicker_y = 1260

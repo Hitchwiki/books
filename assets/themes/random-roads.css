@@ -450,23 +450,6 @@ body.book-random-roads .cover-page {
   position: relative;
   overflow: hidden;
 }
-body.book-random-roads .cover-read {
-  margin: 1.4rem 0 0;
-  position: relative;
-  z-index: 2;
-}
-body.book-random-roads .cover-read a {
-  color: inherit;
-  border: 1px solid currentColor;
-  padding: 0.35rem 0.75rem;
-  text-decoration: none;
-  display: inline-block;
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
-  font-size: 0.78rem;
-  font-style: normal;
-  font-family: Georgia, "Times New Roman", Times, serif;
-}
 body.book-random-roads .cover-logo-wrap {
   margin: 0 0 1.2rem;
   position: relative;
@@ -523,7 +506,7 @@ body.book-random-roads .cover-page.cover-has-photo::before {
     linear-gradient(to top, #0ca6bb 8%, #0ca6bbd8 32%, #0ca6bb00 62%),
     url("covers/photo.jpg");
   background-size: cover, cover;
-  background-position: bottom, center 45%;
+  background-position: bottom, 38% 45%;
   background-repeat: no-repeat;
   pointer-events: none;
 }

@@ -441,23 +441,6 @@ body.book-hitchhikers-guide .cover-page {
   position: relative;
   overflow: hidden;
 }
-body.book-hitchhikers-guide .cover-read {
-  margin: 1.4rem 0 0;
-  position: relative;
-  z-index: 2;
-}
-body.book-hitchhikers-guide .cover-read a {
-  color: inherit;
-  border: 1px solid currentColor;
-  padding: 0.35rem 0.75rem;
-  text-decoration: none;
-  display: inline-block;
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
-  font-size: 0.78rem;
-  font-style: normal;
-  font-family: Palatino, "Palatino Linotype", Georgia, serif;
-}
 body.book-hitchhikers-guide .cover-logo-wrap {
   margin: 0 0 1.2rem;
   position: relative;

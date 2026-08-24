@@ -433,23 +433,6 @@ body.book-shoestring-nomad .cover-page {
   position: relative;
   overflow: hidden;
 }
-body.book-shoestring-nomad .cover-read {
-  margin: 1.4rem 0 0;
-  position: relative;
-  z-index: 2;
-}
-body.book-shoestring-nomad .cover-read a {
-  color: inherit;
-  border: 1px solid currentColor;
-  padding: 0.35rem 0.75rem;
-  text-decoration: none;
-  display: inline-block;
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
-  font-size: 0.78rem;
-  font-style: normal;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-}
 body.book-shoestring-nomad .cover-logo-wrap {
   margin: 0 0 1.2rem;
   position: relative;
@@ -506,7 +489,7 @@ body.book-shoestring-nomad .cover-page.cover-has-photo::before {
     linear-gradient(to top, #f6f3e9 8%, #f6f3e9d8 32%, #f6f3e900 62%),
     url("covers/photo.jpg");
   background-size: cover, cover;
-  background-position: bottom, center 58%;
+  background-position: bottom, 68% center;
   background-repeat: no-repeat;
   pointer-events: none;
 }

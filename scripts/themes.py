@@ -31,6 +31,7 @@ THEMES: dict[str, dict] = {
         "kicker": "By 1,300+ hitchhikers",
         "logo": "hitchhikers-guide.png",
         "logo_alt": "Hitchwiki",
+        "cover_hide_subtitle": True,
         "cover_photo": {
             "commons": "Hitchhiker-Luxemburg-1977.jpg",
             "author": "Roger McLassus",
@@ -101,8 +102,8 @@ THEMES: dict[str, dict] = {
             "license": "CC0 1.0",
             "page": "https://commons.wikimedia.org/wiki/File:Country_Road_Hitchhiker_(Unsplash).jpg",
             "caption": "Country road hitchhiker, 2017",
-            "focus": (0.54, 0.5),
-            "pos": "center 45%",
+            "focus": (0.34, 0.5),
+            "pos": "38% 45%",
             "wash": 24,
         },
     },
@@ -186,14 +187,14 @@ THEMES: dict[str, dict] = {
         "measure": "38rem",
         "kicker": "By 30+ people",
         "cover_photo": {
-            "commons": "Namche Bazaar, Homestay, Nepal.jpg",
+            "commons": "Tengboche, Sherpa family, Nepal.jpg",
             "author": "Vyacheslav Argenberg",
             "license": "CC BY 4.0",
-            "page": "https://commons.wikimedia.org/wiki/File:Namche_Bazaar,_Homestay,_Nepal.jpg",
-            "caption": "Homestay kitchen, Namche Bazaar",
-            "focus": (0.42, 0.38),
-            "pos": "center 32%",
-            "wash": 88,
+            "page": "https://commons.wikimedia.org/wiki/File:Tengboche,_Sherpa_family,_Nepal.jpg",
+            "caption": "A traveler sharing a meal with a Sherpa family in Tengboche, Nepal",
+            "focus": (0.45, 0.5),
+            "pos": "45% center",
+            "wash": 54,
         },
     },
     "moneyless": {
@@ -277,14 +278,14 @@ THEMES: dict[str, dict] = {
         "cover_hide_kicker": True,
         "cover_hide_subtitle": True,
         "cover_photo": {
-            "commons": "Tents1.jpg",
-            "author": "Sujay Kulkarni",
+            "commons": "Tent Camping (f74c8bec-5813-4f56-b690-9db8b3caac30).JPG",
+            "author": "National Park Service",
             "license": "Public domain",
-            "page": "https://commons.wikimedia.org/wiki/File:Tents1.jpg",
-            "caption": "Dome tents on a shoestring campsite",
-            "focus": (0.58, 0.62),
-            "pos": "center 58%",
-            "wash": 64,
+            "page": "https://commons.wikimedia.org/wiki/File:Tent_Camping_(f74c8bec-5813-4f56-b690-9db8b3caac30).JPG",
+            "caption": "A backpacker setting up camp in the Denali backcountry",
+            "focus": (0.68, 0.5),
+            "pos": "68% center",
+            "wash": 38,
         },
     },
 }
@@ -380,7 +381,6 @@ def cover_html(slug: str, meta: dict) -> str:
   <div class="cover-main">
     {f'<h1 class="cover-title">{title}</h1>' if title else ''}
     {f'<p class="cover-sub">{sub}</p>' if sub else ''}
-    <p class="cover-read"><a href="#TOC">{labels['read_book']}</a></p>
   </div>
   <p class="cover-foot"><span>0.1 · books.hitchwiki.org</span><span>{license_id}</span></p>
 </section>
@@ -1000,23 +1000,6 @@ body.book-{slug} .cover-page {{
   color: var(--cover-fg);
   position: relative;
   overflow: hidden;
-}}
-body.book-{slug} .cover-read {{
-  margin: 1.4rem 0 0;
-  position: relative;
-  z-index: 2;
-}}
-body.book-{slug} .cover-read a {{
-  color: inherit;
-  border: 1px solid currentColor;
-  padding: 0.35rem 0.75rem;
-  text-decoration: none;
-  display: inline-block;
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
-  font-size: 0.78rem;
-  font-style: normal;
-  font-family: {t["fallback"]};
 }}
 body.book-{slug} .cover-logo-wrap {{
   margin: 0 0 1.2rem;

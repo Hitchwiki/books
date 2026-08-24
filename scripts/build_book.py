@@ -263,6 +263,7 @@ def build(slug: str, version: str, formats: list[str], out: Path) -> None:
     meta_path = book / "metadata.yaml"
     meta = yaml.safe_load(meta_path.read_text(encoding="utf-8")) if meta_path.exists() else {}
     meta["version"] = version
+    edition = version.split("-", 1)[0]
     lang = str(meta.get("lang", "en"))
     labels = ui_strings(lang)
     chapters = chapter_files(book, lang)
@@ -344,8 +345,8 @@ def build(slug: str, version: str, formats: list[str], out: Path) -> None:
                 f'{github_icon_link(labels["source_on_github"])}'
                 '</div>'
                 '<div class="book-banner-downloads">'
-                f'<a href="../downloads/{slug}.epub">EPUB</a>'
-                f'<a href="../downloads/{slug}.pdf">PDF</a>'
+                f'<a href="../downloads/{slug}-{edition}.epub">EPUB</a>'
+                f'<a href="../downloads/{slug}-{edition}.pdf">PDF</a>'
                 '</div>'
                 '</div>'
                 '</nav>'
@@ -383,7 +384,8 @@ def build(slug: str, version: str, formats: list[str], out: Path) -> None:
             spec["epub-cover-image"] = str(cover_path)
         write_defaults(work / "epub.yaml", spec)
         if run_pandoc(work / "epub.yaml") and epub.exists():
-            shutil.copy2(epub, downloads / f"{slug}.epub")
+            (downloads / f"{slug}.epub").unlink(missing_ok=True)
+            shutil.copy2(epub, downloads / f"{slug}-{edition}.epub")
     if "pdf" in formats:
         pdf = downloads / f"{stem}.pdf"
         ok = False
@@ -413,7 +415,8 @@ def build(slug: str, version: str, formats: list[str], out: Path) -> None:
         if not ok:
             print(f"{slug}: PDF skipped", file=sys.stderr)
         elif pdf.exists():
-            shutil.copy2(pdf, downloads / f"{slug}.pdf")
+            (downloads / f"{slug}.pdf").unlink(missing_ok=True)
+            shutil.copy2(pdf, downloads / f"{slug}-{edition}.pdf")
     print(f"{slug} {version} formats={formats} chapters={len(chapters)}")
 
 

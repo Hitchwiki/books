@@ -48,6 +48,7 @@ def main() -> None:
     when = build_when(version)
     built = when.strftime("%Y-%m-%d %H:%M")
     built_iso = when.strftime("%Y-%m-%dT%H:%M:00Z")
+    edition = version.split("-", 1)[0]
     out = Path(args.out)
     out.mkdir(parents=True, exist_ok=True)
     assets = out / "assets"
@@ -70,11 +71,9 @@ def main() -> None:
         meta_path = ROOT / "books" / slug / "metadata.yaml"
         meta = yaml.safe_load(meta_path.read_text(encoding="utf-8")) if meta_path.exists() else {"title": slug}
         title = meta.get("title", slug)
-        license_id = meta.get("license", "")
-        kicker = THEMES[slug]["kicker"]
-        pdf = out / "downloads" / f"{slug}.pdf"
-        epub = f'<a href="./downloads/{slug}.epub">EPUB</a>'
-        pdf_link = f' · <a href="./downloads/{slug}.pdf">PDF</a>' if pdf.exists() else ""
+        pdf = out / "downloads" / f"{slug}-{edition}.pdf"
+        epub = f'<a href="./downloads/{slug}-{edition}.epub">EPUB</a>'
+        pdf_link = f' · <a href="./downloads/{slug}-{edition}.pdf">PDF</a>' if pdf.exists() else ""
         cover = covers_src / f"{slug}.jpg"
         cover_html = ""
         if cover.exists():
@@ -89,12 +88,8 @@ def main() -> None:
   <a class="open" href="./{slug}/" aria-label="Read {title}"></a>
   {cover_html}
   <div class="card-body">
-    <p class="kicker">{kicker}</p>
-    <h2><a href="./{slug}/">{title}</a></h2>
-    <p class="license"><span class="badge">{license_id}</span></p>
     <p class="formats">
-      <a href="./{slug}/">Read</a>
-      · {epub}{pdf_link}
+      {epub}{pdf_link}
     </p>
   </div>
 </article>"""

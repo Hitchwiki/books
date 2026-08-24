@@ -538,9 +538,11 @@ def wrap_body(html_doc: str, toc: str, labels: dict[str, str]) -> str:
             slug_m = re.search(r'class="book book-([a-z0-9-]+)"', html_doc)
             if slug_m:
                 slug = slug_m.group(1)
+                version_m = re.search(r'class="book-banner-version">([^<]+)', html_doc)
+                edition = version_m.group(1).split("-", 1)[0] if version_m else "0.1"
                 extra = (
-                    f' · <a href="../downloads/{slug}.epub">EPUB</a>'
-                    f' · <a href="../downloads/{slug}.pdf">PDF</a>'
+                    f' · <a href="../downloads/{slug}-{edition}.epub">EPUB</a>'
+                    f' · <a href="../downloads/{slug}-{edition}.pdf">PDF</a>'
                 )
                 text = text.replace("</p></header>", extra + "</p></header>", 1)
         if 'class="github"' not in text:
