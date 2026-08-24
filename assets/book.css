@@ -1,0 +1,37 @@
+:root {
+  --fg: #1a1a1a;
+  --muted: #555;
+  --bg: #faf8f5;
+  --accent: #2c5f4a;
+  --rule: #ddd;
+  font-family: "Iowan Old Style", Palatino, "Palatino Linotype", Georgia, serif;
+}
+
+html { background: var(--bg); color: var(--fg); }
+body {
+  max-width: 42rem;
+  margin: 0 auto;
+  padding: 2rem 1.25rem 4rem;
+  line-height: 1.55;
+  font-size: 1.05rem;
+}
+header.book-banner {
+  border-bottom: 1px solid var(--rule);
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
+}
+header.book-banner a { color: var(--accent); }
+h1, h2, h3 { line-height: 1.25; }
+img { max-width: 100%; height: auto; }
+figcaption, .credit, footer {
+  font-size: 0.85rem;
+  color: var(--muted);
+}
+a { color: var(--accent); }
+hr { border: 0; border-top: 1px solid var(--rule); }
+.license { margin-top: 3rem; font-size: 0.9rem; }
+nav.toc ul { padding-left: 1.2rem; }
+@media print {
+  html { background: white; }
+  body { max-width: none; }
+}
