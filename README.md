@@ -18,9 +18,9 @@ Each book has **its own license**. There is no repo-wide content license. Script
 | [Moneyless](books/moneyless/) | [![CC BY-NC-SA 4.0](assets/cc-by-nc-sa-4.0.png)](books/moneyless/LICENSE) | moneyless.org, geldloos.nl, sindinero.net |
 | [Shoestring Nomad](books/shoestring-nomad/) | [![CC BY-SA 4.0](assets/cc-by-sa-4.0.png)](books/shoestring-nomad/LICENSE) | Nomadwiki, Casa Robino |
 
-See [SOURCES.md](SOURCES.md) for adjacent sites, permission notes, and titles wanted later (philosophy / free software / abundance / AI / wikis). See [EDITORIAL.md](EDITORIAL.md) for how to edit chapters so wiki updates do not wipe them.
+See [SOURCES.md](SOURCES.md) for adjacent sites, permission notes, and titles wanted later (philosophy / free software / abundance / AI / wikis). See [EDITORIAL.md](EDITORIAL.md) for how to edit chapters so wiki updates do not wipe them. See [PUBLISH.md](PUBLISH.md) for print and stores (KDP, Lulu, Ingram, D2D, itch.io, Internet Archive). NC-SA stays off paid stores.
 
-Each book has its own cover, type, and colors (`make covers`, `scripts/themes.py`).
+Each book has its own cover, type, and colors from the related website (`make covers`, `scripts/themes.py`). See each book’s `DESIGN.md` for logos and hex values.
 
 Wiki XML/ZIM dumps belong in `dumps/` (gitignored). Resized JPEGs in `books/*/images/` are also gitignored; keep `images.json`. Restore with `make images` (disk, then the `images` GitHub Release, then the live site, then wiki). Refresh the archive with `make images-release`.
 
