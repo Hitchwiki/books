@@ -125,12 +125,12 @@ def main() -> None:
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>books.hitchwiki.org</title>
-  <link rel="icon" href="./favicon.ico" sizes="any">
-  <link rel="stylesheet" href="./assets/catalog.css">
+  <link rel="icon" href="./favicon.ico?v={version}" sizes="any">
+  <link rel="stylesheet" href="./assets/catalog.css?v={version}">
 </head>
 <body class="catalog">
   <header>
-    <h1><img src="./favicon.ico" alt="">Hitchwiki Books</h1>
+    <h1><img src="./favicon.ico?v={version}" alt="">Hitchwiki Books</h1>
   </header>
 {chr(10).join(sections)}
   <p class="lede">A growing collection of freely licensed books. Created by thousands of people over two decades.</p>
