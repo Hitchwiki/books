@@ -9,8 +9,8 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
-from common import ROOT, get
-from images import resize_bytes
+from common import ROOT
+from images import fetch_bytes, resize_bytes
 
 BOOKS = ROOT / "books"
 
@@ -33,15 +33,14 @@ def restore_book(book: Path) -> tuple[int, int]:
             ok += 1
             continue
         try:
-            r = get(url, timeout=90)
-            saved = resize_bytes(r.content, path)
-        except Exception:
+            saved = resize_bytes(fetch_bytes(url), path)
+        except Exception as exc:
             saved = None
+            print(f"{book.name}: miss {name}: {exc}", file=sys.stderr)
         if saved:
             ok += 1
         else:
             skipped += 1
-            print(f"{book.name}: miss {name}", file=sys.stderr)
     return ok, skipped
 
 
