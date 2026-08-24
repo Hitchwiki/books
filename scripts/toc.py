@@ -18,6 +18,7 @@ PART_LABELS = {
     "03-resources": "Resources",
     "03-software": "Software",
     "03-stories": "Stories",
+    "04-future": "Future",
     "04-outlook": "Outlook",
     "en": "English",
     "nl": "Nederlands",

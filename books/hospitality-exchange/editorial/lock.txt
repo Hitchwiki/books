@@ -9,5 +9,7 @@
 02-networks/couchsurfing/opencouchsurfing.md
 02-networks/hospitality-club/hospitality-club-power-and-strategy.md
 02-networks/hospitalityguidenet/hospitalityguide-net.md
-02-networks/how-the-free-networks-are-built.md
 03-countries.md
+04-future.md
+04-future/how-the-free-networks-are-built.md
+04-future/try-it-yourself.md
