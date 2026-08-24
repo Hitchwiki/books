@@ -13,6 +13,11 @@ en/bitcoin-remittance.md
 en/bitcoin-saving-account.md
 en/blockchain-advertising.md
 
+# Dated cryptocurrency speculation and projects
+en/cryptocurrency-20-stability-through-speculation.md
+en/decentralizing-basic-income-basicincomeco.md
+en/openudc.md
+
 # Content-mill "make money" series (affiliate footer / payday funnel)
 en/make-money-with-paid-online-surveys.md
 en/make-money-selling-iphones-on-craigslist.md
@@ -31,6 +36,9 @@ en/how-to-write-on-the-internet.md
 # Ad-stuffed English rewrites (no usable original in this language)
 en/free-stuff-70.md
 en/no-money-for-food-how-to-get-free-food-76.md
+
+# Website policy, not book content
+en/privacy-94.md
 
 # Drupal duplicates: leftover Dutch (or worse English). Keep the English translation.
 en/about-moneylessorg.md

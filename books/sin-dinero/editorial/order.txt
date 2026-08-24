@@ -1,0 +1,58 @@
+# Los preliminares deben permanecer al principio.
+00-frontmatter.md
+
+[Introducción a la vida sin dinero]
+es/acerca-de-sindineronet-81.md
+es/bienvenido-a-sindineronet-como-vivir-sin-dinero.md
+es/no-dinero-85.md
+es/qué-hacer-sin-dinero.md
+es/vida-simple.md
+es/rechazo-effectivo.md
+es/niños-sin-dinero.md
+es/contacto.md
+
+[Viajar sin dinero]
+es/como-viajar-sin-dinero.md
+es/sin-dinero-en-el-camino.md
+es/autostop.md
+es/vivir-en-una-tienda-de-campaña-15.md
+es/redes-de-intercambio-de-hospitalidad.md
+
+[Trueque e intercambio alternativo]
+es/personas-haciendo-trueque-23.md
+es/hospital-de-trueque.md
+es/moneda-social.md
+es/compartir-cosas-18.md
+es/hacer-cosas-y-venderlas-o-intercambiarlas.md
+es/regalos-sin-dinero.md
+
+[Personas que viven sin dinero]
+es/heidemarie-schwermer.md
+es/mark-boyle.md
+es/raphael-fellmer-en-huelga-de-dinero.md
+es/jo-nemeth-una-mujer-feliz-sin-dinero.md
+es/daniel-suelo.md
+es/video-documental-sobre-elf-pavlik.md
+es/vivir-sin-dinero-en-twin-oaks.md
+es/libro-pasos-hacia-la-paz-interior-12.md
+
+[Comer sin gastar]
+es/consejos-para-buscar-en-un-basurero-103.md
+es/buscando-plantas-comestibles-19.md
+es/ir-a-la-iglesia-por-ropa-y-comida.md
+
+[Bienes gratuitos y ayuda mutua]
+es/cómo-conseguir-muebles-gratis.md
+es/reciclar.md
+es/trabajar-en-un-autobús-o-en-un-parque.md
+es/trabajo-voluntario-tic-en-nicaragua.md
+
+[Autosuficiencia y habilidades prácticas]
+es/cómo-hacer-pan-en-6-pasos-para-hacer-un-dinerito-extra.md
+es/usar-una-máquina-de-coser-10.md
+
+[Ingreso básico y transformación del sistema monetario]
+es/ingreso-básico.md
+es/economía-monetaria-80.md
+es/el-valor-del-dinero.md
+es/la-usura-un-factor-común-en-el-salvador.md

@@ -1,2 +1,5 @@
 # Wiki titles, slugs, or src-relative paths to leave out of this book.
 # You can also put <!-- editorial:omit --> in the chapter.
+
+# Website policy, not book content
+nl/privacy.md

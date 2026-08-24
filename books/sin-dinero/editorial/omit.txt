@@ -6,6 +6,9 @@ es/el-acceso-de-créditos-en-españa.md
 es/situación-crediticia-en-méxico.md
 es/american-dream-o-el-sueño-americano.md
 
+# Website policy, not book content
+es/privacy-94.md
+
 # Drupal duplicates: leftover Dutch/English. Keep the Spanish translation.
 es/acerca-de-sindineronet.md
 es/buscando-plantas-comestibles.md

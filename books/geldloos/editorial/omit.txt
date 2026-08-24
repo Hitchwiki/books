@@ -4,6 +4,9 @@
 # Loan ads
 nl/sociale-banken.md
 
+# Website policy, not book content
+nl/privacy.md
+
 # Drupal duplicates (same article, node-id slug). Keep the canonical path.
 nl/boek-arm-door-geld-63.md
 nl/die-andere-wereld-74.md
