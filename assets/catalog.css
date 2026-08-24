@@ -36,8 +36,8 @@ body.catalog h1 {
   color: #6e3100;
 }
 body.catalog h1 img {
-  width: 1rem;
-  height: 1rem;
+  width: auto;
+  height: 2.5rem;
   flex: none;
 }
 body.catalog .lede {

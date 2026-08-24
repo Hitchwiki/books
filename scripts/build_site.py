@@ -69,6 +69,9 @@ def main() -> None:
             shutil.copy2(ttf, font_dest / ttf.name)
     logos_dest = assets / "logos"
     logos_dest.mkdir(exist_ok=True)
+    masthead_logo = ROOT / "assets" / "logos" / "hitchwiki.png"
+    if masthead_logo.exists():
+        shutil.copy2(masthead_logo, logos_dest / "hitchwiki.png")
 
     def card_html(slug: str) -> str:
         meta_path = ROOT / "books" / slug / "metadata.yaml"
@@ -130,7 +133,7 @@ def main() -> None:
 </head>
 <body class="catalog">
   <header>
-    <h1><img src="./favicon.ico?v={version}" alt="" width="16" height="16">Hitchwiki Books</h1>
+    <h1><img src="./assets/logos/hitchwiki.png?v={version}" alt="Hitchwiki" width="38" height="40"> Books</h1>
   </header>
 {chr(10).join(sections)}
   <p class="lede">A growing collection of freely licensed books. Created by thousands of people over two decades.</p>
