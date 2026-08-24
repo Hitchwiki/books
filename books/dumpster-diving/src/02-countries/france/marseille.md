@@ -24,4 +24,3 @@ There are several good [food markets](food_market "food market"){.wikilink} for 
 ---
 
 Source: [Marseille](https://trashwiki.org/en/Marseille)
-License: CC-BY-NC-SA-4.0

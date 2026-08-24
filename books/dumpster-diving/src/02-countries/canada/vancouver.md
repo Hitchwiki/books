@@ -7,4 +7,3 @@
 ---
 
 Source: [Vancouver](https://trashwiki.org/en/Vancouver)
-License: CC-BY-NC-SA-4.0

@@ -26,4 +26,3 @@ Aldi works quite good for dumpsterdiving in Portugal.
 ---
 
 Source: [Portugal](https://trashwiki.org/en/Portugal)
-License: CC-BY-NC-SA-4.0

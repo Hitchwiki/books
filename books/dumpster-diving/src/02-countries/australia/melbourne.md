@@ -88,4 +88,3 @@ Dining hall *Little Creatures* at 222 Brunswick Street, Fitzroy is offering [fre
 ---
 
 Source: [Melbourne](https://trashwiki.org/en/Melbourne)
-License: CC-BY-NC-SA-4.0

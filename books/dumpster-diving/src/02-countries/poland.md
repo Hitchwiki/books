@@ -27,4 +27,3 @@
 ---
 
 Source: [Poland](https://trashwiki.org/en/Poland)
-License: CC-BY-NC-SA-4.0

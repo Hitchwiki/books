@@ -19,4 +19,3 @@
 ---
 
 Source: [Helsinki](https://trashwiki.org/en/Helsinki)
-License: CC-BY-NC-SA-4.0

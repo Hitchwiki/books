@@ -7,4 +7,3 @@ In São Paulo they have street markets that have name *feiras*. During the worki
 ---
 
 Source: [São Paulo](https://trashwiki.org/en/São_Paulo)
-License: CC-BY-NC-SA-4.0

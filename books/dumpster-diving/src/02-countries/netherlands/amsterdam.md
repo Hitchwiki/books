@@ -154,4 +154,3 @@ Another directory and portable application is [Boskoi](http://www.boskoi.org/).
 ---
 
 Source: [Amsterdam](https://trashwiki.org/en/Amsterdam)
-License: CC-BY-NC-SA-4.0

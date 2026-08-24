@@ -181,4 +181,3 @@ There\'s a wide collection of websites for offering free stuff:
 ---
 
 Source: [Berlin](https://trashwiki.org/en/Berlin)
-License: CC-BY-NC-SA-4.0

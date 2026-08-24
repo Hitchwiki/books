@@ -20,4 +20,3 @@ See [this editable map of good places](http://maps.google.com/maps/ms?msa=0&msid
 ---
 
 Source: [Chicago](https://trashwiki.org/en/Chicago)
-License: CC-BY-NC-SA-4.0

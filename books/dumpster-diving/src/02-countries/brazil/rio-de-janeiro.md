@@ -11,4 +11,3 @@
 ---
 
 Source: [Rio de Janeiro](https://trashwiki.org/en/Rio_de_Janeiro)
-License: CC-BY-NC-SA-4.0

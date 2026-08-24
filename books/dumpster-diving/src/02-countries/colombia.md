@@ -7,4 +7,3 @@
 ---
 
 Source: [Colombia](https://trashwiki.org/en/Colombia)
-License: CC-BY-NC-SA-4.0

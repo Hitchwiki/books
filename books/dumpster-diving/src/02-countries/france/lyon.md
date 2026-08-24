@@ -136,4 +136,3 @@ Freeshop is located in \"La guillotiere\" (7th district) at *La Luttine, 91 rue 
 ---
 
 Source: [Lyon](https://trashwiki.org/en/Lyon)
-License: CC-BY-NC-SA-4.0

@@ -39,4 +39,3 @@ The first dive, by the way, might not bring anything - try different places on d
 ---
 
 Source: [First time](https://trashwiki.org/en/First_time)
-License: CC-BY-NC-SA-4.0

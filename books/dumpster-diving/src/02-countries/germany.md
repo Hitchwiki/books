@@ -73,4 +73,3 @@ All websites are in German unless otherwise noted.
 ---
 
 Source: [Germany](https://trashwiki.org/en/Germany)
-License: CC-BY-NC-SA-4.0

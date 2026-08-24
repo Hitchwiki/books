@@ -52,4 +52,3 @@ People in Tokyo get rid of things by leaving them on the streets for garbageman 
 ---
 
 Source: [Tokyo](https://trashwiki.org/en/Tokyo)
-License: CC-BY-NC-SA-4.0

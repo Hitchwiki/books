@@ -9,4 +9,3 @@ In [2000](2000 "2000"){.wikilink}, a law was issued which declared [dumpster div
 ---
 
 Source: [Italy](https://trashwiki.org/en/Italy)
-License: CC-BY-NC-SA-4.0

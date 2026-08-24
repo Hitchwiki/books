@@ -3,6 +3,12 @@
 
 00-frontmatter.md
 01-practice.md
+01-practice/00-getting-started.md
+01-practice/05-food-safety-and-the-law.md
+01-practice/10-places-and-techniques.md
+01-practice/15-diving-on-the-move.md
+01-practice/20-waste-and-recovery.md
+01-practice/25-culture-and-further-guidance.md
 02-countries.md
 02-countries/_europe.md
 02-countries/_asia.md
@@ -11,5 +17,5 @@
 02-countries/_south-america.md
 02-countries/_oceania.md
 03-resources.md
-04-outlook.md
-04-outlook/the-road-ahead.md
+03-resources/your-turn.md
+03-resources/the-road-ahead.md

@@ -21,4 +21,3 @@
 ---
 
 Source: [Auckland](https://trashwiki.org/en/Auckland)
-License: CC-BY-NC-SA-4.0

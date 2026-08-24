@@ -43,4 +43,3 @@ There is also the *Cafe Gagarin* that has local specialities with a free price p
 ---
 
 Source: [Vienna](https://trashwiki.org/en/Vienna)
-License: CC-BY-NC-SA-4.0

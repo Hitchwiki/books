@@ -27,4 +27,3 @@ Slovenia has a law that forces [supermarkets](supermarket "supermarket"){.wikili
 ---
 
 Source: [Slovenia](https://trashwiki.org/en/Slovenia)
-License: CC-BY-NC-SA-4.0

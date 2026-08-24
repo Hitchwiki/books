@@ -42,6 +42,9 @@ SOURCE_PARAGRAPH_RE = re.compile(
     r'(?P<text>https?://[^<\s]+))\s*</p>',
     re.I | re.S,
 )
+MARKDOWN_SOURCE_RE = re.compile(
+    r"^Source:\s*\[([^]]+)\]\((https?://[^)]+)\)", re.I | re.M
+)
 
 
 def compact_drupal_source_links(html_doc: str, slug: str) -> str:
@@ -117,10 +120,28 @@ def chapter_files(book: Path, lang: str = "en") -> list[Path]:
     if not order_path.exists():
         return fallback
     rank: dict[str, int] = {}
+    has_subsections = False
     for line in order_path.read_text(encoding="utf-8").splitlines():
         rel = line.strip()
+        if rel.startswith("[[") and rel.endswith("]]" ):
+            has_subsections = True
         if rel and not rel.startswith("#") and rel not in rank:
             rank[rel] = len(rank)
+    if has_subsections:
+        part_order: dict[str, int] = {}
+        for path in fallback:
+            rel = path.relative_to(src)
+            part = rel.parts[0] if len(rel.parts) > 1 else rel.stem
+            part_order.setdefault(part, len(part_order))
+        return sorted(
+            fallback,
+            key=lambda p: (
+                part_order[(p.relative_to(src).parts[0] if len(p.relative_to(src).parts) > 1 else p.relative_to(src).stem)],
+                0 if p.relative_to(src).as_posix() in rank else 1,
+                rank.get(p.relative_to(src).as_posix(), 0),
+                sort_key(p),
+            ),
+        )
     return sorted(
         fallback,
         key=lambda p: (
@@ -128,6 +149,49 @@ def chapter_files(book: Path, lang: str = "en") -> list[Path]:
             rank.get(p.relative_to(src).as_posix(), 0),
             sort_key(p),
         ),
+    )
+
+
+def attribution_markdown(chapters: list[Path]) -> str:
+    """Build a compact end appendix from chapter source metadata."""
+    groups = {
+        "01-practice": ("Practice", []),
+        "02-countries": ("Places", []),
+        "03-resources": ("Resources and your turn", []),
+    }
+    seen: set[str] = set()
+    for chapter in chapters:
+        text = chapter.read_text(encoding="utf-8")
+        match = MARKDOWN_SOURCE_RE.search(text)
+        if not match:
+            continue
+        title, url = match.groups()
+        if url in seen:
+            continue
+        seen.add(url)
+        part = next((name for name in groups if name in chapter.parts), "03-resources")
+        rows = groups[part][1]
+        if chapter.stem == "wikihow":
+            rows.append(
+                "- **WikiHow** — wikiHow contributors, "
+                "[original article](https://www.wikihow.com/Dumpster-Dive), "
+                "via [Trashwiki](https://trashwiki.org/en/WikiHow); CC BY-NC-SA 3.0."
+            )
+        else:
+            rows.append(f"- [{title}]({url})")
+    sections = "\n\n".join(
+        f"## {label}\n\n" + "\n".join(rows)
+        for label, rows in groups.values()
+        if rows
+    )
+    return (
+        "# Attribution\n\n"
+        "The imported chapters in this edition were written by Trashwiki contributors "
+        "and are used under CC BY-NC-SA 4.0. The chapter titles below link to their "
+        "source pages and contributor histories.\n\n"
+        + sections
+        + "\n\nThe part introductions, section dividers, “Your turn,” and “The waste stream "
+        "ahead” are editorial material created for this edition.\n"
     )
 
 
@@ -207,6 +271,7 @@ def build(slug: str, version: str, formats: list[str], out: Path) -> None:
         return
     work = out / "tmp" / slug
     work.mkdir(parents=True, exist_ok=True)
+    toc_chapters = list(chapters)
     meta_out = work / "metadata.yaml"
     meta_out.write_text(yaml.safe_dump(meta, allow_unicode=True), encoding="utf-8")
     downloads = out / "site" / "downloads"
@@ -227,6 +292,11 @@ def build(slug: str, version: str, formats: list[str], out: Path) -> None:
     epub_css = work / "epub.css"
     epub_css.write_text(epub_theme_css(slug), encoding="utf-8")
     inputs = [str(c) for c in chapters]
+    if slug == "dumpster-diving":
+        attribution_path = work / "99-attribution.md"
+        attribution_path.write_text(attribution_markdown(chapters), encoding="utf-8")
+        inputs.append(str(attribution_path))
+        toc_chapters.append(attribution_path)
     credit_md = photo_credit_markdown(slug)
     if credit_md:
         credit_path = work / "cover-photo.md"
@@ -294,7 +364,7 @@ def build(slug: str, version: str, formats: list[str], out: Path) -> None:
             html = compact_drupal_source_links(html, slug)
             html = enhance_html(
                 html,
-                chapters,
+                toc_chapters,
                 book / "src",
                 lang,
                 drupal_source_manifest(book),

@@ -7,4 +7,3 @@
 ---
 
 Source: [Moldova](https://trashwiki.org/en/Moldova)
-License: CC-BY-NC-SA-4.0

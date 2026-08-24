@@ -77,4 +77,3 @@ Chaussee de Gand, in Molenbeek, looks a bit like it could be in the Middle East.
 ---
 
 Source: [Brussels](https://trashwiki.org/en/Brussels)
-License: CC-BY-NC-SA-4.0

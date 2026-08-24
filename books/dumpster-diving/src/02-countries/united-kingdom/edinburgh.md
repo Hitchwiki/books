@@ -61,4 +61,3 @@ See <http://climatecamp.org.uk> more info.
 ---
 
 Source: [Edinburgh](https://trashwiki.org/en/Edinburgh)
-License: CC-BY-NC-SA-4.0

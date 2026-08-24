@@ -15,4 +15,3 @@ Some people leave everything behind when they drive home. Look out for huge pile
 ---
 
 Source: [Festivals](https://trashwiki.org/en/Festivals)
-License: CC-BY-NC-SA-4.0

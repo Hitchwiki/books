@@ -9,4 +9,3 @@
 ---
 
 Source: [Liechtenstein](https://trashwiki.org/en/Liechtenstein)
-License: CC-BY-NC-SA-4.0

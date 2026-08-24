@@ -12,4 +12,3 @@
 ---
 
 Source: [Morocco](https://trashwiki.org/en/Morocco)
-License: CC-BY-NC-SA-4.0

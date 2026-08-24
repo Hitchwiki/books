@@ -33,4 +33,3 @@ The story according to [indymedia.be](http://indymedia.be/en/node/32038) (3rd of
 ---
 
 Source: [Ollie](https://trashwiki.org/en/Ollie)
-License: CC-BY-NC-SA-4.0

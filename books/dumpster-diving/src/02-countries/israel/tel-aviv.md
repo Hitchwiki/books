@@ -17,4 +17,3 @@ Every week day at [The Carmel Market](http://goo.gl/maps/XHiK), around 19:00-20:
 ---
 
 Source: [Tel Aviv](https://trashwiki.org/en/Tel_Aviv)
-License: CC-BY-NC-SA-4.0

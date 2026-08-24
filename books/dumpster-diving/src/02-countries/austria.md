@@ -54,4 +54,3 @@ Short films about freegans and dumpster diving in Austria: \<videoflash\>PWROOeL
 ---
 
 Source: [Austria](https://trashwiki.org/en/Austria)
-License: CC-BY-NC-SA-4.0

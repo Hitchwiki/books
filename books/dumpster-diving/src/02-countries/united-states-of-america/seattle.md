@@ -19,4 +19,3 @@ There are quite a few people who [dumpster dive](dumpster_dive "dumpster dive"){
 ---
 
 Source: [Seattle](https://trashwiki.org/en/Seattle)
-License: CC-BY-NC-SA-4.0

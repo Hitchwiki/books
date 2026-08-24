@@ -21,4 +21,3 @@ Various chapters of [Food Not Bombs](Food_Not_Bombs "Food Not Bombs"){.wikilink}
 ---
 
 Source: [Los Angeles](https://trashwiki.org/en/Los_Angeles)
-License: CC-BY-NC-SA-4.0

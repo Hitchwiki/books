@@ -11,4 +11,3 @@ While Western countries produce overflow of [stuff](stuff "stuff"){.wikilink}, p
 ---
 
 Source: [Cambodia](https://trashwiki.org/en/Cambodia)
-License: CC-BY-NC-SA-4.0

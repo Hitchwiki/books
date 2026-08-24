@@ -13,4 +13,3 @@ If you need clothes or shoes, just take a walk occasionally peeking into the bin
 ---
 
 Source: [Valencia](https://trashwiki.org/en/Valencia)
-License: CC-BY-NC-SA-4.0

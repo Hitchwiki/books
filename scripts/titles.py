@@ -46,6 +46,7 @@ WIKIS = {
             "Category:Oceania",
         ],
         "book": "dumpster-diving",
+        "chapter_license_footers": False,
         "part_howto": "01-practice",
         "part_country": "02-countries",
         "part_city": "03-cities",
@@ -84,6 +85,7 @@ WIKIS = {
             "Western Australia",
             "News and events",
             "News",
+            "Info in CouchSurfing groups",
         ),
     },
     "nomadwiki": {

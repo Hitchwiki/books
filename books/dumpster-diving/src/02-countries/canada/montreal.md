@@ -23,4 +23,3 @@ Montreal is a very bum-friendly city. There are many food and clothing banks tha
 ---
 
 Source: [Montreal](https://trashwiki.org/en/Montreal)
-License: CC-BY-NC-SA-4.0

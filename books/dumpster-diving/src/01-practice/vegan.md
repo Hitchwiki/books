@@ -19,4 +19,3 @@ Whilst the act of salvaging animal products is ethically vegan, it makes sense t
 ---
 
 Source: [Vegan](https://trashwiki.org/en/Vegan)
-License: CC-BY-NC-SA-4.0

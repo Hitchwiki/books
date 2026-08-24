@@ -4,3 +4,5 @@ News and events
 News
 01-practice/news-and-events.md
 01-practice/news.md
+Info in CouchSurfing groups
+01-practice/info-in-couchsurfing-groups.md

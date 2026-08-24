@@ -98,4 +98,3 @@ Wasserbillig is a small village on the border with [Germany](Germany "Germany"){
 ---
 
 Source: [Luxembourg](https://trashwiki.org/en/Luxembourg)
-License: CC-BY-NC-SA-4.0

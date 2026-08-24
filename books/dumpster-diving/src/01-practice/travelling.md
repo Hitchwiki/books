@@ -7,4 +7,3 @@ It\'s a popular myth that **travelling** *has* to be expensive. Fortunately [hit
 ---
 
 Source: [Travelling](https://trashwiki.org/en/Travelling)
-License: CC-BY-NC-SA-4.0

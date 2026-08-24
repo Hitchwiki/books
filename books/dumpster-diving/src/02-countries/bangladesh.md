@@ -11,4 +11,3 @@ Image:Collecting melted plastic.jpg‎\|Collecting melted plastic (2002) Image:B
 ---
 
 Source: [Bangladesh](https://trashwiki.org/en/Bangladesh)
-License: CC-BY-NC-SA-4.0

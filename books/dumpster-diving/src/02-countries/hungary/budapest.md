@@ -17,4 +17,3 @@ Video \"Hunting Vegetables\": \<videoflash\>i_FHdGSgqs4\|250\|200\</videoflash\>
 ---
 
 Source: [Budapest](https://trashwiki.org/en/Budapest)
-License: CC-BY-NC-SA-4.0

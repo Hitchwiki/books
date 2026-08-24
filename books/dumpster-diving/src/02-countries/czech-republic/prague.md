@@ -14,4 +14,3 @@
 ---
 
 Source: [Prague](https://trashwiki.org/en/Prague)
-License: CC-BY-NC-SA-4.0

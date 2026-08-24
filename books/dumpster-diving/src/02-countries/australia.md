@@ -65,4 +65,3 @@ Some free (and legal!) public transport options are available in major Australia
 ---
 
 Source: [Australia](https://trashwiki.org/en/Australia)
-License: CC-BY-NC-SA-4.0

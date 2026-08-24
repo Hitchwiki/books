@@ -45,4 +45,3 @@
 ---
 
 Source: [Literature](https://trashwiki.org/en/Literature)
-License: CC-BY-NC-SA-4.0

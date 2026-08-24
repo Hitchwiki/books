@@ -23,4 +23,3 @@ The Singapore [Freecycle](Freecycle "Freecycle"){.wikilink} mailing list can be 
 ---
 
 Source: [Singapore](https://trashwiki.org/en/Singapore)
-License: CC-BY-NC-SA-4.0

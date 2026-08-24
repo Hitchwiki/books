@@ -15,4 +15,3 @@
 ---
 
 Source: [Rome](https://trashwiki.org/en/Rome)
-License: CC-BY-NC-SA-4.0

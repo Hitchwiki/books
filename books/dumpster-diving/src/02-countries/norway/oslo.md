@@ -20,4 +20,3 @@
 ---
 
 Source: [Oslo](https://trashwiki.org/en/Oslo)
-License: CC-BY-NC-SA-4.0

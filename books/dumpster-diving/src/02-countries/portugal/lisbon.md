@@ -42,4 +42,3 @@ There is a flea market called \"Feira da Ladra\" every Tuesday and Saturday in C
 ---
 
 Source: [Lisbon](https://trashwiki.org/en/Lisbon)
-License: CC-BY-NC-SA-4.0

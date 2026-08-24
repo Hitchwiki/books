@@ -11,4 +11,3 @@ There is a farmer\'s market at the \"place de la condamine\" every morning so th
 ---
 
 Source: [Monaco](https://trashwiki.org/en/Monaco)
-License: CC-BY-NC-SA-4.0

@@ -27,4 +27,3 @@ In Neuhausen and Schwabing there is a local dumpster diving group. If you are in
 ---
 
 Source: [Munich](https://trashwiki.org/en/Munich)
-License: CC-BY-NC-SA-4.0

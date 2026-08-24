@@ -302,4 +302,3 @@ All in Swedish unless otherwise stated.
 ---
 
 Source: [Stockholm](https://trashwiki.org/en/Stockholm)
-License: CC-BY-NC-SA-4.0

@@ -19,4 +19,3 @@ Some trash compactors are left unlocked; others must be forcibly opened or disas
 ---
 
 Source: [Compactor](https://trashwiki.org/en/Compactor)
-License: CC-BY-NC-SA-4.0

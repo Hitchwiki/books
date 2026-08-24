@@ -15,4 +15,3 @@ nomad:Warsaw
 ---
 
 Source: [Warsaw](https://trashwiki.org/en/Warsaw)
-License: CC-BY-NC-SA-4.0

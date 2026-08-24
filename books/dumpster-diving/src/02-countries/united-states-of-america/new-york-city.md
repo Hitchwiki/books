@@ -72,4 +72,3 @@ You can definitely find nice random stuff in the street. [guaka](User:Guaka "gua
 ---
 
 Source: [New York City](https://trashwiki.org/en/New_York_City)
-License: CC-BY-NC-SA-4.0

@@ -23,4 +23,3 @@ O mercado abastecedor também é um bom sitio para se arranjar vegetais e fruta,
 ---
 
 Source: [Porto](https://trashwiki.org/en/Porto)
-License: CC-BY-NC-SA-4.0

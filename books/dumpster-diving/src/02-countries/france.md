@@ -69,4 +69,3 @@ Consider browsing:
 ---
 
 Source: [France](https://trashwiki.org/en/France)
-License: CC-BY-NC-SA-4.0

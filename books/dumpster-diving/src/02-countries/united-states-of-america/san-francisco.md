@@ -61,4 +61,3 @@ See [this map](http://maps.google.com/maps/ms?doflg=ptk&ie=UTF8&msa=0&ll=&spn=&z
 ---
 
 Source: [San Francisco](https://trashwiki.org/en/San_Francisco)
-License: CC-BY-NC-SA-4.0

@@ -37,4 +37,3 @@ There are several self-organized [food cooperatives](food_cooperatives "food coo
 ---
 
 Source: [Barcelona](https://trashwiki.org/en/Barcelona)
-License: CC-BY-NC-SA-4.0

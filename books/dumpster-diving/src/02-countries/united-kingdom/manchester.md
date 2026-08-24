@@ -23,4 +23,3 @@
 ---
 
 Source: [Manchester](https://trashwiki.org/en/Manchester)
-License: CC-BY-NC-SA-4.0

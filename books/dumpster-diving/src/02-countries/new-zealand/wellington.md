@@ -17,4 +17,3 @@ Check out the New World in Island Bay: Parade. The fence is quit high above the 
 ---
 
 Source: [Wellington](https://trashwiki.org/en/Wellington)
-License: CC-BY-NC-SA-4.0

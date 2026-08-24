@@ -114,6 +114,39 @@ def editorial_parts(src: Path) -> dict[str, tuple[str, str]]:
     return out
 
 
+def editorial_subsections(src: Path) -> dict[str, tuple[str, str, bool]]:
+    """Map ordered chapters to [[Subsection]] labels in editorial/order.txt."""
+    order = src.parent / "editorial" / "order.txt"
+    if not order.exists():
+        return {}
+    out: dict[str, tuple[str, str, bool]] = {}
+    subsection_id = subsection_name = ""
+    subsection_part = ""
+    first = False
+    for raw in order.read_text(encoding="utf-8").splitlines():
+        line = raw.strip()
+        section = re.fullmatch(r"\[\[([^]]+)\]\]", line)
+        if section:
+            subsection_name = section.group(1).strip()
+            subsection_id = re.sub(
+                r"[^a-z0-9]+", "-", subsection_name.casefold()
+            ).strip("-")
+            subsection_part = ""
+            first = True
+        elif line and not line.startswith("#") and not line.startswith("[") and subsection_id:
+            rel = Path(line)
+            part = rel.parts[0] if len(rel.parts) > 1 else rel.stem
+            if not subsection_part:
+                subsection_part = part
+            elif part != subsection_part:
+                subsection_id = subsection_name = subsection_part = ""
+                first = False
+                continue
+            out[line] = (subsection_id, subsection_name, first)
+            first = False
+    return out
+
+
 def part_label(part: str) -> str:
     if not part:
         return "This edition"
@@ -147,12 +180,18 @@ def html_h1s(doc: str) -> list[tuple[str, str]]:
 def toc_entries(chapters: list[Path], doc: str, src: Path) -> list[dict]:
     headings = html_h1s(doc)
     custom_parts = editorial_parts(src)
+    subsections = editorial_subsections(src)
     i = 0
     entries: list[dict] = []
     for path in chapters:
-        rel = path.relative_to(src)
+        external = False
+        try:
+            rel = path.relative_to(src)
+        except ValueError:
+            rel = Path(path.name)
+            external = True
         custom_part = custom_parts.get(rel.as_posix())
-        part = custom_part[0] if custom_part else chapter_part(src, path)
+        part = custom_part[0] if custom_part else (rel.stem if external else chapter_part(src, path))
         part_name = custom_part[1] if custom_part else part_label(part)
         title = chapter_title(path)
         want = normalize(title)
@@ -172,6 +211,7 @@ def toc_entries(chapters: list[Path], doc: str, src: Path) -> list[dict]:
             continue
         hid, heading = found
         parent = rel.parts[1] if len(rel.parts) >= 3 else None
+        subsection = subsections.get(rel.as_posix())
         entries.append(
             {
                 "part": part,
@@ -179,11 +219,14 @@ def toc_entries(chapters: list[Path], doc: str, src: Path) -> list[dict]:
                 "path": rel.as_posix(),
                 "title": heading,
                 "href": hid,
-                "intro": is_part_intro(src, path),
+                "intro": True if external else is_part_intro(src, path),
                 "region": path.stem.startswith("_"),
                 "parent": parent,
                 "slug": path.stem,
                 "edit_url": chapter_edit_url(path),
+                "subsection": subsection[0] if subsection else "",
+                "subsection_name": subsection[1] if subsection else "",
+                "subsection_intro": subsection[2] if subsection else False,
             }
         )
     return entries
@@ -233,6 +276,38 @@ def _region_blocks(part: str, items: list[dict]) -> str:
         buf.append(item)
     flush()
     return "\n".join(c for c in chunks if c)
+
+
+def _subsection_blocks(part: str, items: list[dict]) -> str:
+    chunks: list[str] = []
+    current = ""
+    buf: list[dict] = []
+
+    def flush() -> None:
+        if not buf:
+            return
+        intro = next((x for x in buf if x.get("subsection_intro")), buf[0])
+        label = html.escape(intro.get("subsection_name") or intro["title"])
+        href = html.escape(intro["href"], quote=True)
+        chapters = [x for x in buf if x is not intro]
+        chunks.append(
+            f'<details class="toc-subsection" data-part="{html.escape(part)}" '
+            f'data-collapse="true" open><summary><a href="#{href}">{label}</a> '
+            f'<span class="toc-count">{len(chapters)}</span></summary>'
+        )
+        if chapters:
+            chunks.append(_item_list(part, chapters, az=False))
+        chunks.append("</details>")
+
+    for item in items:
+        subsection = item.get("subsection", "")
+        if subsection != current:
+            flush()
+            current = subsection
+            buf = []
+        buf.append(item)
+    flush()
+    return "\n".join(chunks)
 
 
 def _az_links(part: str, items: list[dict]) -> str:
@@ -373,6 +448,7 @@ def render_toc(entries: list[dict], labels: dict[str, str]) -> str:
             continue
         collapse = ' data-collapse="true"' if n >= 12 else ""
         by_region = any(x.get("region") for x in chapters)
+        by_subsection = any(x.get("subsection") for x in chapters)
         az = (not by_region) and n >= (24 if part in GAZETTEER else 80)
         pid = html.escape(part or "front")
         if single_language:
@@ -390,6 +466,8 @@ def render_toc(entries: list[dict], labels: dict[str, str]) -> str:
         )
         if by_region:
             chunks.append(_region_blocks(part or "front", chapters))
+        elif by_subsection:
+            chunks.append(_subsection_blocks(part or "front", chapters))
         else:
             if az:
                 chunks.append(_az_links(part or "front", chapters))

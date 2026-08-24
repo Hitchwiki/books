@@ -36,4 +36,3 @@ nomad:Athens
 ---
 
 Source: [Athens](https://trashwiki.org/en/Athens)
-License: CC-BY-NC-SA-4.0

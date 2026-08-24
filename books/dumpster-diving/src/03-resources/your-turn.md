@@ -1,6 +1,6 @@
 <!-- editorial:lock -->
 
-# Part IV — Your turn
+# Your turn
 
 You do not need a manifesto to look in a bin. You need a bag, a light, and the nerve to open a lid that other people walk past.
 

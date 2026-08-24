@@ -54,4 +54,3 @@
 ---
 
 Source: [Facebook](https://trashwiki.org/en/Facebook)
-License: CC-BY-NC-SA-4.0

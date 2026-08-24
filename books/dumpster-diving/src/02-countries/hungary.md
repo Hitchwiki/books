@@ -24,4 +24,3 @@ In some cities every district has certain days few times a year when people can 
 ---
 
 Source: [Hungary](https://trashwiki.org/en/Hungary)
-License: CC-BY-NC-SA-4.0

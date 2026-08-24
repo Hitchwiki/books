@@ -65,4 +65,3 @@ Some materials bring higher prices. A useful site for learning what types of ele
 ---
 
 Source: [Making money](https://trashwiki.org/en/Making_money)
-License: CC-BY-NC-SA-4.0

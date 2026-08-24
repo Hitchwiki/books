@@ -47,4 +47,3 @@ According to its [website](http://foodnotbombs.net/mexico.html), FNB is in many 
 ---
 
 Source: [Mexico](https://trashwiki.org/en/Mexico)
-License: CC-BY-NC-SA-4.0

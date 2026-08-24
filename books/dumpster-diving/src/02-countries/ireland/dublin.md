@@ -95,4 +95,3 @@ Seomra also has a decently-sized [freeshop](freeshop "freeshop"){.wikilink} upst
 ---
 
 Source: [Dublin](https://trashwiki.org/en/Dublin)
-License: CC-BY-NC-SA-4.0

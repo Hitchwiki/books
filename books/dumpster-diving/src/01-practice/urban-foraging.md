@@ -20,4 +20,3 @@ Feel free to add your own discoveries as well!
 ---
 
 Source: [Urban foraging](https://trashwiki.org/en/Urban_foraging)
-License: CC-BY-NC-SA-4.0

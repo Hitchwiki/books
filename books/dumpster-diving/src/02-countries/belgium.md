@@ -56,4 +56,3 @@ Place: Andenne, Braine-le-Comte, Bruxelles(°), Charleroi, Court-Saint-Etienne, 
 ---
 
 Source: [Belgium](https://trashwiki.org/en/Belgium)
-License: CC-BY-NC-SA-4.0

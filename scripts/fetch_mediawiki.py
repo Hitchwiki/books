@@ -372,6 +372,7 @@ def write_chapter(
     *,
     strip_spots: bool = False,
     notice: str = "",
+    show_license: bool = True,
 ) -> str:
     dest = chapter_dest(book, part, slugify(title))
     md = wikitext_to_markdown(body, strip_spots=strip_spots)
@@ -381,10 +382,8 @@ def write_chapter(
             "They go out of date. Follow the note above to the live map or wiki.\n"
         )
     banner = f"> {notice}\n\n" if notice else ""
-    footer = (
-        f"\n\n---\n\nSource: [{title}]({source_url})  \n"
-        f"License: {license_spdx}\n"
-    )
+    license_line = f"  \nLicense: {license_spdx}" if show_license else ""
+    footer = f"\n\n---\n\nSource: [{title}]({source_url}){license_line}\n"
     generated = f"# {title}\n\n{banner}{md}\n\n{extra_md}{footer}"
     return write_generated(book, dest, generated, title=title)
 
@@ -476,7 +475,18 @@ def fetch_wiki(
                 )
             )
             url = cfg["origin"] + title.replace(" ", "_")
-            record(write_chapter(book, part, title, text, url, extra_md, license_spdx))
+            record(
+                write_chapter(
+                    book,
+                    part,
+                    title,
+                    text,
+                    url,
+                    extra_md,
+                    license_spdx,
+                    show_license=cfg.get("chapter_license_footers", True),
+                )
+            )
 
     compile_titles(howto, cfg["part_howto"], 3, apply_stubs=True)
     compile_titles(countries, cfg["part_country"], 2)
@@ -520,6 +530,7 @@ def fetch_wiki(
                     license_spdx,
                     strip_spots=True,
                     notice=notice,
+                    show_license=cfg.get("chapter_license_footers", True),
                 )
             )
         print(f"  cities={len(seen_cities)}", flush=True)

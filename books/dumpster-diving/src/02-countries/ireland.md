@@ -14,4 +14,3 @@
 ---
 
 Source: [Ireland](https://trashwiki.org/en/Ireland)
-License: CC-BY-NC-SA-4.0

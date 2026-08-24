@@ -15,4 +15,3 @@ Arrive around 10pm (Mondays and Thursdays) at *Rote Flora* squated social centre
 ---
 
 Source: [Hamburg](https://trashwiki.org/en/Hamburg)
-License: CC-BY-NC-SA-4.0

@@ -15,4 +15,3 @@ There are also some other websites with good trash info:
 ---
 
 Source: [Maps](https://trashwiki.org/en/Maps)
-License: CC-BY-NC-SA-4.0

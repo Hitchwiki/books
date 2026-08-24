@@ -17,4 +17,3 @@ In big cities containers are not bad and people care less about it, once again: 
 ---
 
 Source: [Georgia](https://trashwiki.org/en/Georgia)
-License: CC-BY-NC-SA-4.0

@@ -21,4 +21,3 @@ One can also find discarded fruits and veggies at Kensington market, which is qu
 ---
 
 Source: [Toronto](https://trashwiki.org/en/Toronto)
-License: CC-BY-NC-SA-4.0

@@ -13,4 +13,3 @@ There is a Food Not Bombs every Sunday from 6.30pm in front of Menilmontant Metr
 ---
 
 Source: [Paris](https://trashwiki.org/en/Paris)
-License: CC-BY-NC-SA-4.0

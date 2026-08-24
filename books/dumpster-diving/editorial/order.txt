@@ -1,0 +1,65 @@
+# Double-bracket headings create subsections inside Part I without creating new parts.
+00-frontmatter.md
+01-practice.md
+
+[[Getting started]]
+01-practice/00-getting-started.md
+01-practice/dumpster-diving.md
+01-practice/first-time.md
+01-practice/dumpster-diver.md
+01-practice/dumpster.md
+
+[[Food, safety, and the law]]
+01-practice/05-food-safety-and-the-law.md
+01-practice/laws.md
+01-practice/good-samaritan-food-donation-act.md
+01-practice/health.md
+01-practice/food.md
+01-practice/mold.md
+01-practice/employees.md
+01-practice/compactor.md
+01-practice/unlocking-dumpsters.md
+
+[[Places and techniques]]
+01-practice/10-places-and-techniques.md
+01-practice/restaurants.md
+01-practice/residential-food-diving.md
+01-practice/table-dive.md
+01-practice/wintertime-diving.md
+01-practice/festivals.md
+01-practice/hard-rubbish.md
+01-practice/beachcombing.md
+01-practice/urban-foraging.md
+
+[[Diving on the move]]
+01-practice/15-diving-on-the-move.md
+01-practice/travelling.md
+01-practice/freight-bicycle.md
+01-practice/maps.md
+01-practice/meetings.md
+01-practice/facebook.md
+01-practice/tlog.md
+
+[[Waste and recovery]]
+01-practice/20-waste-and-recovery.md
+01-practice/making-money.md
+01-practice/waste.md
+01-practice/landfill.md
+01-practice/recycling.md
+01-practice/recycling-guides.md
+01-practice/precycling.md
+01-practice/planned-obsolescence.md
+
+[[Culture and further guidance]]
+01-practice/25-culture-and-further-guidance.md
+01-practice/vegan.md
+01-practice/ollie.md
+01-practice/pamphlet.md
+01-practice/wikihow.md
+
+# The order is scoped by part, so places retain their geographic fallback order.
+03-resources.md
+03-resources/related-websites.md
+03-resources/literature.md
+03-resources/your-turn.md
+03-resources/the-road-ahead.md

@@ -12,4 +12,3 @@
 ---
 
 Source: [Belarus](https://trashwiki.org/en/Belarus)
-License: CC-BY-NC-SA-4.0

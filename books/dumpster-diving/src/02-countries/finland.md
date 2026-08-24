@@ -103,4 +103,3 @@ There are a few establishments in Finland for getting rid of your surplus [stuff
 ---
 
 Source: [Finland](https://trashwiki.org/en/Finland)
-License: CC-BY-NC-SA-4.0

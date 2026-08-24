@@ -37,4 +37,3 @@ Facebook: [Flydende By-Floating City of Copenhagen](http://www.facebook.com/grou
 ---
 
 Source: [Copenhagen](https://trashwiki.org/en/Copenhagen)
-License: CC-BY-NC-SA-4.0

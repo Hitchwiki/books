@@ -45,4 +45,3 @@ See also:
 ---
 
 Source: [Planned obsolescence](https://trashwiki.org/en/Planned_obsolescence)
-License: CC-BY-NC-SA-4.0

@@ -51,4 +51,3 @@ Tres Olivos \--\> único acceso (casi siempre sin personal) Begoña \--\> acceso
 ---
 
 Source: [Madrid](https://trashwiki.org/en/Madrid)
-License: CC-BY-NC-SA-4.0

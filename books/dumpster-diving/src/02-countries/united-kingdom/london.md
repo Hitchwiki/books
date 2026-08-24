@@ -235,4 +235,3 @@ Address: 780 Bath Rd, Hounslow, Greater London TW5 9SL Location of the bins: Rou
 ---
 
 Source: [London](https://trashwiki.org/en/London)
-License: CC-BY-NC-SA-4.0

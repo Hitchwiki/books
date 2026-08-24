@@ -43,4 +43,3 @@ The *[Rotterdamse Oogst](http://rotterdamseoogst.nl)* (*Rotterdam Harvest*) is a
 ---
 
 Source: [Rotterdam](https://trashwiki.org/en/Rotterdam)
-License: CC-BY-NC-SA-4.0

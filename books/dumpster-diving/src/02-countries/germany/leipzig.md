@@ -28,4 +28,3 @@
 ---
 
 Source: [Leipzig](https://trashwiki.org/en/Leipzig)
-License: CC-BY-NC-SA-4.0

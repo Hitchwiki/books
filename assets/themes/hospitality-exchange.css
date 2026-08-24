@@ -190,6 +190,12 @@ body.book-hospitality-exchange nav#TOC .toc-regions {
 body.book-hospitality-exchange nav#TOC details.toc-region {
   margin: 0.25rem 0 0.45rem;
 }
+body.book-hospitality-exchange nav#TOC details.toc-subsection {
+  margin: 0.3rem 0 0.5rem 0.7rem;
+}
+body.book-hospitality-exchange nav#TOC details.toc-subsection > ul {
+  margin: 0.15rem 0 0.35rem 1rem;
+}
 body.book-hospitality-exchange nav#TOC details.toc-region summary {
   font-weight: 600;
 }

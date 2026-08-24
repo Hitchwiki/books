@@ -21,4 +21,3 @@
 ---
 
 Source: [Israel](https://trashwiki.org/en/Israel)
-License: CC-BY-NC-SA-4.0

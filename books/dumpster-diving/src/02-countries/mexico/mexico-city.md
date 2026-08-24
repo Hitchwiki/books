@@ -11,4 +11,3 @@ Join the [Food Not Bombs](https://www.facebook.com/comidanobombasdf) if you are 
 ---
 
 Source: [Mexico City](https://trashwiki.org/en/Mexico_City)
-License: CC-BY-NC-SA-4.0

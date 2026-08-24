@@ -23,4 +23,3 @@ You can find a list of the street markets, sorted by weekday, [here](http://www.
 ---
 
 Source: [Istanbul](https://trashwiki.org/en/Istanbul)
-License: CC-BY-NC-SA-4.0
