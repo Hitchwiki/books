@@ -30,15 +30,15 @@ body.catalog * { box-sizing: border-box; }
 body.catalog h1 {
   display: flex;
   align-items: center;
-  gap: 0.55rem;
+  gap: 0.4rem;
   font-size: clamp(1.6rem, 3vw, 2.2rem);
   font-weight: 600;
   margin: 0 0 1.5rem;
   color: #6e3100;
 }
 body.catalog h1 img {
-  width: 1.15em;
-  height: 1.15em;
+  width: 0.65em;
+  height: 0.65em;
   flex: none;
 }
 body.catalog .lede {
