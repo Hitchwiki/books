@@ -83,6 +83,7 @@ WIKIS = {
             "Victoria",
             "Western Australia",
             "News and events",
+            "News",
         ),
     },
     "nomadwiki": {

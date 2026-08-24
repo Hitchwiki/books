@@ -39,7 +39,7 @@ Hitchhiking.org uses **Nunito**. This book keeps **Source Serif 4** for long rea
 
 ## Applied
 
-Cover uses the yellow Hitchwiki field over Roger McLassus’s 1977 Luxembourg hitchhiker (the same photograph hitchhiking.org uses). Logo and brown type sit on a yellow scrim; Hitchwiki red bar at the foot. Body text sits on cream, links in ochre.
+Cover uses the yellow Hitchwiki field over Roger McLassus’s 1977 Luxembourg hitchhiker (the same photograph hitchhiking.org uses). Logo and brown type sit on a yellow scrim; Hitchwiki red bar at the foot. Kicker is the contributor estimate (“By 1,300+ hitchhikers”), not “From Hitchwiki.” Body text sits on cream, links in ochre.
 
 ## Cover photo
 

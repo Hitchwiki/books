@@ -28,7 +28,7 @@ THEMES: dict[str, dict] = {
         "body_bold": "SourceSerif4-Bold.ttf",
         "fallback": 'Palatino, "Palatino Linotype", Georgia, serif',
         "measure": "38rem",
-        "kicker": "From Hitchwiki",
+        "kicker": "By 1,300+ hitchhikers",
         "logo": "hitchhikers-guide.png",
         "logo_alt": "Hitchwiki",
         "cover_photo": {
