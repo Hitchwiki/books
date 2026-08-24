@@ -527,15 +527,14 @@ body.book-{slug} .toc-jump {{
   body.book-{slug} .toc-jump {{ display: none; }}
 }}
 body.book-{slug} .book-banner {{
-  background: {banner_bg};
-  color: {banner_fg};
+  background: {t["cover_bg"]};
+  color: {t["cover_fg"]};
   margin: 0 -1.25rem 0;
   padding: 0.85rem 1.25rem;
   font-size: 0.82rem;
   letter-spacing: 0.04em;
 }}
 body.book-{slug} .book-banner a {{ color: inherit; text-decoration: underline; }}
-{dark_extra}
 {extra}
 {drop}
 
@@ -567,6 +566,19 @@ body.book-{slug} .cover-read a {{
   font-size: 0.78rem;
   font-style: normal;
   font-family: {t["fallback"]};
+}}
+body.book-{slug} .cover-logo-wrap {{
+  margin: 0 0 1.2rem;
+  position: relative;
+  z-index: 2;
+}}
+body.book-{slug} .cover-logo {{
+  display: block;
+  max-height: 5.6rem;
+  max-width: {logo_max};
+  width: auto;
+  height: auto;
+  object-fit: contain;
 }}
 body.book-{slug} .cover-kicker {{
   font-family: "{t["body"]}", {t["fallback"]};
@@ -634,48 +646,49 @@ article.card-{slug} .badge {{ border-color: {t["accent"]}; }}"""
     return f"""
 @font-face {{
   font-family: "Source Serif 4";
-  src: url("fonts/{serif["body_file"]}") format("truetype");
+  src: url("fonts/SourceSerif4-Regular.ttf") format("truetype");
   font-weight: 400;
   font-display: swap;
 }}
 @font-face {{
   font-family: "Source Serif 4";
-  src: url("fonts/{serif["display_file"]}") format("truetype");
+  src: url("fonts/SourceSerif4-Semibold.ttf") format("truetype");
   font-weight: 600;
   font-display: swap;
 }}
 html, body {{
   margin: 0;
-  background: white;
-  color: #1c1710;
+  background: #fbf7e9;
+  color: #5b2b08;
   font-family: "Source Serif 4", Palatino, Georgia, serif;
 }}
 body.catalog {{
   max-width: 72rem;
   margin: 0 auto;
-  padding: 1.5rem 1.25rem 2rem;
+  padding: 1.75rem clamp(1rem, 5vw, 2.5rem) 2.5rem;
 }}
 body.catalog h1 {{
   font-size: clamp(1.6rem, 3vw, 2.2rem);
   font-weight: 600;
   margin: 0 0 0.4rem;
+  color: #6e3100;
 }}
 body.catalog .lede {{
   max-width: 36rem;
-  color: #5c564c;
+  color: #76563c;
   line-height: 1.5;
   margin-bottom: 1.5rem;
 }}
 .grid {{
   display: grid;
-  gap: 0.75rem;
+  gap: 1.25rem;
   grid-template-columns: repeat(2, 1fr);
 }}
 @media (min-width: 700px) {{
-  .grid {{ grid-template-columns: repeat(4, 1fr); }}
+  .grid {{ gap: 1.5rem; grid-template-columns: repeat(4, 1fr); }}
 }}
 @media (min-width: 1100px) {{
-  .grid {{ grid-template-columns: repeat(7, 1fr); }}
+  .grid {{ gap: 1.5rem; grid-template-columns: repeat(7, 1fr); }}
 }}
 .card {{
   border: 2px solid;
@@ -712,6 +725,17 @@ body.catalog .lede {{
   overflow: hidden;
   text-overflow: ellipsis;
 }}
+.card .site-logo {{
+  display: block;
+  max-height: 2.4rem;
+  max-width: 100%;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  margin: 0 0 0.45rem;
+  background: transparent;
+  aspect-ratio: auto;
+}}
 .badge {{
   display: inline-block;
   border: 1px solid;
@@ -720,14 +744,14 @@ body.catalog .lede {{
   letter-spacing: 0.04em;
 }}
 .card .formats {{ margin: 0.45rem 0 0; font-size: 0.75rem; }}
-.foot {{ margin-top: 1.5rem; color: #8a8680; font-size: 0.75rem; text-align: right; }}
-.foot a {{ color: #6e6a64; }}
+.foot {{ margin-top: 1.5rem; color: #76563c; font-size: 0.75rem; text-align: right; }}
+.foot a {{ color: #6e3100; }}
 .foot .github {{
   display: inline-flex;
   align-items: center;
   vertical-align: -0.15em;
   margin: 0 0.15em;
-  color: #6e6a64;
+  color: #6e3100;
   text-decoration: none;
 }}
 .foot .github svg {{ width: 1em; height: 1em; display: block; }}

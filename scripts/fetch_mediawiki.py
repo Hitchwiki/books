@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import argparse
 import gzip
+import os
 import re
 import subprocess
 import sys
@@ -15,7 +16,15 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from common import CACHE, ROOT, category_members, download, get, mw_api, slugify
 from editorial import write_generated
 from images import license_ok, save_image, write_manifest
-from titles import CITY_ALIASES, CITY_MAP_LINKS, CITY_SELECTION, HOWTO_FALLBACK, WIKIS
+from titles import (
+    CITY_ALIASES,
+    CITY_MAP_LINKS,
+    CITY_SELECTION,
+    HOWTO_FALLBACK,
+    WIKIS,
+    city_part,
+    country_slug_for_city,
+)
 
 FILE_RE = re.compile(r"\[\[\s*(?:File|Image|file|image)\s*:\s*([^|\]]+)", re.I)
 NS = {"mw": "http://www.mediawiki.org/xml/export-0.11/"}
@@ -257,13 +266,24 @@ def imageinfo(api: str, filename: str) -> dict | None:
     return None
 
 
-def fetch_page_images(api: str, wikitext: str, img_dir: Path, manifest: list, limit: int = 3) -> str:
+def fetch_page_images(
+    api: str,
+    wikitext: str,
+    img_dir: Path,
+    manifest: list,
+    limit: int = 3,
+    *,
+    chapter_path: Path | None = None,
+) -> str:
     names = []
     for m in FILE_RE.finditer(wikitext):
         name = m.group(1).strip()
         if name not in names:
             names.append(name)
     md_extra = []
+    prefix = "../../images"
+    if chapter_path is not None:
+        prefix = Path(os.path.relpath(img_dir, chapter_path.parent)).as_posix()
     for name in names[:limit]:
         try:
             info = imageinfo(api, name)
@@ -283,7 +303,7 @@ def fetch_page_images(api: str, wikitext: str, img_dir: Path, manifest: list, li
         path = save_image(url, img_dir, name)
         if not path:
             continue
-        rel = f"../../images/{path.name}"
+        rel = f"{prefix}/{path.name}"
         cap = f"{name} — {artist}".strip(" —")
         if lic:
             cap += f" ({lic})"
@@ -392,18 +412,29 @@ def fetch_wiki(
                 f"(hitchhiking, dumpster diving, or hospitality exchange). "
                 f"See the live wiki: {cfg['origin']}{title.replace(' ', '_')}\n"
             )
-        extra = "" if skip_images else fetch_page_images(cfg["api"], pages.get(title, ""), img_dir, manifest, limit=3)
+        dest = book / "src" / cfg["part_howto"] / f"{slugify(title)}.md"
+        extra = (
+            ""
+            if skip_images
+            else fetch_page_images(
+                cfg["api"], pages.get(title, ""), img_dir, manifest, limit=3, chapter_path=dest
+            )
+        )
         url = cfg["origin"] + title.replace(" ", "_")
         record(write_chapter(book, cfg["part_howto"], title, text, url, extra, license_spdx))
     for title in countries:
         text = pages.get(title)
         if not text:
             continue
-        extra = "" if skip_images else fetch_page_images(cfg["api"], text, img_dir, manifest, limit=2)
+        dest = book / "src" / cfg["part_country"] / f"{slugify(title)}.md"
+        extra = (
+            ""
+            if skip_images
+            else fetch_page_images(cfg["api"], text, img_dir, manifest, limit=2, chapter_path=dest)
+        )
         url = cfg["origin"] + title.replace(" ", "_")
         record(write_chapter(book, cfg["part_country"], title, text, url, extra, license_spdx))
     if wiki in CITY_MAP_LINKS:
-        part_city = cfg.get("part_city") or "03-cities"
         notice = CITY_MAP_LINKS[wiki]
         seen_cities: set[str] = set()
         for name in CITY_SELECTION.get(wiki) or []:
@@ -418,12 +449,24 @@ def fetch_wiki(
             if title in seen_cities:
                 continue
             seen_cities.add(title)
-            extra = "" if skip_images else fetch_page_images(cfg["api"], text, img_dir, manifest, limit=2)
+            part = city_part(wiki, title)
+            city_slug = slugify(title)
+            country_slug = country_slug_for_city(wiki, title)
+            country_file = book / "src" / cfg["part_country"] / f"{country_slug}.md"
+            if country_slug and city_slug == country_slug and country_file.exists():
+                print(f"  skip city {title} (same page as country)", flush=True)
+                continue
+            dest = book / "src" / part / f"{city_slug}.md"
+            extra = (
+                ""
+                if skip_images
+                else fetch_page_images(cfg["api"], text, img_dir, manifest, limit=2, chapter_path=dest)
+            )
             url = cfg["origin"] + title.replace(" ", "_")
             record(
                 write_chapter(
                     book,
-                    part_city,
+                    part,
                     title,
                     text,
                     url,

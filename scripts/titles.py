@@ -360,7 +360,120 @@ CITY_ALIASES = {
     "Bogotá": ("Bogotá", "Bogota"),
     "Ho Chi Minh City": ("Ho Chi Minh City", "Saigon"),
     "New Delhi": ("New Delhi", "Delhi"),
+    "San Francisco": ("San Francisco", "Bay Area"),
 }
+
+# City chapter slug → country title (wiki page name before per-wiki overrides).
+CITY_COUNTRY = {
+    "accra": "Ghana",
+    "addis-ababa": "Ethiopia",
+    "amsterdam": "Netherlands",
+    "athens": "Greece",
+    "auckland": "New Zealand",
+    "bangkok": "Thailand",
+    "barcelona": "Spain",
+    "bay-area": "United States of America",
+    "beijing": "China",
+    "berlin": "Germany",
+    "bogota": "Colombia",
+    "bogotá": "Colombia",
+    "brussels": "Belgium",
+    "budapest": "Hungary",
+    "buenos-aires": "Argentina",
+    "cairo": "Egypt",
+    "cape-town": "South Africa",
+    "casablanca": "Morocco",
+    "chicago": "United States of America",
+    "cologne": "Germany",
+    "copenhagen": "Denmark",
+    "dakar": "Senegal",
+    "dublin": "Ireland",
+    "edinburgh": "United Kingdom",
+    "hamburg": "Germany",
+    "hanoi": "Vietnam",
+    "helsinki": "Finland",
+    "ho-chi-minh-city": "Vietnam",
+    "hong-kong": "Hong Kong",
+    "istanbul": "Turkey",
+    "jakarta": "Indonesia",
+    "jerusalem": "Israel",
+    "johannesburg": "South Africa",
+    "kathmandu": "Nepal",
+    "kuala-lumpur": "Malaysia",
+    "lagos": "Nigeria",
+    "leipzig": "Germany",
+    "lima": "Peru",
+    "lisbon": "Portugal",
+    "london": "United Kingdom",
+    "los-angeles": "United States of America",
+    "lyon": "France",
+    "madrid": "Spain",
+    "manchester": "United Kingdom",
+    "manila": "Philippines",
+    "marseille": "France",
+    "melbourne": "Australia",
+    "mexico-city": "Mexico",
+    "montreal": "Canada",
+    "moscow": "Russia",
+    "mumbai": "India",
+    "munich": "Germany",
+    "nairobi": "Kenya",
+    "new-delhi": "India",
+    "new-york": "United States of America",
+    "new-york-city": "United States of America",
+    "oslo": "Norway",
+    "paris": "France",
+    "porto": "Portugal",
+    "prague": "Czech Republic",
+    "rio-de-janeiro": "Brazil",
+    "rome": "Italy",
+    "rotterdam": "Netherlands",
+    "san-francisco": "United States of America",
+    "santiago": "Chile",
+    "sao-paulo": "Brazil",
+    "são-paulo": "Brazil",
+    "seattle": "United States of America",
+    "seoul": "South Korea",
+    "shanghai": "China",
+    "singapore": "Singapore",
+    "stockholm": "Sweden",
+    "sydney": "Australia",
+    "tbilisi": "Georgia",
+    "tehran": "Iran",
+    "tel-aviv": "Israel",
+    "tokyo": "Japan",
+    "toronto": "Canada",
+    "valencia": "Spain",
+    "vancouver": "Canada",
+    "vienna": "Austria",
+    "warsaw": "Poland",
+    "wellington": "New Zealand",
+}
+
+COUNTRY_TITLE_BY_WIKI = {
+    "nomadwiki": {
+        "United States of America": "United States",
+        "Georgia": "Georgia (country)",
+    },
+}
+
+
+def country_slug_for_city(wiki: str, city_title: str) -> str | None:
+    slug = slugify(city_title)
+    country = CITY_COUNTRY.get(slug)
+    if country is None:
+        return None
+    title = COUNTRY_TITLE_BY_WIKI.get(wiki, {}).get(country, country)
+    return slugify(title)
+
+
+def city_part(wiki: str, city_title: str) -> str:
+    """Directory under src/ for a city chapter: 02-countries/<country-slug>."""
+    cfg = WIKIS[wiki]
+    country = country_slug_for_city(wiki, city_title)
+    if not country:
+        return f"{cfg['part_country']}/_ungrouped"
+    return f"{cfg['part_country']}/{country}"
 
 CITY_MAP_LINKS = {
     "hitchwiki": (
