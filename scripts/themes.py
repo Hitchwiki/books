@@ -1083,7 +1083,7 @@ article.card-{slug} a {{ color: {t["accent"]}; }}
 article.card-{slug} .badge {{ border-color: {t["accent"]}; }}
 """
         )
-    return f"""
+    return (f"""
 @font-face {{
   font-family: "Source Serif 4";
   src: url("fonts/SourceSerif4-Regular.ttf") format("truetype");
@@ -1113,10 +1113,18 @@ body.catalog {{
 }}
 body.catalog * {{ box-sizing: border-box; }}
 body.catalog h1 {{
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
   font-size: clamp(1.6rem, 3vw, 2.2rem);
   font-weight: 600;
   margin: 0 0 1.5rem;
   color: #6e3100;
+}}
+body.catalog h1 img {{
+  width: 1rem;
+  height: 1rem;
+  flex: none;
 }}
 body.catalog .lede {{
   color: #76563c;
@@ -1204,7 +1212,7 @@ body.catalog .lang-label {{
   font-size: 0.62rem;
   letter-spacing: 0.04em;
 }}
-.card .formats {{ margin: 0.45rem 0 0; font-size: 0.75rem; }}
+.card .formats {{ margin: 0; font-size: 0.75rem; text-align: center; }}
 .foot {{ margin-top: 1.5rem; color: #76563c; font-size: 0.75rem; text-align: right; }}
 .foot a {{ color: #6e3100; }}
 .foot .github {{
@@ -1217,7 +1225,7 @@ body.catalog .lang-label {{
 }}
 .foot .github svg {{ width: 1em; height: 1em; display: block; }}
 {"".join(cards)}
-"""
+""".strip() + "\n")
 
 
 def write_css_files() -> None:

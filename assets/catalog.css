@@ -1,4 +1,3 @@
-
 @font-face {
   font-family: "Source Serif 4";
   src: url("fonts/SourceSerif4-Regular.ttf") format("truetype");
@@ -127,7 +126,7 @@ body.catalog .lang-label {
   font-size: 0.62rem;
   letter-spacing: 0.04em;
 }
-.card .formats { margin: 0.45rem 0 0; font-size: 0.75rem; }
+.card .formats { margin: 0; font-size: 0.75rem; text-align: center; }
 .foot { margin-top: 1.5rem; color: #76563c; font-size: 0.75rem; text-align: right; }
 .foot a { color: #6e3100; }
 .foot .github {

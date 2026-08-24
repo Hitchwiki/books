@@ -130,7 +130,7 @@ def main() -> None:
 </head>
 <body class="catalog">
   <header>
-    <h1><img src="./favicon.ico?v={version}" alt="">Hitchwiki Books</h1>
+    <h1><img src="./favicon.ico?v={version}" alt="" width="16" height="16">Hitchwiki Books</h1>
   </header>
 {chr(10).join(sections)}
   <p class="lede">A growing collection of freely licensed books. Created by thousands of people over two decades.</p>
