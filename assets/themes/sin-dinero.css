@@ -20,6 +20,14 @@
   font-display: swap;
 }
 
+html {
+  overflow-x: clip;
+}
+body.book-sin-dinero,
+body.book-sin-dinero * {
+  box-sizing: border-box;
+}
+
 body.book-sin-dinero {
   --fg: #2c1a10;
   --muted: #8a6240;
@@ -31,7 +39,7 @@ body.book-sin-dinero {
   --cover-fg: #f8f0e4;
   --measure: 36rem;
   --toc: 20rem;
-  --banner: 3.15rem;
+  --banner: 5.1rem;
   background: var(--bg);
   color: var(--fg);
   font-family: "Source Serif 4", Georgia, Palatino, serif;
@@ -41,6 +49,8 @@ body.book-sin-dinero {
   line-height: 1.58;
   font-size: 1.06rem;
   min-height: 100vh;
+  width: 100%;
+  overflow-wrap: anywhere;
 }
 body.book-sin-dinero h1,
 body.book-sin-dinero h2,
@@ -61,7 +71,7 @@ body.book-sin-dinero .chapter-heading {
   align-items: baseline;
   gap: 0.75rem;
 }
-body.book-sin-dinero .chapter-heading h1 { flex: 1 1 auto; }
+body.book-sin-dinero .chapter-heading h1 { flex: 1 1 auto; min-width: 0; }
 body.book-sin-dinero .chapter-edit {
   flex: 0 0 auto;
   color: var(--muted);
@@ -75,7 +85,39 @@ body.book-sin-dinero .chapter-edit {
 }
 body.book-sin-dinero .chapter-edit:hover,
 body.book-sin-dinero .chapter-edit:focus-visible { color: var(--accent); }
+body.book-sin-dinero .chapter-source {
+  color: var(--muted);
+  font-size: 0.72rem;
+  margin: 0.35rem 0 1rem;
+}
+body.book-sin-dinero .chapter-source a {
+  color: inherit;
+  text-decoration: none;
+}
+body.book-sin-dinero .chapter-source a:hover,
+body.book-sin-dinero .chapter-source a:focus-visible {
+  color: var(--accent);
+  text-decoration: underline;
+}
 body.book-sin-dinero img { max-width: 100%; height: auto; }
+body.book-sin-dinero figure { max-width: 100%; margin-left: 0; margin-right: 0; }
+body.book-sin-dinero iframe,
+body.book-sin-dinero video,
+body.book-sin-dinero svg { max-width: 100%; }
+body.book-sin-dinero pre {
+  max-width: 100%;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}
+body.book-sin-dinero code { overflow-wrap: anywhere; }
+body.book-sin-dinero table {
+  width: 100%;
+  max-width: 100%;
+  table-layout: fixed;
+  border-collapse: collapse;
+}
+body.book-sin-dinero th,
+body.book-sin-dinero td { overflow-wrap: anywhere; }
 body.book-sin-dinero #title-block-header { display: none; }
 body.book-sin-dinero .visually-hidden {
   position: absolute;
@@ -228,11 +270,80 @@ body.book-sin-dinero .book-banner {
   background: #4a220c;
   color: #f8f0e4;
   margin: 0 -1.25rem 0;
-  padding: 0.85rem 1.25rem;
-  font-size: 0.82rem;
-  letter-spacing: 0.04em;
+  padding: 0.75rem 1.25rem 0.8rem;
+  font-size: 0.78rem;
+  letter-spacing: 0.03em;
 }
-body.book-sin-dinero .book-banner a { color: inherit; text-decoration: underline; }
+body.book-sin-dinero .book-banner-inner {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  min-height: 2.7rem;
+}
+body.book-sin-dinero .book-banner-title {
+  display: flex;
+  align-items: baseline;
+  flex: 1 1 22rem;
+  min-width: min(22rem, 100%);
+  gap: 0.7rem;
+  line-height: 1.15;
+}
+body.book-sin-dinero .book-banner-site {
+  flex: 0 0 auto;
+  color: inherit;
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  opacity: 0.72;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+body.book-sin-dinero .book-banner-book-title {
+  flex: 1 1 auto;
+  min-width: 0;
+  overflow: hidden;
+  color: inherit;
+  font-family: "Source Serif 4", Georgia, Palatino, serif;
+  font-size: clamp(1.8rem, 4vw, 3rem);
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: -0.015em;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+body.book-sin-dinero .book-banner-version {
+  flex: 0 0 auto;
+  color: inherit;
+  font-size: 0.55rem;
+  font-weight: 400;
+  letter-spacing: 0.02em;
+  opacity: 0.42;
+}
+body.book-sin-dinero .book-banner-actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  flex: 0 1 auto;
+  gap: 0.8rem;
+  justify-content: flex-end;
+  margin-left: auto;
+  white-space: nowrap;
+}
+body.book-sin-dinero .book-banner-actions a {
+  color: inherit;
+  font-size: 0.62rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  opacity: 0.62;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+body.book-sin-dinero .book-banner-actions a:hover,
+body.book-sin-dinero .book-banner-actions a:focus-visible {
+  opacity: 1;
+  text-decoration: underline;
+}
+body.book-sin-dinero .book-banner a { color: inherit; }
 body.book-sin-dinero .book-banner a.github {
   display: inline-flex;
   align-items: center;
@@ -240,6 +351,17 @@ body.book-sin-dinero .book-banner a.github {
   text-decoration: none;
 }
 body.book-sin-dinero .book-banner a.github svg { width: 1.1em; height: 1.1em; display: block; }
+@media (max-width: 40rem) {
+  body.book-sin-dinero .book-banner-inner {
+    align-items: flex-start;
+    flex-wrap: wrap;
+    gap: 0.55rem 1rem;
+  }
+  body.book-sin-dinero .book-banner-title { width: 100%; }
+  body.book-sin-dinero .book-banner-site,
+  body.book-sin-dinero .book-banner-version { flex-shrink: 1; }
+  body.book-sin-dinero .book-banner-actions { margin-left: auto; max-width: 100%; }
+}
 @media (min-width: 56rem) {
   body.book-sin-dinero {
     max-width: min(100%, calc(var(--toc) + var(--measure) + 3rem));

@@ -350,7 +350,10 @@ def photos_dir() -> Path:
 
 
 def cover_html(slug: str, meta: dict) -> str:
+    from ui_strings import ui_strings
+
     t = THEMES[slug]
+    labels = ui_strings(str(meta.get("lang", "en")))
     title = meta.get("title", slug)
     sub = meta.get("subtitle", "")
     license_id = meta.get("license", "")
@@ -365,13 +368,13 @@ def cover_html(slug: str, meta: dict) -> str:
             f"</p>"
         )
     photo_class = " cover-has-photo" if t.get("cover_photo") else ""
-    return f"""<section class="cover-page{photo_class}" aria-label="Cover">
+    return f"""<section class="cover-page{photo_class}" aria-label="{labels['cover']}">
   {logo_html}
   <p class="cover-kicker">{t["kicker"]}</p>
   <div class="cover-main">
     <h1 class="cover-title">{title}</h1>
     <p class="cover-sub">{sub}</p>
-    <p class="cover-read"><a href="#TOC">Read the book</a></p>
+    <p class="cover-read"><a href="#TOC">{labels['read_book']}</a></p>
   </div>
   <p class="cover-foot">books.hitchwiki.org · {license_id}</p>
 </section>
@@ -585,6 +588,14 @@ body.book-random-roads h1 + p::first-letter {
 }"""
     return f"""{_font_faces(t, font_prefix)}
 
+html {{
+  overflow-x: clip;
+}}
+body.book-{slug},
+body.book-{slug} * {{
+  box-sizing: border-box;
+}}
+
 body.book-{slug} {{
   --fg: {t["fg"]};
   --muted: {t["muted"]};
@@ -596,7 +607,7 @@ body.book-{slug} {{
   --cover-fg: {t["cover_fg"]};
   --measure: {t["measure"]};
   --toc: 20rem;
-  --banner: 4.25rem;
+  --banner: 5.1rem;
   background: var(--bg);
   color: var(--fg);
   font-family: "{t["body"]}", {t["fallback"]};
@@ -606,6 +617,8 @@ body.book-{slug} {{
   line-height: 1.58;
   font-size: 1.06rem;
   min-height: 100vh;
+  width: 100%;
+  overflow-wrap: anywhere;
 }}
 body.book-{slug} h1,
 body.book-{slug} h2,
@@ -626,7 +639,7 @@ body.book-{slug} .chapter-heading {{
   align-items: baseline;
   gap: 0.75rem;
 }}
-body.book-{slug} .chapter-heading h1 {{ flex: 1 1 auto; }}
+body.book-{slug} .chapter-heading h1 {{ flex: 1 1 auto; min-width: 0; }}
 body.book-{slug} .chapter-edit {{
   flex: 0 0 auto;
   color: var(--muted);
@@ -640,7 +653,39 @@ body.book-{slug} .chapter-edit {{
 }}
 body.book-{slug} .chapter-edit:hover,
 body.book-{slug} .chapter-edit:focus-visible {{ color: var(--accent); }}
+body.book-{slug} .chapter-source {{
+  color: var(--muted);
+  font-size: 0.72rem;
+  margin: 0.35rem 0 1rem;
+}}
+body.book-{slug} .chapter-source a {{
+  color: inherit;
+  text-decoration: none;
+}}
+body.book-{slug} .chapter-source a:hover,
+body.book-{slug} .chapter-source a:focus-visible {{
+  color: var(--accent);
+  text-decoration: underline;
+}}
 body.book-{slug} img {{ max-width: 100%; height: auto; }}
+body.book-{slug} figure {{ max-width: 100%; margin-left: 0; margin-right: 0; }}
+body.book-{slug} iframe,
+body.book-{slug} video,
+body.book-{slug} svg {{ max-width: 100%; }}
+body.book-{slug} pre {{
+  max-width: 100%;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}}
+body.book-{slug} code {{ overflow-wrap: anywhere; }}
+body.book-{slug} table {{
+  width: 100%;
+  max-width: 100%;
+  table-layout: fixed;
+  border-collapse: collapse;
+}}
+body.book-{slug} th,
+body.book-{slug} td {{ overflow-wrap: anywhere; }}
 body.book-{slug} #title-block-header {{ display: none; }}
 body.book-{slug} .visually-hidden {{
   position: absolute;
@@ -806,8 +851,8 @@ body.book-{slug} .book-banner-inner {{
 body.book-{slug} .book-banner-title {{
   display: flex;
   align-items: baseline;
-  flex: 1 1 auto;
-  min-width: 0;
+  flex: 1 1 22rem;
+  min-width: min(22rem, 100%);
   gap: 0.7rem;
   line-height: 1.15;
 }}
@@ -822,10 +867,12 @@ body.book-{slug} .book-banner-site {{
   text-transform: uppercase;
 }}
 body.book-{slug} .book-banner-book-title {{
+  flex: 1 1 auto;
+  min-width: 0;
   overflow: hidden;
   color: inherit;
   font-family: "{t["display"]}", {t["fallback"]};
-  font-size: clamp(1.15rem, 2vw, 1.55rem);
+  font-size: clamp(1.8rem, 4vw, 3rem);
   font-style: normal;
   font-weight: 700;
   letter-spacing: -0.015em;
@@ -835,29 +882,36 @@ body.book-{slug} .book-banner-book-title {{
 body.book-{slug} .book-banner-version {{
   flex: 0 0 auto;
   color: inherit;
-  font-size: 0.65rem;
-  opacity: 0.62;
+  font-size: 0.55rem;
+  font-weight: 400;
+  letter-spacing: 0.02em;
+  opacity: 0.42;
 }}
 body.book-{slug} .book-banner-actions {{
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
-  flex: 0 0 auto;
+  flex: 0 1 auto;
   gap: 0.8rem;
+  justify-content: flex-end;
+  margin-left: auto;
   white-space: nowrap;
 }}
 body.book-{slug} .book-banner-actions a {{
   color: inherit;
-  font-size: 0.7rem;
-  font-weight: 700;
-  letter-spacing: 0.07em;
+  font-size: 0.62rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  opacity: 0.62;
   text-decoration: none;
   text-transform: uppercase;
 }}
 body.book-{slug} .book-banner-actions a:hover,
 body.book-{slug} .book-banner-actions a:focus-visible {{
+  opacity: 1;
   text-decoration: underline;
 }}
-body.book-{slug} .book-banner a {{ color: inherit; text-decoration: underline; }}
+body.book-{slug} .book-banner a {{ color: inherit; }}
 body.book-{slug} .book-banner a.github {{
   display: inline-flex;
   align-items: center;
@@ -872,7 +926,9 @@ body.book-{slug} .book-banner a.github svg {{ width: 1.1em; height: 1.1em; displ
     gap: 0.55rem 1rem;
   }}
   body.book-{slug} .book-banner-title {{ width: 100%; }}
-  body.book-{slug} .book-banner-actions {{ margin-left: auto; }}
+  body.book-{slug} .book-banner-site,
+  body.book-{slug} .book-banner-version {{ flex-shrink: 1; }}
+  body.book-{slug} .book-banner-actions {{ margin-left: auto; max-width: 100%; }}
 }}
 @media (min-width: 56rem) {{
   body.book-{slug} {{
@@ -1028,6 +1084,7 @@ article.card-{slug} .badge {{ border-color: {t["accent"]}; }}
   font-weight: 600;
   font-display: swap;
 }}
+html {{ overflow-x: clip; }}
 html, body {{
   margin: 0;
   background: #fbf7e9;
@@ -1035,10 +1092,14 @@ html, body {{
   font-family: "Source Serif 4", Palatino, Georgia, serif;
 }}
 body.catalog {{
+  box-sizing: border-box;
+  width: 100%;
   max-width: 72rem;
   margin: 0 auto;
   padding: 1.75rem clamp(1rem, 5vw, 2.5rem) 2.5rem;
+  overflow-wrap: anywhere;
 }}
+body.catalog * {{ box-sizing: border-box; }}
 body.catalog h1 {{
   font-size: clamp(1.6rem, 3vw, 2.2rem);
   font-weight: 600;

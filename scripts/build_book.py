@@ -22,6 +22,7 @@ from themes import THEMES, cover_html, fonts_dir, logos_dir, photo_credit_markdo
 from titles import geo_src_key
 from toc import enhance_html
 from wiki_links import strip_interwiki_html
+from ui_strings import ui_strings
 
 
 def version_stamp(raw: str | None) -> str:
@@ -128,6 +129,7 @@ def build(slug: str, version: str, formats: list[str], out: Path) -> None:
     meta_path = book / "metadata.yaml"
     meta = yaml.safe_load(meta_path.read_text(encoding="utf-8")) if meta_path.exists() else {}
     meta["version"] = version
+    labels = ui_strings(str(meta.get("lang", "en")))
     chapters = chapter_files(book)
     if not chapters:
         print(f"{slug}: no chapters, skip")
@@ -190,15 +192,15 @@ def build(slug: str, version: str, formats: list[str], out: Path) -> None:
                 '<header class="book-banner">'
                 '<div class="book-banner-inner">'
                 '<div class="book-banner-title">'
-                '<a class="book-banner-site" href="../">books.hitchwiki.org</a>'
                 f'<span class="book-banner-book-title">{title}</span>'
                 f'<span class="book-banner-version">{version}</span>'
                 '</div>'
-                '<nav class="book-banner-actions" aria-label="Book links">'
-                '<a href="#TOC">Contents</a>'
+                f'<nav class="book-banner-actions" aria-label="{labels["book_links"]}">'
+                '<a class="book-banner-site" href="../">Hitchwiki Books</a>'
+                f'<a href="#TOC">{labels["contents"]}</a>'
                 f'<a href="../downloads/{slug}.epub">EPUB</a>'
                 f'<a href="../downloads/{slug}.pdf">PDF</a>'
-                f'{github_icon_link()}'
+                f'{github_icon_link(labels["source_on_github"])}'
                 '</nav>'
                 '</div>'
                 '</header>\n'

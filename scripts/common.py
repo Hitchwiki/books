@@ -27,9 +27,9 @@ SESSION = requests.Session()
 SESSION.headers.update({"User-Agent": USER_AGENT, "Accept": "*/*"})
 
 
-def github_icon_link() -> str:
+def github_icon_link(aria_label: str = "Source on GitHub") -> str:
     return (
-        f'<a class="github" href="{GITHUB_URL}" aria-label="Source on GitHub">'
+        f'<a class="github" href="{GITHUB_URL}" aria-label="{aria_label}">'
         f"{GITHUB_ICON_SVG}</a>"
     )
 

@@ -20,6 +20,14 @@
   font-display: swap;
 }
 
+html {
+  overflow-x: clip;
+}
+body.book-shoestring-nomad,
+body.book-shoestring-nomad * {
+  box-sizing: border-box;
+}
+
 body.book-shoestring-nomad {
   --fg: #25232b;
   --muted: #5f5a52;
@@ -31,7 +39,7 @@ body.book-shoestring-nomad {
   --cover-fg: #4a3a08;
   --measure: 40rem;
   --toc: 20rem;
-  --banner: 3.15rem;
+  --banner: 5.1rem;
   background: var(--bg);
   color: var(--fg);
   font-family: "Source Sans 3", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -41,6 +49,8 @@ body.book-shoestring-nomad {
   line-height: 1.58;
   font-size: 1.06rem;
   min-height: 100vh;
+  width: 100%;
+  overflow-wrap: anywhere;
 }
 body.book-shoestring-nomad h1,
 body.book-shoestring-nomad h2,
@@ -61,7 +71,7 @@ body.book-shoestring-nomad .chapter-heading {
   align-items: baseline;
   gap: 0.75rem;
 }
-body.book-shoestring-nomad .chapter-heading h1 { flex: 1 1 auto; }
+body.book-shoestring-nomad .chapter-heading h1 { flex: 1 1 auto; min-width: 0; }
 body.book-shoestring-nomad .chapter-edit {
   flex: 0 0 auto;
   color: var(--muted);
@@ -75,7 +85,39 @@ body.book-shoestring-nomad .chapter-edit {
 }
 body.book-shoestring-nomad .chapter-edit:hover,
 body.book-shoestring-nomad .chapter-edit:focus-visible { color: var(--accent); }
+body.book-shoestring-nomad .chapter-source {
+  color: var(--muted);
+  font-size: 0.72rem;
+  margin: 0.35rem 0 1rem;
+}
+body.book-shoestring-nomad .chapter-source a {
+  color: inherit;
+  text-decoration: none;
+}
+body.book-shoestring-nomad .chapter-source a:hover,
+body.book-shoestring-nomad .chapter-source a:focus-visible {
+  color: var(--accent);
+  text-decoration: underline;
+}
 body.book-shoestring-nomad img { max-width: 100%; height: auto; }
+body.book-shoestring-nomad figure { max-width: 100%; margin-left: 0; margin-right: 0; }
+body.book-shoestring-nomad iframe,
+body.book-shoestring-nomad video,
+body.book-shoestring-nomad svg { max-width: 100%; }
+body.book-shoestring-nomad pre {
+  max-width: 100%;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}
+body.book-shoestring-nomad code { overflow-wrap: anywhere; }
+body.book-shoestring-nomad table {
+  width: 100%;
+  max-width: 100%;
+  table-layout: fixed;
+  border-collapse: collapse;
+}
+body.book-shoestring-nomad th,
+body.book-shoestring-nomad td { overflow-wrap: anywhere; }
 body.book-shoestring-nomad #title-block-header { display: none; }
 body.book-shoestring-nomad .visually-hidden {
   position: absolute;
@@ -228,11 +270,80 @@ body.book-shoestring-nomad .book-banner {
   background: #f6f3e9;
   color: #4a3a08;
   margin: 0 -1.25rem 0;
-  padding: 0.85rem 1.25rem;
-  font-size: 0.82rem;
-  letter-spacing: 0.04em;
+  padding: 0.75rem 1.25rem 0.8rem;
+  font-size: 0.78rem;
+  letter-spacing: 0.03em;
 }
-body.book-shoestring-nomad .book-banner a { color: inherit; text-decoration: underline; }
+body.book-shoestring-nomad .book-banner-inner {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  min-height: 2.7rem;
+}
+body.book-shoestring-nomad .book-banner-title {
+  display: flex;
+  align-items: baseline;
+  flex: 1 1 22rem;
+  min-width: min(22rem, 100%);
+  gap: 0.7rem;
+  line-height: 1.15;
+}
+body.book-shoestring-nomad .book-banner-site {
+  flex: 0 0 auto;
+  color: inherit;
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  opacity: 0.72;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+body.book-shoestring-nomad .book-banner-book-title {
+  flex: 1 1 auto;
+  min-width: 0;
+  overflow: hidden;
+  color: inherit;
+  font-family: "Source Serif 4", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: clamp(1.8rem, 4vw, 3rem);
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: -0.015em;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+body.book-shoestring-nomad .book-banner-version {
+  flex: 0 0 auto;
+  color: inherit;
+  font-size: 0.55rem;
+  font-weight: 400;
+  letter-spacing: 0.02em;
+  opacity: 0.42;
+}
+body.book-shoestring-nomad .book-banner-actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  flex: 0 1 auto;
+  gap: 0.8rem;
+  justify-content: flex-end;
+  margin-left: auto;
+  white-space: nowrap;
+}
+body.book-shoestring-nomad .book-banner-actions a {
+  color: inherit;
+  font-size: 0.62rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  opacity: 0.62;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+body.book-shoestring-nomad .book-banner-actions a:hover,
+body.book-shoestring-nomad .book-banner-actions a:focus-visible {
+  opacity: 1;
+  text-decoration: underline;
+}
+body.book-shoestring-nomad .book-banner a { color: inherit; }
 body.book-shoestring-nomad .book-banner a.github {
   display: inline-flex;
   align-items: center;
@@ -240,6 +351,17 @@ body.book-shoestring-nomad .book-banner a.github {
   text-decoration: none;
 }
 body.book-shoestring-nomad .book-banner a.github svg { width: 1.1em; height: 1.1em; display: block; }
+@media (max-width: 40rem) {
+  body.book-shoestring-nomad .book-banner-inner {
+    align-items: flex-start;
+    flex-wrap: wrap;
+    gap: 0.55rem 1rem;
+  }
+  body.book-shoestring-nomad .book-banner-title { width: 100%; }
+  body.book-shoestring-nomad .book-banner-site,
+  body.book-shoestring-nomad .book-banner-version { flex-shrink: 1; }
+  body.book-shoestring-nomad .book-banner-actions { margin-left: auto; max-width: 100%; }
+}
 @media (min-width: 56rem) {
   body.book-shoestring-nomad {
     max-width: min(100%, calc(var(--toc) + var(--measure) + 3rem));

@@ -13,6 +13,14 @@
   font-display: swap;
 }
 
+html {
+  overflow-x: clip;
+}
+body.book-random-roads,
+body.book-random-roads * {
+  box-sizing: border-box;
+}
+
 body.book-random-roads {
   --fg: #261c14;
   --muted: #555555;
@@ -24,7 +32,7 @@ body.book-random-roads {
   --cover-fg: #ffffff;
   --measure: 36rem;
   --toc: 20rem;
-  --banner: 3.15rem;
+  --banner: 5.1rem;
   background: var(--bg);
   color: var(--fg);
   font-family: "Georgia", Georgia, "Times New Roman", Times, serif;
@@ -34,6 +42,8 @@ body.book-random-roads {
   line-height: 1.58;
   font-size: 1.06rem;
   min-height: 100vh;
+  width: 100%;
+  overflow-wrap: anywhere;
 }
 body.book-random-roads h1,
 body.book-random-roads h2,
@@ -54,7 +64,7 @@ body.book-random-roads .chapter-heading {
   align-items: baseline;
   gap: 0.75rem;
 }
-body.book-random-roads .chapter-heading h1 { flex: 1 1 auto; }
+body.book-random-roads .chapter-heading h1 { flex: 1 1 auto; min-width: 0; }
 body.book-random-roads .chapter-edit {
   flex: 0 0 auto;
   color: var(--muted);
@@ -68,7 +78,39 @@ body.book-random-roads .chapter-edit {
 }
 body.book-random-roads .chapter-edit:hover,
 body.book-random-roads .chapter-edit:focus-visible { color: var(--accent); }
+body.book-random-roads .chapter-source {
+  color: var(--muted);
+  font-size: 0.72rem;
+  margin: 0.35rem 0 1rem;
+}
+body.book-random-roads .chapter-source a {
+  color: inherit;
+  text-decoration: none;
+}
+body.book-random-roads .chapter-source a:hover,
+body.book-random-roads .chapter-source a:focus-visible {
+  color: var(--accent);
+  text-decoration: underline;
+}
 body.book-random-roads img { max-width: 100%; height: auto; }
+body.book-random-roads figure { max-width: 100%; margin-left: 0; margin-right: 0; }
+body.book-random-roads iframe,
+body.book-random-roads video,
+body.book-random-roads svg { max-width: 100%; }
+body.book-random-roads pre {
+  max-width: 100%;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}
+body.book-random-roads code { overflow-wrap: anywhere; }
+body.book-random-roads table {
+  width: 100%;
+  max-width: 100%;
+  table-layout: fixed;
+  border-collapse: collapse;
+}
+body.book-random-roads th,
+body.book-random-roads td { overflow-wrap: anywhere; }
 body.book-random-roads #title-block-header { display: none; }
 body.book-random-roads .visually-hidden {
   position: absolute;
@@ -221,11 +263,80 @@ body.book-random-roads .book-banner {
   background: #0ca6bb;
   color: #ffffff;
   margin: 0 -1.25rem 0;
-  padding: 0.85rem 1.25rem;
-  font-size: 0.82rem;
-  letter-spacing: 0.04em;
+  padding: 0.75rem 1.25rem 0.8rem;
+  font-size: 0.78rem;
+  letter-spacing: 0.03em;
 }
-body.book-random-roads .book-banner a { color: inherit; text-decoration: underline; }
+body.book-random-roads .book-banner-inner {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  min-height: 2.7rem;
+}
+body.book-random-roads .book-banner-title {
+  display: flex;
+  align-items: baseline;
+  flex: 1 1 22rem;
+  min-width: min(22rem, 100%);
+  gap: 0.7rem;
+  line-height: 1.15;
+}
+body.book-random-roads .book-banner-site {
+  flex: 0 0 auto;
+  color: inherit;
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  opacity: 0.72;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+body.book-random-roads .book-banner-book-title {
+  flex: 1 1 auto;
+  min-width: 0;
+  overflow: hidden;
+  color: inherit;
+  font-family: "Georgia", Georgia, "Times New Roman", Times, serif;
+  font-size: clamp(1.8rem, 4vw, 3rem);
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: -0.015em;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+body.book-random-roads .book-banner-version {
+  flex: 0 0 auto;
+  color: inherit;
+  font-size: 0.55rem;
+  font-weight: 400;
+  letter-spacing: 0.02em;
+  opacity: 0.42;
+}
+body.book-random-roads .book-banner-actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  flex: 0 1 auto;
+  gap: 0.8rem;
+  justify-content: flex-end;
+  margin-left: auto;
+  white-space: nowrap;
+}
+body.book-random-roads .book-banner-actions a {
+  color: inherit;
+  font-size: 0.62rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  opacity: 0.62;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+body.book-random-roads .book-banner-actions a:hover,
+body.book-random-roads .book-banner-actions a:focus-visible {
+  opacity: 1;
+  text-decoration: underline;
+}
+body.book-random-roads .book-banner a { color: inherit; }
 body.book-random-roads .book-banner a.github {
   display: inline-flex;
   align-items: center;
@@ -233,6 +344,17 @@ body.book-random-roads .book-banner a.github {
   text-decoration: none;
 }
 body.book-random-roads .book-banner a.github svg { width: 1.1em; height: 1.1em; display: block; }
+@media (max-width: 40rem) {
+  body.book-random-roads .book-banner-inner {
+    align-items: flex-start;
+    flex-wrap: wrap;
+    gap: 0.55rem 1rem;
+  }
+  body.book-random-roads .book-banner-title { width: 100%; }
+  body.book-random-roads .book-banner-site,
+  body.book-random-roads .book-banner-version { flex-shrink: 1; }
+  body.book-random-roads .book-banner-actions { margin-left: auto; max-width: 100%; }
+}
 @media (min-width: 56rem) {
   body.book-random-roads {
     max-width: min(100%, calc(var(--toc) + var(--measure) + 3rem));
