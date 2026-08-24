@@ -27,7 +27,9 @@ jobs:
       - name: Cache book images
         uses: actions/cache@v4
         with:
-          path: books/*/images/*.jpg
+          path: |
+            books/*/images/*.jpg
+            cache/book-images.tar.gz
           key: book-images-${{ hashFiles('books/*/images/images.json') }}
           restore-keys: |
             book-images-
@@ -36,6 +38,8 @@ jobs:
       - name: Restore images
         env:
           PAGES_ORIGIN: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
+          IMAGES_RELEASE_URL: https://github.com/${{ github.repository }}/releases/download/images/book-images.tar.gz
+          GITHUB_TOKEN: ${{ github.token }}
         run: make images
       - name: Build
         run: make all

@@ -20,7 +20,9 @@ Each book has **its own license**. There is no repo-wide content license. Script
 
 See [SOURCES.md](SOURCES.md) for adjacent sites, permission notes, and titles wanted later (philosophy / free software / abundance / AI / wikis). See [EDITORIAL.md](EDITORIAL.md) for how to edit chapters so wiki updates do not wipe them.
 
-Wiki XML/ZIM dumps belong in `dumps/` (gitignored). Resized JPEGs in `books/*/images/` are also gitignored; keep `images.json` and restore with `make images`.
+Each book has its own cover, type, and colors (`make covers`, `scripts/themes.py`).
+
+Wiki XML/ZIM dumps belong in `dumps/` (gitignored). Resized JPEGs in `books/*/images/` are also gitignored; keep `images.json`. Restore with `make images` (disk, then the `images` GitHub Release, then the live site, then wiki). Refresh the archive with `make images-release`.
 
 Server copies (also gitignored):
 
@@ -39,7 +41,8 @@ Builds are versioned `0.1-yyyymmdd-hhmm` (UTC).
 python3 -m venv .venv
 .venv/bin/pip install -r requirements.txt
 make fetch   # dumps into dumps/, then compile chapters (keeps locks / editorial notes)
-make images  # JPEGs already on disk, else live site, else wiki URLs
+make images  # disk, GitHub release `images`, live site, then wiki URLs
+make images-release  # pack JPEGs and upload/update the `images` release
 make all     # EPUB, PDF (if a PDF engine exists), HTML
 ```
 

@@ -1,11 +1,12 @@
 #!/usr/bin/env python3
-"""Re-download book images from images.json manifests (not stored in git)."""
+"""Restore book images: disk, GitHub Release, live Pages, then wiki URLs."""
 
 from __future__ import annotations
 
 import json
 import os
 import sys
+import tarfile
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
@@ -14,10 +15,12 @@ from common import ROOT, get
 from images import fetch_bytes, looks_like_image, looks_like_jpeg, resize_bytes, save_jpeg_bytes
 
 BOOKS = ROOT / "books"
+ARCHIVE = ROOT / "cache" / "book-images.tar.gz"
 DEFAULT_ORIGINS = (
     "https://guaka.github.io/books",
     "https://books.hitchwiki.org",
 )
+DEFAULT_RELEASE = "https://github.com/guaka/books/releases/download/images/book-images.tar.gz"
 _live_origin: list[str | None] = []
 
 
@@ -63,6 +66,64 @@ def try_pages(slug: str, name: str) -> bytes | None:
     return None
 
 
+def release_url() -> str:
+    return os.environ.get("IMAGES_RELEASE_URL", DEFAULT_RELEASE).strip() or DEFAULT_RELEASE
+
+
+def download_release(archive: Path) -> bool:
+    url = release_url()
+    headers = {}
+    token = os.environ.get("GITHUB_TOKEN") or os.environ.get("GH_TOKEN")
+    if token:
+        headers["Authorization"] = f"Bearer {token}"
+    try:
+        r = get(url, timeout=120, **({"headers": headers} if headers else {}))
+    except Exception as exc:
+        print(f"image release skip: {exc}", file=sys.stderr)
+        return False
+    if not r.content or len(r.content) < 100:
+        print("image release skip: empty archive", file=sys.stderr)
+        return False
+    archive.parent.mkdir(parents=True, exist_ok=True)
+    tmp = archive.with_suffix(archive.suffix + ".partial")
+    tmp.write_bytes(r.content)
+    tmp.replace(archive)
+    return True
+
+
+def unpack_release() -> int:
+    archive = ARCHIVE
+    if not archive.exists() or archive.stat().st_size == 0:
+        if not download_release(archive):
+            return 0
+    root = ROOT.resolve()
+    n = 0
+    try:
+        with tarfile.open(archive, "r:gz") as tar:
+            for member in tar.getmembers():
+                if not member.isfile() or not member.name.endswith(".jpg"):
+                    continue
+                dest = (ROOT / member.name).resolve()
+                try:
+                    dest.relative_to(root)
+                except ValueError:
+                    continue
+                if dest.exists() and dest.stat().st_size > 0:
+                    continue
+                fh = tar.extractfile(member)
+                if not fh:
+                    continue
+                dest.parent.mkdir(parents=True, exist_ok=True)
+                dest.write_bytes(fh.read())
+                n += 1
+    except Exception as exc:
+        print(f"image release unpack skip: {exc}", file=sys.stderr)
+        return 0
+    if n:
+        print(f"image release: unpacked {n} JPEGs")
+    return n
+
+
 def restore_book(book: Path) -> tuple[int, int, int, int]:
     manifest = book / "images" / "images.json"
     if not manifest.exists():
@@ -98,6 +159,7 @@ def restore_book(book: Path) -> tuple[int, int, int, int]:
 
 
 def main() -> None:
+    unpacked = unpack_release()
     total = [0, 0, 0, 0]
     for book in sorted(p for p in BOOKS.iterdir() if p.is_dir()):
         cached, pages, wiki, skipped = restore_book(book)
@@ -113,8 +175,8 @@ def main() -> None:
         total[3] += skipped
     ok = total[0] + total[1] + total[2]
     print(
-        f"images: {ok} ok ({total[0]} cache, {total[1]} pages, {total[2]} wiki), "
-        f"{total[3]} skipped"
+        f"images: {ok} ok ({unpacked} from release, {total[0]} cache, "
+        f"{total[1]} pages, {total[2]} wiki), {total[3]} skipped"
     )
 
 

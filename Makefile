@@ -5,9 +5,9 @@ BOOKS   := hitchhikers-guide dumpster-diving random-roads dumpsterdam hospitalit
 OUT     := build
 SITE    := $(OUT)/site
 
-.PHONY: all books dumps fetch images site html epub pdf clean $(BOOKS)
+.PHONY: all covers books dumps fetch images pack-images images-release site html epub pdf clean editorial-status $(BOOKS)
 
-all: books site
+all: covers books site
 
 books: $(BOOKS)
 
@@ -24,8 +24,20 @@ fetch: dumps
 	$(PYTHON) scripts/fetch_mediawiki.py --all
 	$(PYTHON) scripts/compile_drupal_sql.py
 
+covers:
+	$(PYTHON) scripts/render_covers.py
+
 images:
 	$(PYTHON) scripts/fetch_images.py
+
+pack-images:
+	$(PYTHON) scripts/pack_images.py
+
+images-release:
+	$(PYTHON) scripts/pack_images.py --upload
+
+editorial-status:
+	$(PYTHON) scripts/editorial.py status
 
 $(BOOKS):
 	$(PYTHON) scripts/build_book.py --book $@ --version $(VERSION) --formats html,epub,pdf --out $(OUT)
