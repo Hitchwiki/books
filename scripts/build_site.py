@@ -59,6 +59,9 @@ def main() -> None:
     catalog_css = ROOT / "assets" / "catalog.css"
     if catalog_css.exists():
         shutil.copy2(catalog_css, assets / "catalog.css")
+    favicon = ROOT / "assets" / "favicon.ico"
+    if favicon.exists():
+        shutil.copy2(favicon, out / "favicon.ico")
     font_dest = assets / "fonts"
     font_dest.mkdir(exist_ok=True)
     if fonts_dir().exists():
@@ -122,11 +125,12 @@ def main() -> None:
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>books.hitchwiki.org</title>
+  <link rel="icon" href="./favicon.ico" sizes="any">
   <link rel="stylesheet" href="./assets/catalog.css">
 </head>
 <body class="catalog">
   <header>
-    <h1>books.hitchwiki.org</h1>
+    <h1><img src="./favicon.ico" alt="">books.hitchwiki.org</h1>
   </header>
 {chr(10).join(sections)}
   <p class="lede">A growing collection of freely licensed books. Created by thousands of people over two decades.</p>

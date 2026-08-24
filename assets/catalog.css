@@ -28,10 +28,18 @@ body.catalog {
 }
 body.catalog * { box-sizing: border-box; }
 body.catalog h1 {
+  display: flex;
+  align-items: center;
+  gap: 0.55rem;
   font-size: clamp(1.6rem, 3vw, 2.2rem);
   font-weight: 600;
   margin: 0 0 1.5rem;
   color: #6e3100;
+}
+body.catalog h1 img {
+  width: 1.15em;
+  height: 1.15em;
+  flex: none;
 }
 body.catalog .lede {
   color: #76563c;
@@ -194,4 +202,3 @@ article.card-shoestring-nomad {
 }
 article.card-shoestring-nomad a { color: #654d00; }
 article.card-shoestring-nomad .badge { border-color: #654d00; }
-
