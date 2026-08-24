@@ -1,0 +1,33 @@
+# open diary of mine,warning:  not censured
+
+its gonna be hard winter and Aris is going to the south to deal with french keyboards which she hates so much.
+WAS THAT ME?
+After leaving casa, I had to do my thing with a coffee shop even thou i didn't needed it. Anyway i was wondering around to get the thing and get high for the 'last' time. It was already getting dark but i didn't care really just to have my usual joint-caffee. I planned only to stop at night in Metz at whatever hour to have a dinner and coffee break. It was stupid to plan the road cos you never know but thats how i had a feeling that i'm gonna make it somewhere cos still I didn't move. Only time will tell in which dimension formula am i in.
+Got to the A2 at 17.30 and then go straight on to Maastricht changing three cars.The fourth car whatsoever was sended by Dennis people, I Know. There were three french-maroccan boys going to grenoble. Carma connection with the driver on a first sight.. offcourse I went withthem even one guy in front beeing completely drunk and talking with Aris all the time in rapid french. OK, so we start from Maastrich and just as i was thinking better of this can not go, hm.... we were in a car that was producing no heating and my feet went frozen and you couldn't see nothing from the window cos we were breathing, lol.
+21.14 belgium. What really pissed me off was the gold smoking papers. i just bought them few hours ago and since i hadn't bought myself papers for long weeks now i was really looking forward to use my own papers after a while. ----They were stoped by police in the middle of high way (first time in my life) and dropped by a side where the control was going on. I was sending love vibration to police officers like allways, trying to be cool... The guys were searched before me while I was sitting in theirs car. Then the belgium PPPPoliceman came and he took me to same van to talk...? (what?) After I told him that i was on a meeting of programers and i m going to the south of france to be part of the european projects he would look at me like a fool that has to say his sentence:
+Do you think I'm gonna believe you that?
+You can belive whatever you want.
+sO, they've took me, now by a woman to the secret van place, one square meter too much white colour and searched me there.. first that .... did was that she took my gold smoking papers of which I've used ONLY ONE! Then she was all into my 'bress' (how do you spell that in en?) but she didn't found a joint that i had for emergency. but she did discovered a thing in my penties.... Those sorts of things would have to stay private for allways...
+We got out of the white room where was another girl, probably on hard drugs waiting already to debute into the white room. MY b.-police-woman throw the papers and a pack with 0.4 weed on the table infront of another officer and I started to protestate that they should return my papers cos I'm not extra rich to just buy papers as i want. After the guy which was holding my bagg and looking into it, wearing black, looked at me, just once and I just ran out, swallowing all the papers of my life.
+We came out of this control thing after I had fight with few policemans... Open fight, I was alone against everyone from European Co. I really didn't mind them beeing policemans, I just mind they were getting stupid from the cold...
+There was snow going on for another 300,400 km from Maastricht, don't know really, somehow i managed to close my eyes for a while,thou, I was well aware that guy sitting next to me layed his eyes on my camera-baby. Acctually I started to think to just give him the camera and get serious - eventualy - in my life. Yea, whatever.
+We would have quite our own 'space' going on on the empty road, listening to Maroccan music really loud and finishing few splifs. i imagined I'm in a time machine with someone i know (the driver - X previous life), escaping ice era on north, going - there where i have written in my diary.
+His eyes were fucking peacefuly D-E-A-D. -My carma driver. He came to sit at the back and the steal-me dude went to drive just before Dijon. the situation shifted and I was now in one of those cheap scenes from some Euro trip movie. We would have some PM with my carma-whatever at the back sit and for me it was just a French-maroccan Disneyland that I've never experienced.
+3.35 70km before Lyon
+I didn't considered myself as a blow job volunter service but i'm defenitely gonna think about y status since that moment forward when they've 'kicked' me out since I was no good -service.
+IS THIS REALLY HAPPENING OR WAS THAT JUST THE MATRIX EFFECT?
+Well, I went to wash my hand cos it was too absurd for me that i didn't know any of their names.
+i found it interesting that the birds were singing around 4 already, probably migrated from Canada.
+6.11 same gas station
+I've decided to continue with my imaginary boy-friend relationship to which I'm gonna hide my 'perverziostnes'. After two months there was no image anymore, just the word but it found it healthy on that point to play the game - still.
+Sixts trucker from NL drove me away from that dead zone where i've catched a Spanish couple driving to Montpellier, after that with a russian woman from montpellier also, that kicked me out on the side road. From here i had 100 km to make to the commune wth solar energy. Nice...
+Ninth driver picked me up at peage and he drove me for another 15 km, also the number 10 drove me another 15km with his 3 year old son of which i found the son much more interesting than the punk-french-talkative guy.
+At 12 and something french couple stopped and they've decided to drive me to the commune. That was a surprise first cos they've looked like rich chickens and cos they went a bit other direction. We managed t find the place after one hour of driving in the woods and getting the car out of the mudd. I've decided to walk at the end for last 20 minutes and i made it to the final destination at 13 something.
+And that's not all, the Skill surfers are not here yet, so that makes me alone here among people that i would prescribe to only MOOOOREEE SEX.
+Anyway, if my hippie gang is not coming tomorrow I'm off. It's really a bit to far away from civilization even we are squating the whole village, powered just by solar energy and with its own source for water.
+or I'm gonna come back and tell another wish to Dennis center of reality that I really need to get layed and maybe this time will acctually work. -And then I'm going back again to south of France.....
+and so on....
+
+---
+
+Source: https://casarobino.org/content/open-diary-minewarning-not-censured

@@ -1,0 +1,11 @@
+# Casa Update. Pindakaas with Sambal.
+
+Accompanied by sun, I [enjoyed](http://identi.ca/notice/64802295) great days in Den Haag this week. I am involved in a project about reinventing space which focuses around dumpster diving and community (kind of our speciality). Somewhat related but independent I will also give a talk about 'dropping out' (another speciality) next week in Amstedam, and I am writing lots of words that somehow are turned into sentences but sometimes they don't - and they still make sense!
+Casa is fine too. I wrote a new [about](http://casarobino.org/about)-[piece](http://casarobino.org/2011/02/casa-reshaping-process) which kind of summarises where casa and I are currently at. In sum: sometimes people are here, also to sleep over, but I do feel I am not ready yet or willing to share the space as it was before. I kind of want to make new steps, and learn new things, and maybe that time of (hectic!) casa will be less present than before, way less... Anyway, as always, we'll see where this goes, as I also do want to start with a new type of public event...
+Kitten is doing great, so it seems. She chatters with the birds and is happy that she can run around the house wildly. She still has a skin-issue at the back of her back, at beginning of her tail. I feed her vitamine-b which somewhat helps. I am not sure where the allergy comes from, if it is allergy. A recent visitor mentioned that it could also be post-stress, being unable to find her place to sleep and always having people around her. She simply doesn't understand it all the time!
+In other news, all bikes used to be fixed but some are still needy, I have totally emptied out the corridor of all past clutter, the wooden church bench moved to the porch/ balcony, we have a Zula with even less stuff and more empty space, the cabinet has gone up and some people have finally come to collect their stuff but I still find all sorts of random stuff.
+So, all is just fine, life is beautiful as it is (damn, it really is!), and if you can't feel the sun outside, look within and listen to how you breath in and out... and in again. Or do what I do: eat sambal with pindakaas - it also is about the right mix :)
+
+---
+
+Source: https://casarobino.org/2011/02/casa-update-pindakaas-sambal

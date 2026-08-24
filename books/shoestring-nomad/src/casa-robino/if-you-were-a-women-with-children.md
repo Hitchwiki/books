@@ -1,0 +1,9 @@
+# If you were a women, with children...
+
+While Hitching from Krakow to Zilina, I got stuck in Cieszyn for the night. While sitting at a truck stop, thinking about life, and figuring out where I was going to sleep, I noticed a car pulling in. It was dark, around 10 pm. A lady got out of the car, and as I approached her I realized that she looked as if she had just been crying. She had a strange stagger to her walk, as if she had just been through something traumatic.
+By this point, I had already walked up to her, and asked her if she was heading toward Zilina, she told me, in a surprisingly composed voice that she was, but would not be able to give me a ride. I tried explaing to her my situation, how I was stranded, and no cars were passing through the highway, I was supposed to be in Zilina 3 hours before, but No one would pick me up! She went in to the convince shop. And as she exited she asked me if I had asked any of the truckers. I had, but all of them were in for the night, minus a few who either were going in a different direction, or wanted money for the ride. She then told me "I am sorry, I have two children, they are very small... I mean, if you were a women, with children, maybe I would" I responded "So you don't feel safe?". She seemed very sorry, I think she wanted to pick me up. She just could not trust humanity.
+This encounter crushed me. It made me think. What has humanity come to? That we can not even trust each other anymore. In a way I understand why this women did not feel safe picking up a hitchhiker in the middle of the night at some truck stop. I mean, she has no clue who I am, or what my intentions are. But I hate how all the evils in the world, that other people cause, affects everyone else, and causes fear between two people. I wish we could all trust each other...
+
+---
+
+Source: https://casarobino.org/2009/04/if-you-were-women-children

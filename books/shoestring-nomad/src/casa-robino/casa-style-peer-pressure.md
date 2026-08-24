@@ -1,0 +1,14 @@
+# Casa Style Peer Pressure
+
+Peer pressure [refers to](http://en.wikipedia.org/wiki/Peer_pressure) "the influence exerted by a peer group in encouraging a person to change his or her attitudes, values, or behavior in order to conform to group norms". How do we deal with this in Casa-culture?
+We had a recent discussion inside and outside the house about sharing-culture and how people integrate in our shared culture. Are we on the right track?
+On the one hand we have a culture where people really are themselves and are not judged on who they are. We heard many times "I feel at home here, I can be myself without having to pretend or try to be someone". In particular this goes for travelers who don't have to 'entertain their hosts' and can relax and enjoy.
+On the other hand we do have peer-pressure where you are encouraged to behave communal and show care for others. 'We' (some more than others) even tend to judge people on their actions. Do you participate in householding? Do you cook for everyone? Do you only clean what you made dirty or you see everyone's mess as yours? Do you bring other [unique gifts](http://casarobino.org/2009/01/unique-gifts)? What do you bring to the community?
+This is a discussion that we never really debated online and it would be nice to get some feedback on your personal experiences about this. Obviously though we already hit some discussion points recently (see [this post](http://casarobino.org/2009/12/noise-requests-and-nomadic-hospitality#comment-1207)), but it would be great to dive deeper.
+As a starting point I would like to highlight a comment I received recently of someone who was in the casa a couple of months ago during a busy period: "The thing I didn't like was the social pressure to 'play the part.' I felt like I had to win people's approval to a degree, and so it took me a few days to actually be myself. This seemed to come from an odd mix of acceptance and judgement."
+My response was the following: "We encourage people to be who you are and to not hide yourself or be someone else. It matters who you are. At the same time though you are somewhat expected to perform certain services such as participation in the household and other related things. There is space for everyone to take it easy, and not to do things ('the right to do nothing') but that can't last forever either. These might be the two different faces of social pressure."
+I wonder about other observations and responses. Should your expected participation be made more explicit beforehand (more bureaucratic) or do you keep things rather implicit (more experimental) and give new-comers space to first find themselves in relation to the group and the casa, and only later you try to 'positively reinforce' certain behaviour if it hadn't happen already? How did you judge people, or felt judged?
+
+---
+
+Source: https://casarobino.org/2009/12/casa-style-peer-pressure
