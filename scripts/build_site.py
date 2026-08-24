@@ -87,7 +87,8 @@ def main() -> None:
     css = ROOT / "assets" / "book.css"
     if css.exists():
         (assets / "book.css").write_text(css.read_text(encoding="utf-8"), encoding="utf-8")
-    (out / "CNAME").write_text("books.hitchwiki.org\n", encoding="utf-8")
+    # No CNAME in the Pages artifact so the site can live at guaka.github.io/books
+    # until books.hitchwiki.org DNS is ready.
     print(f"catalog {version} -> {out}")
 
 

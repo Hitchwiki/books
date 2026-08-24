@@ -12,8 +12,5 @@ __pycache__/
 *.tar.gz
 .python-version
 # Regenerated from books/*/images/images.json — make images
-books/*/images/*.jpg
-books/*/images/*.jpeg
-books/*/images/*.png
-books/*/images/*.gif
-books/*/images/*.webp
+books/*/images/*
+!books/*/images/images.json

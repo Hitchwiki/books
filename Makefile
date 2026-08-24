@@ -32,7 +32,6 @@ $(BOOKS):
 
 site:
 	$(PYTHON) scripts/build_site.py --version $(VERSION) --out $(SITE)
-	cp CNAME $(SITE)/CNAME
 
 clean:
 	rm -rf $(OUT)

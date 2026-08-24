@@ -87,7 +87,7 @@ def build(slug: str, version: str, formats: list[str], out: Path) -> None:
                 **base,
                 "to": "html5",
                 "standalone": True,
-                "css": [str(html_dir / "book.css")],
+                "css": ["book.css"],
                 "output-file": str(html_dir / "index.html"),
             },
         )
@@ -101,6 +101,7 @@ def build(slug: str, version: str, formats: list[str], out: Path) -> None:
                 f"</p></header>\n"
             )
             html = html.replace("<body>", "<body>\n" + banner, 1)
+            html = html.replace("../../images/", "images/").replace("../images/", "images/")
             index.write_text(html, encoding="utf-8")
     stem = f"{slug}-{version}"
     if "epub" in formats:
@@ -133,17 +134,19 @@ def build(slug: str, version: str, formats: list[str], out: Path) -> None:
             if run_pandoc(work / f"pdf-{engine}.yaml"):
                 ok = True
                 break
-        if not ok and shutil.which("weasyprint") and (html_dir / "index.html").exists():
+        if not ok and (html_dir / "index.html").exists():
+            weasy = shutil.which("weasyprint") or str(ROOT / ".venv" / "bin" / "weasyprint")
+            cmd = [weasy] if Path(weasy).exists() else [sys.executable, "-m", "weasyprint"]
             try:
                 subprocess.run(
-                    ["weasyprint", str(html_dir / "index.html"), str(pdf)],
+                    [*cmd, str(html_dir / "index.html"), str(pdf)],
                     check=True,
                 )
                 ok = True
             except (FileNotFoundError, subprocess.CalledProcessError) as exc:
                 print(f"weasyprint failed: {exc}", file=sys.stderr)
         if not ok:
-            print(f"{slug}: PDF skipped (no engine)", file=sys.stderr)
+            print(f"{slug}: PDF skipped", file=sys.stderr)
         elif pdf.exists():
             shutil.copy2(pdf, downloads / f"{slug}.pdf")
     print(f"{slug} {version} formats={formats} chapters={len(chapters)}")
