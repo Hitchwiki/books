@@ -20,7 +20,7 @@ DEFAULT_ORIGINS = (
     "https://guaka.github.io/books",
     "https://books.hitchwiki.org",
 )
-DEFAULT_RELEASE = "https://github.com/guaka/books/releases/download/images/book-images.tar.gz"
+DEFAULT_RELEASE = "https://github.com/Hitchwiki/books/releases/download/images/book-images.tar.gz"
 _live_origin: list[str | None] = []
 
 

@@ -1,6 +1,6 @@
 # Freely licensed books
 
-Catalog currently at **[guaka.github.io/books](https://guaka.github.io/books/)**. Custom domain [books.hitchwiki.org](https://books.hitchwiki.org/) later. Source: [github.com/guaka/books](https://github.com/guaka/books).
+Catalog: **[books.hitchwiki.org](https://books.hitchwiki.org/)**. Source: [github.com/Hitchwiki/books](https://github.com/Hitchwiki/books).
 
 Each book has **its own license**. There is no repo-wide content license. Scripts in this repository are MIT (see [LICENSE](LICENSE)). Two content licenses:
 
