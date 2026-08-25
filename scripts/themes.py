@@ -1332,8 +1332,10 @@ body.catalog .lang-label {{
   inset: 0;
   z-index: 1;
 }}
-.card .formats {{ position: relative; z-index: 2; }}
-.card .formats a {{ position: relative; z-index: 2; }}
+.card .formats,
+.card .wiki-book {{ position: relative; z-index: 2; }}
+.card .formats a,
+.card .wiki-book a {{ position: relative; z-index: 2; }}
 .card > a.cover {{
   display: block;
   flex: none;
@@ -1380,6 +1382,7 @@ body.catalog .lang-label {{
   letter-spacing: 0.04em;
 }}
 .card .formats {{ margin: 0; font-size: 0.75rem; text-align: center; }}
+.card .wiki-book {{ margin: 0.4rem 0 0; font-size: 0.72rem; text-align: center; }}
 .foot {{ margin-top: 1.5rem; color: #76563c; font-size: 0.75rem; text-align: right; }}
 .foot a {{ color: #6e3100; }}
 .foot .github {{
