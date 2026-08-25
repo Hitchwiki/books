@@ -31,6 +31,7 @@ from wiki_links import (
     strip_interwiki_markdown,
     strip_interwiki_wikitext,
 )
+from wiki_contributors import write_manifest as write_contributor_manifest
 
 FILE_RE = re.compile(r"\[\[\s*(?:File|Image|file|image)\s*:\s*([^|\]]+)", re.I)
 NS = {"mw": "http://www.mediawiki.org/xml/export-0.11/"}
@@ -536,6 +537,12 @@ def fetch_wiki(
         print(f"  cities={len(seen_cities)}", flush=True)
     if manifest:
         write_manifest(img_dir / "images.json", manifest)
+    try:
+        write_contributor_manifest(wiki)
+    except Exception as exc:
+        # Keep the previous manifest when contributor-history lookup is temporarily
+        # unavailable; chapter fetching itself can still complete from a dump.
+        print(f"  contributor attribution failed: {exc}", file=sys.stderr, flush=True)
     extra = []
     for key in ("skip-lock", "skip-omit", "skip-redirect", "conflict"):
         if counts[key]:

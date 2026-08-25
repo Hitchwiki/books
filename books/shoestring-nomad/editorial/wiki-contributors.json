@@ -1,0 +1,15 @@
+{
+  "wiki": "nomadwiki",
+  "source": "https://nomadwiki.org/en/",
+  "dump": "nomadwiki-full.xml.gz",
+  "pages": 184,
+  "contributors": [
+    "Cursive",
+    "Guaka",
+    "imported>Isa kayo",
+    "imported>Olmo",
+    "Kittenofdoom",
+    "Tillwenke"
+  ],
+  "anonymous_contributors": false
+}

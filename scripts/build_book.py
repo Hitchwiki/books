@@ -14,6 +14,7 @@ import subprocess
 import sys
 import xml.etree.ElementTree as ET
 from pathlib import Path
+from urllib.parse import urlparse
 
 import yaml
 
@@ -42,11 +43,6 @@ SOURCE_PARAGRAPH_RE = re.compile(
     r'(?P<text>https?://[^<\s]+))\s*</p>',
     re.I | re.S,
 )
-MARKDOWN_SOURCE_RE = re.compile(
-    r"^Source:\s*\[([^]]+)\]\((https?://[^)]+)\)", re.I | re.M
-)
-
-
 def compact_drupal_source_links(html_doc: str, slug: str) -> str:
     """Render Drupal source attributions as quiet canonical node links."""
     spec = DRUPAL_SOURCE_DUMPS.get(slug)
@@ -152,46 +148,86 @@ def chapter_files(book: Path, lang: str = "en") -> list[Path]:
     )
 
 
-def attribution_markdown(chapters: list[Path]) -> str:
-    """Build a compact end appendix from chapter source metadata."""
-    groups = {
-        "01-practice": ("Practice", []),
-        "02-countries": ("Places", []),
-        "03-resources": ("Resources and your turn", []),
-    }
-    seen: set[str] = set()
-    for chapter in chapters:
-        text = chapter.read_text(encoding="utf-8")
-        match = MARKDOWN_SOURCE_RE.search(text)
-        if not match:
-            continue
-        title, url = match.groups()
-        if url in seen:
-            continue
-        seen.add(url)
-        part = next((name for name in groups if name in chapter.parts), "03-resources")
-        rows = groups[part][1]
-        if chapter.stem == "wikihow":
-            rows.append(
-                "- **WikiHow** — wikiHow contributors, "
-                "[original article](https://www.wikihow.com/Dumpster-Dive), "
-                "via [Trashwiki](https://trashwiki.org/en/WikiHow); CC BY-NC-SA 3.0."
-            )
-        else:
-            rows.append(f"- [{title}]({url})")
-    sections = "\n\n".join(
-        f"## {label}\n\n" + "\n".join(rows)
-        for label, rows in groups.values()
-        if rows
+ATTRIBUTION_LABELS = {
+    "en": {
+        "title": "Attribution",
+        "contributors": "Contributors",
+        "sources": "Sources and licence",
+        "registered": "The wiki-derived chapters include work by these registered contributors, listed alphabetically:",
+        "anonymous": "Anonymous contributors are credited through the source-page histories linked from each imported chapter.",
+        "credited": "This edition credits **{author}**.",
+        "source": "This edition was compiled from [{label}]({url}). Imported chapters retain links to their source pages and revision histories.",
+        "license": "The book metadata records the content licence as **{license}**.",
+        "images": "Photograph and illustration credits appear with their images; the cover-photo credit appears in the front matter.",
+    },
+    "nl": {
+        "title": "Naamsvermelding",
+        "contributors": "Bijdragers",
+        "sources": "Bronnen en licentie",
+        "registered": "De uit wiki's afkomstige hoofdstukken bevatten werk van deze geregistreerde bijdragers, alfabetisch gerangschikt:",
+        "anonymous": "Anonieme bijdragers worden vermeld via de paginageschiedenis waarnaar elk geïmporteerd hoofdstuk verwijst.",
+        "credited": "Deze editie vermeldt **{author}**.",
+        "source": "Deze editie is samengesteld uit [{label}]({url}). Geïmporteerde hoofdstukken behouden links naar hun bronpagina's en revisiegeschiedenis.",
+        "license": "De metadata van het boek vermeldt **{license}** als inhoudslicentie.",
+        "images": "Credits voor foto's en illustraties staan bij de afbeeldingen; de credit voor de omslagfoto staat in het voorwerk.",
+    },
+    "es": {
+        "title": "Atribución",
+        "contributors": "Colaboradores",
+        "sources": "Fuentes y licencia",
+        "registered": "Los capítulos procedentes de wikis incluyen el trabajo de estos colaboradores registrados, en orden alfabético:",
+        "anonymous": "Las contribuciones anónimas se reconocen mediante los historiales enlazados desde cada capítulo importado.",
+        "credited": "Esta edición acredita a **{author}**.",
+        "source": "Esta edición se compiló a partir de [{label}]({url}). Los capítulos importados conservan enlaces a sus páginas de origen e historiales de revisión.",
+        "license": "Los metadatos del libro indican **{license}** como licencia del contenido.",
+        "images": "Los créditos de fotografías e ilustraciones aparecen junto a las imágenes; el crédito de la portada figura en las páginas iniciales.",
+    },
+}
+
+
+def markdown_name(name: str) -> str:
+    return re.sub(r"([\\`*_[\]<>])", r"\\\1", name)
+
+
+def attribution_markdown(book: Path, meta: dict, chapters: list[Path]) -> str:
+    """Build the final attribution section for every title."""
+    lang = str(meta.get("lang") or "en").split("-", 1)[0]
+    labels = ATTRIBUTION_LABELS.get(lang, ATTRIBUTION_LABELS["en"])
+    author = str(meta.get("author") or "respective contributors")
+    source = str(meta.get("source") or "")
+    license_name = str(meta.get("license") or "")
+    manifest_path = book / "editorial" / "wiki-contributors.json"
+    manifest = (
+        json.loads(manifest_path.read_text(encoding="utf-8"))
+        if manifest_path.exists()
+        else {}
     )
+    contributors = manifest.get("contributors") or []
+
+    contributor_text = labels["credited"].format(author=author)
+    if contributors:
+        names = ", ".join(markdown_name(str(name)) for name in contributors)
+        contributor_text = f'{labels["registered"]}\n\n{names}'
+        if manifest.get("anonymous_contributors"):
+            contributor_text += f'\n\n{labels["anonymous"]}'
+
+    source_text: list[str] = []
+    if source:
+        label = urlparse(source).hostname or source
+        source_text.append(labels["source"].format(label=label, url=source))
+    if license_name:
+        source_text.append(labels["license"].format(license=license_name))
+    source_text.append(labels["images"])
+    if any(chapter.stem == "wikihow" for chapter in chapters):
+        source_text.append(
+            "**WikiHow** is by wikiHow contributors: "
+            "[original article](https://www.wikihow.com/Dumpster-Dive), "
+            "via [Trashwiki](https://trashwiki.org/en/WikiHow); CC BY-NC-SA 3.0."
+        )
     return (
-        "# Attribution\n\n"
-        "The imported chapters in this edition were written by Trashwiki contributors "
-        "and are used under CC BY-NC-SA 4.0. The chapter titles below link to their "
-        "source pages and contributor histories.\n\n"
-        + sections
-        + "\n\nThe part introductions, section dividers, “Your turn,” and “The waste stream "
-        "ahead” are editorial material created for this edition.\n"
+        f'# {labels["title"]}\n\n'
+        f'## {labels["contributors"]}\n\n{contributor_text}\n\n'
+        f'## {labels["sources"]}\n\n' + "\n\n".join(source_text) + "\n"
     )
 
 
@@ -293,11 +329,12 @@ def build(slug: str, version: str, formats: list[str], out: Path) -> None:
     epub_css = work / "epub.css"
     epub_css.write_text(epub_theme_css(slug), encoding="utf-8")
     inputs = [str(c) for c in chapters]
-    if slug == "dumpster-diving":
-        attribution_path = work / "99-attribution.md"
-        attribution_path.write_text(attribution_markdown(chapters), encoding="utf-8")
-        inputs.append(str(attribution_path))
-        toc_chapters.append(attribution_path)
+    attribution_path = work / "99-attribution.md"
+    attribution_path.write_text(
+        attribution_markdown(book, meta, chapters), encoding="utf-8"
+    )
+    inputs.append(str(attribution_path))
+    toc_chapters.append(attribution_path)
     credit_md = photo_credit_markdown(slug)
     if credit_md:
         credit_path = work / "cover-photo.md"

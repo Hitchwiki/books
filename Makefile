@@ -22,8 +22,11 @@ pages: all
 dumps:
 	mkdir -p dumps/zim dumps/sql
 	test -s dumps/hitchwiki-current-en.xml.gz || curl -fL --retry 3 -o dumps/hitchwiki-current-en.xml.gz https://dumps.hitchwiki.org/hitchwiki-current-en.xml.gz
+	test -s dumps/hitchwiki-full-en.xml.gz || curl -fL --retry 3 -o dumps/hitchwiki-full-en.xml.gz https://dumps.hitchwiki.org/hitchwiki-full-en.xml.gz
 	test -s dumps/nomadwiki-current.xml.gz || curl -fL --retry 3 -o dumps/nomadwiki-current.xml.gz https://dumps.hitchwiki.org/nomadwiki-current.xml.gz
+	test -s dumps/nomadwiki-full.xml.gz || curl -fL --retry 3 -o dumps/nomadwiki-full.xml.gz https://dumps.hitchwiki.org/nomadwiki-full.xml.gz
 	test -s dumps/trustroots-current.xml.gz || curl -fL --retry 3 -o dumps/trustroots-current.xml.gz https://dumps.hitchwiki.org/trustroots-current.xml.gz
+	test -s dumps/trustroots-full.xml.gz || curl -fL --retry 3 -o dumps/trustroots-full.xml.gz https://dumps.hitchwiki.org/trustroots-full.xml.gz
 	test -s dumps/zim/trashwiki-zim.latest.zim || curl -fL --retry 3 -o dumps/zim/trashwiki-zim.latest.zim https://dumps.hitchwiki.org/zim/trashwiki-zim.latest.zim
 
 fetch: dumps
