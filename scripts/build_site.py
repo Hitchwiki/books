@@ -162,7 +162,7 @@ def main() -> None:
 </head>
 <body class="catalog">
   <header>
-    <h1><span class="masthead-logo"><img src="./assets/logos/hitchhikers-guide.png?v={version}" alt="Hitchwiki" width="144" height="152"></span><span class="masthead-title">BOOKS</span></h1>
+    <h1><span class="masthead-logo"><img src="./assets/logos/hitchhikers-guide.png?v={version}" alt="Hitchwiki" width="144" height="152"></span><span class="masthead-title">BOOKS</span><span class="masthead-version">0.1</span></h1>
   </header>
 {chr(10).join(sections)}
   <section id="nostr-action" class="nostr-action" hidden>
@@ -178,7 +178,7 @@ def main() -> None:
     <p class="nostr-reader">Suggested reader: <a href="https://books.guaka.org/">Bookstr at books.guaka.org</a>.</p>
   </section>
   <p class="lede">A growing collection of freely licensed books. Created by thousands of people over two decades.</p>
-  <p class="foot">Content licenses live with each book. {github_icon_link()} Built <time datetime="{built_iso}">{built}</time>.</p>
+  <p class="foot">© 2004–2026 respective contributors. Content licenses live with each book. {github_icon_link()} Built <time datetime="{built_iso}">{built}</time>.</p>
 {nostr_script}
 </body>
 </html>

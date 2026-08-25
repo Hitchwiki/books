@@ -27,6 +27,11 @@ class NostrReadingListTests(unittest.TestCase):
         self.assertIn("window.nostr.nip44.encrypt(pubkey,JSON.stringify(listTags))", source)
         self.assertIn("let tags=[['d','hitchwiki-books']],content=''", source)
 
+    def test_catalog_marks_the_early_version_in_the_heading(self):
+        source = (Path(__file__).resolve().parents[1] / "scripts" / "build_site.py").read_text()
+
+        self.assertIn('<span class="masthead-version">0.1</span></h1>', source)
+
 
 if __name__ == "__main__":
     unittest.main()

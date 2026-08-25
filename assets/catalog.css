@@ -69,6 +69,14 @@ body.catalog .masthead-title {
   position: relative;
   z-index: 1;
 }
+body.catalog .masthead-version {
+  align-self: flex-start;
+  font-size: 0.45em;
+  line-height: 1;
+  margin-top: 0.95rem;
+  position: relative;
+  z-index: 1;
+}
 body.catalog .lang {
   position: relative;
   z-index: 1;
@@ -130,6 +138,7 @@ body.catalog .lede {
   body.catalog .masthead-logo { height: 5.25rem; width: 10.25rem; }
   body.catalog .masthead-logo img { height: 10.85rem; }
   body.catalog .masthead-title { margin-top: 0.55rem; }
+  body.catalog .masthead-version { margin-top: 0.65rem; }
   body.catalog .lede { white-space: normal; }
 }
 body.catalog .lang + .lang {

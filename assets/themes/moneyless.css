@@ -289,8 +289,8 @@ body.book-moneyless .book-banner-inner {
 body.book-moneyless .book-banner-title {
   display: flex;
   align-items: baseline;
-  flex: 1 1 22rem;
-  min-width: min(22rem, 100%);
+  flex: 1 1 auto;
+  min-width: 0;
   gap: 0.7rem;
   line-height: 1.15;
 }
@@ -307,15 +307,16 @@ body.book-moneyless .book-banner-site {
 body.book-moneyless .book-banner-book-title {
   flex: 1 1 auto;
   min-width: 0;
-  overflow: hidden;
+  overflow: visible;
   color: inherit;
   font-family: "Source Serif 4", Georgia, Palatino, serif;
   font-size: clamp(1.8rem, 4vw, 3rem);
   font-style: normal;
   font-weight: 700;
   letter-spacing: -0.015em;
-  text-overflow: ellipsis;
-  white-space: nowrap;
+  overflow-wrap: normal;
+  text-overflow: clip;
+  white-space: normal;
 }
 body.book-moneyless .book-banner-version {
   flex: 0 0 auto;
@@ -328,9 +329,9 @@ body.book-moneyless .book-banner-version {
 body.book-moneyless .book-banner-actions {
   display: flex;
   align-items: baseline;
-  flex: 1 1 22rem;
+  flex: 0 0 auto;
   gap: 1rem;
-  min-width: min(20rem, 100%);
+  min-width: 0;
   white-space: nowrap;
 }
 body.book-moneyless .book-banner-contents { flex: 0 0 auto; }
@@ -371,7 +372,7 @@ body.book-moneyless .book-banner a.github {
   text-decoration: none;
 }
 body.book-moneyless .book-banner a.github svg { width: 1.1em; height: 1.1em; display: block; }
-@media (max-width: 40rem) {
+@media (max-width: 56rem) {
   body.book-moneyless .book-banner-inner {
     align-items: flex-start;
     flex-wrap: wrap;

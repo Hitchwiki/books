@@ -863,8 +863,8 @@ body.book-{slug} .book-banner-inner {{
 body.book-{slug} .book-banner-title {{
   display: flex;
   align-items: baseline;
-  flex: 1 1 22rem;
-  min-width: min(22rem, 100%);
+  flex: 1 1 auto;
+  min-width: 0;
   gap: 0.7rem;
   line-height: 1.15;
 }}
@@ -881,15 +881,16 @@ body.book-{slug} .book-banner-site {{
 body.book-{slug} .book-banner-book-title {{
   flex: 1 1 auto;
   min-width: 0;
-  overflow: hidden;
+  overflow: visible;
   color: inherit;
   font-family: "{t["display"]}", {t["fallback"]};
   font-size: clamp(1.8rem, 4vw, 3rem);
   font-style: normal;
   font-weight: 700;
   letter-spacing: -0.015em;
-  text-overflow: ellipsis;
-  white-space: nowrap;
+  overflow-wrap: normal;
+  text-overflow: clip;
+  white-space: normal;
 }}
 body.book-{slug} .book-banner-version {{
   flex: 0 0 auto;
@@ -902,9 +903,9 @@ body.book-{slug} .book-banner-version {{
 body.book-{slug} .book-banner-actions {{
   display: flex;
   align-items: baseline;
-  flex: 1 1 22rem;
+  flex: 0 0 auto;
   gap: 1rem;
-  min-width: min(20rem, 100%);
+  min-width: 0;
   white-space: nowrap;
 }}
 body.book-{slug} .book-banner-contents {{ flex: 0 0 auto; }}
@@ -945,7 +946,7 @@ body.book-{slug} .book-banner a.github {{
   text-decoration: none;
 }}
 body.book-{slug} .book-banner a.github svg {{ width: 1.1em; height: 1.1em; display: block; }}
-@media (max-width: 40rem) {{
+@media (max-width: 56rem) {{
   body.book-{slug} .book-banner-inner {{
     align-items: flex-start;
     flex-wrap: wrap;
@@ -1168,8 +1169,31 @@ body.catalog .lang {{
 }}
 .nostr-action h2 {{ margin: 0 0 0.3rem; font-size: 1.2rem; }}
 .nostr-action p {{ margin: 0.45rem 0 0; color: #76563c; line-height: 1.45; }}
-.nostr-action button {{
+.nostr-controls {{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: end;
+  gap: 0.65rem;
   margin-top: 0.75rem;
+}}
+.nostr-controls label {{
+  display: grid;
+  gap: 0.2rem;
+  color: #76563c;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}}
+.nostr-controls select {{
+  min-height: 2.55rem;
+  padding: 0.55rem 1.9rem 0.55rem 0.65rem;
+  border: 1px solid #d8c7ac;
+  background: #fffdf8;
+  color: #2e2119;
+  font: inherit;
+}}
+.nostr-action button {{
   padding: 0.62rem 0.78rem;
   border: 1px solid #6e3100;
   border-radius: 0;
