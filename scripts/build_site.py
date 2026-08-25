@@ -177,7 +177,7 @@ def main() -> None:
     <p id="nostr-status" class="nostr-status" aria-live="polite"></p>
     <p class="nostr-reader">Suggested reader: <a href="https://books.guaka.org/">Bookstr at books.guaka.org</a>.</p>
   </section>
-  <p class="lede">A growing collection of freely licensed books. Created by thousands of people over two decades.</p>
+  <p class="lede">A growing collection of freely licensed books. Created by over a thousand people over two decades.</p>
   <p class="foot">🄯 2004–2026 respective contributors. Creative Commons licenses live with each book. {github_icon_link()} Built <time datetime="{built_iso}">{built}</time>.</p>
 {nostr_script}
 </body>
