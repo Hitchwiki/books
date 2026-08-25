@@ -3,6 +3,19 @@ name: Build and deploy books
 on:
   push:
     branches: [main]
+    paths-ignore:
+      - README.md
+      - AGENTS.md
+      - EDITORIAL.md
+      - LICENSE
+      - PUBLISH.md
+      - SOURCES.md
+      - requirements.txt
+      - "books/*/DESIGN.md"
+      - "books/*/EDITORIAL.md"
+      - "books/*/LICENSE"
+      - "books/*/README.md"
+      - "tests/**"
   workflow_dispatch:
 
 permissions:
