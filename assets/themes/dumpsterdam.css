@@ -448,6 +448,11 @@ body.book-dumpsterdam .cover-logo-wrap {
   position: relative;
   z-index: 2;
 }
+body.book-dumpsterdam .cover-logo-title {
+  align-items: flex-start;
+  display: flex;
+  gap: 0.5rem;
+}
 body.book-dumpsterdam .cover-logo {
   display: block;
   max-height: 2.5rem;
@@ -470,6 +475,18 @@ body.book-dumpsterdam .cover-title {
   margin: 0 0 0.6rem;
   color: inherit;
   font-style: normal;
+}
+body.book-dumpsterdam .cover-version {
+  font-family: "Source Sans 3", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 0.24em;
+  font-style: normal;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  vertical-align: top;
+  white-space: nowrap;
+}
+body.book-dumpsterdam .cover-logo-title .cover-version {
+  font-size: 0.78rem;
 }
 body.book-dumpsterdam .cover-sub {
   margin: 0;

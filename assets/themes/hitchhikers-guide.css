@@ -447,6 +447,11 @@ body.book-hitchhikers-guide .cover-logo-wrap {
   position: relative;
   z-index: 2;
 }
+body.book-hitchhikers-guide .cover-logo-title {
+  align-items: flex-start;
+  display: flex;
+  gap: 0.5rem;
+}
 body.book-hitchhikers-guide .cover-logo {
   display: block;
   max-height: 5.6rem;
@@ -469,6 +474,18 @@ body.book-hitchhikers-guide .cover-title {
   margin: 0 0 0.6rem;
   color: inherit;
   font-style: normal;
+}
+body.book-hitchhikers-guide .cover-version {
+  font-family: "Source Serif 4", Palatino, "Palatino Linotype", Georgia, serif;
+  font-size: 0.24em;
+  font-style: normal;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  vertical-align: top;
+  white-space: nowrap;
+}
+body.book-hitchhikers-guide .cover-logo-title .cover-version {
+  font-size: 0.78rem;
 }
 body.book-hitchhikers-guide .cover-sub {
   margin: 0;

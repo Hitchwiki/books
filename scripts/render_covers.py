@@ -20,6 +20,7 @@ from themes import (
     SOURCE_SERIF_FILES,
     SOURCE_SERIF_ZIP,
     THEMES,
+    cover_rights,
     covers_dir,
     fonts_dir,
     logos_dir,
@@ -109,19 +110,21 @@ def scrim(img: Image.Image, rgb: tuple[int, int, int], start: float = 0.42) -> I
     return Image.alpha_composite(base, overlay).convert("RGB")
 
 
-def paste_logo(img: Image.Image, slug: str, *, x: int, y: int, max_h: int = 280, max_w: int = 900) -> int:
-    """Paste a source-site logo; return y below it."""
+def paste_logo(
+    img: Image.Image, slug: str, *, x: int, y: int, max_h: int = 280, max_w: int = 900
+) -> tuple[int, int, int, int] | None:
+    """Paste a source-site logo and return its x, y, width, and height."""
     t = THEMES[slug]
     name = t.get("logo")
     if not name:
-        return y
+        return None
     path = logos_dir() / name
     if not path.exists():
-        return y
+        return None
     try:
         logo = Image.open(path).convert("RGBA")
     except OSError:
-        return y
+        return None
     w, h = logo.size
     scale = min(max_w / max(w, 1), max_h / max(h, 1), 1.0 if w > 400 else 4.0)
     nw, nh = max(1, int(w * scale)), max(1, int(h * scale))
@@ -129,7 +132,7 @@ def paste_logo(img: Image.Image, slug: str, *, x: int, y: int, max_h: int = 280,
     if x < 0:
         x = (W - nw) // 2
     img.paste(logo, (x, y), logo)
-    return y + nh + 40
+    return x, y, nw, nh
 
 
 def fetch_source_serif() -> None:
@@ -220,9 +223,10 @@ def paint(slug: str, meta: dict) -> Image.Image:
     chrome = t.get("ui_file") or t.get("body_file") or t.get("display_file") or "Georgia.ttf"
     small = load_font(chrome, 36)
     tiny = load_font(chrome, 28)
+    footer_font = load_font("SourceSans3-Regular.ttf", 28)
     title = "" if t.get("cover_logo_is_title") else meta.get("title", slug)
     sub = "" if t.get("cover_hide_subtitle") else meta.get("subtitle", "")
-    license_id = meta.get("license", "")
+    rights_line = cover_rights(meta)
     kicker = "" if t.get("cover_hide_kicker") else t["kicker"].upper()
     if sub.casefold() == kicker.casefold():
         sub = ""
@@ -275,25 +279,34 @@ def paint(slug: str, meta: dict) -> Image.Image:
     if t.get("logo_small"):
         logo_h, logo_w = 96, 96
 
-    paste_logo(img, slug, x=logo_x, y=logo_y, max_h=logo_h, max_w=logo_w)
+    logo_box = paste_logo(img, slug, x=logo_x, y=logo_y, max_h=logo_h, max_w=logo_w)
+    if t.get("cover_logo_is_title") and logo_box:
+        actual_x, actual_y, actual_w, _ = logo_box
+        version_x = min(actual_x + actual_w + 18, W - 110 - int(d.textlength("0.1", font=tiny)))
+        d.text((version_x, actual_y + 18), "0.1", font=tiny, fill=fg)
 
     max_w = W - 220
     if kicker:
         d.text((110, kicker_y), kicker, font=tiny, fill=fg)
     lines = wrap(d, title, display, max_w) if title else []
     y = y_title
+    final_title_y = y_title
     for line in lines:
+        final_title_y = y
         d.text((110, y), line, font=display, fill=fg)
         y += int(display.size * 1.12) if hasattr(display, "size") else 130
+    if lines:
+        version_x = 110 + int(d.textlength(lines[-1], font=display)) + 18
+        d.text((version_x, final_title_y + 10), "0.1", font=tiny, fill=fg)
     if sub:
         for line in wrap(d, sub, small, max_w - 40):
             y += 12
             d.text((110, y), line, font=small, fill=fg)
             y += 48
     footer_y = H - 140
-    d.text((110, footer_y), "0.1  ·  books.hitchwiki.org", font=tiny, fill=fg)
-    license_x = W - 110 - int(d.textlength(license_id, font=tiny))
-    d.text((license_x, footer_y), license_id, font=tiny, fill=fg)
+    d.text((110, footer_y), "books.hitchwiki.org", font=footer_font, fill=fg)
+    rights_x = W - 110 - int(d.textlength(rights_line, font=footer_font))
+    d.text((rights_x, footer_y), rights_line, font=footer_font, fill=fg)
     return img
 
 

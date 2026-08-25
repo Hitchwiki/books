@@ -439,6 +439,11 @@ body.book-shoestring-nomad .cover-logo-wrap {
   position: relative;
   z-index: 2;
 }
+body.book-shoestring-nomad .cover-logo-title {
+  align-items: flex-start;
+  display: flex;
+  gap: 0.5rem;
+}
 body.book-shoestring-nomad .cover-logo {
   display: block;
   max-height: 5.6rem;
@@ -461,6 +466,18 @@ body.book-shoestring-nomad .cover-title {
   margin: 0 0 0.6rem;
   color: inherit;
   font-style: italic;
+}
+body.book-shoestring-nomad .cover-version {
+  font-family: "Source Sans 3", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 0.24em;
+  font-style: normal;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  vertical-align: top;
+  white-space: nowrap;
+}
+body.book-shoestring-nomad .cover-logo-title .cover-version {
+  font-size: 0.78rem;
 }
 body.book-shoestring-nomad .cover-sub {
   margin: 0;

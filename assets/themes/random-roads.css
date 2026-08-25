@@ -456,6 +456,11 @@ body.book-random-roads .cover-logo-wrap {
   position: relative;
   z-index: 2;
 }
+body.book-random-roads .cover-logo-title {
+  align-items: flex-start;
+  display: flex;
+  gap: 0.5rem;
+}
 body.book-random-roads .cover-logo {
   display: block;
   max-height: 5.6rem;
@@ -478,6 +483,18 @@ body.book-random-roads .cover-title {
   margin: 0 0 0.6rem;
   color: inherit;
   font-style: normal;
+}
+body.book-random-roads .cover-version {
+  font-family: "Georgia", Georgia, "Times New Roman", Times, serif;
+  font-size: 0.24em;
+  font-style: normal;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  vertical-align: top;
+  white-space: nowrap;
+}
+body.book-random-roads .cover-logo-title .cover-version {
+  font-size: 0.78rem;
 }
 body.book-random-roads .cover-sub {
   margin: 0;

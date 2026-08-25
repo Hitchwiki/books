@@ -6,6 +6,7 @@ CSS and JPEG covers are generated from this file (scripts/render_covers.py).
 
 from __future__ import annotations
 
+import re
 from pathlib import Path
 
 from common import ROOT
@@ -353,6 +354,15 @@ def photos_dir() -> Path:
     return ROOT / "assets" / "covers" / "photos"
 
 
+def cover_rights(meta: dict) -> str:
+    """Return the compact licence and copyright notice used on covers."""
+    license_id = str(meta.get("license", "")).strip()
+    match = re.search(r"©\s+(\d{4}[–-]\d{4})", str(meta.get("rights", "")))
+    copyright_years = match.group(1) if match else ""
+    parts = [part for part in (license_id, "🄯" if license_id else "", copyright_years) if part]
+    return " ".join(parts)
+
+
 def cover_html(slug: str, meta: dict) -> str:
     from ui_strings import ui_strings
 
@@ -363,15 +373,18 @@ def cover_html(slug: str, meta: dict) -> str:
     kicker = "" if t.get("cover_hide_kicker") else t["kicker"]
     if sub.casefold() == kicker.casefold():
         sub = ""
-    license_id = meta.get("license", "")
+    rights_line = cover_rights(meta)
     logo = t.get("logo")
     wide = " cover-logo-wide" if t.get("logo_wide") else ""
+    logo_title = " cover-logo-title" if t.get("cover_logo_is_title") else ""
     logo_html = ""
     if logo:
         alt = t.get("logo_alt", "")
+        logo_version = '<span class="cover-version">0.1</span>' if logo_title else ""
         logo_html = (
-            f'<p class="cover-logo-wrap{wide}">'
+            f'<p class="cover-logo-wrap{wide}{logo_title}">'
             f'<img class="cover-logo" src="logos/{logo}" alt="{alt}">'
+            f"{logo_version}"
             f"</p>"
         )
     photo_class = " cover-has-photo" if t.get("cover_photo") else ""
@@ -379,10 +392,10 @@ def cover_html(slug: str, meta: dict) -> str:
   {logo_html}
   {f'<p class="cover-kicker">{kicker}</p>' if kicker else ''}
   <div class="cover-main">
-    {f'<h1 class="cover-title">{title}</h1>' if title else ''}
+    {f'<h1 class="cover-title">{title} <span class="cover-version">0.1</span></h1>' if title else ''}
     {f'<p class="cover-sub">{sub}</p>' if sub else ''}
   </div>
-  <p class="cover-foot"><span>0.1 · books.hitchwiki.org</span><span>{license_id}</span></p>
+  <p class="cover-foot"><span>books.hitchwiki.org</span><span>{rights_line}</span></p>
 </section>
 """
 
@@ -1007,6 +1020,11 @@ body.book-{slug} .cover-logo-wrap {{
   position: relative;
   z-index: 2;
 }}
+body.book-{slug} .cover-logo-title {{
+  align-items: flex-start;
+  display: flex;
+  gap: 0.5rem;
+}}
 body.book-{slug} .cover-logo {{
   display: block;
   max-height: {logo_max_h};
@@ -1029,6 +1047,18 @@ body.book-{slug} .cover-title {{
   margin: 0 0 0.6rem;
   color: inherit;
   font-style: {cover_italic};
+}}
+body.book-{slug} .cover-version {{
+  font-family: "{t["body"]}", {t["fallback"]};
+  font-size: 0.24em;
+  font-style: normal;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  vertical-align: top;
+  white-space: nowrap;
+}}
+body.book-{slug} .cover-logo-title .cover-version {{
+  font-size: 0.78rem;
 }}
 body.book-{slug} .cover-sub {{
   margin: 0;
@@ -1156,6 +1186,14 @@ body.catalog .masthead-title {{
   position: relative;
   z-index: 1;
 }}
+body.catalog .masthead-version {{
+  align-self: flex-start;
+  font-size: 0.45em;
+  line-height: 1;
+  margin-top: 0.95rem;
+  position: relative;
+  z-index: 1;
+}}
 body.catalog .lang {{
   position: relative;
   z-index: 1;
@@ -1217,6 +1255,7 @@ body.catalog .lede {{
   body.catalog .masthead-logo {{ height: 5.25rem; width: 10.25rem; }}
   body.catalog .masthead-logo img {{ height: 10.85rem; }}
   body.catalog .masthead-title {{ margin-top: 0.55rem; }}
+  body.catalog .masthead-version {{ margin-top: 0.65rem; }}
   body.catalog .lede {{ white-space: normal; }}
 }}
 body.catalog .lang + .lang {{

@@ -32,6 +32,12 @@ class NostrReadingListTests(unittest.TestCase):
 
         self.assertIn('<span class="masthead-version">0.1</span></h1>', source)
 
+    def test_catalog_footer_shows_copyleft(self):
+        source = (Path(__file__).resolve().parents[1] / "scripts" / "build_site.py").read_text()
+
+        self.assertIn("🄯 2004–2026 respective contributors", source)
+        self.assertIn("Creative Commons licenses live with each book.", source)
+
 
 if __name__ == "__main__":
     unittest.main()
