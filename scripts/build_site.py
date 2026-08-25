@@ -21,6 +21,12 @@ from themes import THEMES, fonts_dir, logos_dir
 BOOKS = list(THEMES)
 LANG_ORDER = ["en", "nl", "es"]
 LANG_LABELS = {"en": "English", "nl": "Nederlands", "es": "Español"}
+WIKI_BOOK_PAGES = {
+    "hitchhikers-guide": "https://hitchwiki.org/en/Book",
+    "dumpster-diving": "https://trashwiki.org/en/Book",
+    "hospitality-exchange": "https://wiki.trustroots.org/en/Book",
+    "shoestring-nomad": "https://nomadwiki.org/en/Book",
+}
 
 
 def nostr_reading_list(edition: str) -> list[dict[str, str]]:
@@ -99,6 +105,12 @@ def main() -> None:
         pdf = out / "downloads" / f"{slug}-{edition}.pdf"
         epub = f'<a href="./downloads/{slug}-{edition}.epub">EPUB</a>'
         pdf_link = f' · <a href="./downloads/{slug}-{edition}.pdf">PDF</a>' if pdf.exists() else ""
+        wiki_book = WIKI_BOOK_PAGES.get(slug)
+        wiki_book_html = (
+            f'<p class="wiki-book"><a href="{wiki_book}">Help improve the next edition</a></p>'
+            if wiki_book
+            else ""
+        )
         cover = covers_src / f"{slug}.jpg"
         cover_html = ""
         if cover.exists():
@@ -116,6 +128,7 @@ def main() -> None:
     <p class="formats">
       {epub}{pdf_link}
     </p>
+    {wiki_book_html}
   </div>
 </article>"""
 

@@ -8,7 +8,7 @@ SITE    := $(OUT)/site
 
 .DEFAULT_GOAL := serve
 
-.PHONY: all covers books dumps fetch images pack-images images-release site catalog html epub pdf pages serve clean editorial-status $(BOOKS)
+.PHONY: all covers books dumps fetch images pack-images images-release site catalog html epub pdf pages serve e2e clean editorial-status $(BOOKS)
 
 all: books site
 
@@ -59,6 +59,10 @@ catalog:
 
 serve:
 	$(PYTHON) scripts/serve.py
+
+e2e: FORMATS := html
+e2e: hitchhikers-guide
+	npx playwright test
 
 clean:
 	rm -rf $(OUT)

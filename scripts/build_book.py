@@ -12,6 +12,7 @@ import re
 import shutil
 import subprocess
 import sys
+import unicodedata
 import xml.etree.ElementTree as ET
 from pathlib import Path
 from urllib.parse import quote, unquote, urlparse
@@ -215,6 +216,13 @@ def markdown_name(name: str) -> str:
     return re.sub(r"([\\`*_[\]<>])", r"\\\1", name)
 
 
+def alphabetical_key(text: str) -> tuple[str, str]:
+    folded = unicodedata.normalize("NFKD", text.casefold())
+    folded = "".join(char for char in folded if not unicodedata.combining(char))
+    folded = "".join(char for char in folded if char.isalnum())
+    return (folded, text)
+
+
 def image_attribution_markdown(book: Path, labels: dict[str, str]) -> str:
     """Consolidate credits for cover art and locally published book images."""
     credits: list[str] = []
@@ -272,14 +280,18 @@ def chapter_source_markdown(chapters: list[Path], labels: dict[str, str]) -> str
             sources.append((label.strip(), url))
     if not sources:
         return ""
+    sources.sort(key=lambda item: (*alphabetical_key(item[0]), item[1]))
     rendered: list[str] = []
     for label, url in sources:
-        item = f"- [{markdown_name(label)}](<{url}>)"
+        item = f"[{markdown_name(label)}](<{url}>)"
         if history := wiki_history_url(url):
-            item += f' — [{labels["history"]}](<{history}>)'
+            item += f' ([{labels["history"]}](<{history}>))'
         rendered.append(item)
-    items = "\n".join(rendered)
-    return f'## {labels["chapter_sources"]}\n\n{items}\n'
+    items = " · ".join(rendered)
+    return (
+        f'## {labels["chapter_sources"]}\n\n'
+        f'::: {{.chapter-sources}}\n{items}\n:::\n'
+    )
 
 
 def attribution_markdown(book: Path, meta: dict, chapters: list[Path]) -> str:

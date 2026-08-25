@@ -37,7 +37,7 @@ body.book-moneyless {
   --rule: #e4d4c0;
   --cover-bg: #3a2418;
   --cover-fg: #f7f1e6;
-  --measure: 36rem;
+  --measure: 42rem;
   --toc: 20rem;
   --banner: 5.1rem;
   background: var(--bg);
@@ -71,6 +71,14 @@ body.book-moneyless .book-body > #attribution ~ ol {
   line-height: 1.45;
 }
 body.book-moneyless .book-body > #attribution ~ h2 { font-size: 1.25rem; }
+body.book-moneyless .chapter-sources {
+  columns: 2 16rem;
+  column-gap: 2rem;
+  color: var(--muted);
+  font-size: 0.78rem;
+  line-height: 1.4;
+}
+body.book-moneyless .chapter-sources p { margin: 0; }
 body.book-moneyless a { color: var(--accent); }
 body.book-moneyless hr { border: 0; border-top: 1px solid var(--rule); }
 body.book-moneyless .chapter-heading {
@@ -406,7 +414,7 @@ body.book-moneyless .book-banner a.github svg { width: 1.1em; height: 1.1em; dis
 }
 @media (min-width: 56rem) {
   body.book-moneyless {
-    max-width: min(100%, calc(var(--toc) + var(--measure) + 3rem));
+    max-width: min(100%, calc(var(--toc) + var(--measure) + 5.5rem));
     padding-bottom: 0;
   }
   body.book-moneyless .book-layout {

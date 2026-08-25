@@ -59,6 +59,24 @@ class AttributionTests(unittest.TestCase):
         self.assertIn("[Recycling](<https://trashwiki.org/en/Recycling>)", output)
         self.assertIn("action=history", output)
 
+    def test_chapter_sources_are_compact_and_alphabetical(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            book = Path(tmp)
+            zulu = book / "zulu.md"
+            alpha = book / "alpha.md"
+            zulu.write_text(
+                "Source: [Zulu](https://example.org/en/Zulu)\n", encoding="utf-8"
+            )
+            alpha.write_text(
+                "Source: [alpha](https://example.org/en/Alpha)\n", encoding="utf-8"
+            )
+            output = attribution_markdown(book, {"lang": "en"}, [zulu, alpha])
+
+        sources = output.split("## Chapter sources", 1)[1]
+        self.assertLess(sources.index("[alpha]"), sources.index("[Zulu]"))
+        self.assertIn("::: {.chapter-sources}", sources)
+        self.assertNotIn("\n- [", sources)
+
     def test_non_wiki_book_still_has_an_attribution_section(self):
         output = attribution_markdown(
             Path("/does/not/exist"),

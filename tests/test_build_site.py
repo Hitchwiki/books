@@ -5,7 +5,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
 
-from build_site import BOOKS, nostr_reading_list
+from build_site import BOOKS, WIKI_BOOK_PAGES, nostr_reading_list
 
 
 class NostrReadingListTests(unittest.TestCase):
@@ -37,6 +37,17 @@ class NostrReadingListTests(unittest.TestCase):
 
         self.assertIn("🄯 2004–2026 respective contributors", source)
         self.assertIn("Creative Commons licenses live with each book.", source)
+
+    def test_four_source_wikis_link_to_their_book_project_pages(self):
+        self.assertEqual(
+            WIKI_BOOK_PAGES,
+            {
+                "hitchhikers-guide": "https://hitchwiki.org/en/Book",
+                "dumpster-diving": "https://trashwiki.org/en/Book",
+                "hospitality-exchange": "https://wiki.trustroots.org/en/Book",
+                "shoestring-nomad": "https://nomadwiki.org/en/Book",
+            },
+        )
 
 
 if __name__ == "__main__":

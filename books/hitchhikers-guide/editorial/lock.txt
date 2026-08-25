@@ -12,5 +12,5 @@
 02-countries/_south-america.md
 02-countries/_oceania.md
 03-resources.md
-04-outlook.md
-04-outlook/the-road-ahead.md
+03-resources/the-road-ahead.md
+03-resources/your-turn.md

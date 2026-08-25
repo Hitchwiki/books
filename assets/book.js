@@ -36,6 +36,16 @@
     }
     if (a) a.classList.add("is-current");
   }
+
+  function revealInToc(node) {
+    if (!node) return;
+    var top = node.offsetTop;
+    var bottom = top + node.offsetHeight;
+    if (top < toc.scrollTop) toc.scrollTop = top;
+    else if (bottom > toc.scrollTop + toc.clientHeight) {
+      toc.scrollTop = bottom - toc.clientHeight;
+    }
+  }
   openHash();
   window.addEventListener("hashchange", openHash);
 
@@ -59,7 +69,7 @@
       toc.querySelectorAll("details.toc-part").forEach(function (d) {
         var summaryHit = !!q && fold(d.querySelector("summary").textContent).indexOf(q) !== -1;
         var any = false;
-        Array.prototype.forEach.call(d.querySelectorAll(":scope > ul > li, :scope > details.toc-region"), function (node) {
+        Array.prototype.forEach.call(d.querySelectorAll(":scope > ul > li, :scope > details.toc-region, :scope > details.toc-subsection"), function (node) {
           if (node.tagName === "DETAILS") {
             var rSummaryHit = !!q && fold(node.querySelector("summary").textContent).indexOf(q) !== -1;
             var rAny = false;
@@ -111,7 +121,7 @@
       var d = part && toc.querySelector('details.toc-part[data-part="' + part + '"]');
       if (d) {
         d.open = true;
-        d.scrollIntoView({ block: "nearest" });
+        revealInToc(d);
       }
     });
   });
@@ -143,7 +153,7 @@
           node = node.parentElement && node.parentElement.closest("details");
         }
         if (!toc.classList.contains("is-filtering")) {
-          a.scrollIntoView({ block: "nearest" });
+          revealInToc(a);
         }
       });
     },

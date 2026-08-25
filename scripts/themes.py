@@ -28,7 +28,7 @@ THEMES: dict[str, dict] = {
         "body_file": "SourceSerif4-Regular.ttf",
         "body_bold": "SourceSerif4-Bold.ttf",
         "fallback": 'Palatino, "Palatino Linotype", Georgia, serif',
-        "measure": "38rem",
+        "measure": "44rem",
         "kicker": "By 1,300+ hitchhikers",
         "logo": "hitchhikers-guide.png",
         "logo_alt": "Hitchwiki",
@@ -60,7 +60,7 @@ THEMES: dict[str, dict] = {
         "body_file": "SourceSans3-Regular.ttf",
         "body_bold": "SourceSans3-Bold.ttf",
         "fallback": '"Helvetica Neue", Helvetica, Arial, sans-serif',
-        "measure": "40rem",
+        "measure": "46rem",
         "kicker": "By 230+ dumpster divers",
         "logo": "dumpster-diving.png",
         "logo_alt": "Trashwiki",
@@ -91,7 +91,7 @@ THEMES: dict[str, dict] = {
         "ui": "Open Sans",
         "ui_file": "OpenSans-Regular.ttf",
         "ui_bold": "OpenSans-Bold.ttf",
-        "measure": "36rem",
+        "measure": "42rem",
         "kicker": "A hitchhiking zine",
         "logo": "random-roads.png",
         "logo_alt": "Random Roads",
@@ -124,7 +124,7 @@ THEMES: dict[str, dict] = {
         "body_file": "SourceSans3-Regular.ttf",
         "body_bold": "SourceSans3-Bold.ttf",
         "fallback": '"Helvetica Neue", Helvetica, Arial, sans-serif',
-        "measure": "40rem",
+        "measure": "46rem",
         "kicker": "Voedselactivisme uit Amsterdam",
         "logo": "dumpsterdam.png",
         "logo_alt": "Trasher",
@@ -156,7 +156,7 @@ THEMES: dict[str, dict] = {
         "body_file": "SourceSerif4-Regular.ttf",
         "body_bold": "SourceSerif4-Bold.ttf",
         "fallback": "Georgia, Palatino, serif",
-        "measure": "36rem",
+        "measure": "42rem",
         "kicker": "Leven met minder, of zonder",
         "cover_photo": {
             "commons": "Netherlands, Kaag en Braassem, Hoogmade, Piestpolders (2).jpg",
@@ -185,7 +185,7 @@ THEMES: dict[str, dict] = {
         "body_file": "SourceSerif4-Regular.ttf",
         "body_bold": "SourceSerif4-Bold.ttf",
         "fallback": "Georgia, Palatino, serif",
-        "measure": "38rem",
+        "measure": "44rem",
         "kicker": "By 30+ people",
         "cover_photo": {
             "commons": "Tengboche, Sherpa family, Nepal.jpg",
@@ -214,7 +214,7 @@ THEMES: dict[str, dict] = {
         "body_file": "SourceSerif4-Regular.ttf",
         "body_bold": "SourceSerif4-Bold.ttf",
         "fallback": "Georgia, Palatino, serif",
-        "measure": "36rem",
+        "measure": "42rem",
         "kicker": "On living with less, or none",
         "cover_photo": {
             "commons": "Basket of tomatoes and peppers (556d293c-c060-43ee-bc99-636b82fa3969).jpg",
@@ -243,7 +243,7 @@ THEMES: dict[str, dict] = {
         "body_file": "SourceSerif4-Regular.ttf",
         "body_bold": "SourceSerif4-Bold.ttf",
         "fallback": "Georgia, Palatino, serif",
-        "measure": "36rem",
+        "measure": "42rem",
         "kicker": "Vivir con menos, o sin nada",
         "cover_photo": {
             "commons": "Ambersweet oranges.jpg",
@@ -272,7 +272,7 @@ THEMES: dict[str, dict] = {
         "body_file": "SourceSans3-Regular.ttf",
         "body_bold": "SourceSans3-Bold.ttf",
         "fallback": '"Helvetica Neue", Helvetica, Arial, sans-serif',
-        "measure": "40rem",
+        "measure": "46rem",
         "kicker": "From Nomadwiki",
         "logo": "shoestring-nomad.png",
         "logo_alt": "Nomadwiki",
@@ -658,6 +658,14 @@ body.book-{slug} .book-body > #attribution ~ ol {{
   line-height: 1.45;
 }}
 body.book-{slug} .book-body > #attribution ~ h2 {{ font-size: 1.25rem; }}
+body.book-{slug} .chapter-sources {{
+  columns: 2 16rem;
+  column-gap: 2rem;
+  color: var(--muted);
+  font-size: 0.78rem;
+  line-height: 1.4;
+}}
+body.book-{slug} .chapter-sources p {{ margin: 0; }}
 body.book-{slug} a {{ color: var(--accent); }}
 body.book-{slug} hr {{ border: 0; border-top: 1px solid var(--rule); }}
 body.book-{slug} .chapter-heading {{
@@ -993,7 +1001,7 @@ body.book-{slug} .book-banner a.github svg {{ width: 1.1em; height: 1.1em; displ
 }}
 @media (min-width: 56rem) {{
   body.book-{slug} {{
-    max-width: min(100%, calc(var(--toc) + var(--measure) + 3rem));
+    max-width: min(100%, calc(var(--toc) + var(--measure) + 5.5rem));
     padding-bottom: 0;
   }}
   body.book-{slug} .book-layout {{

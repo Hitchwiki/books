@@ -116,7 +116,7 @@ Print and paid-store readiness are outside this tracker. The five human editoria
 - Always reopen verification, final proof, format QA, and release for the new edition.
 - Preserve the status of unaffected milestones.
 
-See [SOURCES.md](SOURCES.md) for adjacent sites, permission notes, and titles wanted later (philosophy / free software / abundance / AI / wikis). See [EDITORIAL.md](EDITORIAL.md) for how to edit chapters so wiki updates do not wipe them. See [PUBLISH.md](PUBLISH.md) for print and stores (KDP, Lulu, Ingram, D2D, itch.io, Internet Archive). NC-SA stays off paid stores.
+See [SOURCES.md](SOURCES.md) for adjacent sites, permission notes, and titles wanted later (philosophy / free software / abundance / AI / wikis). See [EDITORIAL.md](EDITORIAL.md) for how to edit chapters so wiki updates do not wipe them, and [BOOKBOT.md](BOOKBOT.md) for conflict-safe wiki edits and local credential handling. See [PUBLISH.md](PUBLISH.md) for print and stores (KDP, Lulu, Ingram, D2D, itch.io, Internet Archive). NC-SA stays off paid stores.
 
 Each book has its own cover, type, and colors from the related website (`make covers`, `scripts/themes.py`). See each book’s `DESIGN.md` for logos and hex values.
 

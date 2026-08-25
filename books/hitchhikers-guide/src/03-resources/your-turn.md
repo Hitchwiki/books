@@ -1,6 +1,6 @@
 <!-- editorial:lock -->
 
-# Part IV — Your turn
+# Your turn
 
 You have enough. The first ride is not a round-the-world expedition. It is a stretch of road, a place a car can stop, and a hand in the air.
 

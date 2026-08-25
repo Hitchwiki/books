@@ -37,7 +37,7 @@ body.book-hitchhikers-guide {
   --rule: #e5d8ba;
   --cover-bg: #f7df79;
   --cover-fg: #6e3100;
-  --measure: 38rem;
+  --measure: 44rem;
   --toc: 20rem;
   --banner: 5.1rem;
   background: var(--bg);
@@ -71,6 +71,14 @@ body.book-hitchhikers-guide .book-body > #attribution ~ ol {
   line-height: 1.45;
 }
 body.book-hitchhikers-guide .book-body > #attribution ~ h2 { font-size: 1.25rem; }
+body.book-hitchhikers-guide .chapter-sources {
+  columns: 2 16rem;
+  column-gap: 2rem;
+  color: var(--muted);
+  font-size: 0.78rem;
+  line-height: 1.4;
+}
+body.book-hitchhikers-guide .chapter-sources p { margin: 0; }
 body.book-hitchhikers-guide a { color: var(--accent); }
 body.book-hitchhikers-guide hr { border: 0; border-top: 1px solid var(--rule); }
 body.book-hitchhikers-guide .chapter-heading {
@@ -406,7 +414,7 @@ body.book-hitchhikers-guide .book-banner a.github svg { width: 1.1em; height: 1.
 }
 @media (min-width: 56rem) {
   body.book-hitchhikers-guide {
-    max-width: min(100%, calc(var(--toc) + var(--measure) + 3rem));
+    max-width: min(100%, calc(var(--toc) + var(--measure) + 5.5rem));
     padding-bottom: 0;
   }
   body.book-hitchhikers-guide .book-layout {

@@ -30,7 +30,7 @@ body.book-random-roads {
   --rule: #d3d7d9;
   --cover-bg: #0ca6bb;
   --cover-fg: #ffffff;
-  --measure: 36rem;
+  --measure: 42rem;
   --toc: 20rem;
   --banner: 5.1rem;
   background: var(--bg);
@@ -64,6 +64,14 @@ body.book-random-roads .book-body > #attribution ~ ol {
   line-height: 1.45;
 }
 body.book-random-roads .book-body > #attribution ~ h2 { font-size: 1.25rem; }
+body.book-random-roads .chapter-sources {
+  columns: 2 16rem;
+  column-gap: 2rem;
+  color: var(--muted);
+  font-size: 0.78rem;
+  line-height: 1.4;
+}
+body.book-random-roads .chapter-sources p { margin: 0; }
 body.book-random-roads a { color: var(--accent); }
 body.book-random-roads hr { border: 0; border-top: 1px solid var(--rule); }
 body.book-random-roads .chapter-heading {
@@ -399,7 +407,7 @@ body.book-random-roads .book-banner a.github svg { width: 1.1em; height: 1.1em; 
 }
 @media (min-width: 56rem) {
   body.book-random-roads {
-    max-width: min(100%, calc(var(--toc) + var(--measure) + 3rem));
+    max-width: min(100%, calc(var(--toc) + var(--measure) + 5.5rem));
     padding-bottom: 0;
   }
   body.book-random-roads .book-layout {

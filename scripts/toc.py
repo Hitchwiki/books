@@ -293,7 +293,7 @@ def _subsection_blocks(part: str, items: list[dict]) -> str:
         chunks.append(
             f'<details class="toc-subsection" data-part="{html.escape(part)}" '
             f'data-collapse="true" open><summary><a href="#{href}">{label}</a> '
-            f'<span class="toc-count">{len(chapters)}</span></summary>'
+            f'<span class="toc-count">{len(buf)}</span></summary>'
         )
         if chapters:
             chunks.append(_item_list(part, chapters, az=False))

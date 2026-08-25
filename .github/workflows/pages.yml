@@ -59,7 +59,7 @@ jobs:
           path: |
             build/site/${{ matrix.book }}
             build/site/downloads/${{ matrix.book }}-*
-          key: book-output-v2-${{ matrix.book }}-${{ hashFiles(format('books/{0}/**', matrix.book), 'scripts/build_book.py', 'scripts/common.py', 'scripts/editorial.py', 'scripts/remove_chapter_footers.lua', 'scripts/themes.py', 'scripts/titles.py', 'scripts/toc.py', 'scripts/ui_strings.py', 'scripts/wiki_contributors.py', 'scripts/wiki_links.py', 'assets/book.css', 'assets/covers/**', 'assets/fonts/**', 'assets/logos/**', 'assets/photos/**', 'requirements-ci.txt') }}
+          key: book-output-v2-${{ matrix.book }}-${{ hashFiles(format('books/{0}/**', matrix.book), 'scripts/build_book.py', 'scripts/common.py', 'scripts/editorial.py', 'scripts/remove_chapter_footers.lua', 'scripts/themes.py', 'scripts/titles.py', 'scripts/toc.py', 'scripts/ui_strings.py', 'scripts/wiki_contributors.py', 'scripts/wiki_links.py', 'assets/book.css', 'assets/book.js', 'assets/covers/**', 'assets/fonts/**', 'assets/logos/**', 'assets/photos/**', 'requirements-ci.txt') }}
       - name: Install pandoc
         if: steps.book-output-cache.outputs.cache-hit != 'true'
         run: |
