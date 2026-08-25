@@ -64,6 +64,13 @@ body.book-geldloos .cover-title {
 }
 body.book-geldloos h1 { font-size: 2.15rem; margin: 2.4rem 0 0.8rem; }
 body.book-geldloos h2 { font-size: 1.45rem; margin-top: 2rem; }
+body.book-geldloos .book-body > #attribution ~ p,
+body.book-geldloos .book-body > #attribution ~ ul,
+body.book-geldloos .book-body > #attribution ~ ol {
+  font-size: 0.9rem;
+  line-height: 1.45;
+}
+body.book-geldloos .book-body > #attribution ~ h2 { font-size: 1.25rem; }
 body.book-geldloos a { color: var(--accent); }
 body.book-geldloos hr { border: 0; border-top: 1px solid var(--rule); }
 body.book-geldloos .chapter-heading {
@@ -118,6 +125,20 @@ body.book-geldloos table {
 }
 body.book-geldloos th,
 body.book-geldloos td { overflow-wrap: anywhere; }
+@media print {
+  body.book-geldloos { font-size: 0.92rem; line-height: 1.48; }
+  body.book-geldloos h1 { font-size: 1.85rem; }
+  body.book-geldloos h2 { font-size: 1.25rem; }
+  body.book-geldloos h1 + p::first-letter {
+    float: none;
+    font: inherit;
+    padding: 0;
+    color: inherit;
+  }
+  body.book-geldloos .book-body > #attribution ~ p,
+  body.book-geldloos .book-body > #attribution ~ ul,
+  body.book-geldloos .book-body > #attribution ~ ol { font-size: 0.8rem; line-height: 1.38; }
+}
 body.book-geldloos #title-block-header { display: none; }
 body.book-geldloos .visually-hidden {
   position: absolute;
@@ -532,7 +553,20 @@ body.book-geldloos .photo-credit {
 }
 
 @media print {
-  body.book-geldloos { max-width: none; background: white; display: block; }
+  @page { margin: 1.4cm; }
+  @page:first { margin: 0; }
+  body.book-geldloos {
+    max-width: none;
+    background: white;
+    display: block;
+    padding: 0;
+  }
+  body.book-geldloos h1 + p::first-letter {
+    float: none;
+    font: inherit;
+    padding: 0;
+    color: inherit;
+  }
   body.book-geldloos .book-banner,
   body.book-geldloos .toc-jump,
   body.book-geldloos .chapter-edit,
@@ -548,6 +582,8 @@ body.book-geldloos .photo-credit {
     margin: 0 0 2rem;
   }
   body.book-geldloos .cover-page {
+    width: 100%;
+    height: 100vh;
     min-height: 100vh;
     break-after: page;
     margin: 0;

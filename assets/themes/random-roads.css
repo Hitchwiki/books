@@ -57,6 +57,13 @@ body.book-random-roads .cover-title {
 }
 body.book-random-roads h1 { font-size: 2.15rem; margin: 2.4rem 0 0.8rem; }
 body.book-random-roads h2 { font-size: 1.45rem; margin-top: 2rem; }
+body.book-random-roads .book-body > #attribution ~ p,
+body.book-random-roads .book-body > #attribution ~ ul,
+body.book-random-roads .book-body > #attribution ~ ol {
+  font-size: 0.9rem;
+  line-height: 1.45;
+}
+body.book-random-roads .book-body > #attribution ~ h2 { font-size: 1.25rem; }
 body.book-random-roads a { color: var(--accent); }
 body.book-random-roads hr { border: 0; border-top: 1px solid var(--rule); }
 body.book-random-roads .chapter-heading {
@@ -111,6 +118,20 @@ body.book-random-roads table {
 }
 body.book-random-roads th,
 body.book-random-roads td { overflow-wrap: anywhere; }
+@media print {
+  body.book-random-roads { font-size: 0.92rem; line-height: 1.48; }
+  body.book-random-roads h1 { font-size: 1.85rem; }
+  body.book-random-roads h2 { font-size: 1.25rem; }
+  body.book-random-roads h1 + p::first-letter {
+    float: none;
+    font: inherit;
+    padding: 0;
+    color: inherit;
+  }
+  body.book-random-roads .book-body > #attribution ~ p,
+  body.book-random-roads .book-body > #attribution ~ ul,
+  body.book-random-roads .book-body > #attribution ~ ol { font-size: 0.8rem; line-height: 1.38; }
+}
 body.book-random-roads #title-block-header { display: none; }
 body.book-random-roads .visually-hidden {
   position: absolute;
@@ -543,7 +564,20 @@ body.book-random-roads .photo-credit {
 }
 
 @media print {
-  body.book-random-roads { max-width: none; background: white; display: block; }
+  @page { margin: 1.4cm; }
+  @page:first { margin: 0; }
+  body.book-random-roads {
+    max-width: none;
+    background: white;
+    display: block;
+    padding: 0;
+  }
+  body.book-random-roads h1 + p::first-letter {
+    float: none;
+    font: inherit;
+    padding: 0;
+    color: inherit;
+  }
   body.book-random-roads .book-banner,
   body.book-random-roads .toc-jump,
   body.book-random-roads .chapter-edit,
@@ -559,6 +593,8 @@ body.book-random-roads .photo-credit {
     margin: 0 0 2rem;
   }
   body.book-random-roads .cover-page {
+    width: 100%;
+    height: 100vh;
     min-height: 100vh;
     break-after: page;
     margin: 0;

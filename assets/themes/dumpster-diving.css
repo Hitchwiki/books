@@ -64,6 +64,13 @@ body.book-dumpster-diving .cover-title {
 }
 body.book-dumpster-diving h1 { font-size: 2.15rem; margin: 2.4rem 0 0.8rem; }
 body.book-dumpster-diving h2 { font-size: 1.45rem; margin-top: 2rem; }
+body.book-dumpster-diving .book-body > #attribution ~ p,
+body.book-dumpster-diving .book-body > #attribution ~ ul,
+body.book-dumpster-diving .book-body > #attribution ~ ol {
+  font-size: 0.9rem;
+  line-height: 1.45;
+}
+body.book-dumpster-diving .book-body > #attribution ~ h2 { font-size: 1.25rem; }
 body.book-dumpster-diving a { color: var(--accent); }
 body.book-dumpster-diving hr { border: 0; border-top: 1px solid var(--rule); }
 body.book-dumpster-diving .chapter-heading {
@@ -118,6 +125,20 @@ body.book-dumpster-diving table {
 }
 body.book-dumpster-diving th,
 body.book-dumpster-diving td { overflow-wrap: anywhere; }
+@media print {
+  body.book-dumpster-diving { font-size: 0.92rem; line-height: 1.48; }
+  body.book-dumpster-diving h1 { font-size: 1.85rem; }
+  body.book-dumpster-diving h2 { font-size: 1.25rem; }
+  body.book-dumpster-diving h1 + p::first-letter {
+    float: none;
+    font: inherit;
+    padding: 0;
+    color: inherit;
+  }
+  body.book-dumpster-diving .book-body > #attribution ~ p,
+  body.book-dumpster-diving .book-body > #attribution ~ ul,
+  body.book-dumpster-diving .book-body > #attribution ~ ol { font-size: 0.8rem; line-height: 1.38; }
+}
 body.book-dumpster-diving #title-block-header { display: none; }
 body.book-dumpster-diving .visually-hidden {
   position: absolute;
@@ -530,7 +551,20 @@ body.book-dumpster-diving .photo-credit {
 }
 
 @media print {
-  body.book-dumpster-diving { max-width: none; background: white; display: block; }
+  @page { margin: 1.4cm; }
+  @page:first { margin: 0; }
+  body.book-dumpster-diving {
+    max-width: none;
+    background: white;
+    display: block;
+    padding: 0;
+  }
+  body.book-dumpster-diving h1 + p::first-letter {
+    float: none;
+    font: inherit;
+    padding: 0;
+    color: inherit;
+  }
   body.book-dumpster-diving .book-banner,
   body.book-dumpster-diving .toc-jump,
   body.book-dumpster-diving .chapter-edit,
@@ -546,6 +580,8 @@ body.book-dumpster-diving .photo-credit {
     margin: 0 0 2rem;
   }
   body.book-dumpster-diving .cover-page {
+    width: 100%;
+    height: 100vh;
     min-height: 100vh;
     break-after: page;
     margin: 0;

@@ -64,6 +64,13 @@ body.book-dumpsterdam .cover-title {
 }
 body.book-dumpsterdam h1 { font-size: 2.15rem; margin: 2.4rem 0 0.8rem; }
 body.book-dumpsterdam h2 { font-size: 1.45rem; margin-top: 2rem; }
+body.book-dumpsterdam .book-body > #attribution ~ p,
+body.book-dumpsterdam .book-body > #attribution ~ ul,
+body.book-dumpsterdam .book-body > #attribution ~ ol {
+  font-size: 0.9rem;
+  line-height: 1.45;
+}
+body.book-dumpsterdam .book-body > #attribution ~ h2 { font-size: 1.25rem; }
 body.book-dumpsterdam a { color: var(--accent); }
 body.book-dumpsterdam hr { border: 0; border-top: 1px solid var(--rule); }
 body.book-dumpsterdam .chapter-heading {
@@ -118,6 +125,20 @@ body.book-dumpsterdam table {
 }
 body.book-dumpsterdam th,
 body.book-dumpsterdam td { overflow-wrap: anywhere; }
+@media print {
+  body.book-dumpsterdam { font-size: 0.92rem; line-height: 1.48; }
+  body.book-dumpsterdam h1 { font-size: 1.85rem; }
+  body.book-dumpsterdam h2 { font-size: 1.25rem; }
+  body.book-dumpsterdam h1 + p::first-letter {
+    float: none;
+    font: inherit;
+    padding: 0;
+    color: inherit;
+  }
+  body.book-dumpsterdam .book-body > #attribution ~ p,
+  body.book-dumpsterdam .book-body > #attribution ~ ul,
+  body.book-dumpsterdam .book-body > #attribution ~ ol { font-size: 0.8rem; line-height: 1.38; }
+}
 body.book-dumpsterdam #title-block-header { display: none; }
 body.book-dumpsterdam .visually-hidden {
   position: absolute;
@@ -535,7 +556,20 @@ body.book-dumpsterdam .photo-credit {
 }
 
 @media print {
-  body.book-dumpsterdam { max-width: none; background: white; display: block; }
+  @page { margin: 1.4cm; }
+  @page:first { margin: 0; }
+  body.book-dumpsterdam {
+    max-width: none;
+    background: white;
+    display: block;
+    padding: 0;
+  }
+  body.book-dumpsterdam h1 + p::first-letter {
+    float: none;
+    font: inherit;
+    padding: 0;
+    color: inherit;
+  }
   body.book-dumpsterdam .book-banner,
   body.book-dumpsterdam .toc-jump,
   body.book-dumpsterdam .chapter-edit,
@@ -551,6 +585,8 @@ body.book-dumpsterdam .photo-credit {
     margin: 0 0 2rem;
   }
   body.book-dumpsterdam .cover-page {
+    width: 100%;
+    height: 100vh;
     min-height: 100vh;
     break-after: page;
     margin: 0;

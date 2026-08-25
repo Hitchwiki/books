@@ -14,18 +14,25 @@ import subprocess
 import sys
 import xml.etree.ElementTree as ET
 from pathlib import Path
-from urllib.parse import urlparse
+from urllib.parse import quote, unquote, urlparse
 
 import yaml
 
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from common import github_icon_link, rewrite_html_images, wiki_image_map
+from common import (
+    github_icon_link,
+    rewrite_html_images,
+    unwrap_broken_fragment_links,
+    wiki_image_map,
+    wiki_history_url,
+)
 from editorial import is_omitted_chapter, is_redirect_chapter
 from themes import THEMES, cover_html, fonts_dir, logos_dir, photo_credit_markdown, photos_dir, write_css_files
 from titles import geo_src_key
 from toc import enhance_html
 from ui_strings import ui_strings
+from wiki_contributors import MARKDOWN_SOURCE_RE, normalize_contributor_name
 from wiki_links import strip_interwiki_html
 
 
@@ -43,6 +50,7 @@ SOURCE_PARAGRAPH_RE = re.compile(
     r'(?P<text>https?://[^<\s]+))\s*</p>',
     re.I | re.S,
 )
+BIDI_MARKS = str.maketrans("", "", "\u200e\u200f\u202a\u202b\u202c\u202d\u202e")
 def compact_drupal_source_links(html_doc: str, slug: str) -> str:
     """Render Drupal source attributions as quiet canonical node links."""
     spec = DRUPAL_SOURCE_DUMPS.get(slug)
@@ -154,39 +162,124 @@ ATTRIBUTION_LABELS = {
         "contributors": "Contributors",
         "sources": "Sources and licence",
         "registered": "The wiki-derived chapters include work by these registered contributors, listed alphabetically:",
-        "anonymous": "Anonymous contributors are credited through the source-page histories linked from each imported chapter.",
+        "anonymous": "Anonymous contributors are credited through the revision histories linked in the chapter-source list below.",
         "credited": "This edition credits **{author}**.",
-        "source": "This edition was compiled from [{label}]({url}). Imported chapters retain links to their source pages and revision histories.",
+        "source": "This edition was compiled from [{label}]({url}). Source pages and revision histories for imported chapters are listed below.",
         "license": "The book metadata records the content licence as **{license}**.",
-        "images": "Photograph and illustration credits appear with their images; the cover-photo credit appears in the front matter.",
+        "images": "Photograph and illustration credits appear with their images and are consolidated below.",
+        "image_heading": "Image credits",
+        "cover_image": "Cover photograph",
+        "unknown_creator": "creator not recorded",
+        "unknown_license": "licence not recorded",
+        "chapter_sources": "Chapter sources",
+        "history": "revision history",
     },
     "nl": {
         "title": "Naamsvermelding",
         "contributors": "Bijdragers",
         "sources": "Bronnen en licentie",
         "registered": "De uit wiki's afkomstige hoofdstukken bevatten werk van deze geregistreerde bijdragers, alfabetisch gerangschikt:",
-        "anonymous": "Anonieme bijdragers worden vermeld via de paginageschiedenis waarnaar elk geïmporteerd hoofdstuk verwijst.",
+        "anonymous": "Anonieme bijdragers worden vermeld via de revisiegeschiedenissen in de bronnenlijst per hoofdstuk hieronder.",
         "credited": "Deze editie vermeldt **{author}**.",
-        "source": "Deze editie is samengesteld uit [{label}]({url}). Geïmporteerde hoofdstukken behouden links naar hun bronpagina's en revisiegeschiedenis.",
+        "source": "Deze editie is samengesteld uit [{label}]({url}). Bronpagina's en revisiegeschiedenissen van geïmporteerde hoofdstukken staan hieronder.",
         "license": "De metadata van het boek vermeldt **{license}** als inhoudslicentie.",
-        "images": "Credits voor foto's en illustraties staan bij de afbeeldingen; de credit voor de omslagfoto staat in het voorwerk.",
+        "images": "Credits voor foto's en illustraties staan bij de afbeeldingen en zijn hieronder samengebracht.",
+        "image_heading": "Beeldcredits",
+        "cover_image": "Omslagfoto",
+        "unknown_creator": "maker niet vermeld",
+        "unknown_license": "licentie niet vermeld",
+        "chapter_sources": "Bronnen per hoofdstuk",
+        "history": "revisiegeschiedenis",
     },
     "es": {
         "title": "Atribución",
         "contributors": "Colaboradores",
         "sources": "Fuentes y licencia",
         "registered": "Los capítulos procedentes de wikis incluyen el trabajo de estos colaboradores registrados, en orden alfabético:",
-        "anonymous": "Las contribuciones anónimas se reconocen mediante los historiales enlazados desde cada capítulo importado.",
+        "anonymous": "Las contribuciones anónimas se reconocen mediante los historiales enlazados en la lista de fuentes de los capítulos que figura a continuación.",
         "credited": "Esta edición acredita a **{author}**.",
-        "source": "Esta edición se compiló a partir de [{label}]({url}). Los capítulos importados conservan enlaces a sus páginas de origen e historiales de revisión.",
+        "source": "Esta edición se compiló a partir de [{label}]({url}). Las páginas de origen y los historiales de revisión de los capítulos importados se enumeran a continuación.",
         "license": "Los metadatos del libro indican **{license}** como licencia del contenido.",
-        "images": "Los créditos de fotografías e ilustraciones aparecen junto a las imágenes; el crédito de la portada figura en las páginas iniciales.",
+        "images": "Los créditos de fotografías e ilustraciones aparecen junto a las imágenes y se reúnen a continuación.",
+        "image_heading": "Créditos de imágenes",
+        "cover_image": "Fotografía de cubierta",
+        "unknown_creator": "autoría no registrada",
+        "unknown_license": "licencia no registrada",
+        "chapter_sources": "Fuentes de los capítulos",
+        "history": "historial de revisiones",
     },
 }
 
 
 def markdown_name(name: str) -> str:
     return re.sub(r"([\\`*_[\]<>])", r"\\\1", name)
+
+
+def image_attribution_markdown(book: Path, labels: dict[str, str]) -> str:
+    """Consolidate credits for cover art and locally published book images."""
+    credits: list[str] = []
+    photo = (THEMES.get(book.name) or {}).get("cover_photo") or {}
+    if photo:
+        caption = str(photo.get("caption") or labels["cover_image"])
+        page = str(photo.get("page") or "")
+        linked_caption = (
+            f"[{markdown_name(caption)}](<{page}>)" if page else markdown_name(caption)
+        )
+        author = markdown_name(str(photo.get("author") or labels["unknown_creator"]))
+        license_name = markdown_name(
+            str(photo.get("license") or labels["unknown_license"])
+        )
+        credits.append(
+            f'- **{labels["cover_image"]}:** {linked_caption} — {author} · {license_name}'
+        )
+
+    manifest = book / "images" / "images.json"
+    entries = json.loads(manifest.read_text(encoding="utf-8")) if manifest.exists() else []
+    seen: set[str] = set()
+    for entry in entries:
+        filename = str(entry.get("file") or "")
+        source = str(entry.get("source") or "")
+        if not filename or not source or not (book / "images" / filename).is_file():
+            continue
+        key = source.casefold()
+        if key in seen:
+            continue
+        seen.add(key)
+        source_name = unquote(urlparse(source).path.rsplit("/", 1)[-1]).strip()
+        source_name = source_name.translate(BIDI_MARKS).strip() or filename
+        author = markdown_name(str(entry.get("author") or labels["unknown_creator"]))
+        license_name = markdown_name(
+            str(entry.get("license") or labels["unknown_license"])
+        )
+        credits.append(
+            f"- [{markdown_name(source_name)}](<{source}>) — {author} · {license_name}"
+        )
+    if not credits:
+        return ""
+    return f'## {labels["image_heading"]}\n\n' + "\n".join(credits) + "\n"
+
+
+def chapter_source_markdown(chapters: list[Path], labels: dict[str, str]) -> str:
+    """Move generated per-chapter source notes into the Attribution chapter."""
+    sources: list[tuple[str, str]] = []
+    seen: set[str] = set()
+    for chapter in chapters:
+        text = chapter.read_text(encoding="utf-8")
+        for label, url in MARKDOWN_SOURCE_RE.findall(text):
+            if url.casefold() in seen:
+                continue
+            seen.add(url.casefold())
+            sources.append((label.strip(), url))
+    if not sources:
+        return ""
+    rendered: list[str] = []
+    for label, url in sources:
+        item = f"- [{markdown_name(label)}](<{url}>)"
+        if history := wiki_history_url(url):
+            item += f' — [{labels["history"]}](<{history}>)'
+        rendered.append(item)
+    items = "\n".join(rendered)
+    return f'## {labels["chapter_sources"]}\n\n{items}\n'
 
 
 def attribution_markdown(book: Path, meta: dict, chapters: list[Path]) -> str:
@@ -202,7 +295,14 @@ def attribution_markdown(book: Path, meta: dict, chapters: list[Path]) -> str:
         if manifest_path.exists()
         else {}
     )
-    contributors = manifest.get("contributors") or []
+    contributors = sorted(
+        {
+            normalized
+            for name in (manifest.get("contributors") or [])
+            if (normalized := normalize_contributor_name(str(name)))
+        },
+        key=lambda name: (name.casefold(), name),
+    )
 
     contributor_text = labels["credited"].format(author=author)
     if contributors:
@@ -224,10 +324,15 @@ def attribution_markdown(book: Path, meta: dict, chapters: list[Path]) -> str:
             "[original article](https://www.wikihow.com/Dumpster-Dive), "
             "via [Trashwiki](https://trashwiki.org/en/WikiHow); CC BY-NC-SA 3.0."
         )
+    image_credits = image_attribution_markdown(book, labels)
+    chapter_sources = chapter_source_markdown(chapters, labels)
     return (
         f'# {labels["title"]}\n\n'
         f'## {labels["contributors"]}\n\n{contributor_text}\n\n'
-        f'## {labels["sources"]}\n\n' + "\n\n".join(source_text) + "\n"
+        f'## {labels["sources"]}\n\n' + "\n\n".join(source_text) + "\n\n"
+        + chapter_sources
+        + "\n"
+        + image_credits
     )
 
 
@@ -244,6 +349,64 @@ def write_defaults(path: Path, spec: dict) -> None:
     path.write_text(yaml.safe_dump(spec, allow_unicode=True), encoding="utf-8")
 
 
+def write_image_filter(book: Path, work: Path) -> Path:
+    """Map available licensed images locally and discard unresolved image nodes."""
+    entries: dict[str, str] = {}
+    images = book / "images"
+    manifest = images / "images.json"
+    if manifest.exists():
+        for item in json.loads(manifest.read_text(encoding="utf-8")):
+            dest = str(item.get("file") or "")
+            target = images / dest
+            if not dest or not target.is_file():
+                continue
+            names = {dest}
+            source = str(item.get("source") or "")
+            if source:
+                raw_name = urlparse(source).path.rsplit("/", 1)[-1]
+                names.update({raw_name, unquote(raw_name), quote(unquote(raw_name))})
+            for name in names:
+                clean = name.translate(BIDI_MARKS).strip()
+                if clean:
+                    entries[clean] = str(target.resolve())
+                    entries[clean.casefold()] = str(target.resolve())
+
+    rows = "\n".join(
+        f"  [{json.dumps(name, ensure_ascii=False)}] = {json.dumps(path, ensure_ascii=False)},"
+        for name, path in sorted(entries.items())
+    )
+    path = work / "local-images.lua"
+    path.write_text(
+        "local images = {\n"
+        + rows
+        + "\n}\n\n"
+        + "function Image(image)\n"
+        + "  local src = image.src\n"
+        + "  for _, mark in ipairs({'\\226\\128\\142', '\\226\\128\\143', '\\226\\128\\170', '\\226\\128\\171', '\\226\\128\\172', '\\226\\128\\173', '\\226\\128\\174'}) do\n"
+        + "    src = src:gsub(mark, '')\n"
+        + "  end\n"
+        + "  local clean = src:gsub('[?#].*$', '')\n"
+        + "  local name = clean:match('([^/\\\\]+)$') or clean\n"
+        + "  local target = images[name] or images[string.lower(name)]\n"
+        + "  if not target then return {} end\n"
+        + "  image.src = target\n"
+        + "  return image\n"
+        + "end\n\n"
+        + "local function discard_raw_image(element)\n"
+        + "  if element.format:match('html') then\n"
+        + "    local text = string.lower(element.text)\n"
+        + "    if text:match('<img[%s>]') or text:match('<references[%s/>]') then\n"
+        + "      return {}\n"
+        + "    end\n"
+        + "  end\n"
+        + "end\n\n"
+        + "RawInline = discard_raw_image\n"
+        + "RawBlock = discard_raw_image\n",
+        encoding="utf-8",
+    )
+    return path
+
+
 def epub_theme_css(slug: str) -> str:
     t = THEMES.get(slug) or THEMES["hitchhikers-guide"]
     return (
@@ -252,6 +415,8 @@ def epub_theme_css(slug: str) -> str:
         f"a {{ color: {t['accent']}; }}\n"
         "img { max-width: 100%; height: auto; }\n"
         "figcaption { font-size: 0.85em; font-style: italic; }\n"
+        "#attribution ~ p, #attribution ~ ul, #attribution ~ ol { font-size: 0.9em; line-height: 1.45; }\n"
+        "#attribution ~ h2 { font-size: 1.2em; }\n"
     )
 
 
@@ -341,13 +506,19 @@ def build(slug: str, version: str, formats: list[str], out: Path) -> None:
         credit_path.write_text(credit_md, encoding="utf-8")
         inputs = [str(credit_path), *inputs]
     resource = [str(book), str(book / "src"), str(book / "images"), str(html_dir)]
+    image_filter = write_image_filter(book, work)
     base = {
         "from": "markdown",
+        "file-scope": True,
         "toc": True,
         "toc-depth": 2,
         "metadata-file": str(meta_out),
         "resource-path": resource,
         "input-files": inputs,
+        "filters": [
+            str(image_filter),
+            str(ROOT / "scripts" / "remove_chapter_footers.lua"),
+        ],
     }
     if "html" in formats:
         defaults = work / "html.yaml"
@@ -397,7 +568,9 @@ def build(slug: str, version: str, formats: list[str], out: Path) -> None:
                 1,
             )
             html = re.sub(r"(?:\.\./)+images/", "images/", html)
-            html = rewrite_html_images(html, wiki_image_map(book / "images"))
+            html = rewrite_html_images(
+                html, wiki_image_map(book / "images"), image_root=html_dir
+            )
             html = strip_interwiki_html(html)
             html = compact_drupal_source_links(html, slug)
             html = enhance_html(
@@ -407,6 +580,7 @@ def build(slug: str, version: str, formats: list[str], out: Path) -> None:
                 lang,
                 drupal_source_manifest(book),
             )
+            html = unwrap_broken_fragment_links(html)
             index.write_text(html, encoding="utf-8")
     stem = f"{slug}-{version}"
     if "epub" in formats:

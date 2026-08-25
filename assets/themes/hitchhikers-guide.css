@@ -64,6 +64,13 @@ body.book-hitchhikers-guide .cover-title {
 }
 body.book-hitchhikers-guide h1 { font-size: 2.15rem; margin: 2.4rem 0 0.8rem; }
 body.book-hitchhikers-guide h2 { font-size: 1.45rem; margin-top: 2rem; }
+body.book-hitchhikers-guide .book-body > #attribution ~ p,
+body.book-hitchhikers-guide .book-body > #attribution ~ ul,
+body.book-hitchhikers-guide .book-body > #attribution ~ ol {
+  font-size: 0.9rem;
+  line-height: 1.45;
+}
+body.book-hitchhikers-guide .book-body > #attribution ~ h2 { font-size: 1.25rem; }
 body.book-hitchhikers-guide a { color: var(--accent); }
 body.book-hitchhikers-guide hr { border: 0; border-top: 1px solid var(--rule); }
 body.book-hitchhikers-guide .chapter-heading {
@@ -118,6 +125,20 @@ body.book-hitchhikers-guide table {
 }
 body.book-hitchhikers-guide th,
 body.book-hitchhikers-guide td { overflow-wrap: anywhere; }
+@media print {
+  body.book-hitchhikers-guide { font-size: 0.92rem; line-height: 1.48; }
+  body.book-hitchhikers-guide h1 { font-size: 1.85rem; }
+  body.book-hitchhikers-guide h2 { font-size: 1.25rem; }
+  body.book-hitchhikers-guide h1 + p::first-letter {
+    float: none;
+    font: inherit;
+    padding: 0;
+    color: inherit;
+  }
+  body.book-hitchhikers-guide .book-body > #attribution ~ p,
+  body.book-hitchhikers-guide .book-body > #attribution ~ ul,
+  body.book-hitchhikers-guide .book-body > #attribution ~ ol { font-size: 0.8rem; line-height: 1.38; }
+}
 body.book-hitchhikers-guide #title-block-header { display: none; }
 body.book-hitchhikers-guide .visually-hidden {
   position: absolute;
@@ -534,7 +555,20 @@ body.book-hitchhikers-guide .photo-credit {
 }
 
 @media print {
-  body.book-hitchhikers-guide { max-width: none; background: white; display: block; }
+  @page { margin: 1.4cm; }
+  @page:first { margin: 0; }
+  body.book-hitchhikers-guide {
+    max-width: none;
+    background: white;
+    display: block;
+    padding: 0;
+  }
+  body.book-hitchhikers-guide h1 + p::first-letter {
+    float: none;
+    font: inherit;
+    padding: 0;
+    color: inherit;
+  }
   body.book-hitchhikers-guide .book-banner,
   body.book-hitchhikers-guide .toc-jump,
   body.book-hitchhikers-guide .chapter-edit,
@@ -550,6 +584,8 @@ body.book-hitchhikers-guide .photo-credit {
     margin: 0 0 2rem;
   }
   body.book-hitchhikers-guide .cover-page {
+    width: 100%;
+    height: 100vh;
     min-height: 100vh;
     break-after: page;
     margin: 0;

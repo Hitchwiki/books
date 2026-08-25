@@ -651,6 +651,13 @@ body.book-{slug} .cover-title {{
 }}
 body.book-{slug} h1 {{ font-size: 2.15rem; margin: 2.4rem 0 0.8rem; }}
 body.book-{slug} h2 {{ font-size: 1.45rem; margin-top: 2rem; }}
+body.book-{slug} .book-body > #attribution ~ p,
+body.book-{slug} .book-body > #attribution ~ ul,
+body.book-{slug} .book-body > #attribution ~ ol {{
+  font-size: 0.9rem;
+  line-height: 1.45;
+}}
+body.book-{slug} .book-body > #attribution ~ h2 {{ font-size: 1.25rem; }}
 body.book-{slug} a {{ color: var(--accent); }}
 body.book-{slug} hr {{ border: 0; border-top: 1px solid var(--rule); }}
 body.book-{slug} .chapter-heading {{
@@ -705,6 +712,20 @@ body.book-{slug} table {{
 }}
 body.book-{slug} th,
 body.book-{slug} td {{ overflow-wrap: anywhere; }}
+@media print {{
+  body.book-{slug} {{ font-size: 0.92rem; line-height: 1.48; }}
+  body.book-{slug} h1 {{ font-size: 1.85rem; }}
+  body.book-{slug} h2 {{ font-size: 1.25rem; }}
+  body.book-{slug} h1 + p::first-letter {{
+    float: none;
+    font: inherit;
+    padding: 0;
+    color: inherit;
+  }}
+  body.book-{slug} .book-body > #attribution ~ p,
+  body.book-{slug} .book-body > #attribution ~ ul,
+  body.book-{slug} .book-body > #attribution ~ ol {{ font-size: 0.8rem; line-height: 1.38; }}
+}}
 body.book-{slug} #title-block-header {{ display: none; }}
 body.book-{slug} .visually-hidden {{
   position: absolute;
@@ -1077,7 +1098,20 @@ body.book-{slug} .cover-foot {{
 }}
 {photo_css}
 @media print {{
-  body.book-{slug} {{ max-width: none; background: white; display: block; }}
+  @page {{ margin: 1.4cm; }}
+  @page:first {{ margin: 0; }}
+  body.book-{slug} {{
+    max-width: none;
+    background: white;
+    display: block;
+    padding: 0;
+  }}
+  body.book-{slug} h1 + p::first-letter {{
+    float: none;
+    font: inherit;
+    padding: 0;
+    color: inherit;
+  }}
   body.book-{slug} .book-banner,
   body.book-{slug} .toc-jump,
   body.book-{slug} .chapter-edit,
@@ -1093,6 +1127,8 @@ body.book-{slug} .cover-foot {{
     margin: 0 0 2rem;
   }}
   body.book-{slug} .cover-page {{
+    width: 100%;
+    height: 100vh;
     min-height: 100vh;
     break-after: page;
     margin: 0;

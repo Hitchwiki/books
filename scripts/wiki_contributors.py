@@ -8,6 +8,7 @@ import gzip
 import json
 import re
 import sys
+import unicodedata
 import xml.etree.ElementTree as ET
 from pathlib import Path
 from urllib.parse import unquote, urlparse
@@ -19,7 +20,7 @@ from titles import WIKIS
 
 
 MARKDOWN_SOURCE_RE = re.compile(
-    r"^Source:\s*\[([^]]+)\]\((https?://[^)]+)\)", re.I | re.M
+    r"^Source:\s*\[([^]]+)\]\((https?://.+)\)\s*$", re.I | re.M
 )
 
 FULL_XML_DUMPS = {
@@ -40,6 +41,22 @@ REVISION_ROW_RE = re.compile(r"\((\d+),(\d+),(\d+),(\d+),")
 
 def contributor_sort_key(name: str) -> tuple[str, str]:
     return (name.casefold(), name)
+
+
+def normalize_contributor_name(name: str) -> str:
+    """Repair legacy dump artefacts without changing ordinary usernames."""
+    value = re.sub(r"^unknown>", "", name.strip(), flags=re.I)
+    value = "".join(
+        char for char in value if unicodedata.category(char) != "Cc" or char in "\t\n"
+    ).strip()
+    if any(marker in value for marker in ("Ã", "Â", "â€", "ðŸ")):
+        try:
+            repaired = value.encode("latin-1").decode("utf-8")
+            if repaired:
+                value = repaired
+        except (UnicodeEncodeError, UnicodeDecodeError):
+            pass
+    return unicodedata.normalize("NFC", value)
 
 
 def source_titles(book: Path, origin: str) -> list[str]:
@@ -95,7 +112,7 @@ def xml_contributors(path: Path, titles: list[str]) -> tuple[list[str], bool]:
                         "",
                     ).strip()
                     if username:
-                        names.add(username)
+                        names.add(normalize_contributor_name(username))
                     elif any(local_name(child.tag) == "ip" for child in contributor):
                         has_anonymous = True
             page.clear()
@@ -143,7 +160,8 @@ def trashwiki_contributors(path: Path, titles: list[str]) -> tuple[list[str], bo
         name
         for actor_id in revision_actors
         if actor_id in actors
-        for user_id, name in [actors[actor_id]]
+        for user_id, raw_name in [actors[actor_id]]
+        for name in [normalize_contributor_name(raw_name)]
         if user_id is not None and name
     }
     has_anonymous = any(

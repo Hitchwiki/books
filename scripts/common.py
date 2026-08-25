@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import datetime as dt
+from html import unescape as html_unescape
 import json
 import re
 import time
@@ -53,7 +54,7 @@ def wiki_image_map(images_dir: Path) -> dict[str, str]:
         return mapping
     for entry in json.loads(manifest.read_text(encoding="utf-8")):
         dest = entry.get("file") or ""
-        if not dest:
+        if not dest or not (images_dir / dest).is_file():
             continue
         rel = f"images/{dest}"
         names = {dest}
@@ -64,12 +65,19 @@ def wiki_image_map(images_dir: Path) -> dict[str, str]:
             name = name.strip().strip("\u200e\u200f")
             if not name:
                 continue
-            mapping[name] = rel
-            mapping[name.replace(" ", "_")] = rel
+            mapping[name.casefold()] = rel
+            mapping[name.replace(" ", "_").casefold()] = rel
     return mapping
 
 
 _IMG_SRC = re.compile(r'(<img\b)([^>]*?\bsrc=")([^"]+)(")', re.I | re.S)
+_FIGURE = re.compile(r"<figure\b[^>]*>.*?</figure>", re.I | re.S)
+_FRAGMENT_LINK = re.compile(
+    r'<a\b(?P<attrs>[^>]*\bhref="#(?P<target>[^"]+)"[^>]*)>(?P<body>.*?)</a>',
+    re.I | re.S,
+)
+_ANCHOR_ID = re.compile(r'\b(?:id|name)="([^"]+)"', re.I)
+_BIDI = str.maketrans("", "", "\u200e\u200f\u202a\u202b\u202c\u202d\u202e")
 
 _WIKI_HOSTS = {
     "hitchwiki.org",
@@ -79,18 +87,63 @@ _WIKI_HOSTS = {
 }
 
 
-def rewrite_html_images(html: str, mapping: dict[str, str]) -> str:
+def rewrite_html_images(
+    html: str, mapping: dict[str, str], image_root: Path | None = None
+) -> str:
+    """Rewrite imported wiki images and discard unavailable local references."""
+
     def repl(m: re.Match[str]) -> str:
         start, mid, src, end = m.group(1), m.group(2), m.group(3), m.group(4)
-        name = Path(unquote(src)).name.strip().strip("\u200e\u200f")
-        target = mapping.get(name) or mapping.get(name.replace(" ", "_"))
+        parsed = urlparse(html_unescape(src))
+        clean_path = unquote(parsed.path).translate(_BIDI)
+        name = Path(clean_path).name.strip()
+        target = mapping.get(name.casefold()) or mapping.get(
+            name.replace(" ", "_").casefold()
+        )
+        if target is None and image_root is not None and parsed.scheme in {"http", "https"}:
+            # Published books must not depend on remote images that may vanish,
+            # redirect, or block the PDF renderer. Imported images are kept only
+            # when their manifest maps them to a local, licensed copy.
+            return ""
+        if target is None and image_root is not None and not parsed.scheme and not parsed.netloc:
+            # Pandoc leaves every inline wiki filename in the HTML, while the
+            # importer deliberately downloads only a curated subset. Avoid
+            # handing those nonexistent paths to browsers and WeasyPrint.
+            candidate = (
+                image_root.parent / clean_path.lstrip("/")
+                if clean_path.startswith("/")
+                else image_root / clean_path
+            )
+            if not candidate.resolve().is_file():
+                return ""
         src_out = target or src
         attrs = start + mid
         if "loading=" not in attrs.lower():
             attrs = attrs.replace("<img", '<img loading="lazy" decoding="async"', 1)
         return f"{attrs}{src_out}{end}"
 
-    return _IMG_SRC.sub(repl, html)
+    def rewrite_figure(m: re.Match[str]) -> str:
+        fragment = m.group(0)
+        if not _IMG_SRC.search(fragment):
+            return fragment
+        rewritten = _IMG_SRC.sub(repl, fragment)
+        return rewritten if _IMG_SRC.search(rewritten) else ""
+
+    return _IMG_SRC.sub(repl, _FIGURE.sub(rewrite_figure, html))
+
+
+def unwrap_broken_fragment_links(html: str) -> str:
+    """Keep link text but remove fragment links whose destination is absent."""
+    anchors = {html_unescape(value) for value in _ANCHOR_ID.findall(html)}
+
+    def replace(match: re.Match[str]) -> str:
+        return (
+            match.group(0)
+            if html_unescape(match.group("target")) in anchors
+            else match.group("body")
+        )
+
+    return _FRAGMENT_LINK.sub(replace, html)
 
 
 def wiki_edit_url(url: str) -> str | None:
@@ -105,6 +158,12 @@ def wiki_edit_url(url: str) -> str | None:
     else:
         query = f"{query}&action=edit" if query else "action=edit"
     return parsed._replace(query=query, fragment="").geturl()
+
+
+def wiki_history_url(url: str) -> str | None:
+    """Return the revision-history URL for a compiled MediaWiki page."""
+    edit = wiki_edit_url(url)
+    return edit.replace("action=edit", "action=history") if edit else None
 
 
 def get(url: str, *, timeout: int = 60, retries: int = 4, **kwargs) -> requests.Response:

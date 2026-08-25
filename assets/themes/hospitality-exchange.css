@@ -64,6 +64,13 @@ body.book-hospitality-exchange .cover-title {
 }
 body.book-hospitality-exchange h1 { font-size: 2.15rem; margin: 2.4rem 0 0.8rem; }
 body.book-hospitality-exchange h2 { font-size: 1.45rem; margin-top: 2rem; }
+body.book-hospitality-exchange .book-body > #attribution ~ p,
+body.book-hospitality-exchange .book-body > #attribution ~ ul,
+body.book-hospitality-exchange .book-body > #attribution ~ ol {
+  font-size: 0.9rem;
+  line-height: 1.45;
+}
+body.book-hospitality-exchange .book-body > #attribution ~ h2 { font-size: 1.25rem; }
 body.book-hospitality-exchange a { color: var(--accent); }
 body.book-hospitality-exchange hr { border: 0; border-top: 1px solid var(--rule); }
 body.book-hospitality-exchange .chapter-heading {
@@ -118,6 +125,20 @@ body.book-hospitality-exchange table {
 }
 body.book-hospitality-exchange th,
 body.book-hospitality-exchange td { overflow-wrap: anywhere; }
+@media print {
+  body.book-hospitality-exchange { font-size: 0.92rem; line-height: 1.48; }
+  body.book-hospitality-exchange h1 { font-size: 1.85rem; }
+  body.book-hospitality-exchange h2 { font-size: 1.25rem; }
+  body.book-hospitality-exchange h1 + p::first-letter {
+    float: none;
+    font: inherit;
+    padding: 0;
+    color: inherit;
+  }
+  body.book-hospitality-exchange .book-body > #attribution ~ p,
+  body.book-hospitality-exchange .book-body > #attribution ~ ul,
+  body.book-hospitality-exchange .book-body > #attribution ~ ol { font-size: 0.8rem; line-height: 1.38; }
+}
 body.book-hospitality-exchange #title-block-header { display: none; }
 body.book-hospitality-exchange .visually-hidden {
   position: absolute;
@@ -526,7 +547,20 @@ body.book-hospitality-exchange .photo-credit {
 }
 
 @media print {
-  body.book-hospitality-exchange { max-width: none; background: white; display: block; }
+  @page { margin: 1.4cm; }
+  @page:first { margin: 0; }
+  body.book-hospitality-exchange {
+    max-width: none;
+    background: white;
+    display: block;
+    padding: 0;
+  }
+  body.book-hospitality-exchange h1 + p::first-letter {
+    float: none;
+    font: inherit;
+    padding: 0;
+    color: inherit;
+  }
   body.book-hospitality-exchange .book-banner,
   body.book-hospitality-exchange .toc-jump,
   body.book-hospitality-exchange .chapter-edit,
@@ -542,6 +576,8 @@ body.book-hospitality-exchange .photo-credit {
     margin: 0 0 2rem;
   }
   body.book-hospitality-exchange .cover-page {
+    width: 100%;
+    height: 100vh;
     min-height: 100vh;
     break-after: page;
     margin: 0;
