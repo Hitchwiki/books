@@ -2,3 +2,22 @@
 # You can also put <!-- editorial:omit --> in the chapter.
 Hitchhiking news and news archive
 01-practice/hitchhiking-news-and-news-archive.md
+
+# Pre-existing 1974 book: web republication was permitted, but no CC grant for
+# the underlying text or cartoons has been documented. Keep the whole series
+# out of this CC-BY-SA compilation even if its wiki categories change.
+Hitch-Hiking by Mario Rinvolucri
+Hitch-Hiking by Mario Rinvolucri/Introduction
+Hitch-Hiking by Mario Rinvolucri/chapter-1
+Hitch-Hiking by Mario Rinvolucri/chapter-2
+Hitch-Hiking by Mario Rinvolucri/chapter-3
+Hitch-Hiking by Mario Rinvolucri/chapter-4
+Hitch-Hiking by Mario Rinvolucri/chapter-5
+Hitch-Hiking by Mario Rinvolucri/chapter-6
+Hitch-Hiking by Mario Rinvolucri/chapter-7
+Hitch-Hiking by Mario Rinvolucri/chapter-8
+Hitch-Hiking by Mario Rinvolucri/chapter-9
+Hitch-Hiking by Mario Rinvolucri/chapter-10
+Hitch-Hiking by Mario Rinvolucri/chapter-11
+Hitch-Hiking by Mario Rinvolucri/appendix-1
+Hitch-Hiking by Mario Rinvolucri/appendix-2

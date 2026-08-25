@@ -27,7 +27,17 @@ WIKIS = {
         "part_howto": "01-practice",
         "part_country": "02-countries",
         "part_city": "03-cities",
-        "skip_title_prefixes": ("User:", "Talk:", "File:", "Template:", "Category:", "Hitchwiki:"),
+        "skip_title_prefixes": (
+            "User:",
+            "Talk:",
+            "File:",
+            "Template:",
+            "Category:",
+            "Hitchwiki:",
+            # A 1974 book reproduced online with the author's permission.
+            # No CC grant for the underlying work has been documented.
+            "Hitch-Hiking by Mario Rinvolucri",
+        ),
         "skip_titles": (
             "Hitchhiking news and news archive",
         ),
