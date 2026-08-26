@@ -16,7 +16,7 @@ Probably for most hosts a request like this won\'t do it. So for those, who have
 
 - Make your request as specific as possible, i. e. provide dates and length of stay (or at least explain, if you can\'t). Unlike the travelling guest hosts live there usual allday lifes and are busy with their regular schedule and social life. So accepting a guest means planing around the daily routine, this is much more easy if hosts know what to plan for.
 - Special needs (handicaps, special diet, allegies)? Be clear about this. Also check out your potential hosts profile about this.
-- What are your interests? It\'s a difference, to get wasted in the most fancy techno clubs, to have at tight schedule to visit all the historical museums, to be in town for a research, to whatever \...
+- What are your interests? It\'s a difference, to get wasted in the most fancy techno clubs, to have at tight schedule to visit all the historical museums, to be in town for a research, to whatever\...
 
 ### Choice of host {#choice_of_host}
 
@@ -30,7 +30,8 @@ Probably for most hosts a request like this won\'t do it. So for those, who have
 
 
 
+
 ---
 
-Source: [How to write a request](https://wiki.trustroots.org/en/How_to_write_a_request)
+Source: [How to write a request](https://wiki.trustroots.org/en/How_to_write_a_request)  
 License: CC-BY-SA-4.0

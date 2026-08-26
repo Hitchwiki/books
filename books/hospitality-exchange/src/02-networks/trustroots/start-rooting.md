@@ -103,7 +103,8 @@ This whole platform is designed and maintained by volunteers. You can be a part 
 
 
 
+
 ---
 
-Source: [Start Rooting](https://wiki.trustroots.org/en/Start_Rooting)
+Source: [Start Rooting](https://wiki.trustroots.org/en/Start_Rooting)  
 License: CC-BY-SA-4.0

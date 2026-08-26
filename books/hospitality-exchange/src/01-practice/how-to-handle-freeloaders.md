@@ -47,7 +47,8 @@ There are quite a few people who live completely without money, or with very lit
 
 
 
+
 ---
 
-Source: [How to handle freeloaders](https://wiki.trustroots.org/en/How_to_handle_freeloaders)
+Source: [How to handle freeloaders](https://wiki.trustroots.org/en/How_to_handle_freeloaders)  
 License: CC-BY-SA-4.0

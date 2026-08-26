@@ -5,6 +5,7 @@ Local copies of marks used on the related websites. Displayed to identify each b
 | File | Source | Notes |
 | --- | --- | --- |
 | `hitchhikers-guide.png` | [hitchwiki.org](https://hitchwiki.org/) wiki logo (`/en/images/logo.png`) | Same yellow hitchhiker as [hitchwiki-graphics](https://github.com/Hitchwiki/hitchwiki-graphics) (CC BY-SA 4.0, Mikael Korpela) |
+| `hitchwiki-wordmark.png` | Crop of `hitchwiki-2015.png` for the catalog masthead | Same Hitchwiki artwork and CC BY-SA 4.0 attribution; hand motif excluded |
 | `dumpster-diving.png` | [trashwiki.org](https://trashwiki.org/branding/trashwiki/logo.png) | Trasher / dumpster mark |
 | `random-roads.png` | [randomroads.org](https://randomroads.org/sites/randomroads.org/files/randomroads_hitchhiking_magazine_1_0_1.png) | Site header wordmark |
 | `dumpsterdam.png` | Dumpsterdam header uses the same Trasher as Trashwiki | Small stamp on the Dumpsterdam cover only; Dumpster Diving keeps the large mark |

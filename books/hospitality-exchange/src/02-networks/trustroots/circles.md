@@ -6,7 +6,8 @@ Joining a [circle](https://www.trustroots.org/circles/) is easy. Just go the \[c
 
 
 
+
 ---
 
-Source: [Circles](https://wiki.trustroots.org/en/Circles)
+Source: [Circles](https://wiki.trustroots.org/en/Circles)  
 License: CC-BY-SA-4.0

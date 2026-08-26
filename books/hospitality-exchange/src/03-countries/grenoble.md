@@ -74,7 +74,7 @@ NB: when you create an event, make sure to include a link to the dedicated CS th
 
 ### Previous meetings {#previous_meetings}
 
-**15 March 2008 - 14:00**![](CS_Gre_meeting_canap_2008.jpeg "CS_Gre_meeting_canap_2008.jpeg") A COUCH IN THE CITY, SEVERAL COUCHSURFERS AND A GOOD DOSE OF FUN! The CS group of Grenoble propose a \"sofa promenade \" through the city and to take pictures in typical places of Grenoble \... Before concluding with a regional Couchsurfing big fiesta! During this day, also the realization of a video film, a photo essay and plenty of other surprises! Subscribe quickly on this meeting by clicking on the link and \"Join the meeting\"!
+**15 March 2008 - 14:00**![](CS_Gre_meeting_canap_2008.jpeg "CS_Gre_meeting_canap_2008.jpeg") A COUCH IN THE CITY, SEVERAL COUCHSURFERS AND A GOOD DOSE OF FUN! The CS group of Grenoble propose a \"sofa promenade \" through the city and to take pictures in typical places of Grenoble\... Before concluding with a regional Couchsurfing big fiesta! During this day, also the realization of a video film, a photo essay and plenty of other surprises! Subscribe quickly on this meeting by clicking on the link and \"Join the meeting\"!
 
 ------------------------------------------------------------------------
 
@@ -160,7 +160,7 @@ First meeting of the year in the famous bar\...
 
 **For a sub-meeting of an existing parent meeting:**
 
-a\. In the web adress of the existing meeting, find the \"meeting ID\" (e.g: couchsurfing.org/meetings.html?mid=94807 \...meetings.html?mid=**94807** -\> 94807)
+a\. In the web adress of the existing meeting, find the \"meeting ID\" (e.g: couchsurfing.org/meetings.html?mid=94807\...meetings.html?mid=**94807** -\> 94807)
 
 b\. Start on couchsurfing.org/meetings.html?newsubmeeting=94807 meetings.html?newsubmeeting=94807 with the parent meeting ID (94807). The form is then auto-filled with the parent meeting data.
 
@@ -172,19 +172,19 @@ c\. The rest is all the same: see step 2 above.
 
 **Weekly meetings: example of description** for the meeting page, and to post on the group:
 
-`Hi !`\
-\
-`Next wednesday, our Grenoble CS meeting will take place at ......`\
-`Here are the `**`address and directions`**` : .....`\
-`The `**`weekly theme`**` is : ...`*`You can choose an original theme`*`...`\
-\
-**`Meeting link`**` : couchsurfing.org/meetings.html?mid=....`\
-`Please, do subscribe before coming ! It is not mandatory but very handy to keep in touch afterwards.`\
-`Hope to find you there next Wedensday ;-)`\
-\
-**`NEW CSers`**`: If you just arrived on CS, do not hesitate to join us for questions about CS, to meet the community of Grenoble, and above all, `\
-`to spend some good time :-) `\
-\
+`Hi!`
+
+`Next wednesday, our Grenoble CS meeting will take place at......`\
+`Here are the `**`address and directions`**`:.....`\
+`The `**`weekly theme`**` is:...`*`You can choose an original theme`*`...`
+
+**`Meeting link`**`: couchsurfing.org/meetings.html?mid=....`\
+`Please, do subscribe before coming! It is not mandatory but very handy to keep in touch afterwards.`\
+`Hope to find you there next Wedensday;-)`
+
+**`NEW CSers`**`: If you just arrived on CS, do not hesitate to join us for questions about CS, to meet the community of Grenoble, and above all,`\
+`to spend some good time:-)`
+
 **`ORIGIN OF THIS MEETING`**`: This meeting was originally on tuesdays (based on answers to a survey in September 2010), it then moved to wednesday picnics`\
 `in Park Mistral, to take advantage of the free open-air movies in that park.`
 
@@ -413,7 +413,7 @@ Read couchsurfing.org/n/threads/grenoble-rhone-alpes-france-salut-je-viens-de-re
 
 And contact couchsurfing.org/profile.html?id=HBX8MT0 Arthur or couchsurfing.org/profile.html?id=4CGY12F Miguel for weekly live concerts at their homes.
 
-**[Grenoble music: the very best of](Grenoble_music_:_the_very_best_of "Grenoble music: the very best of"){.wikilink}** This CS local project aims to create a music compilation of the most famous (or the best-but-not-famous) music bands from Grenoble. (Started on 16/06/11)
+**[Grenoble music: the very best of](Grenoble_music:_the_very_best_of "Grenoble music: the very best of"){.wikilink}** This CS local project aims to create a music compilation of the most famous (or the best-but-not-famous) music bands from Grenoble. (Started on 16/06/11)
 
 For all cultural events, check out [the Petit Bulletin](http://www.petit-bulletin.fr/index2.php?idvillepb=grenoble) (free weekly newspaper).
 
@@ -473,7 +473,7 @@ For all cultural events, check out [the Petit Bulletin](http://www.petit-bulleti
 
      - [Musique au Parc](http://bonnet.marielaure.free.fr/) (Bourg de Péage)
 
-     - \...
+     -\...
 
 - Movies:
 
@@ -487,7 +487,7 @@ For all cultural events, check out [the Petit Bulletin](http://www.petit-bulleti
 - [Nuts from Grenoble](http://www.saveursdumonde.net/produits/fruits/noix-de-grenoble/)
 - [Gratin dauphinois](http://learningfrenchcuisine.com/potatoes-gratin/)
 - [Ravioles from the dauphiné](http://mathildeencuisine.over-blog.com/article-ravioles-du-dauphine-49879236.html)
-- Tasty cheeses ([Saint Marcellin](http://fr.wikipedia.org/wiki/Saint-marcellin), [Bleu de Sassenage](http://fr.wikipedia.org/wiki/Bleu_du_Vercors-Sassenage), \...)
+- Tasty cheeses ([Saint Marcellin](http://fr.wikipedia.org/wiki/Saint-marcellin), [Bleu de Sassenage](http://fr.wikipedia.org/wiki/Bleu_du_Vercors-Sassenage),\...)
 - ([and much more\...](http://fr.wikipedia.org/wiki/Dauphin%C3%A9#Gastronomie))
 
 ### Nightlife
@@ -1012,9 +1012,10 @@ And read this [Guide Wiki CS (Fr)](Le_Guide_Wiki_CS "Guide Wiki CS (Fr)"){.wikil
 
 [Read here](Customize_Your_Profile "Read here"){.wikilink}.
 
- 
+
+
 
 ---
 
-Source: [Grenoble](https://wiki.trustroots.org/en/Grenoble)
+Source: [Grenoble](https://wiki.trustroots.org/en/Grenoble)  
 License: CC-BY-SA-4.0

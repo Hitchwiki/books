@@ -30,7 +30,8 @@ No matter what, stay calm and be correct. Make the best of it yourself. Unless t
 
 
 
+
 ---
 
-Source: [How to handle Couchscroogers](https://wiki.trustroots.org/en/How_to_handle_Couchscroogers)
+Source: [How to handle Couchscroogers](https://wiki.trustroots.org/en/How_to_handle_Couchscroogers)  
 License: CC-BY-SA-4.0

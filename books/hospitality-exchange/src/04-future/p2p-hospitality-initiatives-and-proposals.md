@@ -34,7 +34,8 @@ Some non-technical areas to explore are:
 
 
 
+
 ---
 
-Source: [P2P Hospitality initiatives and proposals](https://wiki.trustroots.org/en/P2P_Hospitality_initiatives_and_proposals)
+Source: [P2P Hospitality initiatives and proposals](https://wiki.trustroots.org/en/P2P_Hospitality_initiatives_and_proposals)  
 License: CC-BY-SA-4.0

@@ -30,9 +30,9 @@ to be added.
 
 ## Emergency List {#emergency_list}
 
-**`Portugal uses the general European Emergency Number 112. This number can be dialed from any landline or mobile in order to reach the emergency services (ambulances, fire-fighters and police).`**` `
+**`Portugal uses the general European Emergency Number 112. This number can be dialed from any landline or mobile in order to reach the emergency services (ambulances, fire-fighters and police).`**
 
-**`Portugal usa o Número Europeu de Emergência 112. Este número pode ser ligado a partir de qualquer linha fixa ou telemóvel para contactar os serviços de emergência (ambulâncias, bombeiros e polícia).`**` `
+**`Portugal usa o Número Europeu de Emergência 112. Este número pode ser ligado a partir de qualquer linha fixa ou telemóvel para contactar os serviços de emergência (ambulâncias, bombeiros e polícia).`**
 
 ### Forest Fires {#forest_fires}
 
@@ -208,9 +208,10 @@ Portugal does not recognize Spanish sovereignty over the territory of Olivenza b
 
 This data was collected on <https://www.cia.gov/cia/publications/factbook/geos/po.html>
 
- 
+
+
 
 ---
 
-Source: [Portugal](https://wiki.trustroots.org/en/Portugal)
+Source: [Portugal](https://wiki.trustroots.org/en/Portugal)  
 License: CC-BY-SA-4.0

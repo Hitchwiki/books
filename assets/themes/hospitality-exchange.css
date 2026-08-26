@@ -536,7 +536,7 @@ body.book-hospitality-exchange .cover-page.cover-has-photo::before {
     linear-gradient(to top, #2c2824 8%, #2c2824d8 32%, #2c282400 62%),
     url("covers/photo.jpg");
   background-size: cover, cover;
-  background-position: bottom, 45% center;
+  background-position: bottom, 52% center;
   background-repeat: no-repeat;
   pointer-events: none;
 }

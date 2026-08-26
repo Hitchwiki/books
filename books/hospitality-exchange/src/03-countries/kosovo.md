@@ -72,7 +72,7 @@ International Presence UN, NATO-KFOR, OSCE, EU
 
 Landline (free) \--\> 92 Police, 93 Fire Department, 94 Medical Assistance. This call service is available for free at every phone booth of PTK (Telecom Kosova)
 
-Bank ATM\'s available: ProCredit, Raiffeisen, NLB \...
+Bank ATM\'s available: ProCredit, Raiffeisen, NLB\...
 
 Other: Western Union, MoneyGram, Fedex, TNT,
 
@@ -168,7 +168,8 @@ couchsurfing.com/group.html?gid=8608
 
 
 
+
 ---
 
-Source: [Kosovo](https://wiki.trustroots.org/en/Kosovo)
+Source: [Kosovo](https://wiki.trustroots.org/en/Kosovo)  
 License: CC-BY-SA-4.0

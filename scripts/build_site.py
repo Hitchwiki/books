@@ -94,9 +94,9 @@ def main() -> None:
             shutil.copy2(ttf, font_dest / ttf.name)
     logos_dest = assets / "logos"
     logos_dest.mkdir(exist_ok=True)
-    masthead_logo = ROOT / "assets" / "logos" / "hitchhikers-guide.png"
+    masthead_logo = ROOT / "assets" / "logos" / "hitchwiki-wordmark.png"
     if masthead_logo.exists():
-        shutil.copy2(masthead_logo, logos_dest / "hitchhikers-guide.png")
+        shutil.copy2(masthead_logo, logos_dest / "hitchwiki-wordmark.png")
 
     def card_html(slug: str) -> str:
         meta_path = ROOT / "books" / slug / "metadata.yaml"
@@ -175,7 +175,7 @@ def main() -> None:
 </head>
 <body class="catalog">
   <header>
-    <h1><span class="masthead-logo"><img src="./assets/logos/hitchhikers-guide.png?v={version}" alt="Hitchwiki" width="144" height="152"></span><span class="masthead-title">BOOKS</span><span class="masthead-version">0.1</span></h1>
+    <h1><span class="masthead-logo"><img src="./assets/logos/hitchwiki-wordmark.png?v={version}" alt="Hitchwiki" width="1050" height="275"></span><span class="masthead-title">BOOKS</span><span class="masthead-version">0.1</span></h1>
   </header>
 {chr(10).join(sections)}
   <section id="nostr-action" class="nostr-action" hidden>

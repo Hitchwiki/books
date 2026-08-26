@@ -12,7 +12,7 @@ Most networks have their own [FAQ](https://en.wikipedia.org/wiki/Faq), make sure
 
 - [Writing your host at BeWelcome Wiki](https://www.bewelcome.org/wiki/Writing_your_host)
 - [CouchRequest tips at Couchsurfing](https://support.couchsurfing.org/hc/en-us/articles/200640010-How-do-I-write-a-good-couch-request-)
-- add more \... (alphabetical order)
+- add more\... (alphabetical order)
 
 ## How to write a couchsurfing request in other Languages {#how_to_write_a_couchsurfing_request_in_other_languages}
 
@@ -31,7 +31,7 @@ Most networks have their own [FAQ](https://en.wikipedia.org/wiki/Faq), make sure
 - Realize that some hosts get fewer couch requests simply because **they live outside of their main city limits** \"proper\", but they still happen to live very close to the main attractions. Be sure to use the \"Within \_\_\_ kilometers/miles\" of a city when you do a couch search. Often, these hosts are more willing to take surfers simply because they get less requests. You can also just search the region instead of the city, when traveling in more sparse areas.
 - **If you\'re traveling with friends**, make sure they all have profiles. Your profiles should be linked to each other (as friends or with comments/references) and the single links provided in your request, because this makes it easier for hosts to look at all your profiles. (Group/couple profiles are a bad idea, as all references will be for the group/couple after a split up each of you will loose the history record. So better have all individual profiles, and reference each other.)
 
-## Say my name \... {#say_my_name_...}
+## Say my name\... {#say_my_name...}
 
 - Start with a good impression and say the person\'s name. Don\'t start with, \"hey man/hi there/hello you/hi\" unless you already know them. Sometimes people have a username on CS that is not their real name, but their real name can often be found in their CS references - why not use that and show that you\'ve read that section of their profile, at least. People of Asian background might be uncomfortable with addressing someone by their name the first time they write to you, since, in many cultures, addressing a person by first name is considered rude and too forward. You can work around this by specifically referring to something from their profile to communicate that you read it. A \"Hello Mr. or Ms. *Surname*\" will most likely not offend anyone.
 
@@ -75,7 +75,8 @@ Remember, read the host profiles carefully and follow any instructions they incl
 
 
 
+
 ---
 
-Source: [How to write a hosting request](https://wiki.trustroots.org/en/How_to_write_a_hosting_request)
+Source: [How to write a hosting request](https://wiki.trustroots.org/en/How_to_write_a_hosting_request)  
 License: CC-BY-SA-4.0

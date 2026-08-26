@@ -23,7 +23,8 @@ Unlike other hospitality exchange networks, Servas makes a clear distinction bet
 
 
 
+
 ---
 
-Source: [Servas](https://wiki.trustroots.org/en/Servas)
+Source: [Servas](https://wiki.trustroots.org/en/Servas)  
 License: CC-BY-SA-4.0

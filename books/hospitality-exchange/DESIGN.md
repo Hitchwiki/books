@@ -37,8 +37,8 @@ Inspired by “a house you are staying in,” not sampled from trustroots.org CS
 
 ## Applied
 
-Homestay kitchen photograph, dark warm fade, cream title, sage links. Catalog kicker is the contributor estimate (“By 30+ people”).
+Shared community meal photograph, dark warm fade, cream title, sage links. Catalog kicker is the contributor estimate (“By 30+ people”).
 
 ## Cover photo
 
-[Homestay, Namche Bazaar, Nepal](https://commons.wikimedia.org/wiki/File:Namche_Bazaar,_Homestay,_Nepal.jpg) — Vyacheslav Argenberg, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+[CS Headquarters in SF](https://commons.wikimedia.org/wiki/File:CS_Headquarters_in_SF_.jpg) — Torrmal, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). The cover uses the photograph as a generic scene of people sharing a meal; it does not use Couchsurfing branding.

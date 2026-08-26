@@ -38,7 +38,8 @@ Friendship is not something that obeys to any rules or statutes: friendship resu
 
 
 
+
 ---
 
-Source: [Philosophy of BeWelcome](https://wiki.trustroots.org/en/Philosophy_of_BeWelcome)
+Source: [Philosophy of BeWelcome](https://wiki.trustroots.org/en/Philosophy_of_BeWelcome)  
 License: CC-BY-SA-4.0

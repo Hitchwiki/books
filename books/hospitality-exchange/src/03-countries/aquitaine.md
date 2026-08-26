@@ -1,0 +1,51 @@
+# Aquitaine
+
+![](Aquitaine.jpg){width="400"}\
+
+## Map of the Region {#map_of_the_region}
+
+![](Carteaqu.gif){width="500"}
+
+## The Main CS Cities of the Region {#the_main_cs_cities_of_the_region}
+
+## How to get there? {#how_to_get_there}
+
+## Couch Surfing in the Region {#couch_surfing_in_the_region}
+
+### The CS Activity in the Region {#the_cs_activity_in_the_region}
+
+#### **Family Welcome** {#family_welcome}
+
+![Click here to join the French Family\'s Group](FrenchFamily2.JPG "Click here to join the French Family's Group"){width="250"}![[Click here to see the map](http://maps.google.com/maps/ms?ie=UTF8&hl=en&oe=UTF8&msa=0&msid=111108041083507430561.000455631b07e074b6178&ll=44.343494,-0.351562&spn=2.29424,5.822754&z=8)](Aquitaine2.JPG "Click here to see the map"){width="250"}
+
+![](Children_Welcome.jpg "Children_Welcome.jpg"){width="70"} In the region, there is a very nice, active and developped CS Families network. If you travel with your children, if you would like to be hosted by a family, if you are searching for a host who accept a family, meeting other families making to your children more different cultural friendship, you are welcome to join the French Family\'s group!
+
+A tool exists to localise easily where you can find the CS families\' in the region, please check the [Family Welcome Map of the area](http://maps.google.com/maps/ms?ie=UTF8&msa=0&msid=111108041083507430561.000455631b07e074b6178&ll=76.016094,3.515625&spn=147.966727,360&z=1).
+
+![[Click here to see the Map](http://maps.google.com/maps/ms?hl=en&ie=UTF8&t=p&msa=0&msid=113144055528929546446.0004605cd5254b0b0620c&ll=44.237328,-0.098877&spn=3.604989,9.887695&z=7)](CS_Rural_Map_Aquitaine.JPG "Click here to see the Map"){width="250"}
+
+#### Rural Couchsurfing {#rural_couchsurfing}
+
+![](RCSIcon2.gif "RCSIcon2.gif") In Aquitaine you have the chance to have the possibility to couchsurf a bit everywhere, even in the countryside! [Check the map of the Rural CSers in Aquitaine](http://maps.google.com/maps/ms?hl=en&ie=UTF8&t=p&msa=0&msid=113144055528929546446.0004605cd5254b0b0620c&ll=44.237328,-0.098877&spn=3.604989,9.887695&z=7), you can find them easilier on this way! There is also a CS group called \"Rural CS France\" where you can talk with all Rural CSers in France.
+
+But not all Rural CSers appears on the map or are members of the group \"Rural CS France\". To find the others, join the Regional CS group of Aquitaine!
+
+### Regional Contacts on CS {#regional_contacts_on_cs}
+
+## What to visit in the Region {#what_to_visit_in_the_region}
+
+## Regional Media Mentions {#regional_media_mentions}
+
+![Sud Ouest, Local Newspaper, August 3rd 2008](Article_CS_-_Sud_Ouest_3_Août_2008_-_Les_Landes.bmp "Sud Ouest, Local Newspaper, August 3rd 2008"){width="400"}
+
+![Sud Ouest, Local Newspaper, August 10th 2009](Article_CS_-_Sud_Ouest_10_Août_2009_-_Pays_Basque_2.bmp "Sud Ouest, Local Newspaper, August 10th 2009"){width="700"}
+
+## Links
+
+
+
+
+---
+
+Source: [Aquitaine](https://wiki.trustroots.org/en/Aquitaine)  
+License: CC-BY-SA-4.0

@@ -82,9 +82,10 @@ In 2020, the safety team grew to four people and they started having regular mee
 
 There is a very good article about safety on BeWelcome, <http://www.bewelcome.org/safety>.
 
- 
+
+
 
 ---
 
-Source: [Safety](https://wiki.trustroots.org/en/Safety)
+Source: [Safety](https://wiki.trustroots.org/en/Safety)  
 License: CC-BY-SA-4.0

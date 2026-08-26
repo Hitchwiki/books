@@ -52,7 +52,8 @@ might be interesting to check out
 
 
 
+
 ---
 
-Source: [List of projects related to Hospitality Exchange](https://wiki.trustroots.org/en/List_of_projects_related_to_Hospitality_Exchange)
+Source: [List of projects related to Hospitality Exchange](https://wiki.trustroots.org/en/List_of_projects_related_to_Hospitality_Exchange)  
 License: CC-BY-SA-4.0

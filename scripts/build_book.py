@@ -529,6 +529,7 @@ def build(slug: str, version: str, formats: list[str], out: Path) -> None:
         "input-files": inputs,
         "filters": [
             str(image_filter),
+            str(ROOT / "scripts" / "reader_links.lua"),
             str(ROOT / "scripts" / "remove_chapter_footers.lua"),
         ],
     }

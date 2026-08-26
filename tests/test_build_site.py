@@ -2,6 +2,8 @@ import sys
 import unittest
 from pathlib import Path
 
+from PIL import Image
+
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
 
@@ -31,6 +33,20 @@ class NostrReadingListTests(unittest.TestCase):
         source = (Path(__file__).resolve().parents[1] / "scripts" / "build_site.py").read_text()
 
         self.assertIn('<span class="masthead-version">0.1</span></h1>', source)
+
+    def test_catalog_uses_the_cropped_hitchwiki_wordmark(self):
+        source = (Path(__file__).resolve().parents[1] / "scripts" / "build_site.py").read_text()
+        css_source = (Path(__file__).resolve().parents[1] / "scripts" / "themes.py").read_text()
+        wordmark = Path(__file__).resolve().parents[1] / "assets" / "logos" / "hitchwiki-wordmark.png"
+
+        self.assertTrue(wordmark.is_file())
+        with Image.open(wordmark) as image:
+            self.assertEqual(image.size, (1050, 275))
+        self.assertIn('hitchwiki-wordmark.png', source)
+        self.assertIn('alt="Hitchwiki"', source)
+        self.assertNotIn('masthead-logo"><img src="./assets/logos/hitchhikers-guide.png', source)
+        self.assertNotIn("-webkit-mask-image", css_source)
+        self.assertNotIn("mask-image", css_source)
 
     def test_catalog_footer_shows_copyleft(self):
         source = (Path(__file__).resolve().parents[1] / "scripts" / "build_site.py").read_text()

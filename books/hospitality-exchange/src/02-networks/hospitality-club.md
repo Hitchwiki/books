@@ -35,13 +35,11 @@ As a result of a disagreement between Veit Kühne and active Hospitality Club vo
 ## External links {#external_links}
 
 - [Hospitality Club website](http://www.hospitalityclub.org/)
-- at Wikinews
+- Hospitality exchange organisation grows to 100,000 members at Wikinews
 
 ### References
 
 - [Detailed Volunteer Information](http://web.archive.org/web/20080202024205/http://secure.hospitalityclub.org/hc/volunteerinfo.php)
-
-
 
 [^1]: Based on statistics from [Hospitality Club \'Main Menu\'](http://secure.hospitalityclub.org/hc/menu.php) page visible for logged-in members only; retrieved on August 8, 2009.
 
@@ -65,7 +63,10 @@ As a result of a disagreement between Veit Kühne and active Hospitality Club vo
 
 [^11]:
 
+
+
+
 ---
 
-Source: [Hospitality Club](https://wiki.trustroots.org/en/Hospitality_Club)
+Source: [Hospitality Club](https://wiki.trustroots.org/en/Hospitality_Club)  
 License: CC-BY-SA-4.0

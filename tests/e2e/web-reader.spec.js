@@ -30,6 +30,7 @@ test("Part I exposes chapters in practical groups and reading order", async ({ p
   const firstGroup = page.locator("#toc-part-01-practice > details.toc-subsection").first();
   await expect(firstGroup.locator("summary a")).toHaveText("Getting started");
   await expect(firstGroup.locator("li a").first()).toHaveText("The Pros and Cons of Hitch Hiking");
+  await expect(page.locator(".book-body a.wikilink")).toHaveCount(0);
 });
 
 test("chapter search filters and restores the TOC", async ({ page }) => {
@@ -108,4 +109,67 @@ test("Dumpsterdam presents a thematic core, grouped archive, and English appendi
     page.getByRole("heading", { level: 1, name: "Bestemming onbekend Dumpster diven" }),
   ).toHaveCount(1);
   expect(await page.locator('.chapter-source a[href*="dumpsterdam.nl"]').count()).toBeGreaterThan(0);
+});
+
+test("catalog masthead uses the cropped wordmark without clipping", async ({ page }) => {
+  await page.goto("/");
+  await page.setViewportSize({ width: 1440, height: 900 });
+
+  const wordmark = page.locator(".masthead-logo img");
+  await expect(wordmark).toHaveAttribute("src", /hitchwiki-wordmark\.png/);
+  await expect(wordmark).toHaveAttribute("alt", "Hitchwiki");
+  await expect(page.locator(".masthead-title")).toHaveText("BOOKS");
+  await expect(page.locator(".masthead-version")).toHaveText("0.1");
+
+  const desktop = await page.locator("h1").evaluate((heading) => {
+    const logo = heading.querySelector(".masthead-logo img").getBoundingClientRect();
+    const title = heading.querySelector(".masthead-title").getBoundingClientRect();
+    return {
+      separated: logo.right <= title.left,
+      visible: logo.top >= 0 && logo.bottom <= window.innerHeight,
+      noHorizontalScroll: document.documentElement.scrollWidth <= window.innerWidth,
+    };
+  });
+  expect(desktop).toEqual({ separated: true, visible: true, noHorizontalScroll: true });
+
+  await page.setViewportSize({ width: 390, height: 844 });
+  const mobile = await page.locator("h1").evaluate((heading) => {
+    const logo = heading.querySelector(".masthead-logo img").getBoundingClientRect();
+    const title = heading.querySelector(".masthead-title").getBoundingClientRect();
+    return {
+      separated: logo.right <= title.left,
+      noHorizontalScroll: document.documentElement.scrollWidth <= window.innerWidth,
+    };
+  });
+  expect(mobile).toEqual({ separated: true, noHorizontalScroll: true });
+});
+
+test("Hospitality Exchange prioritizes practice and groups its geography", async ({ page }) => {
+  await page.goto("/hospitality-exchange/");
+
+  const practiceLinks = page.locator("#toc-part-part-i-practice li a");
+  await expect(practiceLinks.first()).toHaveText("How to write a hosting request");
+  await expect(practiceLinks.nth(1)).toHaveText("How to write a request");
+  await expect(practiceLinks.nth(2)).toHaveText("Searching and requesting a couch");
+
+  await page.locator('.toc-parts a[data-part="part-iii-places"]').click();
+  const places = page.locator("#toc-part-part-iii-places");
+  await expect(places).toBeVisible();
+  await expect(places.locator("summary", { hasText: "Europe — Regional indexes" })).toBeVisible();
+  await expect(places.locator("summary", { hasText: "Europe — Belarus" })).toBeVisible();
+  await expect(places.locator("summary", { hasText: "Europe — Bulgaria" })).toBeVisible();
+  await expect(places.locator("summary", { hasText: "Europe — France" })).toBeVisible();
+  await expect(places.locator("summary", { hasText: "Oceania — Australia" })).toBeVisible();
+  await expect(places.locator("summary", { hasText: "Rural hospitality" })).toBeVisible();
+});
+
+test("Hospitality Exchange removes wiki noise but keeps useful references", async ({ page }) => {
+  await page.goto("/hospitality-exchange/");
+
+  await expect(page.locator(".book-body a.wikilink")).toHaveCount(0);
+  await expect(page.locator('.chapter-sources a[href*="wiki.trustroots.org"]')).not.toHaveCount(0);
+  await expect(page.locator('.chapter-edit[href*="action=edit"]')).not.toHaveCount(0);
+  await expect(page.locator('a[href="https://www.trustroots.org/support"]')).not.toHaveCount(0);
+  await expect(page.locator('.book-banner-downloads a[href$=".epub"]')).toHaveCount(1);
+  await expect(page.locator('.book-banner-downloads a[href$=".pdf"]')).toHaveCount(1);
 });

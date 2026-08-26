@@ -1,5 +1,6 @@
 # Rural hospitality
 
+
 **Rural hospitality** stands for rural hospitality exchange. Here is your one stop portal to interacting with the world through internet hospitality websites - whether it's Couchsurfing, BeWelcome or Warm Showers - all are welcome to participate. Trustroots is a good new place to find rural hospitality, as its built around searching on a map.
 
 How it works: Please read through our guides and once you are familiar with how it works, and how it is different to a normal urban hospitality experience please check out the country pages and maps where you are either going to visit or reside.
@@ -266,9 +267,11 @@ If you want to see an overview you can check out our administration page. Admini
 <!-- Removes contents box: -->
 __NOTOC__
 
-Category:Rural
+
+
+
 
 ---
 
-Source: [Rural hospitality](https://wiki.trustroots.org/en/Rural_hospitality)
+Source: [Rural hospitality](https://wiki.trustroots.org/en/Rural_hospitality)  
 License: CC-BY-SA-4.0

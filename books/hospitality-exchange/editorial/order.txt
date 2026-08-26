@@ -1,0 +1,210 @@
+[Part I — Practice]
+01-practice.md
+01-practice/how-to-write-a-hosting-request.md
+01-practice/how-to-write-a-request.md
+01-practice/searching-and-requesting-a-couch.md
+01-practice/how-to-create-a-good-profile.md
+01-practice/safety.md
+01-practice/host.md
+01-practice/profiles.md
+01-practice/hospitality-exchange.md
+01-practice/how-to-handle-freeloaders.md
+01-practice/how-to-handle-couchscroogers.md
+01-practice/how-to-organize-a-camp.md
+01-practice/how-to-add-my-place.md
+
+[Part III — Places]
+03-countries.md
+
+[[Europe — Regional indexes]]
+03-countries/eastern-europe.md
+03-countries/northern-europe.md
+03-countries/southern-europe.md
+
+[[Europe — Belarus]]
+03-countries/belarus.md
+03-countries/brest-belarus.md
+
+[[Europe — Bulgaria]]
+03-countries/sofia.md
+
+[[Europe — Denmark]]
+03-countries/copenhagen.md
+
+[[Europe — Finland]]
+03-countries/helsinki.md
+
+[[Europe — France]]
+03-countries/france.md
+03-countries/aix-en-provence.md
+03-countries/ajaccio.md
+03-countries/alsace.md
+03-countries/amiens.md
+03-countries/angers.md
+03-countries/annecy.md
+03-countries/aquitaine.md
+03-countries/auvergne.md
+03-countries/avignon.md
+03-countries/besançon.md
+03-countries/bordeaux.md
+03-countries/brest-france.md
+03-countries/brittany.md
+03-countries/burgundy.md
+03-countries/caen.md
+03-countries/cannes.md
+03-countries/carcassonne.md
+03-countries/clermont-ferrand.md
+03-countries/corsica.md
+03-countries/dijon.md
+03-countries/franche-comté.md
+03-countries/grenoble.md
+03-countries/ile-de-france.md
+03-countries/languedoc-roussillon.md
+03-countries/le-havre.md
+03-countries/lille.md
+03-countries/limoges.md
+03-countries/limousin.md
+03-countries/lorraine.md
+03-countries/lower-normandy.md
+03-countries/lyon.md
+03-countries/marseille.md
+03-countries/metz.md
+03-countries/midi-pyrénées.md
+03-countries/montpellier.md
+03-countries/nancy.md
+03-countries/nantes.md
+03-countries/nice.md
+03-countries/nimes.md
+03-countries/nord-pas-de-calais.md
+03-countries/paris.md
+03-countries/pays-de-la-loire.md
+03-countries/perpignan.md
+03-countries/picardie.md
+03-countries/poitiers.md
+03-countries/poitou-charentes.md
+03-countries/provence-alpes-côte-dazur.md
+03-countries/reims.md
+03-countries/rennes.md
+03-countries/rhone-alpes.md
+03-countries/rouen.md
+03-countries/saint-malo.md
+03-countries/strasbourg.md
+03-countries/toulouse.md
+03-countries/tours.md
+
+[[Europe — Germany]]
+03-countries/germany.md
+03-countries/bamberg.md
+03-countries/berlin.md
+03-countries/cologne.md
+03-countries/hamburg.md
+03-countries/heidelberg.md
+03-countries/munich.md
+03-countries/nürnberg.md
+03-countries/rail-travel-in-germany.md
+03-countries/würzburg.md
+
+[[Europe — Hungary]]
+03-countries/budapest.md
+
+[[Europe — Italy]]
+03-countries/rome.md
+
+[[Europe — Kosovo]]
+03-countries/kosovo.md
+
+[[Europe — Lithuania]]
+03-countries/vilnius.md
+
+[[Europe — Netherlands]]
+03-countries/netherlands.md
+03-countries/groningen.md
+03-countries/rotterdam.md
+03-countries/tilburg.md
+03-countries/utrecht.md
+
+[[Europe — Norway]]
+03-countries/norway.md
+
+[[Europe — Portugal]]
+03-countries/portugal.md
+03-countries/lisbon.md
+03-countries/porto.md
+
+[[Europe — Romania]]
+03-countries/bucharest.md
+
+[[Europe — Russia]]
+03-countries/russia.md
+
+[[Europe — Spain]]
+03-countries/barcelona.md
+03-countries/madrid.md
+
+[[Europe — Sweden]]
+03-countries/stockholm.md
+
+[[Europe — Turkey]]
+03-countries/turkey.md
+
+[[Europe — Ukraine]]
+03-countries/ukraine.md
+
+[[Asia — China]]
+03-countries/china.md
+03-countries/hong-kong.md
+
+[[Asia — India]]
+03-countries/india.md
+03-countries/rural-india.md
+
+[[Mediterranean — Cyprus]]
+03-countries/cyprus.md
+03-countries/larnaka.md
+03-countries/paphos.md
+
+[[North America — Canada]]
+03-countries/montreal.md
+03-countries/toronto.md
+
+[[North America — United States]]
+03-countries/united-states.md
+03-countries/austin.md
+03-countries/boston.md
+03-countries/chicago.md
+03-countries/las-vegas.md
+03-countries/los-angeles.md
+03-countries/miami.md
+03-countries/new-york-city.md
+03-countries/san-francisco.md
+03-countries/seattle.md
+03-countries/washington-dc.md
+
+[[Oceania — Australia]]
+03-countries/australia.md
+03-countries/adelaide.md
+03-countries/brisbane.md
+03-countries/cairns.md
+03-countries/canberra.md
+03-countries/melbourne.md
+03-countries/perth.md
+03-countries/sydney.md
+
+[[Oceania — New Zealand]]
+03-countries/new-zealand.md
+03-countries/christchurch.md
+03-countries/fiordland.md
+03-countries/golden-bay.md
+03-countries/kaikoura.md
+03-countries/new-zealand-west-coast.md
+
+[[Rural hospitality]]
+03-countries/rural-hospitality.md
+03-countries/rural-hospitality-europe.md
+03-countries/rural-hospitality-bulgaria.md
+03-countries/rural-hospitality-canada.md
+03-countries/rural-hospitality-in-france.md
+03-countries/rural-hospitality-moldova.md
+03-countries/rural-hospitality-romania.md
+03-countries/rural-hospitality-serbia.md
+03-countries/rural-hospitality-ukraine.md

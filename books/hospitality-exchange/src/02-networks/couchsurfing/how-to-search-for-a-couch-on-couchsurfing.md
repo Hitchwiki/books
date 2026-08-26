@@ -59,9 +59,10 @@ Fill out your [Couchsurfing profile](Couchsurfing_profile "Couchsurfing profile"
 
 ## Step 7: {#step_7}
 
- 
+
+
 
 ---
 
-Source: [How to search for a couch on CouchSurfing](https://wiki.trustroots.org/en/How_to_search_for_a_couch_on_CouchSurfing)
+Source: [How to search for a couch on CouchSurfing](https://wiki.trustroots.org/en/How_to_search_for_a_couch_on_CouchSurfing)  
 License: CC-BY-SA-4.0

@@ -262,6 +262,8 @@ def collect_titles(wiki: str, cfg: dict) -> tuple[list[str], list[str]]:
             countries.extend(category_members(cfg["api"], cat))
         except Exception as exc:
             print(f"  category {cat} failed: {exc}", file=sys.stderr)
+    for title in cfg.get("country_titles") or []:
+        countries.append(title)
     prefixes = cfg.get("skip_title_prefixes") or ()
     skip_titles = set(cfg.get("skip_titles") or ())
     def keep(t: str) -> bool:

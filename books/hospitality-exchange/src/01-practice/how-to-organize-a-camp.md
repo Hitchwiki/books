@@ -96,7 +96,8 @@ For a big camp you can set up a seperate website, where people (independent from
 
 
 
+
 ---
 
-Source: [How to organize a camp](https://wiki.trustroots.org/en/How_to_organize_a_camp)
+Source: [How to organize a camp](https://wiki.trustroots.org/en/How_to_organize_a_camp)  
 License: CC-BY-SA-4.0

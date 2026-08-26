@@ -188,14 +188,14 @@ THEMES: dict[str, dict] = {
         "measure": "44rem",
         "kicker": "By 30+ people",
         "cover_photo": {
-            "commons": "Tengboche, Sherpa family, Nepal.jpg",
-            "author": "Vyacheslav Argenberg",
-            "license": "CC BY 4.0",
-            "page": "https://commons.wikimedia.org/wiki/File:Tengboche,_Sherpa_family,_Nepal.jpg",
-            "caption": "A traveler sharing a meal with a Sherpa family in Tengboche, Nepal",
-            "focus": (0.45, 0.5),
-            "pos": "45% center",
-            "wash": 54,
+            "commons": "CS Headquarters in SF .jpg",
+            "author": "Torrmal",
+            "license": "CC BY-SA 4.0",
+            "page": "https://commons.wikimedia.org/wiki/File:CS_Headquarters_in_SF_.jpg",
+            "caption": "A shared meal at the former Couchsurfing headquarters in San Francisco",
+            "focus": (0.52, 0.5),
+            "pos": "52% center",
+            "wash": 48,
         },
     },
     "moneyless": {
@@ -1204,29 +1204,25 @@ body.catalog h1 {{
   margin: 0 0 1.5rem;
   color: #6e3100;
   position: relative;
-  height: 6.5rem;
+  height: 4.8rem;
   z-index: 0;
 }}
 body.catalog .masthead-logo {{
   display: block;
   flex: none;
-  height: 6.5rem;
+  height: auto;
   position: relative;
-  width: 13.25rem;
+  width: clamp(11rem, 25vw, 16rem);
 }}
 body.catalog .masthead-logo img {{
   display: block;
-  height: 14rem;
-  max-width: none;
-  position: absolute;
-  inset: 0 auto auto 0;
-  width: auto;
-  -webkit-mask-image: linear-gradient(to bottom, #000 0%, #000 30%, transparent 88%);
-  mask-image: linear-gradient(to bottom, #000 0%, #000 30%, transparent 88%);
+  height: auto;
+  max-width: 100%;
+  width: 100%;
 }}
 body.catalog .masthead-title {{
   line-height: 1;
-  margin-top: 0.85rem;
+  margin-top: 0.55rem;
   position: relative;
   z-index: 1;
 }}
@@ -1234,7 +1230,7 @@ body.catalog .masthead-version {{
   align-self: flex-start;
   font-size: 0.45em;
   line-height: 1;
-  margin-top: 0.95rem;
+  margin-top: 0.65rem;
   position: relative;
   z-index: 1;
 }}
@@ -1295,11 +1291,10 @@ body.catalog .lede {{
   white-space: nowrap;
 }}
 @media (max-width: 40rem) {{
-  body.catalog h1 {{ height: 5.25rem; }}
-  body.catalog .masthead-logo {{ height: 5.25rem; width: 10.25rem; }}
-  body.catalog .masthead-logo img {{ height: 10.85rem; }}
-  body.catalog .masthead-title {{ margin-top: 0.55rem; }}
-  body.catalog .masthead-version {{ margin-top: 0.65rem; }}
+  body.catalog h1 {{ height: 3.9rem; }}
+  body.catalog .masthead-logo {{ width: 10.25rem; }}
+  body.catalog .masthead-title {{ margin-top: 0.35rem; }}
+  body.catalog .masthead-version {{ margin-top: 0.45rem; }}
   body.catalog .lede {{ white-space: normal; }}
 }}
 body.catalog .lang + .lang {{

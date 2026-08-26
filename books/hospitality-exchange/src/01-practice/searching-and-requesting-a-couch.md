@@ -33,7 +33,7 @@ In advance: [Hosts](host "Hosts"){.wikilink} are naturally concerned about secur
 - Ask if sleeping bag is needed or if sheets are provided.
 - Ask if there will be other CouchSurfers or guests at that time.
 - Ask about public transportation options. Can you get to the city center without riding with your host? Is there a good train or bus system near their home? Is there a reliable taxi service you can use? (If you are uncomfortable staying somewhere that has no public transport available, you may want to rethink your destination.)
-- Ask for needed information (phone number, adress, \...)
+- Ask for needed information (phone number, adress,\...)
 
 1. If possible, you could ask your host to meet you in advance at any certain place.
 
@@ -72,9 +72,10 @@ Stay at a hostel or look for a camping site. I. e. check out these sites:
 - <http://www.hostelworld.com/en/index.html>
 - <http://www.itravelnet.com/> directories/camping.html
 
-  
+
+
 
 ---
 
-Source: [Searching and requesting a couch](https://wiki.trustroots.org/en/Searching_and_requesting_a_couch)
+Source: [Searching and requesting a couch](https://wiki.trustroots.org/en/Searching_and_requesting_a_couch)  
 License: CC-BY-SA-4.0

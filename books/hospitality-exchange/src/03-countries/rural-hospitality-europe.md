@@ -34,9 +34,10 @@ Europe is a diverse continent with some of the most industrialized nations withi
 
 [Rural Hospitality Ukraine](Rural_Hospitality_Ukraine "Rural Hospitality Ukraine"){.wikilink}
 
- 
+
+
 
 ---
 
-Source: [Rural Hospitality Europe](https://wiki.trustroots.org/en/Rural_Hospitality_Europe)
+Source: [Rural Hospitality Europe](https://wiki.trustroots.org/en/Rural_Hospitality_Europe)  
 License: CC-BY-SA-4.0
