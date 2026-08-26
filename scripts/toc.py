@@ -109,7 +109,7 @@ def editorial_parts(src: Path) -> dict[str, tuple[str, str]]:
         if section:
             part_name = section.group(1).strip()
             part_id = re.sub(r"[^a-z0-9]+", "-", part_name.casefold()).strip("-")
-        elif line and not line.startswith("#") and part_id:
+        elif line and not line.startswith(("#", "[")) and part_id:
             out[line] = (part_id, part_name)
     return out
 
@@ -125,6 +125,11 @@ def editorial_subsections(src: Path) -> dict[str, tuple[str, str, bool]]:
     first = False
     for raw in order.read_text(encoding="utf-8").splitlines():
         line = raw.strip()
+        part = re.fullmatch(r"\[([^]]+)\]", line)
+        if part:
+            subsection_id = subsection_name = subsection_part = ""
+            first = False
+            continue
         section = re.fullmatch(r"\[\[([^]]+)\]\]", line)
         if section:
             subsection_name = section.group(1).strip()
@@ -425,7 +430,7 @@ def render_toc(entries: list[dict], labels: dict[str, str]) -> str:
                 continue
             raw = intro["title"] if intro else items[0].get("part_name", part_label(part))
             m = re.match(r"^(Part [IVXLCDM]+)(?:\s+[—–-]\s+.+)?$", raw)
-            short = m.group(1) if m else part_label(part)
+            short = m.group(1) if m else raw
             href = html.escape(first["href"], quote=True)
             pid = html.escape(part or "front")
             jumps.append(

@@ -78,3 +78,34 @@ test("desktop reader gives the text column more room than the TOC", async ({ pag
   expect(widths.body).toBeGreaterThanOrEqual(700);
   expect(widths.body).toBeGreaterThan(widths.toc * 1.8);
 });
+
+test("Dumpsterdam presents a thematic core, grouped archive, and English appendix", async ({ page }) => {
+  await page.goto("/dumpsterdam/");
+
+  await expect(page.locator(".toc-parts a")).toHaveText([
+    "Deel I — Waarom Dumpsterdam",
+    "Deel II — Zelf dumpsterdiven",
+    "Deel III — Van vondst naar maaltijd",
+    "Deel IV — Delen en organiseren",
+    "Deel V — Van actie naar verandering",
+    "Archief",
+    "Engelse selectie",
+    "Naamsvermelding",
+  ]);
+
+  const archive = page.locator("#toc-part-archief");
+  await expect(archive.locator(":scope > details.toc-subsection > summary")).toHaveText([
+    /Verhalen en portretten/,
+    /Media/,
+    /Evenementen en projecten/,
+    /Nieuws en internationale voorbeelden/,
+  ]);
+  await expect(page.locator("#toc-part-archief + #toc-part-engelse-selectie")).toHaveCount(1);
+
+  const headings = await page.locator(".book-body h1").allTextContents();
+  expect(headings).toHaveLength(new Set(headings).size);
+  await expect(
+    page.getByRole("heading", { level: 1, name: "Bestemming onbekend Dumpster diven" }),
+  ).toHaveCount(1);
+  expect(await page.locator('.chapter-source a[href*="dumpsterdam.nl"]').count()).toBeGreaterThan(0);
+});

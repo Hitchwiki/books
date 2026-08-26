@@ -3,3 +3,17 @@
 
 # Website policy, not book content
 nl/privacy.md
+
+# Duplicate imports: keep the equivalent path without the numeric suffix.
+nl/bestemming-onbekend-dumpster-diven-82.md
+nl/damn-food-waste-no-waste-dinner-amsterdam-54.md
+nl/dumpsterdam-catering-koken-met-afval-58.md
+nl/is-dat-een-zwerver-dumpster-diven-met-robin-76.md
+nl/kok-kookt-met-eten-uit-vuilnisbakken-79.md
+nl/koken-met-afval-trashy-treats-in-het-theater-49.md
+nl/kromkommer-een-maand-leven-van-afval-37.md
+nl/online-expositie-recyclers-38.md
+
+# Near-duplicate introductions: keep the fuller alternatives in the order file.
+nl/dumpsterdam-missie.md
+en/gleaners-kitchen.md

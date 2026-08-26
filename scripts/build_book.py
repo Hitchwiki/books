@@ -130,7 +130,7 @@ def chapter_files(book: Path, lang: str = "en") -> list[Path]:
         rel = line.strip()
         if rel.startswith("[[") and rel.endswith("]]" ):
             has_subsections = True
-        if rel and not rel.startswith("#") and rel not in rank:
+        if rel and not rel.startswith(("#", "[")) and rel not in rank:
             rank[rel] = len(rank)
     if has_subsections:
         part_order: dict[str, int] = {}

@@ -1,0 +1,99 @@
+# Paths are relative to src/. Single brackets define book parts; double brackets
+# define subsections within the current part.
+
+[Deel I — Waarom Dumpsterdam]
+nl/dumpsterdam-missie-41.md
+nl/waarom-dumpster-diven.md
+nl/skippen-of-dumpster-diving-definitie.md
+nl/de-harde-feiten-over-voedselverspilling.md
+nl/met-gezond-verstand-de-voedselverspilling-te-lijf.md
+nl/ik-weiger-een-consument-te-zijn.md
+
+[Deel II — Zelf dumpsterdiven]
+nl/dumpster-diving-in-nederland.md
+nl/nieuwe-dumpsters-vinden-om-te-diven.md
+nl/betrapt-worden-reacties-van-medewerkers-of-verkopers.md
+nl/wat-je-zoal-vinden-kan.md
+nl/dumpster-diving-als-bespaartip.md
+nl/gratis-eten.md
+nl/table-diving-een-uitleg-tips.md
+nl/voedsel-belandt-onnodig-in-de-vuilnisbak.md
+
+[Deel III — Van vondst naar maaltijd]
+nl/koken-met-restjes.md
+nl/favoriete-restjesrecepten-op-een-rij.md
+nl/dumpsterdam-catering-koken-met-afval.md
+nl/dumpsterdam-catering-in-leiden.md
+nl/koken-met-afval-trashy-treats-in-het-theater.md
+nl/kok-kookt-met-eten-uit-vuilnisbakken.md
+
+[Deel IV — Delen en organiseren]
+nl/dumpster-dive-tour-rotterdam.md
+nl/damn-food-waste-no-waste-dinner-amsterdam.md
+nl/taste-before-you-waste-afval-om-op-te-eten.md
+nl/voedsel-delen-via-foodsharingde.md
+nl/gratis-eten-winkel.md
+nl/daar-komen-de-voedseljutters.md
+nl/gleaning-netwerk-uk.md
+nl/the-peoples-kitchen-in-londen.md
+nl/de-goedzak-om-spullen-weg-te-geven.md
+nl/goedzak-pilotproject-deze-zomer-op-straat.md
+
+[Deel V — Van actie naar verandering]
+nl/de-burger-kan-de-winkels-dwingen-het-aanbod-te-veranderen.md
+nl/geen-gegevens-voedselverspilling-bedrijven.md
+nl/wet-tegen-voedselverspilling.md
+nl/voedselverspilling-enorme-bron-co2-uitstoot.md
+nl/voedselverspilling-gezamenlijk-terugdringen.md
+nl/food-battle-voedselverspilling-verminderen-met-20-procent-is-goed-mogelijk.md
+nl/kromkommer-een-maand-leven-van-afval.md
+nl/too-good-to-go.md
+
+[Archief]
+[[Verhalen en portretten]]
+nl/een-avondje-op-stap-in-arnhem-met-een-dumpster-diver.md
+nl/een-nederige-voddenboer-die-van-afgedankte-spullen-kunst-maakte.md
+nl/een-vuilnisbak-is-eigenlijk-gewoon-een-winkelwagentje.md
+nl/fast-food-tablediving-verhaal-over-gratis-eten.md
+nl/online-expositie-recyclers.md
+nl/van-wietpeukenraper-tot-miljonair.md
+
+[[Media]]
+nl/bestemming-onbekend-dumpster-diven.md
+nl/de-groene-grieten-eten-uit-een-afvalbak.md
+nl/dumpster-diving-met-rtl-boulevard.md
+nl/dumpster-diving-met-tegenlicht.md
+nl/graaien-in-huisvuil-trending-in-nederland.md
+nl/is-dat-een-zwerver-dumpster-diven-met-robin.md
+nl/klokhuis.md
+nl/nieuwe-trend-dumpster-diving.md
+
+[[Evenementen en projecten]]
+nl/afval-we-kúnnen-het-opruimen.md
+nl/dumpsterdam-gaat-fringe.md
+nl/een-afgekeurd-frietje-is-nog-prima-veevoer.md
+nl/fotos-damn-food-waste-event.md
+nl/het-eten-ligt-voor-het-oprapen.md
+nl/pauluskerk-kookt-tegen-de-verspilling.md
+nl/restival-afval-festival.md
+
+[[Nieuws en internationale voorbeelden]]
+nl/clear-the-plate-actie-tegen-voedselverspilling-in-chine.md
+nl/fotoreportage-grootste-vuilnisbelt-van-latijns-amerika-gaat-dicht.md
+nl/meer-weerstand-tegen-wegwerpcultuur.md
+nl/nederlander-gooit-155-euro-aan-voedsel-weg.md
+nl/unilever-produceert-in-de-helft-van-de-fabrieken-zonder-afval.md
+nl/voedselverspilling-kost-gezin-per-jaar-400-euro.md
+nl/voedselverspilling-met-68-toegenomen.md
+nl/voedselverspilling-portugese-oplossing.md
+nl/voedselverspilling-zoekt-creativiteit.md
+nl/weinig-duurzaam-voedselpatroon.md
+
+[Engelse selectie]
+en/dumpsterdam-mission.md
+en/about-dumpsterdam.md
+en/why-dumpster-dive.md
+en/how-to-make-a-free-things-box.md
+en/taste-before-waste-mini-market.md
+en/the-gleaners-kitchen.md
+en/5-blogs-about-food-activism-you-should-be-reading.md

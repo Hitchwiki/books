@@ -61,7 +61,7 @@ serve:
 	$(PYTHON) scripts/serve.py
 
 e2e: FORMATS := html
-e2e: hitchhikers-guide catalog
+e2e: hitchhikers-guide dumpsterdam catalog
 	npx playwright test
 
 clean:
